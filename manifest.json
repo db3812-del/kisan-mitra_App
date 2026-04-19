@@ -1,15 +1,16 @@
 {
-  "name": "किसान मित्र - KisanMitra",
+  "name": "किसान मित्र",
   "short_name": "किसान मित्र",
-  "description": "MP किसानों के लिए AI फार्मिंग असिस्टेंट",
+  "description": "MP किसानों का AI साथी — इंदौर, खरगोन, खंडवा",
   "start_url": "/kisan-mitra_App/",
   "scope": "/kisan-mitra_App/",
   "display": "standalone",
   "background_color": "#1A1208",
   "theme_color": "#1A1208",
   "orientation": "portrait",
+  "lang": "hi",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
