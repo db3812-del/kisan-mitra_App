@@ -1,0 +1,18 @@
+{
+  "name": "किसान मित्र - KisanMitra",
+  "short_name": "किसान मित्र",
+  "description": "MP किसानों के लिए AI फार्मिंग असिस्टेंट - इंदौर, खरगोन, खंडवा",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#3B6D11",
+  "theme_color": "#3B6D11",
+  "orientation": "portrait",
+  "lang": "hi",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["agriculture", "productivity", "utilities"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
