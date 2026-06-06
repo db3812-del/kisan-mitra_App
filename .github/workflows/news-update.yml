@@ -2,8 +2,8 @@ name: किसान मित्र — News & Policy Updater
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
-  workflow_dispatch:          # manual trigger anytime
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-news:
@@ -25,7 +25,7 @@ jobs:
 
       - name: Fetch and summarise news
         env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_KEY }}
         run: |
           python3 << 'PYEOF'
           import requests, feedparser, json, os, hashlib
@@ -35,11 +35,9 @@ jobs:
           NOW = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
           TODAY = datetime.now(timezone.utc).strftime('%Y-%m-%d')
 
-          # ── NEWS SOURCES ──────────────────────────────────────────────
           FEEDS = [
             {'url': 'https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3', 'source': 'PIB', 'level': 'central'},
             {'url': 'https://www.krishakjagat.org/feed/', 'source': 'Krishak Jagat', 'level': 'state'},
-            {'url': 'https://agriwelfare.gov.in/rss/news.xml', 'source': 'Agri Welfare', 'level': 'central'},
           ]
 
           KEYWORDS = ['किसान','कृषि','फसल','MSP','PM-KISAN','बीमा','मंडी','खाद','बीज',
@@ -47,49 +45,38 @@ jobs:
                       'farmer','agriculture','crop','mandi','fertilizer','scheme','MP']
 
           def is_relevant(text):
-            text_lower = text.lower()
-            return any(k.lower() in text_lower for k in KEYWORDS)
+            return any(k.lower() in text.lower() for k in KEYWORDS)
 
-          def summarise(title, content, level, source):
+          def summarise(title, content):
             if not GROQ_KEY:
-              return f"{title} — {source} से समाचार।"
+              return title
             try:
-              prompt = f"""नीचे दिए गए कृषि समाचार को पढ़कर MP के किसानों के लिए 3-4 वाक्यों में सरल हिंदी में सारांश लिखें।
-          केवल किसान के लिए उपयोगी जानकारी लिखें — क्या हुआ, किसे फायदा, क्या करें।
-
-          शीर्षक: {title}
-          सामग्री: {content[:800]}
-
-          सारांश (केवल 3-4 वाक्य हिंदी में):"""
-
               r = requests.post(
                 'https://api.groq.com/openai/v1/chat/completions',
                 headers={'Authorization': f'Bearer {GROQ_KEY}', 'Content-Type': 'application/json'},
-                json={'model': 'llama-3.3-70b-versatile', 'messages': [{'role': 'user', 'content': prompt}], 'max_tokens': 200},
+                json={'model': 'llama-3.3-70b-versatile', 'messages': [{'role': 'user', 'content': f'MP के किसानों के लिए 3-4 वाक्यों में सरल हिंदी सारांश:\n\nशीर्षक: {title}\nसामग्री: {content[:600]}'}], 'max_tokens': 200},
                 timeout=20
               )
               if r.status_code == 200:
                 return r.json()['choices'][0]['message']['content'].strip()
             except Exception as e:
               print(f"Groq error: {e}")
-            return f"{title}"
+            return title
 
           def categorise(text):
-            text_l = text.lower()
-            if any(w in text_l for w in ['msp','price','भाव','दाम','मूल्य','rate']): return 'price'
-            if any(w in text_l for w in ['insurance','बीमा','pmfby']): return 'insurance'
-            if any(w in text_l for w in ['scheme','योजना','subsidy','सब्सिडी','kisan']): return 'scheme'
-            if any(w in text_l for w in ['weather','मौसम','rain','बारिश','flood','drought']): return 'weather'
-            if any(w in text_l for w in ['mandi','market','मंडी','बाजार','export']): return 'market'
+            t = text.lower()
+            if any(w in t for w in ['msp','price','भाव','दाम','मूल्य']): return 'price'
+            if any(w in t for w in ['insurance','बीमा','pmfby']): return 'insurance'
+            if any(w in t for w in ['scheme','योजना','subsidy','सब्सिडी']): return 'scheme'
+            if any(w in t for w in ['mandi','market','मंडी','बाजार']): return 'market'
             return 'general'
 
           def detect_level(text, default):
-            text_l = text.lower()
-            if any(w in text_l for w in ['madhya pradesh','मध्यप्रदेश','mp ','indore','khargone','khandwa','bhopal']): return 'state'
-            if any(w in text_l for w in ['central','national','केंद्र','राष्ट्रीय','pib','ministry']): return 'central'
+            t = text.lower()
+            if any(w in t for w in ['madhya pradesh','मध्यप्रदेश','mp ','indore','bhopal']): return 'state'
+            if any(w in t for w in ['central','national','केंद्र','राष्ट्रीय']): return 'central'
             return default
 
-          # Load existing news
           try:
             with open('data/news.json', 'r', encoding='utf-8') as f:
               existing = json.load(f)
@@ -103,7 +90,7 @@ jobs:
           for feed_info in FEEDS:
             try:
               feed = feedparser.parse(feed_info['url'])
-              print(f"Fetched {len(feed.entries)} entries from {feed_info['source']}")
+              print(f"Fetched {len(feed.entries)} from {feed_info['source']}")
               for entry in feed.entries[:8]:
                 title = entry.get('title', '')
                 content = entry.get('summary', entry.get('description', ''))
@@ -113,21 +100,14 @@ jobs:
                 art_id = hashlib.md5(title.encode()).hexdigest()[:8]
                 if art_id in existing_ids:
                   continue
-                summary = summarise(title, content, feed_info['level'], feed_info['source'])
+                summary = summarise(title, content)
                 level = detect_level(title + ' ' + content, feed_info['level'])
                 category = categorise(title + ' ' + content)
-                important = any(w in (title+content).lower() for w in
-                  ['deadline','अंतिम','urgent','तत्काल','msp','pmkisan','बीमा तिथि'])
+                important = any(w in (title+content).lower() for w in ['deadline','अंतिम','msp','pmkisan','बीमा तिथि'])
                 articles.insert(0, {
-                  'id': art_id,
-                  'title': title[:120],
-                  'summary': summary,
-                  'level': level,
-                  'category': category,
-                  'date': TODAY,
-                  'source': feed_info['source'],
-                  'link': link,
-                  'important': important
+                  'id': art_id, 'title': title[:120], 'summary': summary,
+                  'level': level, 'category': category, 'date': TODAY,
+                  'source': feed_info['source'], 'link': link, 'important': important
                 })
                 existing_ids.add(art_id)
                 new_count += 1
@@ -135,20 +115,22 @@ jobs:
             except Exception as e:
               print(f"Feed error {feed_info['source']}: {e}")
 
-          # Keep only last 50 articles
           articles = articles[:50]
-
-          output = {'updated': NOW, 'new_count': new_count, 'articles': articles}
           with open('data/news.json', 'w', encoding='utf-8') as f:
-            json.dump(output, f, ensure_ascii=False, indent=2)
-
-          print(f"\n✓ Done — {new_count} new articles added, {len(articles)} total")
+            json.dump({'updated': NOW, 'new_count': new_count, 'articles': articles}, f, ensure_ascii=False, indent=2)
+          print(f"Done — {new_count} new, {len(articles)} total")
           PYEOF
 
-      - name: Commit updated news
+      - name: Inject API keys into app.js
+        run: |
+          sed -i "s/YOUR_GROQ_KEY_HERE/${{ secrets.GROQ_KEY }}/g" app.js
+          sed -i "s/YOUR_OPENWEATHERMAP_KEY_HERE/${{ secrets.OWM_KEY }}/g" app.js
+          sed -i "s/YOUR_GEMINI_KEY_HERE/${{ secrets.GEMINI_KEY }}/g" app.js
+
+      - name: Commit changes
         run: |
           git config user.name "KisanMitra Bot"
           git config user.email "bot@kisanmitra"
-          git add data/news.json
-          git diff --cached --quiet || git commit -m "🌾 Auto-update: farming news $(date +'%Y-%m-%d %H:%M') UTC"
+          git add data/news.json app.js
+          git diff --cached --quiet || git commit -m "🌾 Auto-update: news + keys $(date +'%Y-%m-%d %H:%M') UTC"
           git push
