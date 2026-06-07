@@ -129,8 +129,8 @@ function initApp() {
   loadNews();
   loadPolicies();
   setInterval(fetchWeather, 10 * 60 * 1000);
-  document.getElementById('cam-input').addEventListener('change', e => { if (e.target.files?.[0]) handlePhoto(e.target.files[0]); });
-  document.getElementById('gal-input').addEventListener('change', e => { if (e.target.files?.[0]) handlePhoto(e.target.files[0]); });
+  document.getElementById('cam-input')?.addEventListener('change', e => { if (e.target.files?.[0]) handlePhoto(e.target.files[0]); });
+  document.getElementById('gal-input')?.addEventListener('change', e => { if (e.target.files?.[0]) handlePhoto(e.target.files[0]); });
 }
 
 // ── FARMER PROFILE ────────────────────────────────────────────────────────────
