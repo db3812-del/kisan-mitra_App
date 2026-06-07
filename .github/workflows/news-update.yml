@@ -122,11 +122,14 @@ jobs:
           PYEOF
 
       - name: Inject API keys into app.js
+        env:
+          GROQ_KEY: ${{ secrets.GROQ_API_KEY }}
+          OWM_KEY: ${{ secrets.OPENWEATHER_API }}
+          GEM_KEY: ${{ secrets.GEMINI_KEY }}
         run: |
-          sed -i "s/YOUR_GROQ_KEY_HERE/${{ secrets.GROQ_API_KEY }}/g" app.js
-          sed -i "s/YOUR_OPENWEATHERMAP_KEY_HERE/${{ secrets.OPENWEATHER_API }}/g" app.js
-          sed -i "s/YOUR_GEMINI_KEY_HERE/${{ secrets.GEMINI_KEY }}/g" app.js
-
+          sed -i "s|YOUR_GROQ_KEY_HERE|${GROQ_KEY}|g" app.js
+          sed -i "s|YOUR_OPENWEATHERMAP_KEY_HERE|${OWM_KEY}|g" app.js
+          sed -i "s|YOUR_GEMINI_KEY_HERE|${GEM_KEY}|g" app.js
       - name: Commit changes
         run: |
           git config user.name "KisanMitra Bot"
