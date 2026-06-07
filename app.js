@@ -278,7 +278,23 @@ async function callGroq(messages, maxTokens = 800) {
     headers: {'Content-Type': 'application/json'},
     body: JSON.stringify({
       model: 'llama-3.3-70b-versatile',
-      messages: [{role:'system', content: `तुम किसान मित्र AI हो — MP के किसानों के लिए एक भरोसेमंद कृषि सहायक। हमेशा सरल हिंदी में जवाब दो। किसान की भाषा में बोलो। ${S.farmer ? `किसान का नाम: ${S.farmer.name}, जिला: ${S.farmer.district}, फसलें: ${S.farmer.crops?.join(', ')}, जमीन: ${S.farmer.land} बीघा` : 'MP, इंदौर-खरगोन-खंडवा क्षेत्र'}.`}, ...messages],
+      messages: [{role:'system', content: `तुम किसान मित्र AI हो — मध्यप्रदेश के ${S.farmer?.district||'इंदौर'} जिले के किसानों के लिए एक विशेषज्ञ कृषि सलाहकार। तुम्हें MP की काली मिट्टी (रेगुर), लाल मिट्टी, और मिश्रित मिट्टी की पूरी जानकारी है। MP के सभी 52 जिलों की स्थानीय परिस्थितियां, फसल पैटर्न, और कृषि चुनौतियां तुम्हें पता हैं।
+किसान की जानकारी:
+- नाम: ${S.farmer?.name}
+- जिला: ${S.farmer?.district} (${MP_DISTRICTS.find(d=>d.n===S.farmer?.district)?.zone||'मालवा'} क्षेत्र)
+- जमीन: ${S.farmer?.land} बीघा
+- फसलें: ${S.farmer?.crops?.join(', ')}
+- आज का मौसम: ${S.weather?.temp||34}°C, ${S.weather?.desc||'सामान्य'}, नमी ${S.weather?.hum||60}%, हवा ${S.weather?.wind||8}km/h
+- वर्तमान माह: ${new Date().toLocaleString('hi',{month:'long'})}
+ 
+जवाब देने के नियम:
+1. हमेशा सरल हिंदी में — किसान की भाषा में
+2. हर जवाब में ठोस जानकारी: दवा/खाद का नाम, मात्रा, समय
+3. स्थानीय संदर्भ दो — ${S.farmer?.district} की मंडी, KVK, मौसम
+4. जैविक और रासायनिक दोनों विकल्प बताओ
+5. खर्च और फायदे का अनुमान दो
+6. कभी अनुमान मत लगाओ — पक्की जानकारी दो
+7. जरूरी हो तो KVK या विशेषज्ञ से मिलने की सलाह दो'}.`}, ...messages],
       max_tokens: maxTokens, temperature: 0.7
     })
   });
@@ -351,11 +367,13 @@ function showToast(msg) {
 }
 
 // ── HOME PAGE ─────────────────────────────────────────────────────────────────
+
 function rHome() {
-  const w = S.weather || {temp:34,min:24,max:38,hum:62,wind:8,icon:'⛅',live:false};
+  const w = S.weather || {temp:34,min:24,max:38,hum:62,wind:8,icon:'⛅',live:false,district:'इंदौर'};
   const month = new Date().getMonth() + 1;
   const activePests = PESTS.filter(p => p.months.includes(month) && p.risk === 'high');
   const importantNews = S.news.filter(n => n.important).slice(0,2);
+ 
   document.getElementById('page-home').innerHTML = `
     <div class="card" style="display:flex;gap:14px;align-items:center;cursor:pointer" onclick="showPage('weather')">
       <div style="font-size:44px;line-height:1">${w.icon}</div>
@@ -364,26 +382,28 @@ function rHome() {
         <div style="font-size:11px;font-weight:700;color:#806040;margin-top:3px">${w.min}°–${w.max}° · ${w.hum}% नमी · ${w.wind}km/h हवा</div>
         <div style="font-size:10px;color:#605030;margin-top:2px">${w.live?'🟢 Live':'📡 अनुमानित'} · ${w.district}</div>
       </div>
-      <div style="text-align:right"><div style="font-size:10px;font-weight:800;color:#C07800">7 दिन ›</div></div>
+      <div style="font-size:10px;font-weight:800;color:#C07800">7 दिन ›</div>
     </div>
-
+ 
     ${w.wind > 15 ? `<div class="alert warn"><div class="alert-icon">💨</div><div><div class="alert-title">तेज हवा — छिड़काव न करें</div><div class="alert-desc">हवा ${w.wind}km/h — 10km/h से कम होने पर छिड़काव करें।</div></div></div>` : ''}
     ${w.hum > 80 ? `<div class="alert danger"><div class="alert-icon">💧</div><div><div class="alert-title">अधिक नमी — फफूंद खतरा</div><div class="alert-desc">नमी ${w.hum}% — मिर्च/टमाटर में Mancozeb छिड़काव करें।</div></div></div>` : ''}
-    ${w.temp > 38 ? `<div class="alert warn"><div class="alert-icon">🌡️</div><div><div class="alert-title">अत्यधिक गर्मी — ${w.temp}°C</div><div class="alert-desc">मिर्च/टमाटर में फूल झड़ेंगे। शाम को सिंचाई करें।</div></div></div>` : ''}
+    ${w.temp > 38 ? `<div class="alert warn"><div class="alert-icon">🌡️</div><div><div class="alert-title">अत्यधिक गर्मी — ${w.temp}°C</div><div class="alert-desc">फूल झड़ेंगे। शाम को सिंचाई करें।</div></div></div>` : ''}
     ${activePests.length ? `<div class="alert danger"><div class="alert-icon">🐛</div><div><div class="alert-title">इस माह सावधान: ${activePests.map(p=>p.n).join(', ')}</div><div class="alert-desc">कीट पेज पर जाएं — पूरी जानकारी और उपाय पाएं।</div></div></div>` : ''}
     ${importantNews.map(n=>`<div class="alert info" onclick="showPage('more');setTimeout(()=>{S.moreSub='news';rMore()},100)" style="cursor:pointer"><div class="alert-icon">📰</div><div><div class="alert-title">${n.title}</div><div class="alert-desc">${n.summary.slice(0,80)}...</div></div></div>`).join('')}
-
+ 
     <div class="st">AI से पूछें</div>
     <div class="ask-bar" onclick="document.getElementById('home-ask').focus()">
-      <input id="home-ask" class="ask-bar-input" placeholder="कोई भी सवाल पूछें..." onkeydown="if(event.key==='Enter')homeAsk()"/>
+      <input id="home-ask" class="ask-bar-input" placeholder="कोई भी सवाल पूछें..." onkeydown="if(event.key==='Enter')openAskChat()"/>
       <button class="ask-bar-mic" id="home-mic" onclick="startVoice('home-ask','home-mic')">🎤</button>
-      <button class="ask-bar-send" onclick="homeAsk()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="18" height="18"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg></button>
+      <button style="background:var(--soil3);border:1.5px solid var(--soil4);border-radius:8px;width:36px;height:36px;display:flex;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0" onclick="openAskChatWithPhoto()" title="फोटो के साथ पूछें">📷</button>
+      <button class="ask-bar-send" onclick="openAskChat()">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="18" height="18"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+      </button>
     </div>
-    <div id="home-ai-out"></div>
-
+ 
     <div class="st">आज का संदेश</div>
     <div class="card" id="briefing-out"><div style="font-size:12px;color:#806040">संदेश तैयार हो रहा है...</div></div>
-
+ 
     <div class="st">त्वरित कार्य</div>
     <div class="qgrid">
       <div class="qbtn highlight" onclick="showPage('photo')"><div class="qi">📸</div><div class="ql">फोटो जांच</div><div class="qs">रोग · मिट्टी · रिपोर्ट</div></div>
@@ -391,35 +411,37 @@ function rHome() {
       <div class="qbtn" onclick="goMore('mandi')"><div class="qi">💰</div><div class="ql">मंडी भाव</div><div class="qs">AI सहित</div></div>
       <div class="qbtn" onclick="goMore('policy')"><div class="qi">🏛️</div><div class="ql">योजनाएं</div><div class="qs">केंद्र + MP</div></div>
     </div>
-
+ 
     <div class="st">आपकी फसलें</div>
     <div class="card">
-      ${(S.farmer?.crops || ['सोयाबीन','गेहूं']).map(c => `<div class="drow"><div class="dcrop">🌾</div><div><div class="dname">${c}</div><div class="ddate">${S.farmer?.district} · ${S.farmer?.land} बीघा</div></div><button style="background:var(--sun);border:none;border-radius:6px;padding:4px 10px;font-size:11px;font-weight:900;color:var(--sun-txt);cursor:pointer;font-family:var(--font)" onclick="cropAI('${c}')">AI सलाह</button></div>`).join('')}
+      ${(S.farmer?.crops || ['सोयाबीन','गेहूं']).map(c => `
+        <div class="drow">
+          <div class="dcrop">🌾</div>
+          <div><div class="dname">${c}</div><div class="ddate">${S.farmer?.district} · ${S.farmer?.land} बीघा</div></div>
+          <button style="background:var(--sun);border:none;border-radius:6px;padding:4px 10px;font-size:11px;font-weight:900;color:var(--sun-txt);cursor:pointer;font-family:var(--font)" onclick="openAskChat('${c} के बारे में आज की सलाह दो')">AI सलाह</button>
+        </div>`).join('')}
     </div>
   `;
-  if (!document.getElementById('briefing-out').querySelector('.loading-dots')) {
-    if (!S.briefingDone) genDailyBriefing();
-  }
+ 
+  if (!S.briefingDone) genDailyBriefing();
 }
-
-async function homeAsk() {
-  const q = document.getElementById('home-ask')?.value?.trim(); if (!q) return;
-  document.getElementById('home-ask').value = '';
-  const out = document.getElementById('home-ai-out');
-  out.innerHTML = `<div class="card"><div class="loading-dots"><span></span><span></span><span></span></div></div>`;
-  try {
-    const ctx = S.weather ? `मौसम: ${S.weather.temp}°C, ${S.weather.desc}, ${S.weather.hum}% नमी` : '';
-    const reply = await callGroq([{role:'user', content:`${ctx}\n\n${q}`}]);
-    out.innerHTML = `<div class="card" style="border-color:var(--sun-dk)"><div style="font-size:10px;font-weight:900;color:var(--sun);margin-bottom:6px">🤖 AI जवाब</div><div style="font-size:13px;font-weight:600;color:var(--clay);line-height:1.85">${reply.replace(/\n/g,'<br>').replace(/\*\*(.+?)\*\*/g,'<strong style="color:var(--sun)">$1</strong>')}</div></div>`;
-  } catch(e) {
-    out.innerHTML = `<div class="card"><div style="font-size:13px;color:#806040">AI से जुड़ने में समस्या। API key जांचें।<br><small>${e.message}</small></div></div>`;
-  }
+ 
+// Opens full chat window with optional pre-filled question
+function openAskChat(initialMsg) {
+  const q = initialMsg || document.getElementById('home-ask')?.value?.trim();
+  document.getElementById('home-ask') && (document.getElementById('home-ask').value = '');
+  openChat(q || null);
 }
-
+ 
+// Opens chat window with photo picker
+function openAskChatWithPhoto() {
+  const q = document.getElementById('home-ask')?.value?.trim();
+  S.askChatPhotoMode = true;
+  openChat(q || null, null, true);
+}
+ 
 async function cropAI(crop) {
-  const w = S.weather;
-  const month = new Date().getMonth() + 1;
-  openChat(`${crop} के बारे में आज की सलाह दो। मौसम: ${w?.temp||34}°C, माह: ${month}, जिला: ${S.farmer?.district}।`);
+  openAskChat(`${crop} के बारे में आज की सलाह दो। मौसम: ${S.weather?.temp||34}°C, माह: ${new Date().getMonth()+1}, जिला: ${S.farmer?.district}।`);
 }
 
 // ── PHOTO PAGE ────────────────────────────────────────────────────────────────
@@ -1035,23 +1057,103 @@ function editProfile() {
 }
 
 // ── GENERAL CHAT OVERLAY ──────────────────────────────────────────────────────
-function openChat(initialMsg) {
+function openChat(initialMsg = null, imageData = null, photoMode = false) {
   S.chatHistory = [];
-  document.getElementById('chat-thread-main').innerHTML = '';
+  S.chatImageData = null;
+  S.chatImageMime = 'image/jpeg';
+  const thread = document.getElementById('chat-thread-main');
+  const overlay = document.getElementById('chat-overlay');
+  thread.innerHTML = '';
   document.getElementById('chat-input-main').value = '';
-  document.getElementById('chat-overlay').classList.add('open');
+ 
+  // Update overlay header
+  document.getElementById('chat-ov-title').textContent = '🤖 AI से बात करें';
+ 
+  // Photo preview area
+  const previewArea = document.getElementById('chat-photo-preview');
+  if (previewArea) { previewArea.innerHTML = ''; previewArea.style.display = 'none'; }
+ 
+  // Photo button in chat
+  const photoBtn = document.getElementById('chat-photo-btn');
+  if (photoBtn) photoBtn.style.display = 'flex';
+ 
+  overlay.classList.add('open');
+ 
+  if (photoMode) {
+    // Auto-trigger photo picker
+    setTimeout(() => triggerChatPhoto(), 300);
+  }
+ 
   if (initialMsg) mainChatSend(initialMsg);
 }
-
+ 
+function triggerChatPhoto() {
+  document.getElementById('chat-photo-input').click();
+}
+ 
+function handleChatPhoto(input) {
+  const file = input.files?.[0]; if (!file) return;
+  const reader = new FileReader();
+  S.chatImageMime = file.type || 'image/jpeg';
+  reader.onload = e => {
+    S.chatImageData = e.target.result.split(',')[1];
+    const preview = document.getElementById('chat-photo-preview');
+    if (preview) {
+      preview.style.display = 'block';
+      preview.innerHTML = `
+        <div style="position:relative;display:inline-block;margin:8px 0">
+          <img src="${e.target.result}" style="max-height:140px;border-radius:8px;display:block;border:2px solid var(--sun-dk)">
+          <button onclick="removeChatPhoto()" style="position:absolute;top:-6px;right:-6px;background:var(--fire);border:none;border-radius:50%;width:22px;height:22px;color:white;font-size:12px;cursor:pointer;font-weight:900;line-height:1">✕</button>
+        </div>
+        <div style="font-size:11px;font-weight:700;color:var(--sun);margin-top:2px">📷 फोटो तैयार है — सवाल पूछें</div>
+      `;
+    }
+  };
+  reader.readAsDataURL(file);
+  input.value = '';
+}
+ 
+function removeChatPhoto() {
+  S.chatImageData = null;
+  const preview = document.getElementById('chat-photo-preview');
+  if (preview) { preview.innerHTML = ''; preview.style.display = 'none'; }
+}
+ 
 async function mainChatSend(msg) {
+  if (!msg?.trim()) return;
   const thread = document.getElementById('chat-thread-main');
-  const userDiv = document.createElement('div'); userDiv.className = 'msg user'; userDiv.textContent = msg;
+ 
+  // User message
+  const userDiv = document.createElement('div');
+  userDiv.className = 'msg user';
+  userDiv.innerHTML = S.chatImageData
+    ? `<div style="margin-bottom:6px"><img src="data:${S.chatImageMime};base64,${S.chatImageData}" style="max-height:100px;border-radius:6px;display:block"></div>${msg}`
+    : msg;
   thread.appendChild(userDiv);
-  const typing = document.createElement('div'); typing.className = 'typing'; typing.innerHTML = '<span></span><span></span><span></span>';
+ 
+  const imageToSend = S.chatImageData;
+  const mimeToSend = S.chatImageMime;
+  S.chatImageData = null;
+  removeChatPhoto();
+ 
+  // Typing indicator
+  const typing = document.createElement('div');
+  typing.className = 'typing'; typing.innerHTML = '<span></span><span></span><span></span>';
   thread.appendChild(typing); thread.scrollTop = thread.scrollHeight;
+ 
   S.chatHistory.push({role:'user', content: msg});
+ 
   try {
-    const reply = await callGroq(S.chatHistory);
+    let reply;
+    if (imageToSend) {
+      // Use Gemini for photo questions
+      reply = await callGeminiVision(
+        `तुम MP के ${S.farmer?.district||'इंदौर'} जिले के कृषि विशेषज्ञ हो। किसान ने यह फोटो भेजी है और पूछा है: "${msg}"\n\nसरल हिंदी में विस्तृत जवाब दो — रोग/समस्या, कारण, उपाय (रासायनिक + जैविक), बचाव।`,
+        imageToSend, mimeToSend
+      );
+    } else {
+      reply = await callGroq(S.chatHistory);
+    }
     S.chatHistory.push({role:'assistant', content: reply});
     typing.remove();
     const aiDiv = document.createElement('div'); aiDiv.className = 'msg ai';
@@ -1060,15 +1162,18 @@ async function mainChatSend(msg) {
   } catch(e) {
     typing.remove();
     const errDiv = document.createElement('div'); errDiv.className = 'msg ai';
-    errDiv.innerHTML = `<span style="color:#FF8060">Error: ${e.message}</span>`;
+    errDiv.innerHTML = `<span style="color:#FF8060">समस्या: ${e.message}</span>`;
     thread.appendChild(errDiv);
   }
 }
-
+ 
 function sendMainChat() {
   const inp = document.getElementById('chat-input-main');
   const q = inp.value.trim(); if (!q) return;
   inp.value = ''; mainChatSend(q);
 }
-
-function closeChat() { document.getElementById('chat-overlay').classList.remove('open'); }
+ 
+function closeChat() {
+  document.getElementById('chat-overlay').classList.remove('open');
+  S.chatImageData = null;
+}
