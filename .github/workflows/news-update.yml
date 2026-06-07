@@ -30,39 +30,26 @@ jobs:
           python3 << 'PYEOF'
           import requests, feedparser, json, os, hashlib
           from datetime import datetime, timezone
-
           GROQ_KEY = os.environ.get('GROQ_API_KEY', '')
           NOW = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
           TODAY = datetime.now(timezone.utc).strftime('%Y-%m-%d')
-
           FEEDS = [
             {'url': 'https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3', 'source': 'PIB', 'level': 'central'},
             {'url': 'https://www.krishakjagat.org/feed/', 'source': 'Krishak Jagat', 'level': 'state'},
           ]
-
-          KEYWORDS = ['किसान','कृषि','फसल','MSP','PM-KISAN','बीमा','मंडी','खाद','बीज',
-                      'सोयाबीन','गेहूं','मिर्च','कपास','सब्सिडी','योजना','मध्यप्रदेश',
-                      'farmer','agriculture','crop','mandi','fertilizer','scheme','MP']
-
+          KEYWORDS = ['किसान','कृषि','फसल','MSP','PM-KISAN','बीमा','मंडी','खाद','बीज','सोयाबीन','गेहूं','मिर्च','कपास','सब्सिडी','योजना','मध्यप्रदेश','farmer','agriculture','crop','mandi','fertilizer','scheme','MP']
           def is_relevant(text):
             return any(k.lower() in text.lower() for k in KEYWORDS)
-
           def summarise(title, content):
             if not GROQ_KEY:
               return title
             try:
-              r = requests.post(
-                'https://api.groq.com/openai/v1/chat/completions',
-                headers={'Authorization': f'Bearer {GROQ_KEY}', 'Content-Type': 'application/json'},
-                json={'model': 'llama-3.3-70b-versatile', 'messages': [{'role': 'user', 'content': f'MP के किसानों के लिए 3-4 वाक्यों में सरल हिंदी सारांश:\n\nशीर्षक: {title}\nसामग्री: {content[:600]}'}], 'max_tokens': 200},
-                timeout=20
-              )
+              r = requests.post('https://api.groq.com/openai/v1/chat/completions',headers={'Authorization': f'Bearer {GROQ_KEY}','Content-Type': 'application/json'},json={'model':'llama-3.3-70b-versatile','messages':[{'role':'user','content':f'MP के किसानों के लिए 3-4 वाक्यों में सरल हिंदी सारांश:\n\nशीर्षक: {title}\nसामग्री: {content[:600]}'}],'max_tokens':200},timeout=20)
               if r.status_code == 200:
                 return r.json()['choices'][0]['message']['content'].strip()
             except Exception as e:
               print(f"Groq error: {e}")
             return title
-
           def categorise(text):
             t = text.lower()
             if any(w in t for w in ['msp','price','भाव','दाम','मूल्य']): return 'price'
@@ -70,54 +57,44 @@ jobs:
             if any(w in t for w in ['scheme','योजना','subsidy','सब्सिडी']): return 'scheme'
             if any(w in t for w in ['mandi','market','मंडी','बाजार']): return 'market'
             return 'general'
-
           def detect_level(text, default):
             t = text.lower()
             if any(w in t for w in ['madhya pradesh','मध्यप्रदेश','mp ','indore','bhopal']): return 'state'
             if any(w in t for w in ['central','national','केंद्र','राष्ट्रीय']): return 'central'
             return default
-
           try:
-            with open('data/news.json', 'r', encoding='utf-8') as f:
+            with open('data/news.json','r',encoding='utf-8') as f:
               existing = json.load(f)
-            existing_ids = {a['id'] for a in existing.get('articles', [])}
-            articles = existing.get('articles', [])
+            existing_ids = {a['id'] for a in existing.get('articles',[])}
+            articles = existing.get('articles',[])
           except:
             existing_ids = set()
             articles = []
-
           new_count = 0
           for feed_info in FEEDS:
             try:
               feed = feedparser.parse(feed_info['url'])
               print(f"Fetched {len(feed.entries)} from {feed_info['source']}")
               for entry in feed.entries[:8]:
-                title = entry.get('title', '')
-                content = entry.get('summary', entry.get('description', ''))
-                link = entry.get('link', '')
-                if not title or not is_relevant(title + ' ' + content):
-                  continue
+                title = entry.get('title','')
+                content = entry.get('summary',entry.get('description',''))
+                link = entry.get('link','')
+                if not title or not is_relevant(title+' '+content): continue
                 art_id = hashlib.md5(title.encode()).hexdigest()[:8]
-                if art_id in existing_ids:
-                  continue
+                if art_id in existing_ids: continue
                 summary = summarise(title, content)
-                level = detect_level(title + ' ' + content, feed_info['level'])
-                category = categorise(title + ' ' + content)
+                level = detect_level(title+' '+content, feed_info['level'])
+                category = categorise(title+' '+content)
                 important = any(w in (title+content).lower() for w in ['deadline','अंतिम','msp','pmkisan','बीमा तिथि'])
-                articles.insert(0, {
-                  'id': art_id, 'title': title[:120], 'summary': summary,
-                  'level': level, 'category': category, 'date': TODAY,
-                  'source': feed_info['source'], 'link': link, 'important': important
-                })
+                articles.insert(0,{'id':art_id,'title':title[:120],'summary':summary,'level':level,'category':category,'date':TODAY,'source':feed_info['source'],'link':link,'important':important})
                 existing_ids.add(art_id)
                 new_count += 1
                 print(f"  Added: {title[:60]}")
             except Exception as e:
               print(f"Feed error {feed_info['source']}: {e}")
-
           articles = articles[:50]
-          with open('data/news.json', 'w', encoding='utf-8') as f:
-            json.dump({'updated': NOW, 'new_count': new_count, 'articles': articles}, f, ensure_ascii=False, indent=2)
+          with open('data/news.json','w',encoding='utf-8') as f:
+            json.dump({'updated':NOW,'new_count':new_count,'articles':articles},f,ensure_ascii=False,indent=2)
           print(f"Done — {new_count} new, {len(articles)} total")
           PYEOF
 
@@ -127,9 +104,18 @@ jobs:
           OWM_KEY: ${{ secrets.OPENWEATHER_API }}
           GEM_KEY: ${{ secrets.GEMINI_KEY }}
         run: |
-          sed -i "s|YOUR_GROQ_KEY_HERE|${GROQ_KEY}|g" app.js
-          sed -i "s|YOUR_OPENWEATHERMAP_KEY_HERE|${OWM_KEY}|g" app.js
-          sed -i "s|YOUR_GEMINI_KEY_HERE|${GEM_KEY}|g" app.js
+          python3 << 'EOF'
+          import os
+          with open('app.js', 'r') as f:
+              content = f.read()
+          content = content.replace('YOUR_GROQ_KEY_HERE', os.environ['GROQ_KEY'])
+          content = content.replace('YOUR_OPENWEATHERMAP_KEY_HERE', os.environ['OWM_KEY'])
+          content = content.replace('YOUR_GEMINI_KEY_HERE', os.environ['GEM_KEY'])
+          with open('app.js', 'w') as f:
+              f.write(content)
+          print("Keys injected successfully")
+          EOF
+
       - name: Commit changes
         run: |
           git config user.name "KisanMitra Bot"
