@@ -90,55 +90,5 @@
       "link": "https://www.krishakjagat.org/news/pre-monsoon-arrives-in-madhya-pradesh-alert-issued-for-rain-and-storms-in-over-40-districts-including-bhopal-and-indore-imd-issues-warning/",
       "important": false
     },
-    {
-      "id": "1",
-      "title": "PM-KISAN की अगली किस्त अप्रैल में",
-      "summary": "प्रधानमंत्री किसान सम्मान निधि की 17वीं किस्त अप्रैल 2026 में जारी होगी। सभी पात्र किसानों के खाते में ₹2,000 सीधे ट्रांसफर किए जाएंगे। अभी तक पंजीकृत नहीं हैं तो pmkisan.gov.in पर आवेदन करें।",
-      "level": "central",
-      "category": "scheme",
-      "date": "2025-06-01",
-      "source": "PIB",
-      "important": true
-    },
-    {
-      "id": "2",
-      "title": "सोयाबीन MSP 2025-26 के लिए ₹4,600 तय",
-      "summary": "केंद्र सरकार ने खरीफ 2025-26 के लिए सोयाबीन का MSP ₹4,600 प्रति क्विंटल तय किया है। पिछले वर्ष से ₹292 अधिक। MP के किसानों को सरकारी खरीद केंद्रों पर पंजीकरण करना होगा।",
-      "level": "central",
-      "category": "price",
-      "date": "2025-05-30",
-      "source": "CACP",
-      "important": true
-    },
-    {
-      "id": "3",
-      "title": "MP में यंत्र अनुदान के लिए आवेदन शुरू",
-      "summary": "मध्यप्रदेश सरकार ने कृषि यंत्र अनुदान योजना के लिए आवेदन शुरू किए हैं। ट्रैक्टर, थ्रेशर, स्प्रेयर पर 40-50% सब्सिडी मिलेगी। dbt.mpdage.org पर 30 जून तक आवेदन करें।",
-      "level": "state",
-      "category": "scheme",
-      "date": "2025-05-28",
-      "source": "MP Agriculture Dept",
-      "important": false
-    },
-    {
-      "id": "4",
-      "title": "खरगोन में मिर्च की कीमतों में उछाल",
-      "summary": "खरगोन मंडी में लाल सूखी मिर्च ₹18,500 प्रति क्विंटल पर पहुंची — पिछले माह से ₹2,000 अधिक। निर्यात मांग बढ़ने से भाव ऊंचे हैं। किसानों को अभी बेचने की सलाह दी जा रही है।",
-      "level": "district",
-      "category": "market",
-      "date": "2025-05-27",
-      "source": "Agmarknet",
-      "important": false
-    },
-    {
-      "id": "5",
-      "title": "फसल बीमा की अंतिम तिथि 31 जुलाई",
-      "summary": "खरीफ 2025 के लिए PM फसल बीमा योजना के आवेदन की अंतिम तिथि 31 जुलाई 2025 है। सोयाबीन, कपास, मक्का, मिर्च सभी शामिल। नजदीकी बैंक या CSC केंद्र पर तुरंत आवेदन करें।",
-      "level": "central",
-      "category": "scheme",
-      "date": "2025-05-25",
-      "source": "PMFBY",
-      "important": true
-    }
   ]
 }
