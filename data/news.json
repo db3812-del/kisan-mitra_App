@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-07T04:27:33Z",
-  "new_count": 0,
+  "updated": "2026-06-07T09:25:01Z",
+  "new_count": 8,
   "articles": [
     {
       "id": "351f0e43",
       "title": "ओडिशा की महिला स्वयं सहायता समूह ने लंदन भेजे अमरपाली आम, कृषि निर्यात में रचा नया इतिहास",
       "summary": "ओडिशा की महिला स्वयं सहायता समूह ने लंदन भेजे अमरपाली आम, कृषि निर्यात में रचा नया इतिहास",
       "level": "central",
-      "category": "market",
-      "date": "2026-06-06",
+      "category": "general",
+      "date": "2026-06-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/odisha-womens-self-help-group-sends-amrapali-mangoes-to-london-creating-a-new-history-in-agricultural-exports/",
       "important": false
@@ -19,7 +19,7 @@
       "summary": "बुरहानपुर: 16 जून से 15 अगस्त तक मत्स्याखेट पर प्रतिबंध",
       "level": "state",
       "category": "general",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/burhanpur-fishing-ban-from-june-16-to-august-15/",
       "important": false
@@ -30,7 +30,7 @@
       "summary": "राजस्थान: खेत बचाओ अभियान के तीन दिन में 77 हजार किसानों से संवाद, कृषि मंत्री ने की समीक्षा",
       "level": "central",
       "category": "general",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/rajasthan-conversation-with-77-thousand-farmers-in-three-days-of-khet-bachao-abhiyan-agriculture-minister-reviewed/",
       "important": false
@@ -41,7 +41,7 @@
       "summary": "बुरहानपुर: प्राकृतिक आपदा प्रभावित किसानों के बीच पहुंचे प्रभारी मंत्री श्री सिलावट",
       "level": "central",
       "category": "price",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/burhanpur-minister-in-charge-shri-silawat-visits-farmers-affected-by-natural-calamity/",
       "important": false
@@ -52,7 +52,7 @@
       "summary": "पारदर्शी और निष्पक्ष होगा फसल क्षति सर्वे- बुरहानपुर प्रभारी मंत्री श्री सिलावट",
       "level": "central",
       "category": "general",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/crop-damage-survey-will-be-transparent-and-fair-burhanpur-minister-in-charge-mr-silawat/",
       "important": false
@@ -63,7 +63,7 @@
       "summary": "रायपुर : ढैंचा की हरी खाद अपनाकर किसान घटाएं यूरिया खपत,  बढ़ाएं  मिट्टी की उर्वरता",
       "level": "central",
       "category": "general",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/raipur-farmers-can-reduce-urea-consumption-and-boost-soil-fertility-by-adopting-dhaincha-green-manure/",
       "important": false
@@ -73,8 +73,8 @@
       "title": "IMD अपडेट: महाराष्ट्र-गोवा-आंध्र प्रदेश में पहुंचा मानसून, कई राज्यों में भारी बारिश का अलर्ट",
       "summary": "IMD अपडेट: महाराष्ट्र-गोवा-आंध्र प्रदेश में पहुंचा मानसून, कई राज्यों में भारी बारिश का अलर्ट",
       "level": "central",
-      "category": "weather",
-      "date": "2026-06-06",
+      "category": "general",
+      "date": "2026-06-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/imd-update-monsoon-reaches-maharashtra-goa-and-andhra-pradesh-heavy-rain-alert-for-several-states/",
       "important": false
@@ -84,11 +84,11 @@
       "title": "मध्यप्रदेश में प्री-मानसून की दस्तक, भोपाल-इंदौर समेत 40 से ज्यादा जिलों में बारिश-आंधी का अलर्ट; IMD ने जारी की चेतावनी",
       "summary": "मध्यप्रदेश में प्री-मानसून की दस्तक, भोपाल-इंदौर समेत 40 से ज्यादा जिलों में बारिश-आंधी का अलर्ट; IMD ने जारी की चेतावनी",
       "level": "state",
-      "category": "weather",
-      "date": "2026-06-06",
+      "category": "general",
+      "date": "2026-06-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/pre-monsoon-arrives-in-madhya-pradesh-alert-issued-for-rain-and-storms-in-over-40-districts-including-bhopal-and-indore-imd-issues-warning/",
       "important": false
-    },
+    }
   ]
 }
