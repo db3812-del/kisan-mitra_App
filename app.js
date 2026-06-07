@@ -1,9 +1,7 @@
 'use strict';
 
 // ── API KEYS — replace these with your actual keys ───────────────────────
-const GROQ_KEY    = 'YOUR_GROQ_KEY_HERE';
-const OWM_KEY     = 'YOUR_OPENWEATHERMAP_KEY_HERE';
-const GEMINI_KEY  = 'YOUR_GEMINI_KEY_HERE';
+const PROXY = 'https://worker-patient-tooth-ad2d.krishishaktiapp.workers.dev';
 
 // ── ALL 52 MP DISTRICTS ───────────────────────────────────────────────────────
 const MP_DISTRICTS = [
@@ -188,8 +186,8 @@ async function fetchWeather() {
   const d = MP_DISTRICTS.find(d => d.n === S.farmer?.district) || MP_DISTRICTS[0];
   try {
     const [cur, fore] = await Promise.all([
-      fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${d.lat}&lon=${d.lon}&appid=${OWM_KEY}&units=metric&lang=hi`).then(r => r.json()),
-      fetch(`https://api.openweathermap.org/data/2.5/forecast?lat=${d.lat}&lon=${d.lon}&appid=${OWM_KEY}&units=metric&lang=hi&cnt=35`).then(r => r.json())
+    fetch(`${PROXY}?target=weather&type=weather&lat=${d.lat}&lon=${d.lon}`).then(r => r.json()),
+    fetch(`${PROXY}?target=weather&type=forecast&lat=${d.lat}&lon=${d.lon}`).then(r => r.json())
     ]);
     S.weather = {
       temp: Math.round(cur.main.temp), feels: Math.round(cur.main.feels_like),
@@ -275,9 +273,9 @@ function updateNewsBadge() {
 
 // ── AI CALLS ──────────────────────────────────────────────────────────────────
 async function callGroq(messages, maxTokens = 800) {
-  const r = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+  const r = await fetch(`${PROXY}?target=groq`, {
     method: 'POST',
-    headers: {'Authorization': `Bearer ${GROQ_KEY}`, 'Content-Type': 'application/json'},
+    headers: {'Content-Type': 'application/json'},
     body: JSON.stringify({
       model: 'llama-3.3-70b-versatile',
       messages: [{role:'system', content: `तुम किसान मित्र AI हो — MP के किसानों के लिए एक भरोसेमंद कृषि सहायक। हमेशा सरल हिंदी में जवाब दो। किसान की भाषा में बोलो। ${S.farmer ? `किसान का नाम: ${S.farmer.name}, जिला: ${S.farmer.district}, फसलें: ${S.farmer.crops?.join(', ')}, जमीन: ${S.farmer.land} बीघा` : 'MP, इंदौर-खरगोन-खंडवा क्षेत्र'}.`}, ...messages],
@@ -290,7 +288,8 @@ async function callGroq(messages, maxTokens = 800) {
 }
 
 async function callGeminiVision(prompt, base64, mime) {
-  const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_KEY}`, {
+  const r = await fetch(`${PROXY}?target=gemini`, {
+
     method: 'POST',
     headers: {'Content-Type': 'application/json'},
     body: JSON.stringify({contents:[{parts:[
