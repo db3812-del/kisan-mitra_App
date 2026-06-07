@@ -1,9 +1,9 @@
 'use strict';
 
 // ── API KEYS — replace these with your actual keys ────────────────────────────
-const GROQ_KEY    = 'GROQ_API_KEY';
-const OWM_KEY     = 'OPENWEATHER_API';
-const GEMINI_KEY  = 'GEMINI_KEY';
+const GROQ_KEY    = 'YOUR_GROQ_KEY_HERE';
+const OWM_KEY     = 'YOUR_OPENWEATHERMAP_KEY_HERE';
+const GEMINI_KEY  = 'YOUR_GEMINI_KEY_HERE';
 
 // ── ALL 52 MP DISTRICTS ───────────────────────────────────────────────────────
 const MP_DISTRICTS = [
