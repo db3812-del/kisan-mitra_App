@@ -249,7 +249,7 @@ function updateHdrWeather() {
 // ── NEWS & POLICIES ───────────────────────────────────────────────────────────
 async function loadNews() {
   try {
-    const r = await fetch('https://db3812-del.github.io/kisan-mitra_App/data/news.json?' + Date.now());
+    const r = await fetch('https://kisan-mitra-app.krishishaktiapp.workers.dev/data/news.json?' + Date.now());
     const d = await r.json();
     S.news = d.articles || [];
     updateNewsBadge();
@@ -259,7 +259,7 @@ async function loadNews() {
 
 async function loadPolicies() {
   try {
-    const r = await fetch('https://db3812-del.github.io/kisan-mitra_App/data/policies.json');
+    const r = await fetch('https://kisan-mitra-app.krishishaktiapp.workers.dev/data/policies.json');
     const d = await r.json();
     S.policies = d;
   } catch { console.log('Policies load failed'); }
