@@ -1,9 +1,6 @@
 const CACHE = 'km-v4';
-const BASE = '/kisan-mitra_App/';
-const STATIC = [
-  BASE, BASE+'index.html', BASE+'app.css', BASE+'app.js',
-  BASE+'manifest.json', BASE+'icon-192.png', BASE+'icon-512.png'
-];
+const BASE = '/';
+const STATIC = ['/', '/index.html', '/app.css', '/app.js', '/manifest.json', '/icon-192.png', '/icon-512.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c =>
