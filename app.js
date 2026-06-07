@@ -1,11 +1,9 @@
 'use strict';
 
-// ── API KEYS — replace these with your actual keys ────────────────────────────
-const GROQ_KEY    = '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
-';
-const OWM_KEY     = 'eea251b59ae3b2dac9095e4b00f29011';
-const GEMINI_KEY  = 'AQ.Ab8RN6LrpLITDT5Grdi6FNPZB6lpOZBeAmcgDQroXURzPw-AKA
-';
+// ── API KEYS — replace these with your actual keys ───────────────────────
+const GROQ_KEY    = 'YOUR_GROQ_KEY_HERE';
+const OWM_KEY     = 'YOUR_OPENWEATHERMAP_KEY_HERE';
+const GEMINI_KEY  = 'YOUR_GEMINI_KEY_HERE';
 
 // ── ALL 52 MP DISTRICTS ───────────────────────────────────────────────────────
 const MP_DISTRICTS = [
