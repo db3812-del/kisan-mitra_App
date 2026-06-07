@@ -2,8 +2,8 @@
   "name": "किसान मित्र",
   "short_name": "किसान मित्र",
   "description": "MP किसानों का AI साथी — मौसम, मंडी, कीट, योजनाएं",
-  "start_url": "/kisan-mitra_App/",
-  "scope": "/kisan-mitra_App/",
+  "start_url": "/",
+  "scope": "/"
   "display": "standalone",
   "background_color": "#0A2000",
   "theme_color": "#0A2000",
