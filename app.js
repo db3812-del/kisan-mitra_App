@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 function initApp() {
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/kisan-mitra_App/sw.js').catch(() => {});
+    navigator.serviceWorker.register('/sw.js')
   }
   showPage('home');
   fetchWeather();
