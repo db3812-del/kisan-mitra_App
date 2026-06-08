@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-08T11:08:49Z",
-  "new_count": 8,
+  "updated": "2026-06-08T16:05:32Z",
+  "new_count": 5,
   "articles": [
+    {
+      "id": "818fd1e5",
+      "title": "IMD Weather Update: देशभर में मानसून ने पकड़ी रफ्तार, केरल-कर्नाटक में बारिश का रेड अलर्ट; उत्तर भारत में आंधी-तूफान की ",
+      "summary": "IMD Weather Update: देशभर में मानसून ने पकड़ी रफ्तार, केरल-कर्नाटक में बारिश का रेड अलर्ट; उत्तर भारत में आंधी-तूफान की दस्तक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-monsoon-gains-momentum-across-the-country-red-alert-for-rain-in-kerala-and-karnataka-thunderstorms-approach-north-india/",
+      "important": false
+    },
+    {
+      "id": "0fb3337b",
+      "title": "आज का गेहूँ मंडी रेट (08 जून 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (08 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-08-june-2026/",
+      "important": false
+    },
+    {
+      "id": "dd83e4b9",
+      "title": "इंदौर में जुटेंगे BRICS देशों के कृषि मंत्री, शिवराज सिंह की मौजूदगी में तय होगी खेती की नई दिशा; छोटे किसानों से AI तक ",
+      "summary": "इंदौर में जुटेंगे BRICS देशों के कृषि मंत्री, शिवराज सिंह की मौजूदगी में तय होगी खेती की नई दिशा; छोटे किसानों से AI तक होगी चर्चा",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agriculture-ministers-from-brics-nations-to-gather-in-indore-new-direction-for-agriculture-to-be-charted-in-the-presence-of-shivraj-singh-discussions-to-range-from-small-farmers-to-ai/",
+      "important": false
+    },
+    {
+      "id": "13dcd56b",
+      "title": "मूंग छोड़ चुकंदर की खेती अपनाई, अब किसान हरिशंकर राठौर की चार गुना बढ़ गई आय",
+      "summary": "मूंग छोड़ चुकंदर की खेती अपनाई, अब किसान हरिशंकर राठौर की चार गुना बढ़ गई आय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/switched-from-moong-to-beetroot-cultivation-farmer-harishankar-rathores-income-has-now-quadrupled/",
+      "important": false
+    },
+    {
+      "id": "4869811a",
+      "title": "MIDH योजना बनी वरदान: खीरा-ककड़ी उगाकर किसान ने बढ़ाई आमदनी, 6.75 लाख की हुई शानदार कमाई",
+      "summary": "MIDH योजना बनी वरदान: खीरा-ककड़ी उगाकर किसान ने बढ़ाई आमदनी, 6.75 लाख की हुई शानदार कमाई",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/midh-scheme-proves-a-boon-farmer-boosts-income-by-growing-cucumbers-earns-an-impressive-%e2%82%b96-75-lakh/",
+      "important": false
+    },
     {
       "id": "8e5494c2",
       "title": "बारिश कम हुई तो क्या करें किसान? कृषि विशेषज्ञों ने बताए कारगर उपाय",
