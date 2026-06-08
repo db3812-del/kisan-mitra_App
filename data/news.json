@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-08T04:43:25Z",
-  "new_count": 0,
+  "updated": "2026-06-08T11:08:49Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "8e5494c2",
+      "title": "बारिश कम हुई तो क्या करें किसान? कृषि विशेषज्ञों ने बताए कारगर उपाय",
+      "summary": "बारिश कम हुई तो क्या करें किसान? कृषि विशेषज्ञों ने बताए कारगर उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/what-should-farmers-do-if-rainfall-is-deficient-agricultural-experts-suggest-effective-measures/",
+      "important": false
+    },
+    {
+      "id": "2bb136d4",
+      "title": "नकली बीज प्रकरण में एसीबी की बड़ी कार्रवाई : राजस्थान राज्य बीज निगम के निदेशक सहित, एक गिरफ्तार, पांच हिरासत में",
+      "summary": "नकली बीज प्रकरण में एसीबी की बड़ी कार्रवाई : राजस्थान राज्य बीज निगम के निदेशक सहित, एक गिरफ्तार, पांच हिरासत में",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-acb-action-in-spurious-seed-case-one-arrested-five-detained-including-a-director-of-the-rajasthan-state-seed-corporation/",
+      "important": false
+    },
+    {
+      "id": "309d63fe",
+      "title": "रायपुर: आधुनिक संसाधनों और वैज्ञानिक खेती से बदली किसान अमन प्रसाद की तस्वीर, बने क्षेत्र के लिए प्रेरणा",
+      "summary": "रायपुर: आधुनिक संसाधनों और वैज्ञानिक खेती से बदली किसान अमन प्रसाद की तस्वीर, बने क्षेत्र के लिए प्रेरणा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-modern-resources-and-scientific-farming-have-transformed-the-fortunes-of-farmer-aman-prasad-making-him-an-inspiration-for-the-region/",
+      "important": false
+    },
+    {
+      "id": "19b86c18",
+      "title": "विदिशा: कृषि विभाग का पौधारोपण  अभियान संपन्न",
+      "summary": "विदिशा: कृषि विभाग का पौधारोपण  अभियान संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/vidisha-agriculture-departments-tree-plantation-drive-concludes/",
+      "important": false
+    },
+    {
+      "id": "ec1f2daa",
+      "title": "रायगढ़ में खाद की कालाबाजारी का पर्दाफाश, 750 की बोरी 1800 रुपये में बेचते पकड़े गए व्यापारी; 74 बोरी जब्त",
+      "summary": "रायगढ़ में खाद की कालाबाजारी का पर्दाफाश, 750 की बोरी 1800 रुपये में बेचते पकड़े गए व्यापारी; 74 बोरी जब्त",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/black-marketing-of-fertilizer-exposed-in-raigarh-businessman-caught-selling-750-bags-for-rs-1800-74-sacks-seized/",
+      "important": false
+    },
+    {
+      "id": "ab69a3d9",
+      "title": "रायपुर: अब मोबाइल से बुक होगी खाद, बीजापुर में ई-टोकन और क्यूआर कोड आधारित नई व्यवस्था लागू",
+      "summary": "रायपुर: अब मोबाइल से बुक होगी खाद, बीजापुर में ई-टोकन और क्यूआर कोड आधारित नई व्यवस्था लागू",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-fertilizer-can-now-be-booked-via-mobile-new-e-token-and-qr-code-based-system-implemented-in-bijapur/",
+      "important": false
+    },
+    {
+      "id": "4378d51d",
+      "title": "नरवाई नहीं जलाई, मेड़ों पर लगाए नींबू; आधुनिक खेती से आदित्य कुशवाह ने बढ़ाई आमदनी, बने मिसाल",
+      "summary": "नरवाई नहीं जलाई, मेड़ों पर लगाए नींबू; आधुनिक खेती से आदित्य कुशवाह ने बढ़ाई आमदनी, बने मिसाल",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/did-not-burn-crop-residue-planted-lemon-trees-on-field-bunds-aditya-kushwaha-boosted-his-income-through-modern-farming-and-set-an-example/",
+      "important": false
+    },
+    {
+      "id": "a34a2583",
+      "title": "IMD Alert: मध्यप्रदेश में सक्रिय हुए मौसम सिस्टम, भोपाल-ग्वालियर समेत 35 जिलों में आंधी-बारिश का अलर्ट",
+      "summary": "IMD Alert: मध्यप्रदेश में सक्रिय हुए मौसम सिस्टम, भोपाल-ग्वालियर समेत 35 जिलों में आंधी-बारिश का अलर्ट",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/imd-alert-weather-systems-active-in-madhya-pradesh-alert-issued-for-thunderstorms-and-rain-in-35-districts-including-bhopal-and-gwalior/",
+      "important": false
+    },
     {
       "id": "26def805",
       "title": "मानसून की दस्तक से मध्य प्रदेश में मौसम मेहरबान, कई जिलों में बारिश-आंधी का येलो अलर्ट; 50kmph की रफ्तार से चलेंगी हवाएं",
