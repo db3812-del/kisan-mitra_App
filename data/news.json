@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-09T04:04:20Z",
-  "new_count": 0,
+  "updated": "2026-06-09T09:56:16Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "4713c407",
+      "title": "उद्यानिकी का रकबा बढ़ाने के लिये किसानों को प्रोत्साहित करें : कृषि उत्पादन आयुक्त श्री वर्णवाल",
+      "summary": "उद्यानिकी का रकबा बढ़ाने के लिये किसानों को प्रोत्साहित करें : कृषि उत्पादन आयुक्त श्री वर्णवाल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/encourage-farmers-to-increase-the-area-under-horticulture-agriculture-production-commissioner-shri-varnwal/",
+      "important": false
+    },
+    {
+      "id": "2eab1ed3",
+      "title": "हर ग्राम में बनेगी एक लखपति गोपालक दीदी",
+      "summary": "हर ग्राम में बनेगी एक लखपति गोपालक दीदी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-lakhpati-gopalak-didi-will-be-created-in-every-village/",
+      "important": false
+    },
+    {
+      "id": "475f5395",
+      "title": "फसल गिरदावरी कार्य में तेजी लाएं – कलेक्टर रायसेन",
+      "summary": "फसल गिरदावरी कार्य में तेजी लाएं – कलेक्टर रायसेन",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/accelerate-the-crop-survey-work-raisen-collector/",
+      "important": false
+    },
+    {
+      "id": "76eae664",
+      "title": "शहर की नौकरी छोड़ी, ऑर्गेनिक खेती अपनाई; अब सालाना हो रहा 8 लाख रुपये का मुनाफा",
+      "summary": "शहर की नौकरी छोड़ी, ऑर्गेनिक खेती अपनाई; अब सालाना हो रहा 8 लाख रुपये का मुनाफा",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/quit-city-job-took-up-organic-farming-now-earning-an-annual-profit-of-%e2%82%b98-lakh/",
+      "important": false
+    },
+    {
+      "id": "8e1b3e2e",
+      "title": "ट्रैक्टर बिक्री मई 2026: भारत में कुल 83,092 ट्रैक्टर बिके, टैफे सबसे तेजी से बढ़ने वाली कंपनी",
+      "summary": "ट्रैक्टर बिक्री मई 2026: भारत में कुल 83,092 ट्रैक्टर बिके, टैफे सबसे तेजी से बढ़ने वाली कंपनी",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/tractor-sales-may-2026-a-total-of-83092-tractors-sold-in-india-tafe-is-the-fastest-growing-company-tractor-sales-may-2026-a-total-of-83092-tractors-sold-in-india-tafe-is-the-fastest-growing-com/",
+      "important": false
+    },
+    {
+      "id": "11d3653a",
+      "title": "मध्यप्रदेश: सीधी में शुरू हुआ जैविक संसाधन केंद्र, अब किसानों को एक ही छत के नीचे मिलेंगे प्राकृतिक खेती के सभी जैविक उत",
+      "summary": "मध्यप्रदेश: सीधी में शुरू हुआ जैविक संसाधन केंद्र, अब किसानों को एक ही छत के नीचे मिलेंगे प्राकृतिक खेती के सभी जैविक उत्पाद",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-organic-resource-centre-launched-in-sidhi-farmers-will-now-find-all-organic-products-for-natural-farming-under-one-roof/",
+      "important": false
+    },
+    {
+      "id": "3d8231db",
+      "title": "26 पटवारियों का दो दिन का वेतन काटने के आदेश",
+      "summary": "26 पटवारियों का दो दिन का वेतन काटने के आदेश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/orders-issued-to-deduct-two-days-salary-of-26-patwaris/",
+      "important": false
+    },
+    {
+      "id": "4c27864e",
+      "title": "अशोकनगर: खाद वितरण व्यवस्था को लेकर कलेक्टर की प्रेस कॉन्फ्रेंस",
+      "summary": "अशोकनगर: खाद वितरण व्यवस्था को लेकर कलेक्टर की प्रेस कॉन्फ्रेंस",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ashoknagar-collectors-press-conference-regarding-the-fertilizer-distribution-system/",
+      "important": false
+    },
     {
       "id": "818fd1e5",
       "title": "IMD Weather Update: देशभर में मानसून ने पकड़ी रफ्तार, केरल-कर्नाटक में बारिश का रेड अलर्ट; उत्तर भारत में आंधी-तूफान की ",
