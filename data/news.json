@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-09T09:56:16Z",
+  "updated": "2026-06-09T15:17:35Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "13685f79",
+      "title": "मुख्यमंत्री मछुआ समृद्धि योजना के तहत 11 जून तक आवेदन आमंत्रित",
+      "summary": "मुख्यमंत्री मछुआ समृद्धि योजना के तहत 11 जून तक आवेदन आमंत्रित",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/applications-invited-under-the-chief-ministers-fishermen-prosperity-scheme-until-june-11/",
+      "important": false
+    },
+    {
+      "id": "0086700a",
+      "title": "एनएएएस-धानुका कृषि प्रसार उत्कृष्टता पुरस्कार 2026: कृषि विज्ञान केंद्रों और वैज्ञानिकों को मिला राष्ट्रीय सम्मान",
+      "summary": "एनएएएस-धानुका कृषि प्रसार उत्कृष्टता पुरस्कार 2026: कृषि विज्ञान केंद्रों और वैज्ञानिकों को मिला राष्ट्रीय सम्मान",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/naas-dhanuka-agricultural-extension-excellence-award-2026-national-honor-for-krishi-vigyan-kendras-and-scientists/",
+      "important": false
+    },
+    {
+      "id": "a654e221",
+      "title": "MP Weather Update: कई जिलों में बारिश और तेज आंधी, भोपाल में 67 किमी प्रति घंटे की रफ्तार से चली हवाएं; अगले दो दिन बढ़े",
+      "summary": "MP Weather Update: कई जिलों में बारिश और तेज आंधी, भोपाल में 67 किमी प्रति घंटे की रफ्तार से चली हवाएं; अगले दो दिन बढ़ेगा तापमान",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mp-weather-update-rain-and-strong-storms-in-several-districts-winds-gusted-at-67-km-h-in-bhopal-temperatures-to-rise-over-the-next-two-days/",
+      "important": false
+    },
+    {
+      "id": "0d4cf257",
+      "title": "Weather Update: पूर्वोत्तर में आगे बढ़ा मानसून, दक्षिण भारत में भारी बारिश; कई राज्यों में आंधी-तूफान की चेतावनी",
+      "summary": "Weather Update: पूर्वोत्तर में आगे बढ़ा मानसून, दक्षिण भारत में भारी बारिश; कई राज्यों में आंधी-तूफान की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-update-monsoon-advances-in-the-northeast-heavy-rain-in-south-india-thunderstorm-warnings-for-several-states/",
+      "important": false
+    },
+    {
+      "id": "c1fa9fa0",
+      "title": "आज का गेहूँ मंडी रेट (09 जून 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (09 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-09-june-2026/",
+      "important": false
+    },
+    {
+      "id": "0175be6d",
+      "title": "आज का धान मंडी रेट (09 जून 2026)",
+      "summary": "आज का धान मंडी रेट (09 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-09-june-2026/",
+      "important": false
+    },
+    {
+      "id": "5efd5f15",
+      "title": "आज का मक्का मंडी रेट (09 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (09 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-09-june-2026/",
+      "important": false
+    },
+    {
+      "id": "7d6d86c6",
+      "title": "आज का सोयाबीन मंडी रेट (09 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (09 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-09-june-2026/",
+      "important": false
+    },
     {
       "id": "4713c407",
       "title": "उद्यानिकी का रकबा बढ़ाने के लिये किसानों को प्रोत्साहित करें : कृषि उत्पादन आयुक्त श्री वर्णवाल",
