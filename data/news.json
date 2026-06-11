@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-11T10:48:22Z",
-  "new_count": 0,
+  "updated": "2026-06-11T16:13:27Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "f3bd6953",
+      "title": "पीएम धन-धान्य कृषि योजना: जशपुर के कृषि नवाचारों की केंद्र ने की प्रशंसा, किसानों की आय बढ़ाने पर जोर",
+      "summary": "पीएम धन-धान्य कृषि योजना: जशपुर के कृषि नवाचारों की केंद्र ने की प्रशंसा, किसानों की आय बढ़ाने पर जोर",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pm-dhan-dhanya-krishi-yojana-centre-praises-jashpurs-agricultural-innovations-emphasis-on-boosting-farmers-income/",
+      "important": false
+    },
+    {
+      "id": "70bae168",
+      "title": "सब्जियों से समृद्धि की राह : चार साल में 21.58 लाख टन बढ़ा उत्पादन, किसान कल्याण वर्ष में मध्यप्रदेश का बड़ा संकल्प",
+      "summary": "सब्जियों से समृद्धि की राह : चार साल में 21.58 लाख टन बढ़ा उत्पादन, किसान कल्याण वर्ष में मध्यप्रदेश का बड़ा संकल्प",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-path-to-prosperity-through-vegetables-production-increased-by-21-58-lakh-tonnes-in-four-years-madhya-pradeshs-major-resolve-during-the-year-of-farmers-welfare/",
+      "important": false
+    },
+    {
+      "id": "7d4b08d3",
+      "title": "IMD Alert: मानसून ने पकड़ी रफ्तार, अगले 3 दिनों में इन राज्यों में होगी झमाझम बारिश, 80 KM/H की रफ्तार से चलेंगी हवाएं",
+      "summary": "IMD Alert: मानसून ने पकड़ी रफ्तार, अगले 3 दिनों में इन राज्यों में होगी झमाझम बारिश, 80 KM/H की रफ्तार से चलेंगी हवाएं",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-alert-monsoon-picks-up-pace-heavy-rainfall-expected-in-these-states-over-the-next-3-days-with-winds-gusting-up-to-80-km-h/",
+      "important": false
+    },
+    {
+      "id": "f24933d0",
+      "title": "मध्य प्रदेश में प्री-मानसून एक्टिविटी तेज: रीवा, सतना, ग्वालियर समेत इन जिलों में तेज हवाओं-बारिश की चेतावनी; IMD ने जार",
+      "summary": "मध्य प्रदेश में प्री-मानसून एक्टिविटी तेज: रीवा, सतना, ग्वालियर समेत इन जिलों में तेज हवाओं-बारिश की चेतावनी; IMD ने जारी किया अलर्ट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pre-monsoon-activity-intensifies-in-madhya-pradesh-warning-of-strong-winds-and-rain-for-districts-including-rewa-satna-and-gwalior-imd-issues-alert/",
+      "important": false
+    },
+    {
+      "id": "4cb71f52",
+      "title": "नेपाल ने भारतीय आम के आयात पर नहीं लगाया प्रतिबंध, कृषि मंत्रालय ने दी जानकारी",
+      "summary": "नेपाल ने भारतीय आम के आयात पर नहीं लगाया प्रतिबंध, कृषि मंत्रालय ने दी जानकारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/nepal-has-not-imposed-a-ban-on-the-import-of-indian-mangoes-ministry-of-agriculture-provides-information/",
+      "important": false
+    },
+    {
+      "id": "385e08b1",
+      "title": "अब घर बैठे करें किसान क्रेडिट कार्ड के लिए आवेदन, विदिशा में शुरू हुआ डिजिटल अभियान",
+      "summary": "अब घर बैठे करें किसान क्रेडिट कार्ड के लिए आवेदन, विदिशा में शुरू हुआ डिजिटल अभियान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/now-apply-for-a-kisan-credit-card-from-the-comfort-of-your-home-digital-campaign-launched-in-vidisha/",
+      "important": false
+    },
+    {
+      "id": "26ab8c6a",
+      "title": "रायपुर: पशुपालन ने बदली सरस्वती पैंकरा की किस्मत, दूध बेचकर हर महीने कमा रहीं 20 हजार रुपए",
+      "summary": "रायपुर: पशुपालन ने बदली सरस्वती पैंकरा की किस्मत, दूध बेचकर हर महीने कमा रहीं 20 हजार रुपए",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-animal-husbandry-transforms-saraswati-paikras-fortunes-she-earns-%e2%82%b920000-per-month-selling-milk/",
+      "important": false
+    },
+    {
+      "id": "54c8e496",
+      "title": "पांढुर्ना: उर्वरक वितरण व्यवस्था की एसडीएम ने की समीक्षा",
+      "summary": "पांढुर्ना: उर्वरक वितरण व्यवस्था की एसडीएम ने की समीक्षा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pandhurna-sdm-reviews-fertilizer-distribution-system/",
+      "important": false
+    },
     {
       "id": "98b6ccbc",
       "title": "आज का धान मंडी रेट (10 जून 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-06-08",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/black-marketing-of-fertilizer-exposed-in-raigarh-businessman-caught-selling-750-bags-for-rs-1800-74-sacks-seized/",
-      "important": false
-    },
-    {
-      "id": "ab69a3d9",
-      "title": "रायपुर: अब मोबाइल से बुक होगी खाद, बीजापुर में ई-टोकन और क्यूआर कोड आधारित नई व्यवस्था लागू",
-      "summary": "रायपुर: अब मोबाइल से बुक होगी खाद, बीजापुर में ई-टोकन और क्यूआर कोड आधारित नई व्यवस्था लागू",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-fertilizer-can-now-be-booked-via-mobile-new-e-token-and-qr-code-based-system-implemented-in-bijapur/",
-      "important": false
-    },
-    {
-      "id": "4378d51d",
-      "title": "नरवाई नहीं जलाई, मेड़ों पर लगाए नींबू; आधुनिक खेती से आदित्य कुशवाह ने बढ़ाई आमदनी, बने मिसाल",
-      "summary": "नरवाई नहीं जलाई, मेड़ों पर लगाए नींबू; आधुनिक खेती से आदित्य कुशवाह ने बढ़ाई आमदनी, बने मिसाल",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/did-not-burn-crop-residue-planted-lemon-trees-on-field-bunds-aditya-kushwaha-boosted-his-income-through-modern-farming-and-set-an-example/",
-      "important": false
-    },
-    {
-      "id": "a34a2583",
-      "title": "IMD Alert: मध्यप्रदेश में सक्रिय हुए मौसम सिस्टम, भोपाल-ग्वालियर समेत 35 जिलों में आंधी-बारिश का अलर्ट",
-      "summary": "IMD Alert: मध्यप्रदेश में सक्रिय हुए मौसम सिस्टम, भोपाल-ग्वालियर समेत 35 जिलों में आंधी-बारिश का अलर्ट",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/imd-alert-weather-systems-active-in-madhya-pradesh-alert-issued-for-thunderstorms-and-rain-in-35-districts-including-bhopal-and-gwalior/",
-      "important": false
-    },
-    {
-      "id": "26def805",
-      "title": "मानसून की दस्तक से मध्य प्रदेश में मौसम मेहरबान, कई जिलों में बारिश-आंधी का येलो अलर्ट; 50kmph की रफ्तार से चलेंगी हवाएं",
-      "summary": "मानसून की दस्तक से मध्य प्रदेश में मौसम मेहरबान, कई जिलों में बारिश-आंधी का येलो अलर्ट; 50kmph की रफ्तार से चलेंगी हवाएं",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/weather-turns-pleasant-in-madhya-pradesh-with-the-arrival-of-the-monsoon-yellow-alert-issued-for-rain-and-thunderstorms-in-several-districts-winds-to-blow-at-speeds-of-50-kmph/",
-      "important": false
-    },
-    {
-      "id": "d4199aec",
-      "title": "Monsoon Update 2026: भारत में मानसून सक्रिय, दक्षिण से पूर्वोत्तर तक भारी बारिश की संभावना; IMD ने जारी किया अलर्ट",
-      "summary": "Monsoon Update 2026: भारत में मानसून सक्रिय, दक्षिण से पूर्वोत्तर तक भारी बारिश की संभावना; IMD ने जारी किया अलर्ट",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/monsoon-update-2026-monsoon-active-in-india-heavy-rain-likely-from-the-south-to-the-northeast-imd-issues-alert/",
-      "important": false
-    },
-    {
-      "id": "018c5cfb",
-      "title": "किसानों को खाद-बीज की कमी न हो, छोटे किसानों को मिले प्राथमिकता: मुख्यमंत्री साय",
-      "summary": "किसानों को खाद-बीज की कमी न हो, छोटे किसानों को मिले प्राथमिकता: मुख्यमंत्री साय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/there-should-be-no-shortage-of-fertilizers-and-seeds-for-farmers-small-farmers-should-be-given-priority-chief-minister-sai/",
-      "important": false
-    },
-    {
-      "id": "5410d7f7",
-      "title": "ग्रीष्मकालीन तिल की खेती बनी फायदे का सौदा, थुर्रेमेटा के किसान ने पेश की मिसाल",
-      "summary": "ग्रीष्मकालीन तिल की खेती बनी फायदे का सौदा, थुर्रेमेटा के किसान ने पेश की मिसाल",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/summer-sesame-cultivation-proves-profitable-farmer-from-thurremeta-sets-an-example/",
-      "important": false
-    },
-    {
-      "id": "60ad6b78",
-      "title": "बारिश से नहीं गलेगी फसल, जलभराव से बचाएगी रिजफरो ड्रिल तकनीक; किसानों को मिलेगा बेहतर उत्पादन",
-      "summary": "बारिश से नहीं गलेगी फसल, जलभराव से बचाएगी रिजफरो ड्रिल तकनीक; किसानों को मिलेगा बेहतर उत्पादन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/crops-wont-rot-due-to-rain-ridge-furrow-drill-technique-prevents-waterlogging-farmers-to-get-better-yields/",
       "important": false
     }
   ]
