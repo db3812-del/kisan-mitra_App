@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-11T16:13:27Z",
+  "updated": "2026-06-11T20:28:51Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "7ccb79d3",
+      "title": "गुना को फ्लोरीकल्चर हब बनाने की कवायद शुरू, गुलाब खेती से किसानों की आय बढ़ाने का रोडमैप तैयार",
+      "summary": "गुना को फ्लोरीकल्चर हब बनाने की कवायद शुरू, गुलाब खेती से किसानों की आय बढ़ाने का रोडमैप तैयार",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/efforts-initiated-to-transform-guna-into-a-floriculture-hub-roadmap-prepared-to-boost-farmers-income-through-rose-cultivation/",
+      "important": false
+    },
+    {
+      "id": "bef2b08c",
+      "title": "खाद वितरण केंद्र का गुना कलेक्टर ने किया निरीक्षण, किसानों से लिया फीडबैक; बढ़ेंगे वितरण केंद्र",
+      "summary": "खाद वितरण केंद्र का गुना कलेक्टर ने किया निरीक्षण, किसानों से लिया फीडबैक; बढ़ेंगे वितरण केंद्र",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/guna-collector-inspects-fertilizer-distribution-center-and-gathers-feedback-from-farmers-number-of-distribution-centers-to-increase/",
+      "important": false
+    },
+    {
+      "id": "53fbc0f5",
+      "title": "विदेशी मेहमानों ने होलकर राज में कम्पोस्ट विधि से तैयार ऑर्गेनिक खेती के बारे में जाना",
+      "summary": "विदेशी मेहमानों ने होलकर राज में कम्पोस्ट विधि से तैयार ऑर्गेनिक खेती के बारे में जाना",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/foreign-guests-learned-about-organic-farming-using-the-compost-method-as-practiced-during-the-holkar-reign/",
+      "important": false
+    },
+    {
+      "id": "26fdf51f",
+      "title": "रायपुर: एक कॉल पर घर पहुंच रही पशु चिकित्सा टीम, पशुपालकों के लिए वरदान बनी 1962 हेल्पलाइन",
+      "summary": "रायपुर: एक कॉल पर घर पहुंच रही पशु चिकित्सा टीम, पशुपालकों के लिए वरदान बनी 1962 हेल्पलाइन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-veterinary-team-reaches-homes-on-a-single-call-1962-helpline-proves-to-be-a-boon-for-livestock-owners/",
+      "important": false
+    },
+    {
+      "id": "155c70a0",
+      "title": "रायपुर : शाक-सब्जी की खेती से आत्मनिर्भर बनीं मनीषा नागेश, ग्रामीण महिलाओं के लिए बनीं प्रेरणा",
+      "summary": "रायपुर : शाक-सब्जी की खेती से आत्मनिर्भर बनीं मनीषा नागेश, ग्रामीण महिलाओं के लिए बनीं प्रेरणा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-manisha-nagesh-became-self-reliant-through-vegetable-farming-and-an-inspiration-for-rural-women/",
+      "important": false
+    },
+    {
+      "id": "d245b3f9",
+      "title": "राजस्थान: बीज निगम ने जुगल किशोर को निदेशक पद से हटाया, मैनेजिंग डायरेक्टर ने जारी किए आदेश",
+      "summary": "राजस्थान: बीज निगम ने जुगल किशोर को निदेशक पद से हटाया, मैनेजिंग डायरेक्टर ने जारी किए आदेश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-seed-corporation-removes-jugal-kishore-from-the-post-of-director-managing-director-issues-orders/",
+      "important": false
+    },
+    {
+      "id": "bba0ba00",
+      "title": "आज का मक्का मंडी रेट (11 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (11 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-11-june-2026/",
+      "important": false
+    },
+    {
+      "id": "38bdd688",
+      "title": "आज का सोयाबीन मंडी रेट (11 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (11 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-11-june-2026/",
+      "important": false
+    },
     {
       "id": "f3bd6953",
       "title": "पीएम धन-धान्य कृषि योजना: जशपुर के कृषि नवाचारों की केंद्र ने की प्रशंसा, किसानों की आय बढ़ाने पर जोर",
@@ -462,94 +550,6 @@
       "date": "2026-06-08",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-08-june-2026/",
-      "important": false
-    },
-    {
-      "id": "dd83e4b9",
-      "title": "इंदौर में जुटेंगे BRICS देशों के कृषि मंत्री, शिवराज सिंह की मौजूदगी में तय होगी खेती की नई दिशा; छोटे किसानों से AI तक ",
-      "summary": "इंदौर में जुटेंगे BRICS देशों के कृषि मंत्री, शिवराज सिंह की मौजूदगी में तय होगी खेती की नई दिशा; छोटे किसानों से AI तक होगी चर्चा",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agriculture-ministers-from-brics-nations-to-gather-in-indore-new-direction-for-agriculture-to-be-charted-in-the-presence-of-shivraj-singh-discussions-to-range-from-small-farmers-to-ai/",
-      "important": false
-    },
-    {
-      "id": "13dcd56b",
-      "title": "मूंग छोड़ चुकंदर की खेती अपनाई, अब किसान हरिशंकर राठौर की चार गुना बढ़ गई आय",
-      "summary": "मूंग छोड़ चुकंदर की खेती अपनाई, अब किसान हरिशंकर राठौर की चार गुना बढ़ गई आय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/switched-from-moong-to-beetroot-cultivation-farmer-harishankar-rathores-income-has-now-quadrupled/",
-      "important": false
-    },
-    {
-      "id": "4869811a",
-      "title": "MIDH योजना बनी वरदान: खीरा-ककड़ी उगाकर किसान ने बढ़ाई आमदनी, 6.75 लाख की हुई शानदार कमाई",
-      "summary": "MIDH योजना बनी वरदान: खीरा-ककड़ी उगाकर किसान ने बढ़ाई आमदनी, 6.75 लाख की हुई शानदार कमाई",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/midh-scheme-proves-a-boon-farmer-boosts-income-by-growing-cucumbers-earns-an-impressive-%e2%82%b96-75-lakh/",
-      "important": false
-    },
-    {
-      "id": "8e5494c2",
-      "title": "बारिश कम हुई तो क्या करें किसान? कृषि विशेषज्ञों ने बताए कारगर उपाय",
-      "summary": "बारिश कम हुई तो क्या करें किसान? कृषि विशेषज्ञों ने बताए कारगर उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/what-should-farmers-do-if-rainfall-is-deficient-agricultural-experts-suggest-effective-measures/",
-      "important": false
-    },
-    {
-      "id": "2bb136d4",
-      "title": "नकली बीज प्रकरण में एसीबी की बड़ी कार्रवाई : राजस्थान राज्य बीज निगम के निदेशक सहित, एक गिरफ्तार, पांच हिरासत में",
-      "summary": "नकली बीज प्रकरण में एसीबी की बड़ी कार्रवाई : राजस्थान राज्य बीज निगम के निदेशक सहित, एक गिरफ्तार, पांच हिरासत में",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-acb-action-in-spurious-seed-case-one-arrested-five-detained-including-a-director-of-the-rajasthan-state-seed-corporation/",
-      "important": false
-    },
-    {
-      "id": "309d63fe",
-      "title": "रायपुर: आधुनिक संसाधनों और वैज्ञानिक खेती से बदली किसान अमन प्रसाद की तस्वीर, बने क्षेत्र के लिए प्रेरणा",
-      "summary": "रायपुर: आधुनिक संसाधनों और वैज्ञानिक खेती से बदली किसान अमन प्रसाद की तस्वीर, बने क्षेत्र के लिए प्रेरणा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-modern-resources-and-scientific-farming-have-transformed-the-fortunes-of-farmer-aman-prasad-making-him-an-inspiration-for-the-region/",
-      "important": false
-    },
-    {
-      "id": "19b86c18",
-      "title": "विदिशा: कृषि विभाग का पौधारोपण  अभियान संपन्न",
-      "summary": "विदिशा: कृषि विभाग का पौधारोपण  अभियान संपन्न",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-agriculture-departments-tree-plantation-drive-concludes/",
-      "important": false
-    },
-    {
-      "id": "ec1f2daa",
-      "title": "रायगढ़ में खाद की कालाबाजारी का पर्दाफाश, 750 की बोरी 1800 रुपये में बेचते पकड़े गए व्यापारी; 74 बोरी जब्त",
-      "summary": "रायगढ़ में खाद की कालाबाजारी का पर्दाफाश, 750 की बोरी 1800 रुपये में बेचते पकड़े गए व्यापारी; 74 बोरी जब्त",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/black-marketing-of-fertilizer-exposed-in-raigarh-businessman-caught-selling-750-bags-for-rs-1800-74-sacks-seized/",
       "important": false
     }
   ]
