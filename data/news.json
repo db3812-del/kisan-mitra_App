@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-12T04:40:57Z",
-  "new_count": 0,
+  "updated": "2026-06-12T10:23:12Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "605077be",
+      "title": "MP Weather: मध्य प्रदेश में मौसम बदला, ग्वालियर-रीवा-भिंड समेत कई जिलों में आंधी और ओलावृष्टि का अलर्ट",
+      "summary": "MP Weather: मध्य प्रदेश में मौसम बदला, ग्वालियर-रीवा-भिंड समेत कई जिलों में आंधी और ओलावृष्टि का अलर्ट",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mp-weather-weather-changes-in-madhya-pradesh-alert-issued-for-storms-and-hailstorms-in-several-districts-including-gwalior-rewa-and-bhind/",
+      "important": false
+    },
+    {
+      "id": "ec228cdb",
+      "title": "कटनी:  प्रधानमंत्री फसल बीमा योजना से कृषक को मिली फसल क्षतिपूर्ति",
+      "summary": "कटनी:  प्रधानमंत्री फसल बीमा योजना से कृषक को मिली फसल क्षतिपूर्ति",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/katni-farmer-receives-crop-loss-compensation-under-pradhan-mantri-fasal-bima-yojana/",
+      "important": false
+    },
+    {
+      "id": "9a3b42a2",
+      "title": "नरसिंहपुर: प्राकृतिक खेती विषय पर 19 एवं 20 जून को कार्यशाला आयोजित होगी",
+      "summary": "नरसिंहपुर: प्राकृतिक खेती विषय पर 19 एवं 20 जून को कार्यशाला आयोजित होगी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/narsinghpur-a-workshop-on-natural-farming-will-be-held-on-june-19-and-20/",
+      "important": false
+    },
+    {
+      "id": "7a798008",
+      "title": "डिंडोरी : खेत बचाओ अभियान के तहत कृषक चौपालों का आयोजन",
+      "summary": "डिंडोरी : खेत बचाओ अभियान के तहत कृषक चौपालों का आयोजन",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-farmers-gatherings-organized-under-the-save-the-farm-campaign/",
+      "important": false
+    },
+    {
+      "id": "185d5386",
+      "title": "डिंडोरी : खाद-बीज विक्रय केंद्रों पर कृषि विभाग की छापामार कार्रवाई",
+      "summary": "डिंडोरी : खाद-बीज विक्रय केंद्रों पर कृषि विभाग की छापामार कार्रवाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-agriculture-department-conducts-raids-on-fertilizer-and-seed-sales-centers/",
+      "important": false
+    },
+    {
+      "id": "4b555979",
+      "title": "रायपुर: बीज उत्पादन कार्यक्रम के लिए 19 से 24 जून तक होगा फसल पंजीयन, किसान दस्तावेज रखें तैयार",
+      "summary": "रायपुर: बीज उत्पादन कार्यक्रम के लिए 19 से 24 जून तक होगा फसल पंजीयन, किसान दस्तावेज रखें तैयार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-crop-registration-for-the-seed-production-program-will-take-place-from-june-19-to-24-farmers-should-keep-their-documents-ready/",
+      "important": false
+    },
+    {
+      "id": "ef562994",
+      "title": "सिवनी: बिना लाइसेंस डीएपी उर्वरक भंडारण पर मामला दर्ज़",
+      "summary": "सिवनी: बिना लाइसेंस डीएपी उर्वरक भंडारण पर मामला दर्ज़",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/seoni-case-registered-for-storing-dap-fertilizer-without-a-license/",
+      "important": false
+    },
+    {
+      "id": "93cda818",
+      "title": "सिवनी: धान की डीएसआर तकनीक पर प्रशिक्षण आयोजित",
+      "summary": "सिवनी: धान की डीएसआर तकनीक पर प्रशिक्षण आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/seoni-training-on-dsr-technique-for-paddy-cultivation-organized/",
+      "important": false
+    },
     {
       "id": "7ccb79d3",
       "title": "गुना को फ्लोरीकल्चर हब बनाने की कवायद शुरू, गुलाब खेती से किसानों की आय बढ़ाने का रोडमैप तैयार",
@@ -462,94 +550,6 @@
       "date": "2026-06-09",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/a-lakhpati-gopalak-didi-will-be-created-in-every-village/",
-      "important": false
-    },
-    {
-      "id": "475f5395",
-      "title": "फसल गिरदावरी कार्य में तेजी लाएं – कलेक्टर रायसेन",
-      "summary": "फसल गिरदावरी कार्य में तेजी लाएं – कलेक्टर रायसेन",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/accelerate-the-crop-survey-work-raisen-collector/",
-      "important": false
-    },
-    {
-      "id": "76eae664",
-      "title": "शहर की नौकरी छोड़ी, ऑर्गेनिक खेती अपनाई; अब सालाना हो रहा 8 लाख रुपये का मुनाफा",
-      "summary": "शहर की नौकरी छोड़ी, ऑर्गेनिक खेती अपनाई; अब सालाना हो रहा 8 लाख रुपये का मुनाफा",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/quit-city-job-took-up-organic-farming-now-earning-an-annual-profit-of-%e2%82%b98-lakh/",
-      "important": false
-    },
-    {
-      "id": "8e1b3e2e",
-      "title": "ट्रैक्टर बिक्री मई 2026: भारत में कुल 83,092 ट्रैक्टर बिके, टैफे सबसे तेजी से बढ़ने वाली कंपनी",
-      "summary": "ट्रैक्टर बिक्री मई 2026: भारत में कुल 83,092 ट्रैक्टर बिके, टैफे सबसे तेजी से बढ़ने वाली कंपनी",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/tractor-sales-may-2026-a-total-of-83092-tractors-sold-in-india-tafe-is-the-fastest-growing-company-tractor-sales-may-2026-a-total-of-83092-tractors-sold-in-india-tafe-is-the-fastest-growing-com/",
-      "important": false
-    },
-    {
-      "id": "11d3653a",
-      "title": "मध्यप्रदेश: सीधी में शुरू हुआ जैविक संसाधन केंद्र, अब किसानों को एक ही छत के नीचे मिलेंगे प्राकृतिक खेती के सभी जैविक उत",
-      "summary": "मध्यप्रदेश: सीधी में शुरू हुआ जैविक संसाधन केंद्र, अब किसानों को एक ही छत के नीचे मिलेंगे प्राकृतिक खेती के सभी जैविक उत्पाद",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-organic-resource-centre-launched-in-sidhi-farmers-will-now-find-all-organic-products-for-natural-farming-under-one-roof/",
-      "important": false
-    },
-    {
-      "id": "3d8231db",
-      "title": "26 पटवारियों का दो दिन का वेतन काटने के आदेश",
-      "summary": "26 पटवारियों का दो दिन का वेतन काटने के आदेश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/orders-issued-to-deduct-two-days-salary-of-26-patwaris/",
-      "important": false
-    },
-    {
-      "id": "4c27864e",
-      "title": "अशोकनगर: खाद वितरण व्यवस्था को लेकर कलेक्टर की प्रेस कॉन्फ्रेंस",
-      "summary": "अशोकनगर: खाद वितरण व्यवस्था को लेकर कलेक्टर की प्रेस कॉन्फ्रेंस",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ashoknagar-collectors-press-conference-regarding-the-fertilizer-distribution-system/",
-      "important": false
-    },
-    {
-      "id": "818fd1e5",
-      "title": "IMD Weather Update: देशभर में मानसून ने पकड़ी रफ्तार, केरल-कर्नाटक में बारिश का रेड अलर्ट; उत्तर भारत में आंधी-तूफान की ",
-      "summary": "IMD Weather Update: देशभर में मानसून ने पकड़ी रफ्तार, केरल-कर्नाटक में बारिश का रेड अलर्ट; उत्तर भारत में आंधी-तूफान की दस्तक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-monsoon-gains-momentum-across-the-country-red-alert-for-rain-in-kerala-and-karnataka-thunderstorms-approach-north-india/",
-      "important": false
-    },
-    {
-      "id": "0fb3337b",
-      "title": "आज का गेहूँ मंडी रेट (08 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (08 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-08-june-2026/",
       "important": false
     }
   ]
