@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-12T10:23:12Z",
+  "updated": "2026-06-12T15:29:00Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "fb8fca27",
+      "title": "बालाघाट में प्रदेश में सर्वाधिक 9081 पशुपालकों के आधार अपडेट हुए",
+      "summary": "बालाघाट में प्रदेश में सर्वाधिक 9081 पशुपालकों के आधार अपडेट हुए",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-recorded-the-highest-number-of-aadhaar-updates-for-livestock-owners-in-the-state-totaling-9081/",
+      "important": false
+    },
+    {
+      "id": "bcaf8539",
+      "title": "बालाघाट : 14 जून तक जले में हल्की वर्षा, आंधी-तूफान और बिजली गिरने की संभावना",
+      "summary": "बालाघाट : 14 जून तक जले में हल्की वर्षा, आंधी-तूफान और बिजली गिरने की संभावना",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-possibility-of-light-rain-thunderstorms-and-lightning-strikes-in-the-district-until-june-14/",
+      "important": false
+    },
+    {
+      "id": "aae8830a",
+      "title": "रायपुर: खरीफ सीजन को लेकर महासमुंद में बड़ी समीक्षा बैठक, खाद-बीज से लेकर प्राकृतिक खेती पर जोर",
+      "summary": "रायपुर: खरीफ सीजन को लेकर महासमुंद में बड़ी समीक्षा बैठक, खाद-बीज से लेकर प्राकृतिक खेती पर जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-major-review-meeting-in-mahasamund-regarding-the-kharif-season-emphasis-placed-on-everything-from-fertilizers-and-seeds-to-natural-farming/",
+      "important": false
+    },
+    {
+      "id": "710d46c7",
+      "title": "आज का गेहूँ मंडी रेट (12 जून 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (12 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-12-june-2026/",
+      "important": false
+    },
+    {
+      "id": "083c5204",
+      "title": "आज का धान मंडी रेट (12 जून 2026)",
+      "summary": "आज का धान मंडी रेट (12 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-12-june-2026/",
+      "important": false
+    },
+    {
+      "id": "f63b1423",
+      "title": "आज का मक्का मंडी रेट (12 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (12 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-12-june-2026/",
+      "important": false
+    },
+    {
+      "id": "fa1f8111",
+      "title": "आज का सोयाबीन मंडी रेट (12 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (12 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-12-june-2026/",
+      "important": false
+    },
+    {
+      "id": "f438cff9",
+      "title": "नीमच जिला कृषि एवं उद्यानिकी में रच रहा नए कीर्तिमान",
+      "summary": "नीमच जिला कृषि एवं उद्यानिकी में रच रहा नए कीर्तिमान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/neemuch-district-is-setting-new-benchmarks-in-agriculture-and-horticulture/",
+      "important": false
+    },
     {
       "id": "605077be",
       "title": "MP Weather: मध्य प्रदेश में मौसम बदला, ग्वालियर-रीवा-भिंड समेत कई जिलों में आंधी और ओलावृष्टि का अलर्ट",
@@ -462,94 +550,6 @@
       "date": "2026-06-09",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/industry-news/naas-dhanuka-agricultural-extension-excellence-award-2026-national-honor-for-krishi-vigyan-kendras-and-scientists/",
-      "important": false
-    },
-    {
-      "id": "a654e221",
-      "title": "MP Weather Update: कई जिलों में बारिश और तेज आंधी, भोपाल में 67 किमी प्रति घंटे की रफ्तार से चली हवाएं; अगले दो दिन बढ़े",
-      "summary": "MP Weather Update: कई जिलों में बारिश और तेज आंधी, भोपाल में 67 किमी प्रति घंटे की रफ्तार से चली हवाएं; अगले दो दिन बढ़ेगा तापमान",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mp-weather-update-rain-and-strong-storms-in-several-districts-winds-gusted-at-67-km-h-in-bhopal-temperatures-to-rise-over-the-next-two-days/",
-      "important": false
-    },
-    {
-      "id": "0d4cf257",
-      "title": "Weather Update: पूर्वोत्तर में आगे बढ़ा मानसून, दक्षिण भारत में भारी बारिश; कई राज्यों में आंधी-तूफान की चेतावनी",
-      "summary": "Weather Update: पूर्वोत्तर में आगे बढ़ा मानसून, दक्षिण भारत में भारी बारिश; कई राज्यों में आंधी-तूफान की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-update-monsoon-advances-in-the-northeast-heavy-rain-in-south-india-thunderstorm-warnings-for-several-states/",
-      "important": false
-    },
-    {
-      "id": "c1fa9fa0",
-      "title": "आज का गेहूँ मंडी रेट (09 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (09 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-09-june-2026/",
-      "important": false
-    },
-    {
-      "id": "0175be6d",
-      "title": "आज का धान मंडी रेट (09 जून 2026)",
-      "summary": "आज का धान मंडी रेट (09 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-09-june-2026/",
-      "important": false
-    },
-    {
-      "id": "5efd5f15",
-      "title": "आज का मक्का मंडी रेट (09 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (09 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-09-june-2026/",
-      "important": false
-    },
-    {
-      "id": "7d6d86c6",
-      "title": "आज का सोयाबीन मंडी रेट (09 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (09 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-09-june-2026/",
-      "important": false
-    },
-    {
-      "id": "4713c407",
-      "title": "उद्यानिकी का रकबा बढ़ाने के लिये किसानों को प्रोत्साहित करें : कृषि उत्पादन आयुक्त श्री वर्णवाल",
-      "summary": "उद्यानिकी का रकबा बढ़ाने के लिये किसानों को प्रोत्साहित करें : कृषि उत्पादन आयुक्त श्री वर्णवाल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/encourage-farmers-to-increase-the-area-under-horticulture-agriculture-production-commissioner-shri-varnwal/",
-      "important": false
-    },
-    {
-      "id": "2eab1ed3",
-      "title": "हर ग्राम में बनेगी एक लखपति गोपालक दीदी",
-      "summary": "हर ग्राम में बनेगी एक लखपति गोपालक दीदी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-lakhpati-gopalak-didi-will-be-created-in-every-village/",
       "important": false
     }
   ]
