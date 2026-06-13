@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-13T04:19:53Z",
-  "new_count": 0,
+  "updated": "2026-06-13T09:25:06Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "d202f7e5",
+      "title": "नीमच जिले में 87,846 हेक्टेयर में हो रही उद्यानिकी फसलें",
+      "summary": "नीमच जिले में 87,846 हेक्टेयर में हो रही उद्यानिकी फसलें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/horticultural-crops-are-being-cultivated-on-87846-hectares-in-neemuch-district/",
+      "important": false
+    },
+    {
+      "id": "f698a4c4",
+      "title": "रतलाम: खेत बचाओ अभियान अंतर्गत जागरूकता कार्यक्रम आयोजित",
+      "summary": "रतलाम: खेत बचाओ अभियान अंतर्गत जागरूकता कार्यक्रम आयोजित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ratlam-awareness-program-organized-under-the-save-the-farm-campaign/",
+      "important": false
+    },
+    {
+      "id": "90fbc176",
+      "title": "वैश्विक खाद्य सुरक्षा के लिए छोटे किसानों का सशक्तिकरण जरूरी : ब्रिक्स बैठक में बोले  शिवराज सिंह चौहान",
+      "summary": "वैश्विक खाद्य सुरक्षा के लिए छोटे किसानों का सशक्तिकरण जरूरी : ब्रिक्स बैठक में बोले  शिवराज सिंह चौहान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/empowerment-of-small-farmers-essential-for-global-food-security-shivraj-singh-chouhan-at-brics-meeting/",
+      "important": false
+    },
+    {
+      "id": "c283c081",
+      "title": "आगर मालवा : पीएम किसान सम्मान निधि योजना के हितग्राही 30 जून तक बायोमेट्रिक ई-केवाईसी कराएं",
+      "summary": "आगर मालवा : पीएम किसान सम्मान निधि योजना के हितग्राही 30 जून तक बायोमेट्रिक ई-केवाईसी कराएं",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agar-malwa-beneficiaries-of-the-pm-kisan-samman-nidhi-yojana-must-complete-their-biometric-e-kyc-by-june-30/",
+      "important": false
+    },
+    {
+      "id": "d6b42b63",
+      "title": "भारत का कुल खाद्य उत्पादन 376 मिलियन टन पहुंचा",
+      "summary": "भारत का कुल खाद्य उत्पादन 376 मिलियन टन पहुंचा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/indias-total-food-production-reached-376-million-tonnes/",
+      "important": false
+    },
+    {
+      "id": "4298ee1b",
+      "title": "शाजापुर कलेक्टर ने उर्वरक वितरण केंद्रों का किया निरीक्षण",
+      "summary": "शाजापुर कलेक्टर ने उर्वरक वितरण केंद्रों का किया निरीक्षण",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shajapur-collector-inspected-fertilizer-distribution-centers/",
+      "important": false
+    },
+    {
+      "id": "e1a7287d",
+      "title": "देवास : मूंग फसल उपार्जन के लिए 15 जून तक कराएं पंजीयन",
+      "summary": "देवास : मूंग फसल उपार्जन के लिए 15 जून तक कराएं पंजीयन",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dewas-register-by-june-15-for-moong-crop-procurement/",
+      "important": false
+    },
+    {
+      "id": "48e99d7b",
+      "title": "देवास: सर्वोत्तम कृषक पुरस्कार के लिए 30 जून तक आवेदन करें",
+      "summary": "देवास: सर्वोत्तम कृषक पुरस्कार के लिए 30 जून तक आवेदन करें",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dewas-apply-for-the-best-farmer-award-by-june-30/",
+      "important": false
+    },
     {
       "id": "fb8fca27",
       "title": "बालाघाट में प्रदेश में सर्वाधिक 9081 पशुपालकों के आधार अपडेट हुए",
@@ -463,94 +551,6 @@
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/dhar-last-date-for-repaying-rabi-crop-loans-is-june-15/",
       "important": true
-    },
-    {
-      "id": "6a3f2de2",
-      "title": "मध्यप्रदेश कैबिनेट की बड़ी सौगात: कपास पर मंडी फीस हुई आधी, 1% से घटकर 0.5%",
-      "summary": "मध्यप्रदेश कैबिनेट की बड़ी सौगात: कपास पर मंडी फीस हुई आधी, 1% से घटकर 0.5%",
-      "level": "state",
-      "category": "market",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-gift-from-the-madhya-pradesh-cabinet-market-fee-on-cotton-halved-reduced-from-1-to-0-5/",
-      "important": false
-    },
-    {
-      "id": "e0d67bc3",
-      "title": "खीरे की खेती से चमकी किसान की किस्मत, एक सीजन में कमाया 10 लाख तक का मुनाफा; गुजरात तक हो रही सप्लाई",
-      "summary": "खीरे की खेती से चमकी किसान की किस्मत, एक सीजन में कमाया 10 लाख तक का मुनाफा; गुजरात तक हो रही सप्लाई",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/cucumber-farming-transforms-a-farmers-fortunes-earns-a-profit-of-up-to-%e2%82%b910-lakh-in-a-single-season-with-supplies-reaching-as-far-as-gujarat/",
-      "important": false
-    },
-    {
-      "id": "e96148d7",
-      "title": "म.प्र. में मंडी शुल्क वृद्धि तत्काल प्रभाव से वापस लेने की मांग",
-      "summary": "म.प्र. में मंडी शुल्क वृद्धि तत्काल प्रभाव से वापस लेने की मांग",
-      "level": "state",
-      "category": "price",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/demand-to-withdraw-the-hike-in-mandi-fees-in-madhya-pradesh-with-immediate-effect/",
-      "important": false
-    },
-    {
-      "id": "82d553dd",
-      "title": "इंदौर: ग्रामीण हाट बाजार में आज पारंपरिक एवं जैविक उत्पादों की होगी विशेष बिक्री",
-      "summary": "इंदौर: ग्रामीण हाट बाजार में आज पारंपरिक एवं जैविक उत्पादों की होगी विशेष बिक्री",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/indore-special-sale-of-traditional-and-organic-products-to-be-held-today-at-the-rural-haat-bazaar/",
-      "important": false
-    },
-    {
-      "id": "64de189b",
-      "title": "गौ संवर्धन योजना बनी सहारा! किसान ने 5 भैंसों से शुरू किया डेयरी व्यवसाय, अब हर महीने हो रही हजारों की कमाई",
-      "summary": "गौ संवर्धन योजना बनी सहारा! किसान ने 5 भैंसों से शुरू किया डेयरी व्यवसाय, अब हर महीने हो रही हजारों की कमाई",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/cattle-rearing-scheme-proves-to-be-a-lifeline-a-farmer-started-a-dairy-business-with-5-buffaloes-and-is-now-earning-thousands-every-month/",
-      "important": false
-    },
-    {
-      "id": "627387dd",
-      "title": "कपास पर मंडी फीस की दर 1% से घटाकर 0.5% करने का किया अनुमोदन",
-      "summary": "कपास पर मंडी फीस की दर 1% से घटाकर 0.5% करने का किया अनुमोदन",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/approval-granted-to-reduce-the-mandi-fee-rate-on-cotton-from-1-to-0-5/",
-      "important": false
-    },
-    {
-      "id": "13685f79",
-      "title": "मुख्यमंत्री मछुआ समृद्धि योजना के तहत 11 जून तक आवेदन आमंत्रित",
-      "summary": "मुख्यमंत्री मछुआ समृद्धि योजना के तहत 11 जून तक आवेदन आमंत्रित",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/applications-invited-under-the-chief-ministers-fishermen-prosperity-scheme-until-june-11/",
-      "important": false
-    },
-    {
-      "id": "0086700a",
-      "title": "एनएएएस-धानुका कृषि प्रसार उत्कृष्टता पुरस्कार 2026: कृषि विज्ञान केंद्रों और वैज्ञानिकों को मिला राष्ट्रीय सम्मान",
-      "summary": "एनएएएस-धानुका कृषि प्रसार उत्कृष्टता पुरस्कार 2026: कृषि विज्ञान केंद्रों और वैज्ञानिकों को मिला राष्ट्रीय सम्मान",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/naas-dhanuka-agricultural-extension-excellence-award-2026-national-honor-for-krishi-vigyan-kendras-and-scientists/",
-      "important": false
     }
   ]
 }
