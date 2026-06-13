@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-13T09:25:06Z",
+  "updated": "2026-06-13T14:12:35Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "0d9a5314",
+      "title": "टीकमगढ़ : मौसम विभाग की कृषि एवं पशुपालकों के लिए सलाह",
+      "summary": "टीकमगढ़ : मौसम विभाग की कृषि एवं पशुपालकों के लिए सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/tikamgarh-meteorological-departments-advisory-for-farmers-and-livestock-rearers/",
+      "important": false
+    },
+    {
+      "id": "b78ddedd",
+      "title": "IMD Forecast: राजस्थान में सबसे ज्यादा गर्मी, उत्तर भारत में आंधी-बारिश का अलर्ट; जानें देशभर का मौसम",
+      "summary": "IMD Forecast: राजस्थान में सबसे ज्यादा गर्मी, उत्तर भारत में आंधी-बारिश का अलर्ट; जानें देशभर का मौसम",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-forecast-rajasthan-faces-peak-heat-alert-issued-for-thunderstorms-and-rain-in-north-india-check-the-weather-across-the-country/",
+      "important": false
+    },
+    {
+      "id": "43e28bf0",
+      "title": "छतरपुर: स्मार्ट फिश पार्लर से बढ़ रही मछुआरों की आय",
+      "summary": "छतरपुर: स्मार्ट फिश पार्लर से बढ़ रही मछुआरों की आय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhatarpur-fishermens-income-rising-due-to-smart-fish-parlours/",
+      "important": false
+    },
+    {
+      "id": "c776d169",
+      "title": "छतरपुर में मधुमक्खी पालन को बढ़ावा देने तीन दिवसीय प्रशिक्षण आयोजित",
+      "summary": "छतरपुर में मधुमक्खी पालन को बढ़ावा देने तीन दिवसीय प्रशिक्षण आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/three-day-training-organized-to-promote-beekeeping-in-chhatarpur/",
+      "important": false
+    },
+    {
+      "id": "78806b5f",
+      "title": "पन्ना में वैज्ञानिक परामर्शदात्री समिति की बैठक संपन्न",
+      "summary": "पन्ना में वैज्ञानिक परामर्शदात्री समिति की बैठक संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/scientific-advisory-committee-meeting-concludes-in-panna/",
+      "important": false
+    },
+    {
+      "id": "cc5a2c2c",
+      "title": "सागर: खाद उठाव और उपार्जन भुगतान में ढिलाई पर कलेक्टर ने जताई नाराजगी",
+      "summary": "सागर: खाद उठाव और उपार्जन भुगतान में ढिलाई पर कलेक्टर ने जताई नाराजगी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sagar-collector-expresses-displeasure-over-laxity-in-fertilizer-lifting-and-procurement-payments/",
+      "important": false
+    },
+    {
+      "id": "fb449c4a",
+      "title": "सिंगरौली: रेशम समृद्धि योजना में ई-रेशम पोर्टल पर ऑनलाइन पंजीयन शुरू",
+      "summary": "सिंगरौली: रेशम समृद्धि योजना में ई-रेशम पोर्टल पर ऑनलाइन पंजीयन शुरू",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/singrauli-online-registration-for-the-resham-samriddhi-yojana-has-started-on-the-e-resham-portal/",
+      "important": false
+    },
+    {
+      "id": "57ef6041",
+      "title": "सतना: धान की सीधी बुवाई पद्धति अपनाने के लिए दिशा-निर्देश जारी",
+      "summary": "सतना: धान की सीधी बुवाई पद्धति अपनाने के लिए दिशा-निर्देश जारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/satna-guidelines-issued-for-adopting-the-direct-seeding-method-for-paddy/",
+      "important": false
+    },
     {
       "id": "d202f7e5",
       "title": "नीमच जिले में 87,846 हेक्टेयर में हो रही उद्यानिकी फसलें",
@@ -463,94 +551,6 @@
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-10-june-2026/",
       "important": false
-    },
-    {
-      "id": "f9502474",
-      "title": "आज का सोयाबीन मंडी रेट (10 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (10 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-10-june-2026/",
-      "important": false
-    },
-    {
-      "id": "9fbe9b29",
-      "title": "MP Weather: मध्यप्रदेश के रीवा-जबलपुर समेत इन जिलों में बरसेंगे बादल, मौसम विभाग ने जारी की चेतावनी",
-      "summary": "MP Weather: मध्यप्रदेश के रीवा-जबलपुर समेत इन जिलों में बरसेंगे बादल, मौसम विभाग ने जारी की चेतावनी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mp-weather-rain-expected-in-districts-including-rewa-and-jabalpur-meteorological-department-issues-warning/",
-      "important": false
-    },
-    {
-      "id": "078f8990",
-      "title": "रायपुर: महासमुंद में डेयरी व्यवसाय बना किसानों की आय का सहारा, रोजाना बिक रहा 34 हजार लीटर दूध",
-      "summary": "रायपुर: महासमुंद में डेयरी व्यवसाय बना किसानों की आय का सहारा, रोजाना बिक रहा 34 हजार लीटर दूध",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-dairy-farming-becomes-a-source-of-income-for-farmers-in-mahasamund-34000-liters-of-milk-sold-daily/",
-      "important": false
-    },
-    {
-      "id": "21d02e7b",
-      "title": "केंद्रीय वित्त मंत्री ने महिलाओं के नेतृत्व वाले पहले एग्रो-प्रोसेसिंग सेंटर का उद्घाटन किया",
-      "summary": "केंद्रीय वित्त मंत्री ने महिलाओं के नेतृत्व वाले पहले एग्रो-प्रोसेसिंग सेंटर का उद्घाटन किया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-union-finance-minister-inaugurated-the-first-women-led-agro-processing-center/",
-      "important": false
-    },
-    {
-      "id": "ca0cddeb",
-      "title": "रायपुर: खरीफ सीजन से पहले किसानों को बड़ी सौगात, ICAR-NIBSM ने 170 से अधिक किसानों को बांटे उन्नत धान बीज",
-      "summary": "रायपुर: खरीफ सीजन से पहले किसानों को बड़ी सौगात, ICAR-NIBSM ने 170 से अधिक किसानों को बांटे उन्नत धान बीज",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-a-major-boon-for-farmers-ahead-of-the-kharif-season-icar-nibsm-distributed-improved-paddy-seeds-to-over-170-farmers/",
-      "important": false
-    },
-    {
-      "id": "0ec7b8c3",
-      "title": "एफएमसी इंडिया ने किसानों के लिए लॉन्च किए पांच नए उत्पाद",
-      "summary": "एफएमसी इंडिया ने किसानों के लिए लॉन्च किए पांच नए उत्पाद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/fmc-india-launches-five-new-products-for-farmers/",
-      "important": false
-    },
-    {
-      "id": "daec00c9",
-      "title": "अफीम की खेती होगी हाईटेक! CBN लगाएगा विशेष किसान शिविर, किसानों को मिलेगी स्मार्ट फार्मिंग की ट्रेनिंग",
-      "summary": "अफीम की खेती होगी हाईटेक! CBN लगाएगा विशेष किसान शिविर, किसानों को मिलेगी स्मार्ट फार्मिंग की ट्रेनिंग",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/opium-farming-set-to-go-high-tech-cbn-to-organize-special-camps-farmers-to-receive-training-in-smart-farming/",
-      "important": false
-    },
-    {
-      "id": "0c4f0172",
-      "title": "धार: रबी फसल ऋण को जमा करने की अंतिम तिथि 15 जून",
-      "summary": "धार: रबी फसल ऋण को जमा करने की अंतिम तिथि 15 जून",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dhar-last-date-for-repaying-rabi-crop-loans-is-june-15/",
-      "important": true
     }
   ]
 }
