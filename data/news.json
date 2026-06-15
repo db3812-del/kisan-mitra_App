@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-15T05:02:58Z",
-  "new_count": 0,
+  "updated": "2026-06-15T12:29:25Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "5fa359e2",
+      "title": "आज का गेहूँ मंडी रेट (15 जून 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (15 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-15-june-2026/",
+      "important": false
+    },
+    {
+      "id": "164c4f7c",
+      "title": "आज का धान मंडी रेट (15 जून 2026)",
+      "summary": "आज का धान मंडी रेट (15 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-15-june-2026/",
+      "important": false
+    },
+    {
+      "id": "af151f11",
+      "title": "आज का मक्का मंडी रेट (15 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (15 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-15-june-2026/",
+      "important": false
+    },
+    {
+      "id": "a9ce0178",
+      "title": "मध्यप्रदेश में मानसून की आहट, कृषि वैज्ञानिकों ने किसानों को दी बीज-खाद भंडारण और खरीफ फसलों के चयन की सलाह",
+      "summary": "मध्यप्रदेश में मानसून की आहट, कृषि वैज्ञानिकों ने किसानों को दी बीज-खाद भंडारण और खरीफ फसलों के चयन की सलाह",
+      "level": "state",
+      "category": "price",
+      "date": "2026-06-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/monsoon-approaches-madhya-pradesh-agricultural-scientists-advise-farmers-on-seed-and-fertilizer-storage-and-the-selection-of-kharif-crops/",
+      "important": false
+    },
+    {
+      "id": "40c9d1fd",
+      "title": "आज का सोयाबीन मंडी रेट (15 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (15 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-15-june-2026/",
+      "important": false
+    },
+    {
+      "id": "aad830ca",
+      "title": "देशभर में मानसून ने पकड़ी रफ्तार, बिहार-झारखंड तक पहुंचा; पूर्वोत्तर में भारी बारिश, कई राज्यों में आंधी-तूफान का अलर्ट",
+      "summary": "देशभर में मानसून ने पकड़ी रफ्तार, बिहार-झारखंड तक पहुंचा; पूर्वोत्तर में भारी बारिश, कई राज्यों में आंधी-तूफान का अलर्ट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/monsoon-gathers-momentum-across-the-country-reaching-bihar-and-jharkhand-heavy-rainfall-in-the-northeast-and-alerts-for-thunderstorms-issued-for-several-states/",
+      "important": false
+    },
+    {
+      "id": "06506b63",
+      "title": "मध्यप्रदेश में मानसून की दस्तक से पहले मौसम बदला, भोपाल-ग्वालियर समेत कई जिलों में बारिश-आंधी; सीहोर और सागर में तेज हवा",
+      "summary": "मध्यप्रदेश में मानसून की दस्तक से पहले मौसम बदला, भोपाल-ग्वालियर समेत कई जिलों में बारिश-आंधी; सीहोर और सागर में तेज हवाओं का अलर्ट",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/weather-shifts-in-madhya-pradesh-ahead-of-the-monsoons-arrival-rain-and-storms-hit-several-districts-including-bhopal-and-gwalior-strong-wind-alerts-issued-for-sehore-and-sagar/",
+      "important": false
+    },
+    {
+      "id": "27c037eb",
+      "title": "नौकरी छोड़ खेती को बनाया करियर, चिया-किनोवा की खेती से दोगुनी हुई आय; अब 400 किसानों को दे रहे प्रशिक्षण",
+      "summary": "नौकरी छोड़ खेती को बनाया करियर, चिया-किनोवा की खेती से दोगुनी हुई आय; अब 400 किसानों को दे रहे प्रशिक्षण",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/quit-job-to-pursue-farming-as-a-career-income-doubled-through-chia-and-quinoa-cultivation-now-training-400-farmers/",
+      "important": false
+    },
     {
       "id": "0d9a5314",
       "title": "टीकमगढ़ : मौसम विभाग की कृषि एवं पशुपालकों के लिए सलाह",
@@ -462,94 +550,6 @@
       "date": "2026-06-11",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/the-path-to-prosperity-through-vegetables-production-increased-by-21-58-lakh-tonnes-in-four-years-madhya-pradeshs-major-resolve-during-the-year-of-farmers-welfare/",
-      "important": false
-    },
-    {
-      "id": "7d4b08d3",
-      "title": "IMD Alert: मानसून ने पकड़ी रफ्तार, अगले 3 दिनों में इन राज्यों में होगी झमाझम बारिश, 80 KM/H की रफ्तार से चलेंगी हवाएं",
-      "summary": "IMD Alert: मानसून ने पकड़ी रफ्तार, अगले 3 दिनों में इन राज्यों में होगी झमाझम बारिश, 80 KM/H की रफ्तार से चलेंगी हवाएं",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/imd-alert-monsoon-picks-up-pace-heavy-rainfall-expected-in-these-states-over-the-next-3-days-with-winds-gusting-up-to-80-km-h/",
-      "important": false
-    },
-    {
-      "id": "f24933d0",
-      "title": "मध्य प्रदेश में प्री-मानसून एक्टिविटी तेज: रीवा, सतना, ग्वालियर समेत इन जिलों में तेज हवाओं-बारिश की चेतावनी; IMD ने जार",
-      "summary": "मध्य प्रदेश में प्री-मानसून एक्टिविटी तेज: रीवा, सतना, ग्वालियर समेत इन जिलों में तेज हवाओं-बारिश की चेतावनी; IMD ने जारी किया अलर्ट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pre-monsoon-activity-intensifies-in-madhya-pradesh-warning-of-strong-winds-and-rain-for-districts-including-rewa-satna-and-gwalior-imd-issues-alert/",
-      "important": false
-    },
-    {
-      "id": "4cb71f52",
-      "title": "नेपाल ने भारतीय आम के आयात पर नहीं लगाया प्रतिबंध, कृषि मंत्रालय ने दी जानकारी",
-      "summary": "नेपाल ने भारतीय आम के आयात पर नहीं लगाया प्रतिबंध, कृषि मंत्रालय ने दी जानकारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/nepal-has-not-imposed-a-ban-on-the-import-of-indian-mangoes-ministry-of-agriculture-provides-information/",
-      "important": false
-    },
-    {
-      "id": "385e08b1",
-      "title": "अब घर बैठे करें किसान क्रेडिट कार्ड के लिए आवेदन, विदिशा में शुरू हुआ डिजिटल अभियान",
-      "summary": "अब घर बैठे करें किसान क्रेडिट कार्ड के लिए आवेदन, विदिशा में शुरू हुआ डिजिटल अभियान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/now-apply-for-a-kisan-credit-card-from-the-comfort-of-your-home-digital-campaign-launched-in-vidisha/",
-      "important": false
-    },
-    {
-      "id": "26ab8c6a",
-      "title": "रायपुर: पशुपालन ने बदली सरस्वती पैंकरा की किस्मत, दूध बेचकर हर महीने कमा रहीं 20 हजार रुपए",
-      "summary": "रायपुर: पशुपालन ने बदली सरस्वती पैंकरा की किस्मत, दूध बेचकर हर महीने कमा रहीं 20 हजार रुपए",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-animal-husbandry-transforms-saraswati-paikras-fortunes-she-earns-%e2%82%b920000-per-month-selling-milk/",
-      "important": false
-    },
-    {
-      "id": "54c8e496",
-      "title": "पांढुर्ना: उर्वरक वितरण व्यवस्था की एसडीएम ने की समीक्षा",
-      "summary": "पांढुर्ना: उर्वरक वितरण व्यवस्था की एसडीएम ने की समीक्षा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pandhurna-sdm-reviews-fertilizer-distribution-system/",
-      "important": false
-    },
-    {
-      "id": "98b6ccbc",
-      "title": "आज का धान मंडी रेट (10 जून 2026)",
-      "summary": "आज का धान मंडी रेट (10 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-10-june-2026/",
-      "important": false
-    },
-    {
-      "id": "6fde2cbb",
-      "title": "आज का मक्का मंडी रेट (10 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (10 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-10-june-2026/",
       "important": false
     }
   ]
