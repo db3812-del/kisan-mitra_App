@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-15T12:29:25Z",
-  "new_count": 8,
+  "updated": "2026-06-15T21:11:39Z",
+  "new_count": 2,
   "articles": [
+    {
+      "id": "bc71ff96",
+      "title": "सिर्फ 0.12 हेक्टेयर में गेंदा की खेती से कमाए 1.39 लाख रुपये, इन्दिरा भादे बनीं महिला किसानों की मिसाल",
+      "summary": "सिर्फ 0.12 हेक्टेयर में गेंदा की खेती से कमाए 1.39 लाख रुपये, इन्दिरा भादे बनीं महिला किसानों की मिसाल",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/earned-%e2%82%b91-39-lakh-from-marigold-cultivation-on-just-0-12-hectares-indira-bhade-sets-an-example-for-women-farmers/",
+      "important": false
+    },
+    {
+      "id": "a74e2bfd",
+      "title": "भारत की खाद्य सुरक्षा के भविष्य के लिए जीएम फसलें महत्वपूर्ण, पीएयू कार्यशाला में विशेषज्ञों ने कहा",
+      "summary": "भारत की खाद्य सुरक्षा के भविष्य के लिए जीएम फसलें महत्वपूर्ण, पीएयू कार्यशाला में विशेषज्ञों ने कहा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/gm-crops-are-crucial-for-the-future-of-indias-food-security-experts-said-at-a-pau-workshop/",
+      "important": false
+    },
     {
       "id": "5fa359e2",
       "title": "आज का गेहूँ मंडी रेट (15 जून 2026)",
@@ -528,28 +550,6 @@
       "date": "2026-06-11",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-11-june-2026/",
-      "important": false
-    },
-    {
-      "id": "f3bd6953",
-      "title": "पीएम धन-धान्य कृषि योजना: जशपुर के कृषि नवाचारों की केंद्र ने की प्रशंसा, किसानों की आय बढ़ाने पर जोर",
-      "summary": "पीएम धन-धान्य कृषि योजना: जशपुर के कृषि नवाचारों की केंद्र ने की प्रशंसा, किसानों की आय बढ़ाने पर जोर",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pm-dhan-dhanya-krishi-yojana-centre-praises-jashpurs-agricultural-innovations-emphasis-on-boosting-farmers-income/",
-      "important": false
-    },
-    {
-      "id": "70bae168",
-      "title": "सब्जियों से समृद्धि की राह : चार साल में 21.58 लाख टन बढ़ा उत्पादन, किसान कल्याण वर्ष में मध्यप्रदेश का बड़ा संकल्प",
-      "summary": "सब्जियों से समृद्धि की राह : चार साल में 21.58 लाख टन बढ़ा उत्पादन, किसान कल्याण वर्ष में मध्यप्रदेश का बड़ा संकल्प",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-path-to-prosperity-through-vegetables-production-increased-by-21-58-lakh-tonnes-in-four-years-madhya-pradeshs-major-resolve-during-the-year-of-farmers-welfare/",
       "important": false
     }
   ]
