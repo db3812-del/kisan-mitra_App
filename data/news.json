@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-16T05:05:54Z",
+  "updated": "2026-06-16T11:22:59Z",
   "new_count": 1,
   "articles": [
+    {
+      "id": "c683dedf",
+      "title": "रायपुर: कृषि विज्ञान केंद्र सुरगी मॉडल की देशभर में चर्चा, जैविक खेती और आधुनिक तकनीक से बदल रही किसानों की तकदीर",
+      "summary": "रायपुर: कृषि विज्ञान केंद्र सुरगी मॉडल की देशभर में चर्चा, जैविक खेती और आधुनिक तकनीक से बदल रही किसानों की तकदीर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-the-krishi-vigyan-kendra-surgi-model-is-gaining-nationwide-attention-organic-farming-and-modern-technology-are-transforming-farmers-fortunes/",
+      "important": false
+    },
     {
       "id": "3058652d",
       "title": "खरीफ सीजन की तैयारी शुरू, कृषि विभाग ने किसानों को बताए अधिक उत्पादन के दिए अहम सुझाव",
@@ -539,17 +550,6 @@
       "date": "2026-06-11",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/rajasthan-seed-corporation-removes-jugal-kishore-from-the-post-of-director-managing-director-issues-orders/",
-      "important": false
-    },
-    {
-      "id": "bba0ba00",
-      "title": "आज का मक्का मंडी रेट (11 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (11 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-11-june-2026/",
       "important": false
     }
   ]
