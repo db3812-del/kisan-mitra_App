@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-16T11:22:59Z",
-  "new_count": 1,
+  "updated": "2026-06-16T17:06:48Z",
+  "new_count": 6,
   "articles": [
+    {
+      "id": "6f61fe5a",
+      "title": "मप्र में 12 कृषि उप संचालक बदले",
+      "summary": "मप्र में 12 कृषि उप संचालक बदले",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/12-deputy-directors-of-agriculture-were-transferred-in-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "2ab5f572",
+      "title": "बिहार में गुड़ फैक्ट्री लगाने का सुनहरा मौका, 1 करोड़ रुपये तक मिलेगी सब्सिडी; ऐसे करें आवेदन",
+      "summary": "बिहार में गुड़ फैक्ट्री लगाने का सुनहरा मौका, 1 करोड़ रुपये तक मिलेगी सब्सिडी; ऐसे करें आवेदन",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-golden-opportunity-to-set-up-a-jaggery-factory-in-bihar-get-a-subsidy-of-up-to-%e2%82%b91-crore-heres-how-to-apply/",
+      "important": false
+    },
+    {
+      "id": "e7b0b3c1",
+      "title": "पीला तना छेदक से लेकर ब्लास्ट रोग तक, ये 12 कीट और रोग घटा सकते हैं धान की पैदावार; जानें बचाव के उपाय",
+      "summary": "पीला तना छेदक से लेकर ब्लास्ट रोग तक, ये 12 कीट और रोग घटा सकते हैं धान की पैदावार; जानें बचाव के उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/from-the-yellow-stem-borer-to-blast-disease-these-12-pests-and-diseases-can-reduce-paddy-yields-learn-about-preventive-measures/",
+      "important": false
+    },
+    {
+      "id": "189b4c3c",
+      "title": "मूंगफली की खेती से होगी अच्छी कमाई, बुवाई से पहले इन बातों का रखें ध्यान",
+      "summary": "मूंगफली की खेती से होगी अच्छी कमाई, बुवाई से पहले इन बातों का रखें ध्यान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/earn-good-profits-from-groundnut-farming-keep-these-points-in-mind-before-sowing/",
+      "important": false
+    },
+    {
+      "id": "03ed82df",
+      "title": "केंद्रीय कृषि मंत्री ने विदिशा में किया कृषि विज्ञान केंद्र का भूमिपूजन",
+      "summary": "केंद्रीय कृषि मंत्री ने विदिशा में किया कृषि विज्ञान केंद्र का भूमिपूजन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/union-agriculture-minister-performs-the-groundbreaking-ceremony-for-the-krishi-vigyan-kendra-in-vidisha/",
+      "important": false
+    },
+    {
+      "id": "52aa4e85",
+      "title": "तमिलनाडु सरकार का बड़ा फैसला: 75 हजार तक का फसल लोन माफ, 14.43 लाख किसानों को मिलेगा फायदा",
+      "summary": "तमिलनाडु सरकार का बड़ा फैसला: 75 हजार तक का फसल लोन माफ, 14.43 लाख किसानों को मिलेगा फायदा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/major-decision-by-the-tamil-nadu-government-crop-loans-up-to-%e2%82%b975000-waived-14-43-lakh-farmers-to-benefit/",
+      "important": false
+    },
     {
       "id": "c683dedf",
       "title": "रायपुर: कृषि विज्ञान केंद्र सुरगी मॉडल की देशभर में चर्चा, जैविक खेती और आधुनिक तकनीक से बदल रही किसानों की तकदीर",
@@ -484,72 +550,6 @@
       "date": "2026-06-12",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/seoni-training-on-dsr-technique-for-paddy-cultivation-organized/",
-      "important": false
-    },
-    {
-      "id": "7ccb79d3",
-      "title": "गुना को फ्लोरीकल्चर हब बनाने की कवायद शुरू, गुलाब खेती से किसानों की आय बढ़ाने का रोडमैप तैयार",
-      "summary": "गुना को फ्लोरीकल्चर हब बनाने की कवायद शुरू, गुलाब खेती से किसानों की आय बढ़ाने का रोडमैप तैयार",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/efforts-initiated-to-transform-guna-into-a-floriculture-hub-roadmap-prepared-to-boost-farmers-income-through-rose-cultivation/",
-      "important": false
-    },
-    {
-      "id": "bef2b08c",
-      "title": "खाद वितरण केंद्र का गुना कलेक्टर ने किया निरीक्षण, किसानों से लिया फीडबैक; बढ़ेंगे वितरण केंद्र",
-      "summary": "खाद वितरण केंद्र का गुना कलेक्टर ने किया निरीक्षण, किसानों से लिया फीडबैक; बढ़ेंगे वितरण केंद्र",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guna-collector-inspects-fertilizer-distribution-center-and-gathers-feedback-from-farmers-number-of-distribution-centers-to-increase/",
-      "important": false
-    },
-    {
-      "id": "53fbc0f5",
-      "title": "विदेशी मेहमानों ने होलकर राज में कम्पोस्ट विधि से तैयार ऑर्गेनिक खेती के बारे में जाना",
-      "summary": "विदेशी मेहमानों ने होलकर राज में कम्पोस्ट विधि से तैयार ऑर्गेनिक खेती के बारे में जाना",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/foreign-guests-learned-about-organic-farming-using-the-compost-method-as-practiced-during-the-holkar-reign/",
-      "important": false
-    },
-    {
-      "id": "26fdf51f",
-      "title": "रायपुर: एक कॉल पर घर पहुंच रही पशु चिकित्सा टीम, पशुपालकों के लिए वरदान बनी 1962 हेल्पलाइन",
-      "summary": "रायपुर: एक कॉल पर घर पहुंच रही पशु चिकित्सा टीम, पशुपालकों के लिए वरदान बनी 1962 हेल्पलाइन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-veterinary-team-reaches-homes-on-a-single-call-1962-helpline-proves-to-be-a-boon-for-livestock-owners/",
-      "important": false
-    },
-    {
-      "id": "155c70a0",
-      "title": "रायपुर : शाक-सब्जी की खेती से आत्मनिर्भर बनीं मनीषा नागेश, ग्रामीण महिलाओं के लिए बनीं प्रेरणा",
-      "summary": "रायपुर : शाक-सब्जी की खेती से आत्मनिर्भर बनीं मनीषा नागेश, ग्रामीण महिलाओं के लिए बनीं प्रेरणा",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-manisha-nagesh-became-self-reliant-through-vegetable-farming-and-an-inspiration-for-rural-women/",
-      "important": false
-    },
-    {
-      "id": "d245b3f9",
-      "title": "राजस्थान: बीज निगम ने जुगल किशोर को निदेशक पद से हटाया, मैनेजिंग डायरेक्टर ने जारी किए आदेश",
-      "summary": "राजस्थान: बीज निगम ने जुगल किशोर को निदेशक पद से हटाया, मैनेजिंग डायरेक्टर ने जारी किए आदेश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-seed-corporation-removes-jugal-kishore-from-the-post-of-director-managing-director-issues-orders/",
       "important": false
     }
   ]
