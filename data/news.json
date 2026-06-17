@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-17T04:47:33Z",
+  "updated": "2026-06-17T11:07:58Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "71d74431",
+      "title": "खाद की कालाबाजारी, नकली खाद और अवैध भंडारण की सूचना दें और इनाम पाएं",
+      "summary": "खाद की कालाबाजारी, नकली खाद और अवैध भंडारण की सूचना दें और इनाम पाएं",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/report-the-black-marketing-sale-of-spurious-fertilizer-and-illegal-storage-of-fertilizer-to-earn-a-reward/",
+      "important": false
+    },
+    {
+      "id": "904afa42",
+      "title": "उन्नत एवं आधुनिक कृषि यंत्रों को बढ़ावा दें और कृषि को बनाएं लाभ का व्यवसाय – कलेक्टर नर्मदापुरम",
+      "summary": "उन्नत एवं आधुनिक कृषि यंत्रों को बढ़ावा दें और कृषि को बनाएं लाभ का व्यवसाय – कलेक्टर नर्मदापुरम",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/promote-advanced-and-modern-agricultural-machinery-and-make-agriculture-a-profitable-business-collector-narmadapuram/",
+      "important": false
+    },
+    {
+      "id": "046d9873",
+      "title": "2025-26 में देश का बागवानी उत्पादन 3777 लाख टन पहुंचने का अनुमान",
+      "summary": "2025-26 में देश का बागवानी उत्पादन 3777 लाख टन पहुंचने का अनुमान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/the-countrys-horticulture-production-is-projected-to-reach-377-7-million-tonnes-in-2025-26/",
+      "important": false
+    },
+    {
+      "id": "4cd3c393",
+      "title": "जबलपुर में मिलेट्स खेती को बढ़ावा, 250 किसानों को निःशुल्क बांटे गए कोदो, कुटकी और रागी के बीज",
+      "summary": "जबलपुर में मिलेट्स खेती को बढ़ावा, 250 किसानों को निःशुल्क बांटे गए कोदो, कुटकी और रागी के बीज",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/promotion-of-millet-farming-in-jabalpur-free-seeds-of-kodo-kutki-and-ragi-distributed-to-250-farmers/",
+      "important": false
+    },
+    {
+      "id": "d81edaed",
+      "title": "सिवनी में स्थापित हुआ स्वचालित मौसम स्टेशन, किसानों को मिलेगी रियल टाइम मौसम की सटीक जानकारी",
+      "summary": "सिवनी में स्थापित हुआ स्वचालित मौसम स्टेशन, किसानों को मिलेगी रियल टाइम मौसम की सटीक जानकारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/automatic-weather-station-set-up-in-seoni-farmers-to-receive-accurate-real-time-weather-information/",
+      "important": false
+    },
+    {
+      "id": "52d4784a",
+      "title": "मछुआरों के लिए सुनहरा अवसर, झींगा और मत्स्य पालन पर 40% अनुदान देगी मध्यप्रदेश सरकार",
+      "summary": "मछुआरों के लिए सुनहरा अवसर, झींगा और मत्स्य पालन पर 40% अनुदान देगी मध्यप्रदेश सरकार",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-golden-opportunity-for-fishermen-the-madhya-pradesh-government-will-provide-a-40-subsidy-on-shrimp-and-fish-farming/",
+      "important": false
+    },
+    {
+      "id": "3ecc497a",
+      "title": "अब मोबाइल से किराए पर मिलेंगे कृषि यंत्र, जे-फार्म ऐप से आसान हुई बुकिंग",
+      "summary": "अब मोबाइल से किराए पर मिलेंगे कृषि यंत्र, जे-फार्म ऐप से आसान हुई बुकिंग",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agricultural-machinery-can-now-be-rented-via-mobile-booking-made-easy-with-the-j-farm-app/",
+      "important": false
+    },
+    {
+      "id": "e6f07228",
+      "title": "उद्यानिकी योजनाओं का लाभ लेने का मौका, MPFSTS पोर्टल पर किसानों के लिए पंजीयन शुरू",
+      "summary": "उद्यानिकी योजनाओं का लाभ लेने का मौका, MPFSTS पोर्टल पर किसानों के लिए पंजीयन शुरू",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/horticulture/opportunity-to-avail-benefits-of-horticulture-schemes-registration-for-farmers-has-started-on-the-mpfsts-portal/",
+      "important": false
+    },
     {
       "id": "f8b545fe",
       "title": "आलीराजपुर कलेक्टर ने ऑर्गेनिक आम उत्पादक किसानों के फार्मों का किया भ्रमण",
@@ -462,94 +550,6 @@
       "date": "2026-06-13",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/dewas-apply-for-the-best-farmer-award-by-june-30/",
-      "important": false
-    },
-    {
-      "id": "fb8fca27",
-      "title": "बालाघाट में प्रदेश में सर्वाधिक 9081 पशुपालकों के आधार अपडेट हुए",
-      "summary": "बालाघाट में प्रदेश में सर्वाधिक 9081 पशुपालकों के आधार अपडेट हुए",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balaghat-recorded-the-highest-number-of-aadhaar-updates-for-livestock-owners-in-the-state-totaling-9081/",
-      "important": false
-    },
-    {
-      "id": "bcaf8539",
-      "title": "बालाघाट : 14 जून तक जले में हल्की वर्षा, आंधी-तूफान और बिजली गिरने की संभावना",
-      "summary": "बालाघाट : 14 जून तक जले में हल्की वर्षा, आंधी-तूफान और बिजली गिरने की संभावना",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balaghat-possibility-of-light-rain-thunderstorms-and-lightning-strikes-in-the-district-until-june-14/",
-      "important": false
-    },
-    {
-      "id": "aae8830a",
-      "title": "रायपुर: खरीफ सीजन को लेकर महासमुंद में बड़ी समीक्षा बैठक, खाद-बीज से लेकर प्राकृतिक खेती पर जोर",
-      "summary": "रायपुर: खरीफ सीजन को लेकर महासमुंद में बड़ी समीक्षा बैठक, खाद-बीज से लेकर प्राकृतिक खेती पर जोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-major-review-meeting-in-mahasamund-regarding-the-kharif-season-emphasis-placed-on-everything-from-fertilizers-and-seeds-to-natural-farming/",
-      "important": false
-    },
-    {
-      "id": "710d46c7",
-      "title": "आज का गेहूँ मंडी रेट (12 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (12 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-12-june-2026/",
-      "important": false
-    },
-    {
-      "id": "083c5204",
-      "title": "आज का धान मंडी रेट (12 जून 2026)",
-      "summary": "आज का धान मंडी रेट (12 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-12-june-2026/",
-      "important": false
-    },
-    {
-      "id": "f63b1423",
-      "title": "आज का मक्का मंडी रेट (12 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (12 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-12-june-2026/",
-      "important": false
-    },
-    {
-      "id": "fa1f8111",
-      "title": "आज का सोयाबीन मंडी रेट (12 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (12 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-12-june-2026/",
-      "important": false
-    },
-    {
-      "id": "f438cff9",
-      "title": "नीमच जिला कृषि एवं उद्यानिकी में रच रहा नए कीर्तिमान",
-      "summary": "नीमच जिला कृषि एवं उद्यानिकी में रच रहा नए कीर्तिमान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/neemuch-district-is-setting-new-benchmarks-in-agriculture-and-horticulture/",
       "important": false
     }
   ]
