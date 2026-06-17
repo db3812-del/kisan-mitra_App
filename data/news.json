@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-17T11:07:58Z",
-  "new_count": 8,
+  "updated": "2026-06-17T15:51:06Z",
+  "new_count": 6,
   "articles": [
+    {
+      "id": "a6564c47",
+      "title": "Soybean Price: सोयाबीन के भाव में तेजी, महाराष्ट्र की लातूर मंडी में ₹7,100; इंदौर मंडी में ₹6,730 प्रति क्विंटल तक मिले",
+      "summary": "Soybean Price: सोयाबीन के भाव में तेजी, महाराष्ट्र की लातूर मंडी में ₹7,100; इंदौर मंडी में ₹6,730 प्रति क्विंटल तक मिले भाव",
+      "level": "state",
+      "category": "price",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/soybean-prices-prices-rise-rates-reached-%e2%82%b97100-per-quintal-in-maharashtras-latur-market-and-%e2%82%b96730-per-quintal-in-the-indore-market/",
+      "important": false
+    },
+    {
+      "id": "86d0a30b",
+      "title": "आज का गेहूँ मंडी रेट (17 जून 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (17 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-17-june-2026/",
+      "important": false
+    },
+    {
+      "id": "107798bc",
+      "title": "आज का धान मंडी रेट (17 जून 2026)",
+      "summary": "आज का धान मंडी रेट (17 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-17-june-2026/",
+      "important": false
+    },
+    {
+      "id": "db9688b5",
+      "title": "संरक्षित कृषि आधारित मक्का उत्पादन : कम लागत में अधिक उपज का बेहतर तरीका",
+      "summary": "संरक्षित कृषि आधारित मक्का उत्पादन : कम लागत में अधिक उपज का बेहतर तरीका",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/conservation-agriculture-based-maize-production-a-better-way-to-achieve-higher-yields-at-lower-cost/",
+      "important": false
+    },
+    {
+      "id": "fc28db0d",
+      "title": "आज का मक्का मंडी रेट (17 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (17 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-17-june-2026/",
+      "important": false
+    },
+    {
+      "id": "10aaec33",
+      "title": "आज का सोयाबीन मंडी रेट (17 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (17 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-17-june-2026/",
+      "important": false
+    },
     {
       "id": "71d74431",
       "title": "खाद की कालाबाजारी, नकली खाद और अवैध भंडारण की सूचना दें और इनाम पाएं",
@@ -484,72 +550,6 @@
       "date": "2026-06-13",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/ratlam-awareness-program-organized-under-the-save-the-farm-campaign/",
-      "important": false
-    },
-    {
-      "id": "90fbc176",
-      "title": "वैश्विक खाद्य सुरक्षा के लिए छोटे किसानों का सशक्तिकरण जरूरी : ब्रिक्स बैठक में बोले  शिवराज सिंह चौहान",
-      "summary": "वैश्विक खाद्य सुरक्षा के लिए छोटे किसानों का सशक्तिकरण जरूरी : ब्रिक्स बैठक में बोले  शिवराज सिंह चौहान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/empowerment-of-small-farmers-essential-for-global-food-security-shivraj-singh-chouhan-at-brics-meeting/",
-      "important": false
-    },
-    {
-      "id": "c283c081",
-      "title": "आगर मालवा : पीएम किसान सम्मान निधि योजना के हितग्राही 30 जून तक बायोमेट्रिक ई-केवाईसी कराएं",
-      "summary": "आगर मालवा : पीएम किसान सम्मान निधि योजना के हितग्राही 30 जून तक बायोमेट्रिक ई-केवाईसी कराएं",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agar-malwa-beneficiaries-of-the-pm-kisan-samman-nidhi-yojana-must-complete-their-biometric-e-kyc-by-june-30/",
-      "important": false
-    },
-    {
-      "id": "d6b42b63",
-      "title": "भारत का कुल खाद्य उत्पादन 376 मिलियन टन पहुंचा",
-      "summary": "भारत का कुल खाद्य उत्पादन 376 मिलियन टन पहुंचा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/indias-total-food-production-reached-376-million-tonnes/",
-      "important": false
-    },
-    {
-      "id": "4298ee1b",
-      "title": "शाजापुर कलेक्टर ने उर्वरक वितरण केंद्रों का किया निरीक्षण",
-      "summary": "शाजापुर कलेक्टर ने उर्वरक वितरण केंद्रों का किया निरीक्षण",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shajapur-collector-inspected-fertilizer-distribution-centers/",
-      "important": false
-    },
-    {
-      "id": "e1a7287d",
-      "title": "देवास : मूंग फसल उपार्जन के लिए 15 जून तक कराएं पंजीयन",
-      "summary": "देवास : मूंग फसल उपार्जन के लिए 15 जून तक कराएं पंजीयन",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dewas-register-by-june-15-for-moong-crop-procurement/",
-      "important": false
-    },
-    {
-      "id": "48e99d7b",
-      "title": "देवास: सर्वोत्तम कृषक पुरस्कार के लिए 30 जून तक आवेदन करें",
-      "summary": "देवास: सर्वोत्तम कृषक पुरस्कार के लिए 30 जून तक आवेदन करें",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dewas-apply-for-the-best-farmer-award-by-june-30/",
       "important": false
     }
   ]
