@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-16T21:10:18Z",
-  "new_count": 0,
+  "updated": "2026-06-17T04:47:33Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "f8b545fe",
+      "title": "आलीराजपुर कलेक्टर ने ऑर्गेनिक आम उत्पादक किसानों के फार्मों का किया भ्रमण",
+      "summary": "आलीराजपुर कलेक्टर ने ऑर्गेनिक आम उत्पादक किसानों के फार्मों का किया भ्रमण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-alirajpur-collector-visited-the-farms-of-organic-mango-growers/",
+      "important": false
+    },
+    {
+      "id": "5a73d9a8",
+      "title": "18 जून से सक्रिय होगा नया पश्चिमी विक्षोभ, उत्तर-पश्चिम भारत में भारी बारिश-आंधी का अलर्ट; तेलंगाना और छत्तीसगढ़ में लू ",
+      "summary": "18 जून से सक्रिय होगा नया पश्चिमी विक्षोभ, उत्तर-पश्चिम भारत में भारी बारिश-आंधी का अलर्ट; तेलंगाना और छत्तीसगढ़ में लू का खतरा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/new-western-disturbance-to-become-active-from-june-18-alert-issued-for-heavy-rain-and-storms-in-northwest-india-heatwave-risk-in-telangana-and-chhattisgarh-16-%e0%a4%9c%e0%a5%82%e0%a4%a8-2026/",
+      "important": false
+    },
+    {
+      "id": "63f4df0c",
+      "title": "सीहोर: डीएपी की जगह  अन्य उर्वरकों उपयोग करना किसानों के लिए फायदेमंद",
+      "summary": "सीहोर: डीएपी की जगह  अन्य उर्वरकों उपयोग करना किसानों के लिए फायदेमंद",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-using-other-fertilizers-instead-of-dap-is-beneficial-for-farmers/",
+      "important": false
+    },
+    {
+      "id": "e09df6b4",
+      "title": "सीहोर: खरीफ फसलों की अनुशंसित एवं नवीनतम किस्मों का चयन करें",
+      "summary": "सीहोर: खरीफ फसलों की अनुशंसित एवं नवीनतम किस्मों का चयन करें",
+      "level": "state",
+      "category": "price",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-select-recommended-and-latest-varieties-of-kharif-crops/",
+      "important": false
+    },
+    {
+      "id": "115ec986",
+      "title": "सोलहवीं मध्यप्रदेश विधानसभा के एकादश सत्र की अधिसूचना जारी",
+      "summary": "सोलहवीं मध्यप्रदेश विधानसभा के एकादश सत्र की अधिसूचना जारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/notification-issued-for-the-eleventh-session-of-the-16th-madhya-pradesh-legislative-assembly/",
+      "important": false
+    },
+    {
+      "id": "6f1bba5b",
+      "title": "धान रोपाई का आधुनिक कृषि यंत्र – पैडी ट्रांसप्लांटर",
+      "summary": "धान रोपाई का आधुनिक कृषि यंत्र – पैडी ट्रांसप्लांटर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/modern-agricultural-machine-for-paddy-transplanting-paddy-transplanter/",
+      "important": false
+    },
+    {
+      "id": "ad16d9c8",
+      "title": "आज का मक्का मंडी रेट (16 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (16 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-16-june-2026/",
+      "important": false
+    },
+    {
+      "id": "422c45ac",
+      "title": "आज का सोयाबीन मंडी रेट (16 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (16 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-16-june-2026/",
+      "important": false
+    },
     {
       "id": "6f61fe5a",
       "title": "मप्र में 12 कृषि उप संचालक बदले",
@@ -462,94 +550,6 @@
       "date": "2026-06-12",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/neemuch-district-is-setting-new-benchmarks-in-agriculture-and-horticulture/",
-      "important": false
-    },
-    {
-      "id": "605077be",
-      "title": "MP Weather: मध्य प्रदेश में मौसम बदला, ग्वालियर-रीवा-भिंड समेत कई जिलों में आंधी और ओलावृष्टि का अलर्ट",
-      "summary": "MP Weather: मध्य प्रदेश में मौसम बदला, ग्वालियर-रीवा-भिंड समेत कई जिलों में आंधी और ओलावृष्टि का अलर्ट",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mp-weather-weather-changes-in-madhya-pradesh-alert-issued-for-storms-and-hailstorms-in-several-districts-including-gwalior-rewa-and-bhind/",
-      "important": false
-    },
-    {
-      "id": "ec228cdb",
-      "title": "कटनी:  प्रधानमंत्री फसल बीमा योजना से कृषक को मिली फसल क्षतिपूर्ति",
-      "summary": "कटनी:  प्रधानमंत्री फसल बीमा योजना से कृषक को मिली फसल क्षतिपूर्ति",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/katni-farmer-receives-crop-loss-compensation-under-pradhan-mantri-fasal-bima-yojana/",
-      "important": false
-    },
-    {
-      "id": "9a3b42a2",
-      "title": "नरसिंहपुर: प्राकृतिक खेती विषय पर 19 एवं 20 जून को कार्यशाला आयोजित होगी",
-      "summary": "नरसिंहपुर: प्राकृतिक खेती विषय पर 19 एवं 20 जून को कार्यशाला आयोजित होगी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/narsinghpur-a-workshop-on-natural-farming-will-be-held-on-june-19-and-20/",
-      "important": false
-    },
-    {
-      "id": "7a798008",
-      "title": "डिंडोरी : खेत बचाओ अभियान के तहत कृषक चौपालों का आयोजन",
-      "summary": "डिंडोरी : खेत बचाओ अभियान के तहत कृषक चौपालों का आयोजन",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-farmers-gatherings-organized-under-the-save-the-farm-campaign/",
-      "important": false
-    },
-    {
-      "id": "185d5386",
-      "title": "डिंडोरी : खाद-बीज विक्रय केंद्रों पर कृषि विभाग की छापामार कार्रवाई",
-      "summary": "डिंडोरी : खाद-बीज विक्रय केंद्रों पर कृषि विभाग की छापामार कार्रवाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-agriculture-department-conducts-raids-on-fertilizer-and-seed-sales-centers/",
-      "important": false
-    },
-    {
-      "id": "4b555979",
-      "title": "रायपुर: बीज उत्पादन कार्यक्रम के लिए 19 से 24 जून तक होगा फसल पंजीयन, किसान दस्तावेज रखें तैयार",
-      "summary": "रायपुर: बीज उत्पादन कार्यक्रम के लिए 19 से 24 जून तक होगा फसल पंजीयन, किसान दस्तावेज रखें तैयार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-crop-registration-for-the-seed-production-program-will-take-place-from-june-19-to-24-farmers-should-keep-their-documents-ready/",
-      "important": false
-    },
-    {
-      "id": "ef562994",
-      "title": "सिवनी: बिना लाइसेंस डीएपी उर्वरक भंडारण पर मामला दर्ज़",
-      "summary": "सिवनी: बिना लाइसेंस डीएपी उर्वरक भंडारण पर मामला दर्ज़",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seoni-case-registered-for-storing-dap-fertilizer-without-a-license/",
-      "important": false
-    },
-    {
-      "id": "93cda818",
-      "title": "सिवनी: धान की डीएसआर तकनीक पर प्रशिक्षण आयोजित",
-      "summary": "सिवनी: धान की डीएसआर तकनीक पर प्रशिक्षण आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seoni-training-on-dsr-technique-for-paddy-cultivation-organized/",
       "important": false
     }
   ]
