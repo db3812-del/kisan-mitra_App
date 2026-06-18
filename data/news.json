@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-18T04:41:03Z",
-  "new_count": 0,
+  "updated": "2026-06-18T10:39:30Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "d44f14eb",
+      "title": "पटना में खेत बचाओ अभियान के तहत किसानों से सीधे रूबरू हुए शिवराज सिंह चौहान, कृषि सुधार और आय बढ़ाने के उपायों पर चर्चा",
+      "summary": "पटना में खेत बचाओ अभियान के तहत किसानों से सीधे रूबरू हुए शिवराज सिंह चौहान, कृषि सुधार और आय बढ़ाने के उपायों पर चर्चा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/shivraj-singh-chouhan-directly-interacted-with-farmers-in-patna-as-part-of-the-save-the-farm-campaign-discussing-agricultural-reforms-and-measures-to-boost-income/",
+      "important": false
+    },
+    {
+      "id": "cfea8fc9",
+      "title": "खरीफ बुवाई में सुस्ती, पिछले साल से 3.44 लाख हेक्टेयर कम रहा रकबा; जानें धान, दलहन और मोटे अनाज का हाल",
+      "summary": "खरीफ बुवाई में सुस्ती, पिछले साल से 3.44 लाख हेक्टेयर कम रहा रकबा; जानें धान, दलहन और मोटे अनाज का हाल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/sluggishness-in-kharif-sowing-acreage-trails-last-years-figures-by-3-44-lakh-hectares-here-is-the-status-of-paddy-pulses-and-coarse-cereals/",
+      "important": false
+    },
+    {
+      "id": "9188436d",
+      "title": "चीन ने भी लगाया कार्बोफ्यूरान कीटनाशक कीटनाशक पर प्रतिबंध, भारत कब करेगा",
+      "summary": "चीन ने भी लगाया कार्बोफ्यूरान कीटनाशक कीटनाशक पर प्रतिबंध, भारत कब करेगा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/china-has-also-banned-the-pesticide-carbofuran-when-will-india-do-so/",
+      "important": false
+    },
+    {
+      "id": "0d89b892",
+      "title": "मौसम की मार से बचाएगी फसल बीमा योजना, जानिए क्लेम करने की पूरी प्रक्रिया और फायदे",
+      "summary": "मौसम की मार से बचाएगी फसल बीमा योजना, जानिए क्लेम करने की पूरी प्रक्रिया और फायदे",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-06-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/crop-insurance-scheme-to-protect-against-weather-related-losses-know-the-full-claim-process-and-benefits/",
+      "important": false
+    },
+    {
+      "id": "8df7d82a",
+      "title": "बिना अनुज्ञा गेहूं परिवहन पर मंदसौर मंडी प्रशासन ने की कार्रवाई",
+      "summary": "बिना अनुज्ञा गेहूं परिवहन पर मंदसौर मंडी प्रशासन ने की कार्रवाई",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mandsaur-mandi-administration-takes-action-against-unauthorized-wheat-transportation/",
+      "important": false
+    },
+    {
+      "id": "79e8f819",
+      "title": "देवास: सर्वोत्तम कृषक पुरस्कार हेतु आवेदन 30 जून तक आमंत्रित",
+      "summary": "देवास: सर्वोत्तम कृषक पुरस्कार हेतु आवेदन 30 जून तक आमंत्रित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dewas-applications-for-the-best-farmer-award-invited-until-june-30/",
+      "important": false
+    },
+    {
+      "id": "2b211f9c",
+      "title": "देवास जिले में मत्स्याखेट 15 अगस्त तक प्रतिबंधित",
+      "summary": "देवास जिले में मत्स्याखेट 15 अगस्त तक प्रतिबंधित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/fishing-banned-in-dewas-district-until-august-15/",
+      "important": false
+    },
+    {
+      "id": "3cbf3fff",
+      "title": "किसान इस प्रतिबंधित कीटनाशक का इस्तेमाल करने से बचें",
+      "summary": "किसान इस प्रतिबंधित कीटनाशक का इस्तेमाल करने से बचें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/farmers-should-avoid-using-this-banned-pesticide/",
+      "important": false
+    },
     {
       "id": "a6564c47",
       "title": "Soybean Price: सोयाबीन के भाव में तेजी, महाराष्ट्र की लातूर मंडी में ₹7,100; इंदौर मंडी में ₹6,730 प्रति क्विंटल तक मिले",
@@ -462,94 +550,6 @@
       "date": "2026-06-13",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/imd-forecast-rajasthan-faces-peak-heat-alert-issued-for-thunderstorms-and-rain-in-north-india-check-the-weather-across-the-country/",
-      "important": false
-    },
-    {
-      "id": "43e28bf0",
-      "title": "छतरपुर: स्मार्ट फिश पार्लर से बढ़ रही मछुआरों की आय",
-      "summary": "छतरपुर: स्मार्ट फिश पार्लर से बढ़ रही मछुआरों की आय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhatarpur-fishermens-income-rising-due-to-smart-fish-parlours/",
-      "important": false
-    },
-    {
-      "id": "c776d169",
-      "title": "छतरपुर में मधुमक्खी पालन को बढ़ावा देने तीन दिवसीय प्रशिक्षण आयोजित",
-      "summary": "छतरपुर में मधुमक्खी पालन को बढ़ावा देने तीन दिवसीय प्रशिक्षण आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/three-day-training-organized-to-promote-beekeeping-in-chhatarpur/",
-      "important": false
-    },
-    {
-      "id": "78806b5f",
-      "title": "पन्ना में वैज्ञानिक परामर्शदात्री समिति की बैठक संपन्न",
-      "summary": "पन्ना में वैज्ञानिक परामर्शदात्री समिति की बैठक संपन्न",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/scientific-advisory-committee-meeting-concludes-in-panna/",
-      "important": false
-    },
-    {
-      "id": "cc5a2c2c",
-      "title": "सागर: खाद उठाव और उपार्जन भुगतान में ढिलाई पर कलेक्टर ने जताई नाराजगी",
-      "summary": "सागर: खाद उठाव और उपार्जन भुगतान में ढिलाई पर कलेक्टर ने जताई नाराजगी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sagar-collector-expresses-displeasure-over-laxity-in-fertilizer-lifting-and-procurement-payments/",
-      "important": false
-    },
-    {
-      "id": "fb449c4a",
-      "title": "सिंगरौली: रेशम समृद्धि योजना में ई-रेशम पोर्टल पर ऑनलाइन पंजीयन शुरू",
-      "summary": "सिंगरौली: रेशम समृद्धि योजना में ई-रेशम पोर्टल पर ऑनलाइन पंजीयन शुरू",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/singrauli-online-registration-for-the-resham-samriddhi-yojana-has-started-on-the-e-resham-portal/",
-      "important": false
-    },
-    {
-      "id": "57ef6041",
-      "title": "सतना: धान की सीधी बुवाई पद्धति अपनाने के लिए दिशा-निर्देश जारी",
-      "summary": "सतना: धान की सीधी बुवाई पद्धति अपनाने के लिए दिशा-निर्देश जारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/satna-guidelines-issued-for-adopting-the-direct-seeding-method-for-paddy/",
-      "important": false
-    },
-    {
-      "id": "d202f7e5",
-      "title": "नीमच जिले में 87,846 हेक्टेयर में हो रही उद्यानिकी फसलें",
-      "summary": "नीमच जिले में 87,846 हेक्टेयर में हो रही उद्यानिकी फसलें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/horticultural-crops-are-being-cultivated-on-87846-hectares-in-neemuch-district/",
-      "important": false
-    },
-    {
-      "id": "f698a4c4",
-      "title": "रतलाम: खेत बचाओ अभियान अंतर्गत जागरूकता कार्यक्रम आयोजित",
-      "summary": "रतलाम: खेत बचाओ अभियान अंतर्गत जागरूकता कार्यक्रम आयोजित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ratlam-awareness-program-organized-under-the-save-the-farm-campaign/",
       "important": false
     }
   ]
