@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-19T10:47:04Z",
+  "updated": "2026-06-19T15:32:28Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "768a08d9",
+      "title": "आज का गेहूँ मंडी रेट (19 जून 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (19 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-19-june-2026/",
+      "important": false
+    },
+    {
+      "id": "1ace3491",
+      "title": "आज का धान मंडी रेट (19 जून 2026)",
+      "summary": "आज का धान मंडी रेट (19 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-19-june-2026/",
+      "important": false
+    },
+    {
+      "id": "f302c4b6",
+      "title": "आज का मक्का मंडी रेट (19 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (19 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-19-june-2026/",
+      "important": false
+    },
+    {
+      "id": "c4fe2e99",
+      "title": "कटनी: सर्वोत्तम कृषक पुरस्कार हेतु 30 जून तक आवेदन आमंत्रित",
+      "summary": "कटनी: सर्वोत्तम कृषक पुरस्कार हेतु 30 जून तक आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/katni-applications-invited-for-the-best-farmer-award-until-june-30/",
+      "important": false
+    },
+    {
+      "id": "1e34b84f",
+      "title": "कटनी: कृषि उद्यमी प्रशिक्षण की परीक्षा संपन्न",
+      "summary": "कटनी: कृषि उद्यमी प्रशिक्षण की परीक्षा संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/katni-agri-entrepreneur-training-examination-concludes/",
+      "important": false
+    },
+    {
+      "id": "ac9921e3",
+      "title": "टमाटर में 150:80:80 NPK डोज: अधिक फल, बेहतर रंग और ज्यादा बाजार भाव के लिए खाद प्रबंधन",
+      "summary": "टमाटर में 150:80:80 NPK डोज: अधिक फल, बेहतर रंग और ज्यादा बाजार भाव के लिए खाद प्रबंधन",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/npk-dosage-of-1508080-for-tomatoes-fertilizer-management-for-higher-yield-better-color-and-better-market-price/",
+      "important": false
+    },
+    {
+      "id": "f76a7f38",
+      "title": "प्याज में 120:60:60 NPK डोज: बड़े कंद और लंबी भंडारण क्षमता के लिए कौन सी खाद डालें?",
+      "summary": "प्याज में 120:60:60 NPK डोज: बड़े कंद और लंबी भंडारण क्षमता के लिए कौन सी खाद डालें?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/onion-npk-dosage-of-1206060-which-fertilizer-should-be-applied-for-large-bulbs-and-long-storage-life/",
+      "important": false
+    },
+    {
+      "id": "1f5607ce",
+      "title": "गन्ने में 300:100:150 NPK डोज: 100 टन से अधिक उत्पादन के लिए कितनी यूरिया, DAP और पोटाश डालें?",
+      "summary": "गन्ने में 300:100:150 NPK डोज: 100 टन से अधिक उत्पादन के लिए कितनी यूरिया, DAP और पोटाश डालें?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/for-a-sugarcane-npk-dosage-of-300100150-how-much-urea-dap-and-potash-should-be-applied-to-achieve-a-yield-of-over-100-tonnes/",
+      "important": false
+    },
     {
       "id": "897aedc2",
       "title": "जबलपुर : एमआरपी से अधिक कीमत पर खाद बेचने वाले विक्रेताओं पर होगी कार्रवाई",
@@ -462,94 +550,6 @@
       "date": "2026-06-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/sehore-select-recommended-and-latest-varieties-of-kharif-crops/",
-      "important": false
-    },
-    {
-      "id": "115ec986",
-      "title": "सोलहवीं मध्यप्रदेश विधानसभा के एकादश सत्र की अधिसूचना जारी",
-      "summary": "सोलहवीं मध्यप्रदेश विधानसभा के एकादश सत्र की अधिसूचना जारी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/notification-issued-for-the-eleventh-session-of-the-16th-madhya-pradesh-legislative-assembly/",
-      "important": false
-    },
-    {
-      "id": "6f1bba5b",
-      "title": "धान रोपाई का आधुनिक कृषि यंत्र – पैडी ट्रांसप्लांटर",
-      "summary": "धान रोपाई का आधुनिक कृषि यंत्र – पैडी ट्रांसप्लांटर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/modern-agricultural-machine-for-paddy-transplanting-paddy-transplanter/",
-      "important": false
-    },
-    {
-      "id": "ad16d9c8",
-      "title": "आज का मक्का मंडी रेट (16 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (16 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-16-june-2026/",
-      "important": false
-    },
-    {
-      "id": "422c45ac",
-      "title": "आज का सोयाबीन मंडी रेट (16 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (16 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-16-june-2026/",
-      "important": false
-    },
-    {
-      "id": "6f61fe5a",
-      "title": "मप्र में 12 कृषि उप संचालक बदले",
-      "summary": "मप्र में 12 कृषि उप संचालक बदले",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/12-deputy-directors-of-agriculture-were-transferred-in-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "2ab5f572",
-      "title": "बिहार में गुड़ फैक्ट्री लगाने का सुनहरा मौका, 1 करोड़ रुपये तक मिलेगी सब्सिडी; ऐसे करें आवेदन",
-      "summary": "बिहार में गुड़ फैक्ट्री लगाने का सुनहरा मौका, 1 करोड़ रुपये तक मिलेगी सब्सिडी; ऐसे करें आवेदन",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-golden-opportunity-to-set-up-a-jaggery-factory-in-bihar-get-a-subsidy-of-up-to-%e2%82%b91-crore-heres-how-to-apply/",
-      "important": false
-    },
-    {
-      "id": "e7b0b3c1",
-      "title": "पीला तना छेदक से लेकर ब्लास्ट रोग तक, ये 12 कीट और रोग घटा सकते हैं धान की पैदावार; जानें बचाव के उपाय",
-      "summary": "पीला तना छेदक से लेकर ब्लास्ट रोग तक, ये 12 कीट और रोग घटा सकते हैं धान की पैदावार; जानें बचाव के उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/from-the-yellow-stem-borer-to-blast-disease-these-12-pests-and-diseases-can-reduce-paddy-yields-learn-about-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "189b4c3c",
-      "title": "मूंगफली की खेती से होगी अच्छी कमाई, बुवाई से पहले इन बातों का रखें ध्यान",
-      "summary": "मूंगफली की खेती से होगी अच्छी कमाई, बुवाई से पहले इन बातों का रखें ध्यान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/earn-good-profits-from-groundnut-farming-keep-these-points-in-mind-before-sowing/",
       "important": false
     }
   ]
