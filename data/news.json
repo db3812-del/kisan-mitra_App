@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-19T04:59:52Z",
-  "new_count": 0,
+  "updated": "2026-06-19T10:47:04Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "897aedc2",
+      "title": "जबलपुर : एमआरपी से अधिक कीमत पर खाद बेचने वाले विक्रेताओं पर होगी कार्रवाई",
+      "summary": "जबलपुर : एमआरपी से अधिक कीमत पर खाद बेचने वाले विक्रेताओं पर होगी कार्रवाई",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-action-will-be-taken-against-sellers-selling-fertilizer-above-the-mrp/",
+      "important": false
+    },
+    {
+      "id": "c1be8a18",
+      "title": "कलेक्टर डिंडोरी ने की प्रधानमंत्री धन-धान्य योजना की प्रगति की समीक्षा",
+      "summary": "कलेक्टर डिंडोरी ने की प्रधानमंत्री धन-धान्य योजना की प्रगति की समीक्षा",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-dindori-collector-reviewed-the-progress-of-the-pradhan-mantri-dhan-dhanya-yojana/",
+      "important": false
+    },
+    {
+      "id": "bdd768c0",
+      "title": "डिंडोरी: वाड़ी परियोजना के तहत तैयार किए आम कलेक्टर को भेंट किए",
+      "summary": "डिंडोरी: वाड़ी परियोजना के तहत तैयार किए आम कलेक्टर को भेंट किए",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-mangoes-produced-under-the-wadi-project-presented-to-the-collector/",
+      "important": false
+    },
+    {
+      "id": "a4407e7d",
+      "title": "मंडला जिले में कृषि में नवाचार: 500 किसानों को काली हल्दी क्लस्टर से जोड़ने की तैया",
+      "summary": "मंडला जिले में कृषि में नवाचार: 500 किसानों को काली हल्दी क्लस्टर से जोड़ने की तैया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/innovation-in-agriculture-in-mandla-district-preparations-underway-to-connect-500-farmers-with-black-turmeric-cluster/",
+      "important": false
+    },
+    {
+      "id": "96b56960",
+      "title": "सिवनी: पीएसबी से बढ़ेगी फास्फोरस की उपलब्धता, मिट्टी की उर्वरा शक्ति होगी मजबूत",
+      "summary": "सिवनी: पीएसबी से बढ़ेगी फास्फोरस की उपलब्धता, मिट्टी की उर्वरा शक्ति होगी मजबूत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/seoni-psb-will-increase-phosphorus-availability-and-boost-soil-fertility/",
+      "important": false
+    },
+    {
+      "id": "e3a8d3b1",
+      "title": "सरसों में 100:60:60 NPK और सल्फर डोज: अधिक तेल और ज्यादा उत्पादन के लिए कौन सी खाद डालें?",
+      "summary": "सरसों में 100:60:60 NPK और सल्फर डोज: अधिक तेल और ज्यादा उत्पादन के लिए कौन सी खाद डालें?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/mustard-npk-and-sulfur-dosage-1006060-which-fertilizers-should-be-applied-for-higher-oil-content-and-increased-yield/",
+      "important": false
+    },
+    {
+      "id": "120416e9",
+      "title": "ज्वार में 100:50:50 NPK डोज: कम लागत में अधिक उत्पादन के लिए वैज्ञानिक खाद प्रबंधन",
+      "summary": "ज्वार में 100:50:50 NPK डोज: कम लागत में अधिक उत्पादन के लिए वैज्ञानिक खाद प्रबंधन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/sorghum-1005050-npk-dosage-scientific-fertilizer-management-for-high-yield-at-low-cost/",
+      "important": false
+    },
+    {
+      "id": "c36bb31f",
+      "title": "आलू में 200:100:150 NPK डोज: बड़े कंद, अधिक उत्पादन और बेहतर भंडारण के लिए कौन सी खाद डालें?",
+      "summary": "आलू में 200:100:150 NPK डोज: बड़े कंद, अधिक उत्पादन और बेहतर भंडारण के लिए कौन सी खाद डालें?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/for-a-200100150-npk-dosage-in-potatoes-which-fertilizers-should-be-applied-to-ensure-large-tubers-higher-yields-and-better-storage-quality/",
+      "important": false
+    },
     {
       "id": "26dff37b",
       "title": "आज का गेहूँ मंडी रेट (18 जून 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-06-16",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/crop-cultivation/earn-good-profits-from-groundnut-farming-keep-these-points-in-mind-before-sowing/",
-      "important": false
-    },
-    {
-      "id": "03ed82df",
-      "title": "केंद्रीय कृषि मंत्री ने विदिशा में किया कृषि विज्ञान केंद्र का भूमिपूजन",
-      "summary": "केंद्रीय कृषि मंत्री ने विदिशा में किया कृषि विज्ञान केंद्र का भूमिपूजन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/union-agriculture-minister-performs-the-groundbreaking-ceremony-for-the-krishi-vigyan-kendra-in-vidisha/",
-      "important": false
-    },
-    {
-      "id": "52aa4e85",
-      "title": "तमिलनाडु सरकार का बड़ा फैसला: 75 हजार तक का फसल लोन माफ, 14.43 लाख किसानों को मिलेगा फायदा",
-      "summary": "तमिलनाडु सरकार का बड़ा फैसला: 75 हजार तक का फसल लोन माफ, 14.43 लाख किसानों को मिलेगा फायदा",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/major-decision-by-the-tamil-nadu-government-crop-loans-up-to-%e2%82%b975000-waived-14-43-lakh-farmers-to-benefit/",
-      "important": false
-    },
-    {
-      "id": "c683dedf",
-      "title": "रायपुर: कृषि विज्ञान केंद्र सुरगी मॉडल की देशभर में चर्चा, जैविक खेती और आधुनिक तकनीक से बदल रही किसानों की तकदीर",
-      "summary": "रायपुर: कृषि विज्ञान केंद्र सुरगी मॉडल की देशभर में चर्चा, जैविक खेती और आधुनिक तकनीक से बदल रही किसानों की तकदीर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-the-krishi-vigyan-kendra-surgi-model-is-gaining-nationwide-attention-organic-farming-and-modern-technology-are-transforming-farmers-fortunes/",
-      "important": false
-    },
-    {
-      "id": "3058652d",
-      "title": "खरीफ सीजन की तैयारी शुरू, कृषि विभाग ने किसानों को बताए अधिक उत्पादन के दिए अहम सुझाव",
-      "summary": "खरीफ सीजन की तैयारी शुरू, कृषि विभाग ने किसानों को बताए अधिक उत्पादन के दिए अहम सुझाव",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/preparations-for-the-kharif-season-have-begun-the-agriculture-department-has-offered-farmers-key-suggestions-for-higher-yields/",
-      "important": false
-    },
-    {
-      "id": "bc71ff96",
-      "title": "सिर्फ 0.12 हेक्टेयर में गेंदा की खेती से कमाए 1.39 लाख रुपये, इन्दिरा भादे बनीं महिला किसानों की मिसाल",
-      "summary": "सिर्फ 0.12 हेक्टेयर में गेंदा की खेती से कमाए 1.39 लाख रुपये, इन्दिरा भादे बनीं महिला किसानों की मिसाल",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/earned-%e2%82%b91-39-lakh-from-marigold-cultivation-on-just-0-12-hectares-indira-bhade-sets-an-example-for-women-farmers/",
-      "important": false
-    },
-    {
-      "id": "a74e2bfd",
-      "title": "भारत की खाद्य सुरक्षा के भविष्य के लिए जीएम फसलें महत्वपूर्ण, पीएयू कार्यशाला में विशेषज्ञों ने कहा",
-      "summary": "भारत की खाद्य सुरक्षा के भविष्य के लिए जीएम फसलें महत्वपूर्ण, पीएयू कार्यशाला में विशेषज्ञों ने कहा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/gm-crops-are-crucial-for-the-future-of-indias-food-security-experts-said-at-a-pau-workshop/",
-      "important": false
-    },
-    {
-      "id": "5fa359e2",
-      "title": "आज का गेहूँ मंडी रेट (15 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (15 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-15-june-2026/",
-      "important": false
-    },
-    {
-      "id": "164c4f7c",
-      "title": "आज का धान मंडी रेट (15 जून 2026)",
-      "summary": "आज का धान मंडी रेट (15 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-15-june-2026/",
       "important": false
     }
   ]
