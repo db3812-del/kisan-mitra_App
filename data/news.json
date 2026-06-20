@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-20T04:13:01Z",
-  "new_count": 0,
+  "updated": "2026-06-20T09:27:44Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "8bc034aa",
+      "title": "बालाघाट : मृदा परीक्षण कार्य में तेजी लाएं – एसडीएम श्री गुप्ता",
+      "summary": "बालाघाट : मृदा परीक्षण कार्य में तेजी लाएं – एसडीएम श्री गुप्ता",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-accelerate-soil-testing-work-sdm-mr-gupta/",
+      "important": false
+    },
+    {
+      "id": "d1100e36",
+      "title": "कृषि विज्ञान केंद्र सिवनी में स्थापित हुआ स्वचालित मौसम स्टेशन",
+      "summary": "कृषि विज्ञान केंद्र सिवनी में स्थापित हुआ स्वचालित मौसम स्टेशन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/an-automatic-weather-station-has-been-installed-at-krishi-vigyan-kendra-seoni/",
+      "important": false
+    },
+    {
+      "id": "cf9295bb",
+      "title": "कपास में 150:60:60 NPK डोज: अधिक बॉल्स, मजबूत पौधे और बेहतर उत्पादन के लिए कौन सी खाद डालें?",
+      "summary": "कपास में 150:60:60 NPK डोज: अधिक बॉल्स, मजबूत पौधे और बेहतर उत्पादन के लिए कौन सी खाद डालें?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/1506060-npk-dose-for-cotton-which-fertilizers-should-be-applied-for-more-bolls-robust-plants-and-better-yield/",
+      "important": false
+    },
+    {
+      "id": "6a136dad",
+      "title": "पालक में 80:40:40 NPK डोज: गहरे हरे पत्ते और अधिक कटाई के लिए सही खाद प्रबंधन",
+      "summary": "पालक में 80:40:40 NPK डोज: गहरे हरे पत्ते और अधिक कटाई के लिए सही खाद प्रबंधन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/804040-npk-dosage-for-spinach-proper-fertilizer-management-for-dark-green-leaves-and-higher-yields/",
+      "important": false
+    },
+    {
+      "id": "c7cf64c4",
+      "title": "धान में सिर्फ यूरिया डालने से नहीं बढ़ेगी पैदावार, जानिए वैज्ञानिक उर्वरक प्रबंधन का पूरा फॉर्मूला",
+      "summary": "धान में सिर्फ यूरिया डालने से नहीं बढ़ेगी पैदावार, जानिए वैज्ञानिक उर्वरक प्रबंधन का पूरा फॉर्मूला",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/applying-only-urea-to-paddy-crops-wont-boost-yields-learn-the-complete-formula-for-scientific-fertilizer-management/",
+      "important": false
+    },
+    {
+      "id": "dbfe478a",
+      "title": "भारत में फसल सुरक्षा क्षेत्र को मिली बड़ी मजबूती, 17 नए उत्पादों को मिली मंजूरी",
+      "summary": "भारत में फसल सुरक्षा क्षेत्र को मिली बड़ी मजबूती, 17 नए उत्पादों को मिली मंजूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/major-boost-for-indias-crop-protection-sector-17-new-products-approved/",
+      "important": false
+    },
+    {
+      "id": "e31ba989",
+      "title": "केंद्र सरकार का बड़ा फैसला, अब 15 दिन और MSP पर बेच सकेंगे चना, मसूर और सरसों",
+      "summary": "केंद्र सरकार का बड़ा फैसला, अब 15 दिन और MSP पर बेच सकेंगे चना, मसूर और सरसों",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-decision-by-the-central-government-gram-masoor-and-mustard-can-now-be-sold-at-msp-for-another-15-days/",
+      "important": true
+    },
+    {
+      "id": "3eb85739",
+      "title": "केंद्रीय मंत्री शिवराज सिंह चौहान का बड़ा फैसला, चार राज्यों में MSP पर दाल और तिलहन खरीदी को मंजूरी",
+      "summary": "केंद्रीय मंत्री शिवराज सिंह चौहान का बड़ा फैसला, चार राज्यों में MSP पर दाल और तिलहन खरीदी को मंजूरी",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/union-minister-shivraj-singh-chouhans-major-decision-approval-granted-for-the-procurement-of-pulses-and-oilseeds-at-msp-in-four-states/",
+      "important": true
+    },
     {
       "id": "768a08d9",
       "title": "आज का गेहूँ मंडी रेट (19 जून 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-06-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/promotion-of-millet-farming-in-jabalpur-free-seeds-of-kodo-kutki-and-ragi-distributed-to-250-farmers/",
-      "important": false
-    },
-    {
-      "id": "d81edaed",
-      "title": "सिवनी में स्थापित हुआ स्वचालित मौसम स्टेशन, किसानों को मिलेगी रियल टाइम मौसम की सटीक जानकारी",
-      "summary": "सिवनी में स्थापित हुआ स्वचालित मौसम स्टेशन, किसानों को मिलेगी रियल टाइम मौसम की सटीक जानकारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/automatic-weather-station-set-up-in-seoni-farmers-to-receive-accurate-real-time-weather-information/",
-      "important": false
-    },
-    {
-      "id": "52d4784a",
-      "title": "मछुआरों के लिए सुनहरा अवसर, झींगा और मत्स्य पालन पर 40% अनुदान देगी मध्यप्रदेश सरकार",
-      "summary": "मछुआरों के लिए सुनहरा अवसर, झींगा और मत्स्य पालन पर 40% अनुदान देगी मध्यप्रदेश सरकार",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-golden-opportunity-for-fishermen-the-madhya-pradesh-government-will-provide-a-40-subsidy-on-shrimp-and-fish-farming/",
-      "important": false
-    },
-    {
-      "id": "3ecc497a",
-      "title": "अब मोबाइल से किराए पर मिलेंगे कृषि यंत्र, जे-फार्म ऐप से आसान हुई बुकिंग",
-      "summary": "अब मोबाइल से किराए पर मिलेंगे कृषि यंत्र, जे-फार्म ऐप से आसान हुई बुकिंग",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agricultural-machinery-can-now-be-rented-via-mobile-booking-made-easy-with-the-j-farm-app/",
-      "important": false
-    },
-    {
-      "id": "e6f07228",
-      "title": "उद्यानिकी योजनाओं का लाभ लेने का मौका, MPFSTS पोर्टल पर किसानों के लिए पंजीयन शुरू",
-      "summary": "उद्यानिकी योजनाओं का लाभ लेने का मौका, MPFSTS पोर्टल पर किसानों के लिए पंजीयन शुरू",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/horticulture/opportunity-to-avail-benefits-of-horticulture-schemes-registration-for-farmers-has-started-on-the-mpfsts-portal/",
-      "important": false
-    },
-    {
-      "id": "f8b545fe",
-      "title": "आलीराजपुर कलेक्टर ने ऑर्गेनिक आम उत्पादक किसानों के फार्मों का किया भ्रमण",
-      "summary": "आलीराजपुर कलेक्टर ने ऑर्गेनिक आम उत्पादक किसानों के फार्मों का किया भ्रमण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-alirajpur-collector-visited-the-farms-of-organic-mango-growers/",
-      "important": false
-    },
-    {
-      "id": "5a73d9a8",
-      "title": "18 जून से सक्रिय होगा नया पश्चिमी विक्षोभ, उत्तर-पश्चिम भारत में भारी बारिश-आंधी का अलर्ट; तेलंगाना और छत्तीसगढ़ में लू ",
-      "summary": "18 जून से सक्रिय होगा नया पश्चिमी विक्षोभ, उत्तर-पश्चिम भारत में भारी बारिश-आंधी का अलर्ट; तेलंगाना और छत्तीसगढ़ में लू का खतरा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/new-western-disturbance-to-become-active-from-june-18-alert-issued-for-heavy-rain-and-storms-in-northwest-india-heatwave-risk-in-telangana-and-chhattisgarh-16-%e0%a4%9c%e0%a5%82%e0%a4%a8-2026/",
-      "important": false
-    },
-    {
-      "id": "63f4df0c",
-      "title": "सीहोर: डीएपी की जगह  अन्य उर्वरकों उपयोग करना किसानों के लिए फायदेमंद",
-      "summary": "सीहोर: डीएपी की जगह  अन्य उर्वरकों उपयोग करना किसानों के लिए फायदेमंद",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-using-other-fertilizers-instead-of-dap-is-beneficial-for-farmers/",
-      "important": false
-    },
-    {
-      "id": "e09df6b4",
-      "title": "सीहोर: खरीफ फसलों की अनुशंसित एवं नवीनतम किस्मों का चयन करें",
-      "summary": "सीहोर: खरीफ फसलों की अनुशंसित एवं नवीनतम किस्मों का चयन करें",
-      "level": "state",
-      "category": "price",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-select-recommended-and-latest-varieties-of-kharif-crops/",
       "important": false
     }
   ]
