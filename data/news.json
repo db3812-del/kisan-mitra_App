@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-20T09:27:44Z",
+  "updated": "2026-06-20T14:16:31Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "8149dac7",
+      "title": "आज का मक्का मंडी रेट (20 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (20 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-20-june-2026/",
+      "important": false
+    },
+    {
+      "id": "c9d430bd",
+      "title": "आज का सोयाबीन मंडी रेट (20 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (20 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-20-june-2026/",
+      "important": false
+    },
+    {
+      "id": "2117f867",
+      "title": "जशपुर के नवाचारी किसानों को मिलेगा सम्मान, आम-कटहल प्रतियोगिता में 10 हजार रुपए तक के नगद पुरस्कार",
+      "summary": "जशपुर के नवाचारी किसानों को मिलेगा सम्मान, आम-कटहल प्रतियोगिता में 10 हजार रुपए तक के नगद पुरस्कार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/innovative-farmers-of-jashpur-to-be-honored-cash-prizes-of-up-to-%e2%82%b910000-in-mango-and-jackfruit-competitions/",
+      "important": false
+    },
+    {
+      "id": "40b3aa1d",
+      "title": "मध्यप्रदेश की भावांतर भुगतान योजना को मिला प्रतिष्ठित SKOCH Gold Award-2026",
+      "summary": "मध्यप्रदेश की भावांतर भुगतान योजना को मिला प्रतिष्ठित SKOCH Gold Award-2026",
+      "level": "state",
+      "category": "price",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradeshs-bhavantar-bhugtan-yojana-receives-the-prestigious-skoch-gold-award-2026/",
+      "important": false
+    },
+    {
+      "id": "aac5cc6d",
+      "title": "एक एकड़ से शुरू करें प्राकृतिक खेती, बदल सकती है किसानों की तकदीर: गुना कलेक्टर",
+      "summary": "एक एकड़ से शुरू करें प्राकृतिक खेती, बदल सकती है किसानों की तकदीर: गुना कलेक्टर",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/start-natural-farming-with-just-one-acre-it-can-transform-farmers-fortunes-guna-collector/",
+      "important": false
+    },
+    {
+      "id": "0eee10a1",
+      "title": "मूंग की खेती से कमाना चाहते हैं ज्यादा मुनाफा? अपनाएं ये 5 हाई-यील्डिंग किस्में, बढ़ेगी कमाई",
+      "summary": "मूंग की खेती से कमाना चाहते हैं ज्यादा मुनाफा? अपनाएं ये 5 हाई-यील्डिंग किस्में, बढ़ेगी कमाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/want-to-earn-higher-profits-from-moong-cultivation-adopt-these-5-high-yielding-varieties-to-boost-your-earnings/",
+      "important": false
+    },
+    {
+      "id": "1ba8cff7",
+      "title": "ग्वालियर में जैविक खेती के लाभों पर हुआ मंथन",
+      "summary": "ग्वालियर में जैविक खेती के लाभों पर हुआ मंथन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/deliberations-held-in-gwalior-on-the-benefits-of-organic-farming/",
+      "important": false
+    },
+    {
+      "id": "bad9998d",
+      "title": "धान की खेती में छाई PR-126, पूसा बासमती समेत ये 5 किस्में; किसानों को दे रहीं बेहतर पैदावार और मुनाफा",
+      "summary": "धान की खेती में छाई PR-126, पूसा बासमती समेत ये 5 किस्में; किसानों को दे रहीं बेहतर पैदावार और मुनाफा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/five-paddy-varieties-including-pr-126-and-pusa-basmati-are-dominating-cultivation-offering-farmers-higher-yields-and-better-profits/",
+      "important": false
+    },
     {
       "id": "8bc034aa",
       "title": "बालाघाट : मृदा परीक्षण कार्य में तेजी लाएं – एसडीएम श्री गुप्ता",
@@ -462,94 +550,6 @@
       "date": "2026-06-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-17-june-2026/",
-      "important": false
-    },
-    {
-      "id": "107798bc",
-      "title": "आज का धान मंडी रेट (17 जून 2026)",
-      "summary": "आज का धान मंडी रेट (17 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-17-june-2026/",
-      "important": false
-    },
-    {
-      "id": "db9688b5",
-      "title": "संरक्षित कृषि आधारित मक्का उत्पादन : कम लागत में अधिक उपज का बेहतर तरीका",
-      "summary": "संरक्षित कृषि आधारित मक्का उत्पादन : कम लागत में अधिक उपज का बेहतर तरीका",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/conservation-agriculture-based-maize-production-a-better-way-to-achieve-higher-yields-at-lower-cost/",
-      "important": false
-    },
-    {
-      "id": "fc28db0d",
-      "title": "आज का मक्का मंडी रेट (17 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (17 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-17-june-2026/",
-      "important": false
-    },
-    {
-      "id": "10aaec33",
-      "title": "आज का सोयाबीन मंडी रेट (17 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (17 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-17-june-2026/",
-      "important": false
-    },
-    {
-      "id": "71d74431",
-      "title": "खाद की कालाबाजारी, नकली खाद और अवैध भंडारण की सूचना दें और इनाम पाएं",
-      "summary": "खाद की कालाबाजारी, नकली खाद और अवैध भंडारण की सूचना दें और इनाम पाएं",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/report-the-black-marketing-sale-of-spurious-fertilizer-and-illegal-storage-of-fertilizer-to-earn-a-reward/",
-      "important": false
-    },
-    {
-      "id": "904afa42",
-      "title": "उन्नत एवं आधुनिक कृषि यंत्रों को बढ़ावा दें और कृषि को बनाएं लाभ का व्यवसाय – कलेक्टर नर्मदापुरम",
-      "summary": "उन्नत एवं आधुनिक कृषि यंत्रों को बढ़ावा दें और कृषि को बनाएं लाभ का व्यवसाय – कलेक्टर नर्मदापुरम",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/promote-advanced-and-modern-agricultural-machinery-and-make-agriculture-a-profitable-business-collector-narmadapuram/",
-      "important": false
-    },
-    {
-      "id": "046d9873",
-      "title": "2025-26 में देश का बागवानी उत्पादन 3777 लाख टन पहुंचने का अनुमान",
-      "summary": "2025-26 में देश का बागवानी उत्पादन 3777 लाख टन पहुंचने का अनुमान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/the-countrys-horticulture-production-is-projected-to-reach-377-7-million-tonnes-in-2025-26/",
-      "important": false
-    },
-    {
-      "id": "4cd3c393",
-      "title": "जबलपुर में मिलेट्स खेती को बढ़ावा, 250 किसानों को निःशुल्क बांटे गए कोदो, कुटकी और रागी के बीज",
-      "summary": "जबलपुर में मिलेट्स खेती को बढ़ावा, 250 किसानों को निःशुल्क बांटे गए कोदो, कुटकी और रागी के बीज",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/promotion-of-millet-farming-in-jabalpur-free-seeds-of-kodo-kutki-and-ragi-distributed-to-250-farmers/",
       "important": false
     }
   ]
