@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-21T14:23:59Z",
-  "new_count": 0,
+  "updated": "2026-06-21T19:51:33Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "ce1b2205",
+      "title": "सरसों में सल्फर की कमी से आधी रह सकती है पैदावार, जानिए वैज्ञानिक पोषण प्रबंधन",
+      "summary": "सरसों में सल्फर की कमी से आधी रह सकती है पैदावार, जानिए वैज्ञानिक पोषण प्रबंधन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/sulfur-deficiency-in-mustard-can-cut-yields-by-half-learn-about-scientific-nutrient-management/",
+      "important": false
+    },
+    {
+      "id": "0dfc4db1",
+      "title": "मक्का में रिकॉर्ड उत्पादन का राज: सही खाद प्रबंधन से बढ़ सकती है पैदावार और मुनाफा",
+      "summary": "मक्का में रिकॉर्ड उत्पादन का राज: सही खाद प्रबंधन से बढ़ सकती है पैदावार और मुनाफा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/the-secret-to-record-maize-production-proper-fertilizer-management-can-boost-yield-and-profits/",
+      "important": false
+    },
+    {
+      "id": "af7b1f9a",
+      "title": "गन्ने में 100 टन से अधिक उत्पादन चाहते हैं? जानिए उर्वरक प्रबंधन की वैज्ञानिक रणनीति",
+      "summary": "गन्ने में 100 टन से अधिक उत्पादन चाहते हैं? जानिए उर्वरक प्रबंधन की वैज्ञानिक रणनीति",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/want-a-sugarcane-yield-of-over-100-tonnes-learn-the-scientific-strategy-for-fertilizer-management/",
+      "important": false
+    },
+    {
+      "id": "b2045172",
+      "title": "कपास में सिर्फ यूरिया नहीं, बोरॉन और पोटाश भी बढ़ाते हैं उत्पादन",
+      "summary": "कपास में सिर्फ यूरिया नहीं, बोरॉन और पोटाश भी बढ़ाते हैं उत्पादन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/in-cotton-not-just-urea-but-also-boron-and-potash-boost-production/",
+      "important": false
+    },
+    {
+      "id": "671d40ab",
+      "title": "सीहोर : प्राकृतिक खेती विषय पर एक दिवसीय किसान संगोष्ठी आयोजित",
+      "summary": "सीहोर : प्राकृतिक खेती विषय पर एक दिवसीय किसान संगोष्ठी आयोजित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-one-day-farmers-seminar-on-natural-farming-organized/",
+      "important": false
+    },
+    {
+      "id": "3cb35f63",
+      "title": "दुग्ध उत्पादन दोगुना करने की दिशा में भोपाल बना नवाचारों का मॉडल",
+      "summary": "दुग्ध उत्पादन दोगुना करने की दिशा में भोपाल बना नवाचारों का मॉडल",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bhopal-emerges-as-a-model-of-innovation-in-the-drive-to-double-milk-production/",
+      "important": false
+    },
+    {
+      "id": "1fdf6945",
+      "title": "PM धन-धान्य कृषि योजना में सीधी ने मारी बाजी, देश के 100 जिलों में हासिल किया 7वां स्थान",
+      "summary": "PM धन-धान्य कृषि योजना में सीधी ने मारी बाजी, देश के 100 जिलों में हासिल किया 7वां स्थान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sidhi-excels-in-the-pm-dhan-dhanya-krishi-yojana-securing-the-7th-position-among-100-districts-nationwide/",
+      "important": false
+    },
+    {
+      "id": "83e21c3d",
+      "title": "जबलपुर: खाद की ओवररेटिंग पर कलेक्टर सख्त, तय कीमत से एक रुपया ज्यादा वसूला तो होगी कार्रवाई",
+      "summary": "जबलपुर: खाद की ओवररेटिंग पर कलेक्टर सख्त, तय कीमत से एक रुपया ज्यादा वसूला तो होगी कार्रवाई",
+      "level": "state",
+      "category": "price",
+      "date": "2026-06-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-collector-cracks-down-on-overpricing-of-fertilizers-action-to-be-taken-if-even-one-rupee-above-the-fixed-price-is-charged/",
+      "important": false
+    },
     {
       "id": "8149dac7",
       "title": "आज का मक्का मंडी रेट (20 जून 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-06-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/sluggishness-in-kharif-sowing-acreage-trails-last-years-figures-by-3-44-lakh-hectares-here-is-the-status-of-paddy-pulses-and-coarse-cereals/",
-      "important": false
-    },
-    {
-      "id": "9188436d",
-      "title": "चीन ने भी लगाया कार्बोफ्यूरान कीटनाशक कीटनाशक पर प्रतिबंध, भारत कब करेगा",
-      "summary": "चीन ने भी लगाया कार्बोफ्यूरान कीटनाशक कीटनाशक पर प्रतिबंध, भारत कब करेगा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/china-has-also-banned-the-pesticide-carbofuran-when-will-india-do-so/",
-      "important": false
-    },
-    {
-      "id": "0d89b892",
-      "title": "मौसम की मार से बचाएगी फसल बीमा योजना, जानिए क्लेम करने की पूरी प्रक्रिया और फायदे",
-      "summary": "मौसम की मार से बचाएगी फसल बीमा योजना, जानिए क्लेम करने की पूरी प्रक्रिया और फायदे",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/crop-insurance-scheme-to-protect-against-weather-related-losses-know-the-full-claim-process-and-benefits/",
-      "important": false
-    },
-    {
-      "id": "8df7d82a",
-      "title": "बिना अनुज्ञा गेहूं परिवहन पर मंदसौर मंडी प्रशासन ने की कार्रवाई",
-      "summary": "बिना अनुज्ञा गेहूं परिवहन पर मंदसौर मंडी प्रशासन ने की कार्रवाई",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mandsaur-mandi-administration-takes-action-against-unauthorized-wheat-transportation/",
-      "important": false
-    },
-    {
-      "id": "79e8f819",
-      "title": "देवास: सर्वोत्तम कृषक पुरस्कार हेतु आवेदन 30 जून तक आमंत्रित",
-      "summary": "देवास: सर्वोत्तम कृषक पुरस्कार हेतु आवेदन 30 जून तक आमंत्रित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dewas-applications-for-the-best-farmer-award-invited-until-june-30/",
-      "important": false
-    },
-    {
-      "id": "2b211f9c",
-      "title": "देवास जिले में मत्स्याखेट 15 अगस्त तक प्रतिबंधित",
-      "summary": "देवास जिले में मत्स्याखेट 15 अगस्त तक प्रतिबंधित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/fishing-banned-in-dewas-district-until-august-15/",
-      "important": false
-    },
-    {
-      "id": "3cbf3fff",
-      "title": "किसान इस प्रतिबंधित कीटनाशक का इस्तेमाल करने से बचें",
-      "summary": "किसान इस प्रतिबंधित कीटनाशक का इस्तेमाल करने से बचें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/farmers-should-avoid-using-this-banned-pesticide/",
-      "important": false
-    },
-    {
-      "id": "a6564c47",
-      "title": "Soybean Price: सोयाबीन के भाव में तेजी, महाराष्ट्र की लातूर मंडी में ₹7,100; इंदौर मंडी में ₹6,730 प्रति क्विंटल तक मिले",
-      "summary": "Soybean Price: सोयाबीन के भाव में तेजी, महाराष्ट्र की लातूर मंडी में ₹7,100; इंदौर मंडी में ₹6,730 प्रति क्विंटल तक मिले भाव",
-      "level": "state",
-      "category": "price",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/soybean-prices-prices-rise-rates-reached-%e2%82%b97100-per-quintal-in-maharashtras-latur-market-and-%e2%82%b96730-per-quintal-in-the-indore-market/",
-      "important": false
-    },
-    {
-      "id": "86d0a30b",
-      "title": "आज का गेहूँ मंडी रेट (17 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (17 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-17-june-2026/",
       "important": false
     }
   ]
