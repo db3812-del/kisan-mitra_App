@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-22T05:03:36Z",
-  "new_count": 0,
+  "updated": "2026-06-22T12:15:32Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "62c5d267",
+      "title": "मिट्टी जांच कराए बिना खाद डालना क्यों बन रहा है किसानों के लिए महंगा सौदा?",
+      "summary": "मिट्टी जांच कराए बिना खाद डालना क्यों बन रहा है किसानों के लिए महंगा सौदा?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/why-is-applying-fertilizer-without-soil-testing-becoming-a-costly-affair-for-farmers/",
+      "important": false
+    },
+    {
+      "id": "f64c9bea",
+      "title": "खेत में जिंक की कमी नहीं, उपलब्धता की समस्या है: क्षारीय मिट्टी की छिपी हुई चुनौती",
+      "summary": "खेत में जिंक की कमी नहीं, उपलब्धता की समस्या है: क्षारीय मिट्टी की छिपी हुई चुनौती",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/there-is-no-lack-of-zinc-in-the-soil-the-issue-is-availability-the-hidden-challenge-of-alkaline-soil/",
+      "important": false
+    },
+    {
+      "id": "d1994961",
+      "title": "धान, गेहूं, मक्का, सोयाबीन, सरसों, गन्ना और कपास में कौन सी खाद कितनी डालें? फसलवार NPK उर्वरक प्रबंधन की पूरी गाइड",
+      "summary": "धान, गेहूं, मक्का, सोयाबीन, सरसों, गन्ना और कपास में कौन सी खाद कितनी डालें? फसलवार NPK उर्वरक प्रबंधन की पूरी गाइड",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/how-much-fertilizer-should-be-applied-for-paddy-wheat-maize-soybean-mustard-sugarcane-and-cotton-a-complete-guide-to-crop-wise-npk-fertilizer-management/",
+      "important": false
+    },
+    {
+      "id": "100a5c4c",
+      "title": "मध्यप्रदेश प्राकृतिक खेती अपनाने वाले राज्यों में सबसे अव्वल",
+      "summary": "मध्यप्रदेश प्राकृतिक खेती अपनाने वाले राज्यों में सबसे अव्वल",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-ranks-first-among-states-adopting-natural-farming/",
+      "important": false
+    },
+    {
+      "id": "2ac49da9",
+      "title": "आज का गेहूँ मंडी रेट (22 जून 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (22 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-22-june-2026/",
+      "important": false
+    },
+    {
+      "id": "41a2fe33",
+      "title": "आज का धान मंडी रेट (22 जून 2026)",
+      "summary": "आज का धान मंडी रेट (22 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-22-june-2026/",
+      "important": false
+    },
+    {
+      "id": "4602fe0f",
+      "title": "आज का मक्का मंडी रेट (22 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (22 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-22-june-2026/",
+      "important": false
+    },
+    {
+      "id": "1121d61b",
+      "title": "आज का सोयाबीन मंडी रेट (22 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (22 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-22-june-2026/",
+      "important": false
+    },
     {
       "id": "ce1b2205",
       "title": "सरसों में सल्फर की कमी से आधी रह सकती है पैदावार, जानिए वैज्ञानिक पोषण प्रबंधन",
@@ -462,94 +550,6 @@
       "date": "2026-06-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-18-june-2026/",
-      "important": false
-    },
-    {
-      "id": "cfc6061b",
-      "title": "आज का मक्का मंडी रेट (18 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (18 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-18-june-2026/",
-      "important": false
-    },
-    {
-      "id": "9147382d",
-      "title": "आज का सोयाबीन मंडी रेट (18 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (18 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-18-june-2026/",
-      "important": false
-    },
-    {
-      "id": "121f7861",
-      "title": "PM Kisan 23वीं किस्त: 20 जून को 9.44 करोड़ किसानों के खातों में आएंगे 18,880 करोड़ रुपये, साथ मिलेंगी ये नई सौगातें",
-      "summary": "PM Kisan 23वीं किस्त: 20 जून को 9.44 करोड़ किसानों के खातों में आएंगे 18,880 करोड़ रुपये, साथ मिलेंगी ये नई सौगातें",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/pm-kisan-23rd-installment-%e2%82%b918880-crore-to-be-credited-to-the-accounts-of-9-44-crore-farmers-on-june-20-new-benefits-to-be-provided-as-well/",
-      "important": false
-    },
-    {
-      "id": "a30ac49a",
-      "title": "रतलाम: किसानों को दी गई प्राकृतिक खेती की जानकारी",
-      "summary": "रतलाम: किसानों को दी गई प्राकृतिक खेती की जानकारी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ratlam-farmers-provided-with-information-on-natural-farming/",
-      "important": false
-    },
-    {
-      "id": "ba5e06f6",
-      "title": "5 साल पहले मरुभूमि में लगाए थे 270 पौधे, आज खजूर का बाग दे रहा 10 लाख रुपये की सालाना कमाई; किसानों के लिए बना मिसाल",
-      "summary": "5 साल पहले मरुभूमि में लगाए थे 270 पौधे, आज खजूर का बाग दे रहा 10 लाख रुपये की सालाना कमाई; किसानों के लिए बना मिसाल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/270-saplings-planted-in-the-desert-five-years-ago-today-the-date-palm270-saplings-planted-in-the-desert-five-years-ago-today-the-date-palm-orchard-yields-an-annual-income-of-%e2%82%b910-lakh/",
-      "important": false
-    },
-    {
-      "id": "7f40ed29",
-      "title": "सिर्फ 2 दिन का समय! PM Kisan की 23वीं किस्त के 2,000 रुपये पाने के लिए तुरंत निपटाएं यह जरूरी काम",
-      "summary": "सिर्फ 2 दिन का समय! PM Kisan की 23वीं किस्त के 2,000 रुपये पाने के लिए तुरंत निपटाएं यह जरूरी काम",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/only-2-days-left-complete-this-essential-task-immediately-to-receive-the-%e2%82%b92000-installment-of-pm-kisan/",
-      "important": false
-    },
-    {
-      "id": "d44f14eb",
-      "title": "पटना में खेत बचाओ अभियान के तहत किसानों से सीधे रूबरू हुए शिवराज सिंह चौहान, कृषि सुधार और आय बढ़ाने के उपायों पर चर्चा",
-      "summary": "पटना में खेत बचाओ अभियान के तहत किसानों से सीधे रूबरू हुए शिवराज सिंह चौहान, कृषि सुधार और आय बढ़ाने के उपायों पर चर्चा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/shivraj-singh-chouhan-directly-interacted-with-farmers-in-patna-as-part-of-the-save-the-farm-campaign-discussing-agricultural-reforms-and-measures-to-boost-income/",
-      "important": false
-    },
-    {
-      "id": "cfea8fc9",
-      "title": "खरीफ बुवाई में सुस्ती, पिछले साल से 3.44 लाख हेक्टेयर कम रहा रकबा; जानें धान, दलहन और मोटे अनाज का हाल",
-      "summary": "खरीफ बुवाई में सुस्ती, पिछले साल से 3.44 लाख हेक्टेयर कम रहा रकबा; जानें धान, दलहन और मोटे अनाज का हाल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/sluggishness-in-kharif-sowing-acreage-trails-last-years-figures-by-3-44-lakh-hectares-here-is-the-status-of-paddy-pulses-and-coarse-cereals/",
       "important": false
     }
   ]
