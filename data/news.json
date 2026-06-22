@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-22T12:15:32Z",
-  "new_count": 8,
+  "updated": "2026-06-22T20:56:10Z",
+  "new_count": 1,
   "articles": [
+    {
+      "id": "d67ddc19",
+      "title": "2 भैंसों से शुरू किया सफर, आज 175 लीटर दूध बेचकर हर महीने कमा रहे 3 लाख रुपये",
+      "summary": "2 भैंसों से शुरू किया सफर, आज 175 लीटर दूध बेचकर हर महीने कमा रहे 3 लाख रुपये",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/started-the-journey-with-2-buffaloes-today-earning-%e2%82%b93-lakh-per-month-by-selling-175-liters-of-milk/",
+      "important": false
+    },
     {
       "id": "62c5d267",
       "title": "मिट्टी जांच कराए बिना खाद डालना क्यों बन रहा है किसानों के लिए महंगा सौदा?",
@@ -539,17 +550,6 @@
       "date": "2026-06-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-18-june-2026/",
-      "important": false
-    },
-    {
-      "id": "9b1f0abb",
-      "title": "आज का धान मंडी रेट (18 जून 2026)",
-      "summary": "आज का धान मंडी रेट (18 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-18-june-2026/",
       "important": false
     }
   ]
