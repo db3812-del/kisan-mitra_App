@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-23T09:53:51Z",
+  "updated": "2026-06-23T15:13:49Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "761f3243",
+      "title": "कृषि व्यवसाय इन्क्यूबेशन: खेती को उद्यम में बदलने की दिशा",
+      "summary": "कृषि व्यवसाय इन्क्यूबेशन: खेती को उद्यम में बदलने की दिशा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agribusiness-incubation-a-path-towards-transforming-farming-into-an-enterprise/",
+      "important": false
+    },
+    {
+      "id": "4a82ec1f",
+      "title": "आज का गेहूँ मंडी रेट (23 जून 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (23 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-23-june-2026/",
+      "important": false
+    },
+    {
+      "id": "5f214e5b",
+      "title": "आज का मक्का मंडी रेट (23 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (23 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-23-june-2026/",
+      "important": false
+    },
+    {
+      "id": "badb75ab",
+      "title": "आज का धान मंडी रेट (23 जून 2026)",
+      "summary": "आज का धान मंडी रेट (23 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-23-june-2026/",
+      "important": false
+    },
+    {
+      "id": "318c5350",
+      "title": "Soybean Mandi Rate: मध्यप्रदेश की मंडियों में आज ₹7,950 प्रति क्विंटल तक बिका सोयाबीन, जानें कहां मिले सबसे अच्छे भाव",
+      "summary": "Soybean Mandi Rate: मध्यप्रदेश की मंडियों में आज ₹7,950 प्रति क्विंटल तक बिका सोयाबीन, जानें कहां मिले सबसे अच्छे भाव",
+      "level": "state",
+      "category": "price",
+      "date": "2026-06-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/soybean-mandi-rates-soybean-sold-for-up-to-%e2%82%b97950-per-quintal-in-madhya-pradesh-markets-today-find-out-where-the-best-prices-were-available/",
+      "important": false
+    },
+    {
+      "id": "55771a43",
+      "title": "आज का सोयाबीन मंडी रेट (23 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (23 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-23-june-2026/",
+      "important": false
+    },
+    {
+      "id": "f1327216",
+      "title": "MP Weather Update: भोपाल-इंदौर समेत कई क्षेत्रों में बारिश, जबलपुर-सागर में तेज आंधी का अलर्ट; मानसून ने बढ़ाई रफ्तार",
+      "summary": "MP Weather Update: भोपाल-इंदौर समेत कई क्षेत्रों में बारिश, जबलपुर-सागर में तेज आंधी का अलर्ट; मानसून ने बढ़ाई रफ्तार",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mp-weather-update-rain-in-several-areas-including-bhopal-and-indore-alert-for-strong-storms-in-jabalpur-and-sagar-monsoon-gathers-pace/",
+      "important": false
+    },
+    {
+      "id": "69b36eff",
+      "title": "IMD Weather Update: असम-मेघालय में भारी बारिश का अलर्ट, बिहार-झारखंड होंगे तरबतर; MP-राजस्थान में भी बदलेगा मौसम",
+      "summary": "IMD Weather Update: असम-मेघालय में भारी बारिश का अलर्ट, बिहार-झारखंड होंगे तरबतर; MP-राजस्थान में भी बदलेगा मौसम",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-heavy-rain-alert-for-assam-and-meghalaya-bihar-and-jharkhand-set-for-a-drenching-weather-to-change-in-mp-and-rajasthan-as-well/",
+      "important": false
+    },
     {
       "id": "355bac77",
       "title": "मुख्यमंत्री डॉ. यादव ने की मछुआ कल्याण और मत्स्य विकास विभाग की समीक्षा",
@@ -462,94 +550,6 @@
       "date": "2026-06-19",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-19-june-2026/",
-      "important": false
-    },
-    {
-      "id": "1ace3491",
-      "title": "आज का धान मंडी रेट (19 जून 2026)",
-      "summary": "आज का धान मंडी रेट (19 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-19-june-2026/",
-      "important": false
-    },
-    {
-      "id": "f302c4b6",
-      "title": "आज का मक्का मंडी रेट (19 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (19 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-19-june-2026/",
-      "important": false
-    },
-    {
-      "id": "c4fe2e99",
-      "title": "कटनी: सर्वोत्तम कृषक पुरस्कार हेतु 30 जून तक आवेदन आमंत्रित",
-      "summary": "कटनी: सर्वोत्तम कृषक पुरस्कार हेतु 30 जून तक आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/katni-applications-invited-for-the-best-farmer-award-until-june-30/",
-      "important": false
-    },
-    {
-      "id": "1e34b84f",
-      "title": "कटनी: कृषि उद्यमी प्रशिक्षण की परीक्षा संपन्न",
-      "summary": "कटनी: कृषि उद्यमी प्रशिक्षण की परीक्षा संपन्न",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/katni-agri-entrepreneur-training-examination-concludes/",
-      "important": false
-    },
-    {
-      "id": "ac9921e3",
-      "title": "टमाटर में 150:80:80 NPK डोज: अधिक फल, बेहतर रंग और ज्यादा बाजार भाव के लिए खाद प्रबंधन",
-      "summary": "टमाटर में 150:80:80 NPK डोज: अधिक फल, बेहतर रंग और ज्यादा बाजार भाव के लिए खाद प्रबंधन",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/npk-dosage-of-1508080-for-tomatoes-fertilizer-management-for-higher-yield-better-color-and-better-market-price/",
-      "important": false
-    },
-    {
-      "id": "f76a7f38",
-      "title": "प्याज में 120:60:60 NPK डोज: बड़े कंद और लंबी भंडारण क्षमता के लिए कौन सी खाद डालें?",
-      "summary": "प्याज में 120:60:60 NPK डोज: बड़े कंद और लंबी भंडारण क्षमता के लिए कौन सी खाद डालें?",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/onion-npk-dosage-of-1206060-which-fertilizer-should-be-applied-for-large-bulbs-and-long-storage-life/",
-      "important": false
-    },
-    {
-      "id": "1f5607ce",
-      "title": "गन्ने में 300:100:150 NPK डोज: 100 टन से अधिक उत्पादन के लिए कितनी यूरिया, DAP और पोटाश डालें?",
-      "summary": "गन्ने में 300:100:150 NPK डोज: 100 टन से अधिक उत्पादन के लिए कितनी यूरिया, DAP और पोटाश डालें?",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/for-a-sugarcane-npk-dosage-of-300100150-how-much-urea-dap-and-potash-should-be-applied-to-achieve-a-yield-of-over-100-tonnes/",
-      "important": false
-    },
-    {
-      "id": "897aedc2",
-      "title": "जबलपुर : एमआरपी से अधिक कीमत पर खाद बेचने वाले विक्रेताओं पर होगी कार्रवाई",
-      "summary": "जबलपुर : एमआरपी से अधिक कीमत पर खाद बेचने वाले विक्रेताओं पर होगी कार्रवाई",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jabalpur-action-will-be-taken-against-sellers-selling-fertilizer-above-the-mrp/",
       "important": false
     }
   ]
