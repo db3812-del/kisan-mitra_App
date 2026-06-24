@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-24T09:41:10Z",
-  "new_count": 8,
+  "updated": "2026-06-24T14:43:40Z",
+  "new_count": 5,
   "articles": [
+    {
+      "id": "8f43d96a",
+      "title": "न्यू हॉलैंड ने HD और XHD सीरीज़ के रोटरी टिलर्स (रोटावेटर्स) लॉन्च  किए",
+      "summary": "न्यू हॉलैंड ने HD और XHD सीरीज़ के रोटरी टिलर्स (रोटावेटर्स) लॉन्च  किए",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/new-holland-launched-hd-and-xhd-series-rotary-tillers-rotavators/",
+      "important": false
+    },
+    {
+      "id": "8ae72d0b",
+      "title": "विकसित भारत का रास्ता खेतों से होकर जाएगा, अंतर-मंत्रालयी सम्मेलन में बोले शिवराज सिंह चौहान",
+      "summary": "विकसित भारत का रास्ता खेतों से होकर जाएगा, अंतर-मंत्रालयी सम्मेलन में बोले शिवराज सिंह चौहान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/the-path-to-a-developed-india-will-lead-through-the-fields-said-shivraj-singh-chouhan-at-an-inter-ministerial-conference/",
+      "important": false
+    },
+    {
+      "id": "b6284d9a",
+      "title": "चाप कटर बना किसानों के लिए वरदान, अब मिनटों में तैयार हो जाता है चारा; पशुपालन हुआ पहले से आसान",
+      "summary": "चाप कटर बना किसानों के लिए वरदान, अब मिनटों में तैयार हो जाता है चारा; पशुपालन हुआ पहले से आसान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chaff-cutter-proves-to-be-a-boon-for-farmers-fodder-is-now-ready-in-minutes-making-animal-husbandry-easier-than-before/",
+      "important": false
+    },
+    {
+      "id": "96ed9103",
+      "title": "Soybean Mandi Rate Today: महाराष्ट्र में सोयाबीन के भाव 7,145 रुपये तक पहुंचे, जानें किस मंडी में मिला सबसे ज्यादा रेट",
+      "summary": "Soybean Mandi Rate Today: महाराष्ट्र में सोयाबीन के भाव 7,145 रुपये तक पहुंचे, जानें किस मंडी में मिला सबसे ज्यादा रेट",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/soybean-mandi-rates-today-soybean-prices-in-maharashtra-have-reached-%e2%82%b97145-find-out-which-market-offered-the-highest-rate/",
+      "important": false
+    },
+    {
+      "id": "49a8796e",
+      "title": "Weather Update Today: गुजरात, MP और महाराष्ट्र में आगे बढ़ा मानसून, जानें किस राज्य में कैसा रहेगा मौसम",
+      "summary": "Weather Update Today: गुजरात, MP और महाराष्ट्र में आगे बढ़ा मानसून, जानें किस राज्य में कैसा रहेगा मौसम",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-update-today-monsoon-advances-into-gujarat-mp-and-maharashtra-find-out-what-the-weather-will-be-like-in-these-states/",
+      "important": false
+    },
     {
       "id": "d331a403",
       "title": "बकरी इकाई प्रदाय योजना’ से ग्रामीणों को मिलेगा स्वरोजगार, पशुपालन को बढ़ावा दे रही मध्यप्रदेश सरकार",
@@ -495,61 +550,6 @@
       "date": "2026-06-20",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/madhya-pradeshs-bhavantar-bhugtan-yojana-receives-the-prestigious-skoch-gold-award-2026/",
-      "important": false
-    },
-    {
-      "id": "aac5cc6d",
-      "title": "एक एकड़ से शुरू करें प्राकृतिक खेती, बदल सकती है किसानों की तकदीर: गुना कलेक्टर",
-      "summary": "एक एकड़ से शुरू करें प्राकृतिक खेती, बदल सकती है किसानों की तकदीर: गुना कलेक्टर",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/start-natural-farming-with-just-one-acre-it-can-transform-farmers-fortunes-guna-collector/",
-      "important": false
-    },
-    {
-      "id": "0eee10a1",
-      "title": "मूंग की खेती से कमाना चाहते हैं ज्यादा मुनाफा? अपनाएं ये 5 हाई-यील्डिंग किस्में, बढ़ेगी कमाई",
-      "summary": "मूंग की खेती से कमाना चाहते हैं ज्यादा मुनाफा? अपनाएं ये 5 हाई-यील्डिंग किस्में, बढ़ेगी कमाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/want-to-earn-higher-profits-from-moong-cultivation-adopt-these-5-high-yielding-varieties-to-boost-your-earnings/",
-      "important": false
-    },
-    {
-      "id": "1ba8cff7",
-      "title": "ग्वालियर में जैविक खेती के लाभों पर हुआ मंथन",
-      "summary": "ग्वालियर में जैविक खेती के लाभों पर हुआ मंथन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/deliberations-held-in-gwalior-on-the-benefits-of-organic-farming/",
-      "important": false
-    },
-    {
-      "id": "bad9998d",
-      "title": "धान की खेती में छाई PR-126, पूसा बासमती समेत ये 5 किस्में; किसानों को दे रहीं बेहतर पैदावार और मुनाफा",
-      "summary": "धान की खेती में छाई PR-126, पूसा बासमती समेत ये 5 किस्में; किसानों को दे रहीं बेहतर पैदावार और मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/five-paddy-varieties-including-pr-126-and-pusa-basmati-are-dominating-cultivation-offering-farmers-higher-yields-and-better-profits/",
-      "important": false
-    },
-    {
-      "id": "8bc034aa",
-      "title": "बालाघाट : मृदा परीक्षण कार्य में तेजी लाएं – एसडीएम श्री गुप्ता",
-      "summary": "बालाघाट : मृदा परीक्षण कार्य में तेजी लाएं – एसडीएम श्री गुप्ता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balaghat-accelerate-soil-testing-work-sdm-mr-gupta/",
       "important": false
     }
   ]
