@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-24T14:43:40Z",
+  "updated": "2026-06-24T19:54:16Z",
   "new_count": 5,
   "articles": [
+    {
+      "id": "79a77d60",
+      "title": "मध्यप्रदेश में दाल मिल कारोबार का एक दिवसीय बंद सफल रहा",
+      "summary": "मध्यप्रदेश में दाल मिल कारोबार का एक दिवसीय बंद सफल रहा",
+      "level": "state",
+      "category": "market",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-one-day-shutdown-of-the-pulse-mill-business-in-madhya-pradesh-was-successful/",
+      "important": false
+    },
+    {
+      "id": "1f5f40bd",
+      "title": "बुरहानपुर ‘केला’ को मिला जीआई टैग, किसानों को मिलेगा बड़ा लाभ",
+      "summary": "बुरहानपुर ‘केला’ को मिला जीआई टैग, किसानों को मिलेगा बड़ा लाभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/burhanpurs-banana-gets-gi-tag-farmers-to-reap-major-benefits/",
+      "important": false
+    },
+    {
+      "id": "be1eaf69",
+      "title": "अमित शाह ने लॉन्च किया NAFEX.in पोर्टल, बोले- किसानों से सीधे खरीदा जाएगा दलहन का एक-एक दाना",
+      "summary": "अमित शाह ने लॉन्च किया NAFEX.in पोर्टल, बोले- किसानों से सीधे खरीदा जाएगा दलहन का एक-एक दाना",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/amit-shah-launched-nafex-in-portal-said-every-grain-of-pulses-will-be-purchased-directly-from-farmers/",
+      "important": false
+    },
+    {
+      "id": "f5eae900",
+      "title": "मध्यप्रदेश में मानसून की दस्तक तेज, कई जिलों में झमाझम बारिश; भोपाल-जबलपुर समेत कई क्षेत्रों में आंधी का अलर्ट",
+      "summary": "मध्यप्रदेश में मानसून की दस्तक तेज, कई जिलों में झमाझम बारिश; भोपाल-जबलपुर समेत कई क्षेत्रों में आंधी का अलर्ट",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/monsoon-intensifies-in-madhya-pradesh-heavy-rainfall-in-several-districts-storm-alert-issued-for-multiple-areas-including-bhopal-and-jabalpur/",
+      "important": false
+    },
+    {
+      "id": "8c72bd74",
+      "title": "बालाघाट: किसानों ने अपनाई डीएसआर तकनीक",
+      "summary": "बालाघाट: किसानों ने अपनाई डीएसआर तकनीक",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-farmers-adopt-dsr-technique/",
+      "important": false
+    },
     {
       "id": "8f43d96a",
       "title": "न्यू हॉलैंड ने HD और XHD सीरीज़ के रोटरी टिलर्स (रोटावेटर्स) लॉन्च  किए",
@@ -495,61 +550,6 @@
       "date": "2026-06-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/sidhi-excels-in-the-pm-dhan-dhanya-krishi-yojana-securing-the-7th-position-among-100-districts-nationwide/",
-      "important": false
-    },
-    {
-      "id": "83e21c3d",
-      "title": "जबलपुर: खाद की ओवररेटिंग पर कलेक्टर सख्त, तय कीमत से एक रुपया ज्यादा वसूला तो होगी कार्रवाई",
-      "summary": "जबलपुर: खाद की ओवररेटिंग पर कलेक्टर सख्त, तय कीमत से एक रुपया ज्यादा वसूला तो होगी कार्रवाई",
-      "level": "state",
-      "category": "price",
-      "date": "2026-06-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jabalpur-collector-cracks-down-on-overpricing-of-fertilizers-action-to-be-taken-if-even-one-rupee-above-the-fixed-price-is-charged/",
-      "important": false
-    },
-    {
-      "id": "8149dac7",
-      "title": "आज का मक्का मंडी रेट (20 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (20 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-20-june-2026/",
-      "important": false
-    },
-    {
-      "id": "c9d430bd",
-      "title": "आज का सोयाबीन मंडी रेट (20 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (20 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-20-june-2026/",
-      "important": false
-    },
-    {
-      "id": "2117f867",
-      "title": "जशपुर के नवाचारी किसानों को मिलेगा सम्मान, आम-कटहल प्रतियोगिता में 10 हजार रुपए तक के नगद पुरस्कार",
-      "summary": "जशपुर के नवाचारी किसानों को मिलेगा सम्मान, आम-कटहल प्रतियोगिता में 10 हजार रुपए तक के नगद पुरस्कार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/innovative-farmers-of-jashpur-to-be-honored-cash-prizes-of-up-to-%e2%82%b910000-in-mango-and-jackfruit-competitions/",
-      "important": false
-    },
-    {
-      "id": "40b3aa1d",
-      "title": "मध्यप्रदेश की भावांतर भुगतान योजना को मिला प्रतिष्ठित SKOCH Gold Award-2026",
-      "summary": "मध्यप्रदेश की भावांतर भुगतान योजना को मिला प्रतिष्ठित SKOCH Gold Award-2026",
-      "level": "state",
-      "category": "price",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradeshs-bhavantar-bhugtan-yojana-receives-the-prestigious-skoch-gold-award-2026/",
       "important": false
     }
   ]
