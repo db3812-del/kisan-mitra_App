@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-24T04:05:45Z",
-  "new_count": 0,
+  "updated": "2026-06-24T09:41:10Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "d331a403",
+      "title": "बकरी इकाई प्रदाय योजना’ से ग्रामीणों को मिलेगा स्वरोजगार, पशुपालन को बढ़ावा दे रही मध्यप्रदेश सरकार",
+      "summary": "बकरी इकाई प्रदाय योजना’ से ग्रामीणों को मिलेगा स्वरोजगार, पशुपालन को बढ़ावा दे रही मध्यप्रदेश सरकार",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/goat-unit-supply-scheme-to-provide-self-employment-to-villagers-madhya-pradesh-government-promoting-animal-husbandry/",
+      "important": false
+    },
+    {
+      "id": "4f27cc1e",
+      "title": "कल 24 जून को समृद्ध किसान उत्सव’ में मिलेंगे आधुनिक खेती के गुर, किसानों को मिलेगा विशेषज्ञों का सीधा मार्गदर्शन",
+      "summary": "कल 24 जून को समृद्ध किसान उत्सव’ में मिलेंगे आधुनिक खेती के गुर, किसानों को मिलेगा विशेषज्ञों का सीधा मार्गदर्शन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/learn-the-nuances-of-modern-farming-at-the-samriddh-kisan-utsav-tomorrow-june-24-farmers-will-receive-direct-guidance-from-experts/",
+      "important": false
+    },
+    {
+      "id": "17acd3b6",
+      "title": "मीठा और लाल तरबूज खरीदने की आसान तरकीबें, इन देसी ट्रिक्स से कभी नहीं होगा गलत चुनाव",
+      "summary": "मीठा और लाल तरबूज खरीदने की आसान तरकीबें, इन देसी ट्रिक्स से कभी नहीं होगा गलत चुनाव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/easy-tips-for-buying-sweet-red-watermelons-with-these-traditional-tricks-youll-never-make-the-wrong-choice/",
+      "important": false
+    },
+    {
+      "id": "9e658ea9",
+      "title": "वैज्ञानिक हरा चारा उत्पादन से बढ़ेगी पशुपालकों की आय, महिला किसानों को मिला आधुनिक प्रशिक्षण",
+      "summary": "वैज्ञानिक हरा चारा उत्पादन से बढ़ेगी पशुपालकों की आय, महिला किसानों को मिला आधुनिक प्रशिक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/scientific-green-fodder-production-to-boost-livestock-farmers-income-women-farmers-receive-modern-training/",
+      "important": false
+    },
+    {
+      "id": "c3187d57",
+      "title": "ओल (जिमीकंद) की फसल में पत्तियां पड़ रही हैं पीली? जानिए कारण और बचाव के वैज्ञानिक उपाय",
+      "summary": "ओल (जिमीकंद) की फसल में पत्तियां पड़ रही हैं पीली? जानिए कारण और बचाव के वैज्ञानिक उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/are-the-leaves-of-your-elephant-foot-yam-jimikand-crop-turning-yellow-learn-the-causes-and-scientific-preventive-measures/",
+      "important": false
+    },
+    {
+      "id": "b06747a3",
+      "title": "Success Story: शेडनेट हाउस में उगाईं सब्जियां, मिर्च की खेती से किसान ने कमाए 7 लाख रुपये",
+      "summary": "Success Story: शेडनेट हाउस में उगाईं सब्जियां, मिर्च की खेती से किसान ने कमाए 7 लाख रुपये",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/success-story-vegetables-grown-in-a-shade-net-house-farmer-earns-%e2%82%b97-lakh-from-chili-cultivation/",
+      "important": false
+    },
+    {
+      "id": "88939521",
+      "title": "El-Nino से बढ़ी चिंता, 12 राज्यों के 315 जिलों में कम बारिश का खतरा; केंद्र ने बनाई मॉनिटरिंग सेल",
+      "summary": "El-Nino से बढ़ी चिंता, 12 राज्यों के 315 जिलों में कम बारिश का खतरा; केंद्र ने बनाई मॉनिटरिंग सेल",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/el-nino-raises-concerns-315-districts-across-12-states-face-the-risk-of-deficient-rainfall-centre-sets-up-a-monitoring-cell/",
+      "important": false
+    },
+    {
+      "id": "84b38e3b",
+      "title": "रायपुर: बिना अनुमति बेची जा रही थी यूरिया खाद, कृषि विभाग ने 12.65 टन उर्वरक की बिक्री पर लगाई रोक",
+      "summary": "रायपुर: बिना अनुमति बेची जा रही थी यूरिया खाद, कृषि विभाग ने 12.65 टन उर्वरक की बिक्री पर लगाई रोक",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-urea-fertilizer-was-being-sold-without-permission-agriculture-department-halts-sale-of-12-65-tonnes-of-fertilizer/",
+      "important": false
+    },
     {
       "id": "761f3243",
       "title": "कृषि व्यवसाय इन्क्यूबेशन: खेती को उद्यम में बदलने की दिशा",
@@ -462,94 +550,6 @@
       "date": "2026-06-20",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/balaghat-accelerate-soil-testing-work-sdm-mr-gupta/",
-      "important": false
-    },
-    {
-      "id": "d1100e36",
-      "title": "कृषि विज्ञान केंद्र सिवनी में स्थापित हुआ स्वचालित मौसम स्टेशन",
-      "summary": "कृषि विज्ञान केंद्र सिवनी में स्थापित हुआ स्वचालित मौसम स्टेशन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/an-automatic-weather-station-has-been-installed-at-krishi-vigyan-kendra-seoni/",
-      "important": false
-    },
-    {
-      "id": "cf9295bb",
-      "title": "कपास में 150:60:60 NPK डोज: अधिक बॉल्स, मजबूत पौधे और बेहतर उत्पादन के लिए कौन सी खाद डालें?",
-      "summary": "कपास में 150:60:60 NPK डोज: अधिक बॉल्स, मजबूत पौधे और बेहतर उत्पादन के लिए कौन सी खाद डालें?",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/1506060-npk-dose-for-cotton-which-fertilizers-should-be-applied-for-more-bolls-robust-plants-and-better-yield/",
-      "important": false
-    },
-    {
-      "id": "6a136dad",
-      "title": "पालक में 80:40:40 NPK डोज: गहरे हरे पत्ते और अधिक कटाई के लिए सही खाद प्रबंधन",
-      "summary": "पालक में 80:40:40 NPK डोज: गहरे हरे पत्ते और अधिक कटाई के लिए सही खाद प्रबंधन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/804040-npk-dosage-for-spinach-proper-fertilizer-management-for-dark-green-leaves-and-higher-yields/",
-      "important": false
-    },
-    {
-      "id": "c7cf64c4",
-      "title": "धान में सिर्फ यूरिया डालने से नहीं बढ़ेगी पैदावार, जानिए वैज्ञानिक उर्वरक प्रबंधन का पूरा फॉर्मूला",
-      "summary": "धान में सिर्फ यूरिया डालने से नहीं बढ़ेगी पैदावार, जानिए वैज्ञानिक उर्वरक प्रबंधन का पूरा फॉर्मूला",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/applying-only-urea-to-paddy-crops-wont-boost-yields-learn-the-complete-formula-for-scientific-fertilizer-management/",
-      "important": false
-    },
-    {
-      "id": "dbfe478a",
-      "title": "भारत में फसल सुरक्षा क्षेत्र को मिली बड़ी मजबूती, 17 नए उत्पादों को मिली मंजूरी",
-      "summary": "भारत में फसल सुरक्षा क्षेत्र को मिली बड़ी मजबूती, 17 नए उत्पादों को मिली मंजूरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/major-boost-for-indias-crop-protection-sector-17-new-products-approved/",
-      "important": false
-    },
-    {
-      "id": "e31ba989",
-      "title": "केंद्र सरकार का बड़ा फैसला, अब 15 दिन और MSP पर बेच सकेंगे चना, मसूर और सरसों",
-      "summary": "केंद्र सरकार का बड़ा फैसला, अब 15 दिन और MSP पर बेच सकेंगे चना, मसूर और सरसों",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-decision-by-the-central-government-gram-masoor-and-mustard-can-now-be-sold-at-msp-for-another-15-days/",
-      "important": true
-    },
-    {
-      "id": "3eb85739",
-      "title": "केंद्रीय मंत्री शिवराज सिंह चौहान का बड़ा फैसला, चार राज्यों में MSP पर दाल और तिलहन खरीदी को मंजूरी",
-      "summary": "केंद्रीय मंत्री शिवराज सिंह चौहान का बड़ा फैसला, चार राज्यों में MSP पर दाल और तिलहन खरीदी को मंजूरी",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/union-minister-shivraj-singh-chouhans-major-decision-approval-granted-for-the-procurement-of-pulses-and-oilseeds-at-msp-in-four-states/",
-      "important": true
-    },
-    {
-      "id": "768a08d9",
-      "title": "आज का गेहूँ मंडी रेट (19 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (19 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-19-june-2026/",
       "important": false
     }
   ]
