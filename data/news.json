@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-25T09:33:29Z",
+  "updated": "2026-06-25T14:43:19Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "e8fddd24",
+      "title": "आज का गेहूँ मंडी रेट (25 जून 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (25 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-25-june-2026/",
+      "important": false
+    },
+    {
+      "id": "b434515b",
+      "title": "आज का धान मंडी रेट (25 जून 2026)",
+      "summary": "आज का धान मंडी रेट (25 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-25-june-2026/",
+      "important": false
+    },
+    {
+      "id": "662ea687",
+      "title": "आज का मक्का मंडी रेट (25 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (25 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-25-june-2026/",
+      "important": false
+    },
+    {
+      "id": "4c2d23b2",
+      "title": "आज का सोयाबीन मंडी रेट (25 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (25 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-25-june-2026/",
+      "important": false
+    },
+    {
+      "id": "08c776fd",
+      "title": "Weather Update: अगले 4 दिनों में मानसून पकड़ेगा रफ्तार, कई राज्यों में भारी बारिश का अलर्ट; बिहार-यूपी में हीटवेव जारी",
+      "summary": "Weather Update: अगले 4 दिनों में मानसून पकड़ेगा रफ्तार, कई राज्यों में भारी बारिश का अलर्ट; बिहार-यूपी में हीटवेव जारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-update-monsoon-to-pick-up-pace-over-the-next-4-days-heavy-rain-alert-for-several-states-heatwave-continues-in-bihar-and-up/",
+      "important": false
+    },
+    {
+      "id": "0c505f33",
+      "title": "IMD Weather Update: मध्यप्रदेश में कई जिलों में झमाझम बारिश, जबलपुर-सीहोर में तेज आंधी का अलर्ट; बालाघाट में ओलावृष्टि क",
+      "summary": "IMD Weather Update: मध्यप्रदेश में कई जिलों में झमाझम बारिश, जबलपुर-सीहोर में तेज आंधी का अलर्ट; बालाघाट में ओलावृष्टि की चेतावनी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/imd-weather-update-heavy-rainfall-in-several-districts-of-madhya-pradesh-alert-issued-for-strong-winds-in-jabalpur-and-sehore-hailstorm-warning-for-balaghat/",
+      "important": false
+    },
+    {
+      "id": "675c70b1",
+      "title": "छतरपुर: खरीफ-2026 की तैयारियों को लेकर एसीएस की संभागीय समीक्षा बैठक सम्पन्न",
+      "summary": "छतरपुर: खरीफ-2026 की तैयारियों को लेकर एसीएस की संभागीय समीक्षा बैठक सम्पन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhatarpur-acss-divisional-review-meeting-regarding-preparations-for-kharif-2026-concludes/",
+      "important": false
+    },
+    {
+      "id": "b8d1378e",
+      "title": "25 हजार रुपये की लागत, 1 लाख रुपये से ज्यादा का मुनाफा; सरसों की खेती से किसान की बदली किस्मत",
+      "summary": "25 हजार रुपये की लागत, 1 लाख रुपये से ज्यादा का मुनाफा; सरसों की खेती से किसान की बदली किस्मत",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/investment-of-%e2%82%b925000-profit-exceeding-%e2%82%b91-lakh-mustard-farming-transforms-a-farmers-fortunes/",
+      "important": false
+    },
     {
       "id": "c73837b9",
       "title": "कृषि विभाग में 157 सहायक कृषि अधिकारियों की नियुक्ति, किसानों को मिलेगा बेहतर तकनीकी मार्गदर्शन",
@@ -462,94 +550,6 @@
       "date": "2026-06-23",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/crop-cultivation/boost-profits-by-cultivating-arhar-during-the-kharif-season-rely-on-these-3-icar-varieties-for-yields-of-up-to-27-quintals-per-hectare/",
-      "important": false
-    },
-    {
-      "id": "d67ddc19",
-      "title": "2 भैंसों से शुरू किया सफर, आज 175 लीटर दूध बेचकर हर महीने कमा रहे 3 लाख रुपये",
-      "summary": "2 भैंसों से शुरू किया सफर, आज 175 लीटर दूध बेचकर हर महीने कमा रहे 3 लाख रुपये",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/started-the-journey-with-2-buffaloes-today-earning-%e2%82%b93-lakh-per-month-by-selling-175-liters-of-milk/",
-      "important": false
-    },
-    {
-      "id": "62c5d267",
-      "title": "मिट्टी जांच कराए बिना खाद डालना क्यों बन रहा है किसानों के लिए महंगा सौदा?",
-      "summary": "मिट्टी जांच कराए बिना खाद डालना क्यों बन रहा है किसानों के लिए महंगा सौदा?",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/why-is-applying-fertilizer-without-soil-testing-becoming-a-costly-affair-for-farmers/",
-      "important": false
-    },
-    {
-      "id": "f64c9bea",
-      "title": "खेत में जिंक की कमी नहीं, उपलब्धता की समस्या है: क्षारीय मिट्टी की छिपी हुई चुनौती",
-      "summary": "खेत में जिंक की कमी नहीं, उपलब्धता की समस्या है: क्षारीय मिट्टी की छिपी हुई चुनौती",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/there-is-no-lack-of-zinc-in-the-soil-the-issue-is-availability-the-hidden-challenge-of-alkaline-soil/",
-      "important": false
-    },
-    {
-      "id": "d1994961",
-      "title": "धान, गेहूं, मक्का, सोयाबीन, सरसों, गन्ना और कपास में कौन सी खाद कितनी डालें? फसलवार NPK उर्वरक प्रबंधन की पूरी गाइड",
-      "summary": "धान, गेहूं, मक्का, सोयाबीन, सरसों, गन्ना और कपास में कौन सी खाद कितनी डालें? फसलवार NPK उर्वरक प्रबंधन की पूरी गाइड",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/how-much-fertilizer-should-be-applied-for-paddy-wheat-maize-soybean-mustard-sugarcane-and-cotton-a-complete-guide-to-crop-wise-npk-fertilizer-management/",
-      "important": false
-    },
-    {
-      "id": "100a5c4c",
-      "title": "मध्यप्रदेश प्राकृतिक खेती अपनाने वाले राज्यों में सबसे अव्वल",
-      "summary": "मध्यप्रदेश प्राकृतिक खेती अपनाने वाले राज्यों में सबसे अव्वल",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-ranks-first-among-states-adopting-natural-farming/",
-      "important": false
-    },
-    {
-      "id": "2ac49da9",
-      "title": "आज का गेहूँ मंडी रेट (22 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (22 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-22-june-2026/",
-      "important": false
-    },
-    {
-      "id": "41a2fe33",
-      "title": "आज का धान मंडी रेट (22 जून 2026)",
-      "summary": "आज का धान मंडी रेट (22 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-22-june-2026/",
-      "important": false
-    },
-    {
-      "id": "4602fe0f",
-      "title": "आज का मक्का मंडी रेट (22 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (22 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-22-june-2026/",
       "important": false
     }
   ]
