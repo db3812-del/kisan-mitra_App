@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-25T04:06:01Z",
-  "new_count": 0,
+  "updated": "2026-06-25T09:33:29Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "c73837b9",
+      "title": "कृषि विभाग में 157 सहायक कृषि अधिकारियों की नियुक्ति, किसानों को मिलेगा बेहतर तकनीकी मार्गदर्शन",
+      "summary": "कृषि विभाग में 157 सहायक कृषि अधिकारियों की नियुक्ति, किसानों को मिलेगा बेहतर तकनीकी मार्गदर्शन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/appointment-of-157-assistant-agriculture-officers-in-the-agriculture-department-farmers-to-receive-better-technical-guidance/",
+      "important": false
+    },
+    {
+      "id": "11180dc0",
+      "title": "मध्यप्रदेश: राज्यपाल ने की दुधारू पशु योजना की समीक्षा, अति-पिछड़ी जनजातियों को प्राथमिकता देने के निर्देश",
+      "summary": "मध्यप्रदेश: राज्यपाल ने की दुधारू पशु योजना की समीक्षा, अति-पिछड़ी जनजातियों को प्राथमिकता देने के निर्देश",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-governor-reviews-milch-animal-scheme-issues-directives-to-prioritize-particularly-vulnerable-tribal-groups/",
+      "important": false
+    },
+    {
+      "id": "7c289212",
+      "title": "बारिश के साथ ही इंदौर जिले में खरीफ की बुआई का कार्य प्रारम्भ",
+      "summary": "बारिश के साथ ही इंदौर जिले में खरीफ की बुआई का कार्य प्रारम्भ",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kharif-sowing-begins-in-indore-district-with-the-onset-of-rains/",
+      "important": false
+    },
+    {
+      "id": "7a3f1c7d",
+      "title": "हल्दी, अदरक और मिलेट्स से बढ़ेगी किसानों की कमाई, 15 दिन की ट्रेनिंग में सिखाए गए वैल्यू एडेड उत्पाद",
+      "summary": "हल्दी, अदरक और मिलेट्स से बढ़ेगी किसानों की कमाई, 15 दिन की ट्रेनिंग में सिखाए गए वैल्यू एडेड उत्पाद",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/turmeric-ginger-and-millets-to-boost-farmers-earnings-value-added-products-taught-during-15-day-training/",
+      "important": false
+    },
+    {
+      "id": "e6f3c17f",
+      "title": "किसानों को बड़ी राहत: अब घर बैठे बुक होगी सब्सिडी वाली खाद, राजस्थान में नई डिजिटल व्यवस्था लागू",
+      "summary": "किसानों को बड़ी राहत: अब घर बैठे बुक होगी सब्सिडी वाली खाद, राजस्थान में नई डिजिटल व्यवस्था लागू",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-relief-for-farmers-subsidized-fertilizer-can-now-be-booked-from-home-new-digital-system-implemented-in-rajasthan/",
+      "important": false
+    },
+    {
+      "id": "9388521a",
+      "title": "सोयाबीन की खेती में अपनाई ये खास तकनीक, किसान ने सिर्फ 3 बीघा से कमाया 1 लाख का शुद्ध लाभ",
+      "summary": "सोयाबीन की खेती में अपनाई ये खास तकनीक, किसान ने सिर्फ 3 बीघा से कमाया 1 लाख का शुद्ध लाभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/by-adopting-this-special-technique-in-soybean-farming-a-farmer-earned-a-net-profit-of-%e2%82%b91-lakh-from-just-3-bighas-of-land/",
+      "important": false
+    },
+    {
+      "id": "1ba67be6",
+      "title": "छिंदवाड़ा: जलवायु अनुकूल खेती से किसानों की आय बढ़ाने के लिये कार्यशाला आयोजित",
+      "summary": "छिंदवाड़ा: जलवायु अनुकूल खेती से किसानों की आय बढ़ाने के लिये कार्यशाला आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-workshop-organized-to-boost-farmers-income-through-climate-resilient-farming/",
+      "important": false
+    },
+    {
+      "id": "97da9b5f",
+      "title": "जावर का खीरा व टमाटर दुबई तक हो रहा एक्सपोर्ट",
+      "summary": "जावर का खीरा व टमाटर दुबई तक हो रहा एक्सपोर्ट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/cucumbers-and-tomatoes-from-jawar-are-being-exported-to-dubai/",
+      "important": false
+    },
     {
       "id": "79a77d60",
       "title": "मध्यप्रदेश में दाल मिल कारोबार का एक दिवसीय बंद सफल रहा",
@@ -462,94 +550,6 @@
       "date": "2026-06-22",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-22-june-2026/",
-      "important": false
-    },
-    {
-      "id": "1121d61b",
-      "title": "आज का सोयाबीन मंडी रेट (22 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (22 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-22-june-2026/",
-      "important": false
-    },
-    {
-      "id": "ce1b2205",
-      "title": "सरसों में सल्फर की कमी से आधी रह सकती है पैदावार, जानिए वैज्ञानिक पोषण प्रबंधन",
-      "summary": "सरसों में सल्फर की कमी से आधी रह सकती है पैदावार, जानिए वैज्ञानिक पोषण प्रबंधन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/sulfur-deficiency-in-mustard-can-cut-yields-by-half-learn-about-scientific-nutrient-management/",
-      "important": false
-    },
-    {
-      "id": "0dfc4db1",
-      "title": "मक्का में रिकॉर्ड उत्पादन का राज: सही खाद प्रबंधन से बढ़ सकती है पैदावार और मुनाफा",
-      "summary": "मक्का में रिकॉर्ड उत्पादन का राज: सही खाद प्रबंधन से बढ़ सकती है पैदावार और मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/the-secret-to-record-maize-production-proper-fertilizer-management-can-boost-yield-and-profits/",
-      "important": false
-    },
-    {
-      "id": "af7b1f9a",
-      "title": "गन्ने में 100 टन से अधिक उत्पादन चाहते हैं? जानिए उर्वरक प्रबंधन की वैज्ञानिक रणनीति",
-      "summary": "गन्ने में 100 टन से अधिक उत्पादन चाहते हैं? जानिए उर्वरक प्रबंधन की वैज्ञानिक रणनीति",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/want-a-sugarcane-yield-of-over-100-tonnes-learn-the-scientific-strategy-for-fertilizer-management/",
-      "important": false
-    },
-    {
-      "id": "b2045172",
-      "title": "कपास में सिर्फ यूरिया नहीं, बोरॉन और पोटाश भी बढ़ाते हैं उत्पादन",
-      "summary": "कपास में सिर्फ यूरिया नहीं, बोरॉन और पोटाश भी बढ़ाते हैं उत्पादन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/in-cotton-not-just-urea-but-also-boron-and-potash-boost-production/",
-      "important": false
-    },
-    {
-      "id": "671d40ab",
-      "title": "सीहोर : प्राकृतिक खेती विषय पर एक दिवसीय किसान संगोष्ठी आयोजित",
-      "summary": "सीहोर : प्राकृतिक खेती विषय पर एक दिवसीय किसान संगोष्ठी आयोजित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-one-day-farmers-seminar-on-natural-farming-organized/",
-      "important": false
-    },
-    {
-      "id": "3cb35f63",
-      "title": "दुग्ध उत्पादन दोगुना करने की दिशा में भोपाल बना नवाचारों का मॉडल",
-      "summary": "दुग्ध उत्पादन दोगुना करने की दिशा में भोपाल बना नवाचारों का मॉडल",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bhopal-emerges-as-a-model-of-innovation-in-the-drive-to-double-milk-production/",
-      "important": false
-    },
-    {
-      "id": "1fdf6945",
-      "title": "PM धन-धान्य कृषि योजना में सीधी ने मारी बाजी, देश के 100 जिलों में हासिल किया 7वां स्थान",
-      "summary": "PM धन-धान्य कृषि योजना में सीधी ने मारी बाजी, देश के 100 जिलों में हासिल किया 7वां स्थान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sidhi-excels-in-the-pm-dhan-dhanya-krishi-yojana-securing-the-7th-position-among-100-districts-nationwide/",
       "important": false
     }
   ]
