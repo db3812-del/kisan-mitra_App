@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-26T09:38:28Z",
-  "new_count": 8,
+  "updated": "2026-06-26T14:36:30Z",
+  "new_count": 1,
   "articles": [
+    {
+      "id": "d91e553b",
+      "title": "रतलाम जिले के उन्नत कृषकों के लिए सोशल मीडिया संबंधी लिंक जारी",
+      "summary": "रतलाम जिले के उन्नत कृषकों के लिए सोशल मीडिया संबंधी लिंक जारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/social-media-links-released-for-progressive-farmers-of-ratlam-district-social-media-links-released-for-progressive-farmers-of-ratlam-district-%e0%a4%b0%e0%a4%a4%e0%a4%b2%e0%a4%be%e0%a4%ae-%e0%a4%9c/",
+      "important": false
+    },
     {
       "id": "17f47e53",
       "title": "आगर मालवा में पशुपालन विभाग की कार्यशाला आयोजित",
@@ -539,17 +550,6 @@
       "date": "2026-06-23",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/mp-weather-update-rain-in-several-areas-including-bhopal-and-indore-alert-for-strong-storms-in-jabalpur-and-sagar-monsoon-gathers-pace/",
-      "important": false
-    },
-    {
-      "id": "69b36eff",
-      "title": "IMD Weather Update: असम-मेघालय में भारी बारिश का अलर्ट, बिहार-झारखंड होंगे तरबतर; MP-राजस्थान में भी बदलेगा मौसम",
-      "summary": "IMD Weather Update: असम-मेघालय में भारी बारिश का अलर्ट, बिहार-झारखंड होंगे तरबतर; MP-राजस्थान में भी बदलेगा मौसम",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-heavy-rain-alert-for-assam-and-meghalaya-bihar-and-jharkhand-set-for-a-drenching-weather-to-change-in-mp-and-rajasthan-as-well/",
       "important": false
     }
   ]
