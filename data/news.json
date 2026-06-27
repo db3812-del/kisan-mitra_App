@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-27T08:43:53Z",
+  "updated": "2026-06-27T13:55:31Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "5e008da3",
+      "title": "समुद्र के रास्ते सिंगापुर पहुंचे भारत के बंगनपल्ली आम, किसानों को मिलेगा बेहतर दाम",
+      "summary": "समुद्र के रास्ते सिंगापुर पहुंचे भारत के बंगनपल्ली आम, किसानों को मिलेगा बेहतर दाम",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/indias-banganapalli-mangoes-reach-singapore-via-sea-route-farmers-to-get-better-prices/",
+      "important": false
+    },
+    {
+      "id": "3f095630",
+      "title": "आज का गेहूँ मंडी रेट (27 जून 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (27 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-27-june-2026/",
+      "important": false
+    },
+    {
+      "id": "c0e83f9d",
+      "title": "आज का धान मंडी रेट (27 जून 2026)",
+      "summary": "आज का धान मंडी रेट (27 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-27-june-2026/",
+      "important": false
+    },
+    {
+      "id": "f6f2f853",
+      "title": "IMD Weather Update: पूर्वोत्तर में मूसलाधार बारिश का अलर्ट, यूपी में भीषण लू जारी; जानें आपके राज्य का मौसम",
+      "summary": "IMD Weather Update: पूर्वोत्तर में मूसलाधार बारिश का अलर्ट, यूपी में भीषण लू जारी; जानें आपके राज्य का मौसम",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-torrential-rain-alert-for-the-northeast-severe-heatwave-continues-in-up-check-the-weather-in-your-state/",
+      "important": false
+    },
+    {
+      "id": "cd0ec7a9",
+      "title": "आज का मक्का मंडी रेट (27 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (27 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-27-june-2026/",
+      "important": false
+    },
+    {
+      "id": "6d6cd533",
+      "title": "आज का सोयाबीन मंडी रेट (27 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (27 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-27-june-2026/",
+      "important": false
+    },
+    {
+      "id": "8fdd201a",
+      "title": "अल नीनो के खतरे के बीच भारत के 111 सर्वाधिक संवेदनशील जिलों पर केंद्र का विशेष फोकस",
+      "summary": "अल नीनो के खतरे के बीच भारत के 111 सर्वाधिक संवेदनशील जिलों पर केंद्र का विशेष फोकस",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/centres-special-focus-on-indias-111-most-vulnerable-districts-amidst-el-nino-threat/",
+      "important": false
+    },
+    {
+      "id": "0d536546",
+      "title": "मध्य प्रदेश में मानसून का असर तेज, धार में 131 मिमी बारिश; आज भी कई जिलों में भारी बारिश की चेतावनी",
+      "summary": "मध्य प्रदेश में मानसून का असर तेज, धार में 131 मिमी बारिश; आज भी कई जिलों में भारी बारिश की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/monsoon-intensifies-in-madhya-pradesh-dhar-records-131-mm-of-rainfall-heavy-rain-warning-issued-for-several-districts-today-as-well/",
+      "important": false
+    },
     {
       "id": "71dc6e28",
       "title": "बिहार की कुटीर ज्योति योजना: अब गरीब परिवारों के घर मुफ्त में लगेंगे सोलर प्लांट",
@@ -462,94 +550,6 @@
       "date": "2026-06-24",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/soybean-mandi-rates-today-soybean-prices-in-maharashtra-have-reached-%e2%82%b97145-find-out-which-market-offered-the-highest-rate/",
-      "important": false
-    },
-    {
-      "id": "49a8796e",
-      "title": "Weather Update Today: गुजरात, MP और महाराष्ट्र में आगे बढ़ा मानसून, जानें किस राज्य में कैसा रहेगा मौसम",
-      "summary": "Weather Update Today: गुजरात, MP और महाराष्ट्र में आगे बढ़ा मानसून, जानें किस राज्य में कैसा रहेगा मौसम",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-update-today-monsoon-advances-into-gujarat-mp-and-maharashtra-find-out-what-the-weather-will-be-like-in-these-states/",
-      "important": false
-    },
-    {
-      "id": "d331a403",
-      "title": "बकरी इकाई प्रदाय योजना’ से ग्रामीणों को मिलेगा स्वरोजगार, पशुपालन को बढ़ावा दे रही मध्यप्रदेश सरकार",
-      "summary": "बकरी इकाई प्रदाय योजना’ से ग्रामीणों को मिलेगा स्वरोजगार, पशुपालन को बढ़ावा दे रही मध्यप्रदेश सरकार",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/goat-unit-supply-scheme-to-provide-self-employment-to-villagers-madhya-pradesh-government-promoting-animal-husbandry/",
-      "important": false
-    },
-    {
-      "id": "4f27cc1e",
-      "title": "कल 24 जून को समृद्ध किसान उत्सव’ में मिलेंगे आधुनिक खेती के गुर, किसानों को मिलेगा विशेषज्ञों का सीधा मार्गदर्शन",
-      "summary": "कल 24 जून को समृद्ध किसान उत्सव’ में मिलेंगे आधुनिक खेती के गुर, किसानों को मिलेगा विशेषज्ञों का सीधा मार्गदर्शन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/learn-the-nuances-of-modern-farming-at-the-samriddh-kisan-utsav-tomorrow-june-24-farmers-will-receive-direct-guidance-from-experts/",
-      "important": false
-    },
-    {
-      "id": "17acd3b6",
-      "title": "मीठा और लाल तरबूज खरीदने की आसान तरकीबें, इन देसी ट्रिक्स से कभी नहीं होगा गलत चुनाव",
-      "summary": "मीठा और लाल तरबूज खरीदने की आसान तरकीबें, इन देसी ट्रिक्स से कभी नहीं होगा गलत चुनाव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/easy-tips-for-buying-sweet-red-watermelons-with-these-traditional-tricks-youll-never-make-the-wrong-choice/",
-      "important": false
-    },
-    {
-      "id": "9e658ea9",
-      "title": "वैज्ञानिक हरा चारा उत्पादन से बढ़ेगी पशुपालकों की आय, महिला किसानों को मिला आधुनिक प्रशिक्षण",
-      "summary": "वैज्ञानिक हरा चारा उत्पादन से बढ़ेगी पशुपालकों की आय, महिला किसानों को मिला आधुनिक प्रशिक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/scientific-green-fodder-production-to-boost-livestock-farmers-income-women-farmers-receive-modern-training/",
-      "important": false
-    },
-    {
-      "id": "c3187d57",
-      "title": "ओल (जिमीकंद) की फसल में पत्तियां पड़ रही हैं पीली? जानिए कारण और बचाव के वैज्ञानिक उपाय",
-      "summary": "ओल (जिमीकंद) की फसल में पत्तियां पड़ रही हैं पीली? जानिए कारण और बचाव के वैज्ञानिक उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/are-the-leaves-of-your-elephant-foot-yam-jimikand-crop-turning-yellow-learn-the-causes-and-scientific-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "b06747a3",
-      "title": "Success Story: शेडनेट हाउस में उगाईं सब्जियां, मिर्च की खेती से किसान ने कमाए 7 लाख रुपये",
-      "summary": "Success Story: शेडनेट हाउस में उगाईं सब्जियां, मिर्च की खेती से किसान ने कमाए 7 लाख रुपये",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/success-story-vegetables-grown-in-a-shade-net-house-farmer-earns-%e2%82%b97-lakh-from-chili-cultivation/",
-      "important": false
-    },
-    {
-      "id": "88939521",
-      "title": "El-Nino से बढ़ी चिंता, 12 राज्यों के 315 जिलों में कम बारिश का खतरा; केंद्र ने बनाई मॉनिटरिंग सेल",
-      "summary": "El-Nino से बढ़ी चिंता, 12 राज्यों के 315 जिलों में कम बारिश का खतरा; केंद्र ने बनाई मॉनिटरिंग सेल",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/el-nino-raises-concerns-315-districts-across-12-states-face-the-risk-of-deficient-rainfall-centre-sets-up-a-monitoring-cell/",
       "important": false
     }
   ]
