@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-27T03:59:08Z",
-  "new_count": 0,
+  "updated": "2026-06-27T08:43:53Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "71dc6e28",
+      "title": "बिहार की कुटीर ज्योति योजना: अब गरीब परिवारों के घर मुफ्त में लगेंगे सोलर प्लांट",
+      "summary": "बिहार की कुटीर ज्योति योजना: अब गरीब परिवारों के घर मुफ्त में लगेंगे सोलर प्लांट",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bihars-kutir-jyoti-yojana-solar-plants-to-be-installed-in-poor-families-homes-for-free/",
+      "important": false
+    },
+    {
+      "id": "541ecfed",
+      "title": "खेत से सालाना 50 हजार की आय से 1.68 करोड़ तक का सफर",
+      "summary": "खेत से सालाना 50 हजार की आय से 1.68 करोड़ तक का सफर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-journey-from-an-annual-farm-income-of-%e2%82%b950000-to-%e2%82%b91-68-crore/",
+      "important": false
+    },
+    {
+      "id": "98f5bfc9",
+      "title": "रासायनिक खाद से बढ़ रही बीमारियां, जैविक खेती ही समाधान: राजस्व मंत्री टंकराम वर्मा",
+      "summary": "रासायनिक खाद से बढ़ रही बीमारियां, जैविक खेती ही समाधान: राजस्व मंत्री टंकराम वर्मा",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/diseases-on-the-rise-due-to-chemical-fertilizers-organic-farming-is-the-solution-revenue-minister-tankram-verma/",
+      "important": false
+    },
+    {
+      "id": "ff873982",
+      "title": "राष्ट्रीय ग्रामीण विकास सम्मेलन: 28-29 जून को दिल्ली में जुटेंगे सभी राज्यों के मंत्री, गांवों के विकास के लिए बनेगी रणन",
+      "summary": "राष्ट्रीय ग्रामीण विकास सम्मेलन: 28-29 जून को दिल्ली में जुटेंगे सभी राज्यों के मंत्री, गांवों के विकास के लिए बनेगी रणनीति",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/national-rural-development-conference-ministers-from-all-states-to-gather-in-delhi-on-june-28-29-strategy-for-village-development-to-be-formulated/",
+      "important": false
+    },
+    {
+      "id": "0f8dd294",
+      "title": "राजस्थान में मशरूम खेती को मिलेगा बढ़ावा, किसानों को दिया जाएगा विशेष प्रशिक्षण",
+      "summary": "राजस्थान में मशरूम खेती को मिलेगा बढ़ावा, किसानों को दिया जाएगा विशेष प्रशिक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mushroom-farming-to-get-a-boost-in-rajasthan-farmers-to-receive-special-training/",
+      "important": false
+    },
+    {
+      "id": "be1fc6d5",
+      "title": "जैविक खेती का कमाल: सिर्फ 1 एकड़ में एप्पल और सब्जियों उगाकर कमाए 2 लाख रुपए, जानिए सफलता का राज",
+      "summary": "जैविक खेती का कमाल: सिर्फ 1 एकड़ में एप्पल और सब्जियों उगाकर कमाए 2 लाख रुपए, जानिए सफलता का राज",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-magic-of-organic-farming-earned-%e2%82%b92-lakh-by-growing-apples-and-vegetables-on-just-one-acre-discover-the-secret-to-this-success/",
+      "important": false
+    },
+    {
+      "id": "e1ee9945",
+      "title": "छत्तीसगढ़: खरीफ सीजन से पहले खाद-बीज वितरण तेज, किसानों तक पहुंचा 69% खाद और 67% उन्नत बीज",
+      "summary": "छत्तीसगढ़: खरीफ सीजन से पहले खाद-बीज वितरण तेज, किसानों तक पहुंचा 69% खाद और 67% उन्नत बीज",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-distribution-of-fertilizers-and-seeds-accelerates-ahead-of-the-kharif-season-69-of-fertilizers-and-67-of-improved-seeds-have-reached-farmers/",
+      "important": false
+    },
+    {
+      "id": "e6259289",
+      "title": "अल नीनो की चुनौती के बीच केंद्र सरकार की बहु-स्तरीय तैयारी, शिवराज सिंह ने बताया पूरा प्लान",
+      "summary": "अल नीनो की चुनौती के बीच केंद्र सरकार की बहु-स्तरीय तैयारी, शिवराज सिंह ने बताया पूरा प्लान",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/central-governments-multi-level-preparedness-amidst-the-el-nino-challenge-shivraj-singh-outlines-the-full-plan/",
+      "important": false
+    },
     {
       "id": "d91e553b",
       "title": "रतलाम जिले के उन्नत कृषकों के लिए सोशल मीडिया संबंधी लिंक जारी",
@@ -462,94 +550,6 @@
       "date": "2026-06-24",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/el-nino-raises-concerns-315-districts-across-12-states-face-the-risk-of-deficient-rainfall-centre-sets-up-a-monitoring-cell/",
-      "important": false
-    },
-    {
-      "id": "84b38e3b",
-      "title": "रायपुर: बिना अनुमति बेची जा रही थी यूरिया खाद, कृषि विभाग ने 12.65 टन उर्वरक की बिक्री पर लगाई रोक",
-      "summary": "रायपुर: बिना अनुमति बेची जा रही थी यूरिया खाद, कृषि विभाग ने 12.65 टन उर्वरक की बिक्री पर लगाई रोक",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-urea-fertilizer-was-being-sold-without-permission-agriculture-department-halts-sale-of-12-65-tonnes-of-fertilizer/",
-      "important": false
-    },
-    {
-      "id": "761f3243",
-      "title": "कृषि व्यवसाय इन्क्यूबेशन: खेती को उद्यम में बदलने की दिशा",
-      "summary": "कृषि व्यवसाय इन्क्यूबेशन: खेती को उद्यम में बदलने की दिशा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agribusiness-incubation-a-path-towards-transforming-farming-into-an-enterprise/",
-      "important": false
-    },
-    {
-      "id": "4a82ec1f",
-      "title": "आज का गेहूँ मंडी रेट (23 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (23 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-23-june-2026/",
-      "important": false
-    },
-    {
-      "id": "5f214e5b",
-      "title": "आज का मक्का मंडी रेट (23 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (23 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-23-june-2026/",
-      "important": false
-    },
-    {
-      "id": "badb75ab",
-      "title": "आज का धान मंडी रेट (23 जून 2026)",
-      "summary": "आज का धान मंडी रेट (23 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-23-june-2026/",
-      "important": false
-    },
-    {
-      "id": "318c5350",
-      "title": "Soybean Mandi Rate: मध्यप्रदेश की मंडियों में आज ₹7,950 प्रति क्विंटल तक बिका सोयाबीन, जानें कहां मिले सबसे अच्छे भाव",
-      "summary": "Soybean Mandi Rate: मध्यप्रदेश की मंडियों में आज ₹7,950 प्रति क्विंटल तक बिका सोयाबीन, जानें कहां मिले सबसे अच्छे भाव",
-      "level": "state",
-      "category": "price",
-      "date": "2026-06-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/soybean-mandi-rates-soybean-sold-for-up-to-%e2%82%b97950-per-quintal-in-madhya-pradesh-markets-today-find-out-where-the-best-prices-were-available/",
-      "important": false
-    },
-    {
-      "id": "55771a43",
-      "title": "आज का सोयाबीन मंडी रेट (23 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (23 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-23-june-2026/",
-      "important": false
-    },
-    {
-      "id": "f1327216",
-      "title": "MP Weather Update: भोपाल-इंदौर समेत कई क्षेत्रों में बारिश, जबलपुर-सागर में तेज आंधी का अलर्ट; मानसून ने बढ़ाई रफ्तार",
-      "summary": "MP Weather Update: भोपाल-इंदौर समेत कई क्षेत्रों में बारिश, जबलपुर-सागर में तेज आंधी का अलर्ट; मानसून ने बढ़ाई रफ्तार",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mp-weather-update-rain-in-several-areas-including-bhopal-and-indore-alert-for-strong-storms-in-jabalpur-and-sagar-monsoon-gathers-pace/",
       "important": false
     }
   ]
