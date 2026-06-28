@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-28T09:19:34Z",
-  "new_count": 0,
+  "updated": "2026-06-28T14:01:22Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "9e455206",
+      "title": "खाद के अग्रिम उठाव की व्यवस्था सुनिश्चित करें- एसडीएम नर्मदापुरम",
+      "summary": "खाद के अग्रिम उठाव की व्यवस्था सुनिश्चित करें- एसडीएम नर्मदापुरम",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ensure-arrangements-for-the-advance-lifting-of-fertilizer-sdm-narmadapuram/",
+      "important": false
+    },
+    {
+      "id": "920159f3",
+      "title": "बुरहानपुर के केले को मिला GI टैग, किसानों को मिलेगा बेहतर दाम और वैश्विक पहचान",
+      "summary": "बुरहानपुर के केले को मिला GI टैग, किसानों को मिलेगा बेहतर दाम और वैश्विक पहचान",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/burhanpur-bananas-receive-gi-tag-farmers-to-get-better-prices-and-global-recognition/",
+      "important": false
+    },
+    {
+      "id": "9a49db1d",
+      "title": "मध्यप्रदेश: अरहर की खेती को मिलेगा बढ़ावा, किसानों को वितरित किए गए मुफ्त बीज मिनीकिट; योजनाओं की भी दी गई जानकारी",
+      "summary": "मध्यप्रदेश: अरहर की खेती को मिलेगा बढ़ावा, किसानों को वितरित किए गए मुफ्त बीज मिनीकिट; योजनाओं की भी दी गई जानकारी",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-06-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-arhar-pigeon-pea-cultivation-to-get-a-boost-free-seed-mini-kits-distributed-to-farmers-and-information-about-schemes-provided/",
+      "important": false
+    },
+    {
+      "id": "9ee24c6c",
+      "title": "उमरिया: मृदा परीक्षण के आधार पर ही करें उर्वरकों का उपयोग",
+      "summary": "उमरिया: मृदा परीक्षण के आधार पर ही करें उर्वरकों का उपयोग",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/umaria-use-fertilizers-only-based-on-soil-testing/",
+      "important": false
+    },
+    {
+      "id": "daf1f936",
+      "title": "कृषि विज्ञान केंद्र, हरदा की कृषकों को सलाह",
+      "summary": "कृषि विज्ञान केंद्र, हरदा की कृषकों को सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/advice-to-farmers-from-krishi-vigyan-kendra-harda/",
+      "important": false
+    },
+    {
+      "id": "dac4f405",
+      "title": "धान नहीं, अब हल्दी से होगी मोटी कमाई! धमतरी के 250 किसानों ने बोए 10 टन बीज; 250 टन उत्पादन का लक्ष्य",
+      "summary": "धान नहीं, अब हल्दी से होगी मोटी कमाई! धमतरी के 250 किसानों ने बोए 10 टन बीज; 250 टन उत्पादन का लक्ष्य",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/not-paddy-but-turmeric-to-yield-big-profits-now-250-farmers-in-dhamtari-have-sown-10-tonnes-of-seed-target-set-for-250-tonnes-of-production/",
+      "important": false
+    },
+    {
+      "id": "43a3091a",
+      "title": "उमरिया: कम वर्षा की स्थिति में वैकल्पिक फसलों का उत्पादन करें कृषक",
+      "summary": "उमरिया: कम वर्षा की स्थिति में वैकल्पिक फसलों का उत्पादन करें कृषक",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/umaria-farmers-should-cultivate-alternative-crops-in-the-event-of-low-rainfall/",
+      "important": false
+    },
+    {
+      "id": "71fa7932",
+      "title": "मध्य प्रदेश के इस खास आम की विदेश में बढ़ी डिमांड, UAE पहुंची पहली खेप; किसानों की होगी मोटी कमाई",
+      "summary": "मध्य प्रदेश के इस खास आम की विदेश में बढ़ी डिमांड, UAE पहुंची पहली खेप; किसानों की होगी मोटी कमाई",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/demand-for-this-special-mango-from-madhya-pradesh-has-risen-abroad-the-first-consignment-has-reached-the-uae-and-farmers-stand-to-earn-handsome-profits/",
+      "important": false
+    },
     {
       "id": "5e008da3",
       "title": "समुद्र के रास्ते सिंगापुर पहुंचे भारत के बंगनपल्ली आम, किसानों को मिलेगा बेहतर दाम",
@@ -462,94 +550,6 @@
       "date": "2026-06-24",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/the-one-day-shutdown-of-the-pulse-mill-business-in-madhya-pradesh-was-successful/",
-      "important": false
-    },
-    {
-      "id": "1f5f40bd",
-      "title": "बुरहानपुर ‘केला’ को मिला जीआई टैग, किसानों को मिलेगा बड़ा लाभ",
-      "summary": "बुरहानपुर ‘केला’ को मिला जीआई टैग, किसानों को मिलेगा बड़ा लाभ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/burhanpurs-banana-gets-gi-tag-farmers-to-reap-major-benefits/",
-      "important": false
-    },
-    {
-      "id": "be1eaf69",
-      "title": "अमित शाह ने लॉन्च किया NAFEX.in पोर्टल, बोले- किसानों से सीधे खरीदा जाएगा दलहन का एक-एक दाना",
-      "summary": "अमित शाह ने लॉन्च किया NAFEX.in पोर्टल, बोले- किसानों से सीधे खरीदा जाएगा दलहन का एक-एक दाना",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/amit-shah-launched-nafex-in-portal-said-every-grain-of-pulses-will-be-purchased-directly-from-farmers/",
-      "important": false
-    },
-    {
-      "id": "f5eae900",
-      "title": "मध्यप्रदेश में मानसून की दस्तक तेज, कई जिलों में झमाझम बारिश; भोपाल-जबलपुर समेत कई क्षेत्रों में आंधी का अलर्ट",
-      "summary": "मध्यप्रदेश में मानसून की दस्तक तेज, कई जिलों में झमाझम बारिश; भोपाल-जबलपुर समेत कई क्षेत्रों में आंधी का अलर्ट",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/monsoon-intensifies-in-madhya-pradesh-heavy-rainfall-in-several-districts-storm-alert-issued-for-multiple-areas-including-bhopal-and-jabalpur/",
-      "important": false
-    },
-    {
-      "id": "8c72bd74",
-      "title": "बालाघाट: किसानों ने अपनाई डीएसआर तकनीक",
-      "summary": "बालाघाट: किसानों ने अपनाई डीएसआर तकनीक",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balaghat-farmers-adopt-dsr-technique/",
-      "important": false
-    },
-    {
-      "id": "8f43d96a",
-      "title": "न्यू हॉलैंड ने HD और XHD सीरीज़ के रोटरी टिलर्स (रोटावेटर्स) लॉन्च  किए",
-      "summary": "न्यू हॉलैंड ने HD और XHD सीरीज़ के रोटरी टिलर्स (रोटावेटर्स) लॉन्च  किए",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/new-holland-launched-hd-and-xhd-series-rotary-tillers-rotavators/",
-      "important": false
-    },
-    {
-      "id": "8ae72d0b",
-      "title": "विकसित भारत का रास्ता खेतों से होकर जाएगा, अंतर-मंत्रालयी सम्मेलन में बोले शिवराज सिंह चौहान",
-      "summary": "विकसित भारत का रास्ता खेतों से होकर जाएगा, अंतर-मंत्रालयी सम्मेलन में बोले शिवराज सिंह चौहान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/the-path-to-a-developed-india-will-lead-through-the-fields-said-shivraj-singh-chouhan-at-an-inter-ministerial-conference/",
-      "important": false
-    },
-    {
-      "id": "b6284d9a",
-      "title": "चाप कटर बना किसानों के लिए वरदान, अब मिनटों में तैयार हो जाता है चारा; पशुपालन हुआ पहले से आसान",
-      "summary": "चाप कटर बना किसानों के लिए वरदान, अब मिनटों में तैयार हो जाता है चारा; पशुपालन हुआ पहले से आसान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chaff-cutter-proves-to-be-a-boon-for-farmers-fodder-is-now-ready-in-minutes-making-animal-husbandry-easier-than-before/",
-      "important": false
-    },
-    {
-      "id": "96ed9103",
-      "title": "Soybean Mandi Rate Today: महाराष्ट्र में सोयाबीन के भाव 7,145 रुपये तक पहुंचे, जानें किस मंडी में मिला सबसे ज्यादा रेट",
-      "summary": "Soybean Mandi Rate Today: महाराष्ट्र में सोयाबीन के भाव 7,145 रुपये तक पहुंचे, जानें किस मंडी में मिला सबसे ज्यादा रेट",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/soybean-mandi-rates-today-soybean-prices-in-maharashtra-have-reached-%e2%82%b97145-find-out-which-market-offered-the-highest-rate/",
       "important": false
     }
   ]
