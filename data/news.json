@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-28T14:01:22Z",
-  "new_count": 8,
+  "updated": "2026-06-28T19:38:38Z",
+  "new_count": 3,
   "articles": [
+    {
+      "id": "a57e0986",
+      "title": "बैतूल: अनधिकृत उर्वरक एवं जैविक खाद जब्त, एफआईआर की कार्रवाई",
+      "summary": "बैतूल: अनधिकृत उर्वरक एवं जैविक खाद जब्त, एफआईआर की कार्रवाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/betul-unauthorized-fertilizers-and-organic-manure-seized-fir-registered/",
+      "important": false
+    },
+    {
+      "id": "7423cfbe",
+      "title": "मध्यप्रदेश की चार विशिष्ट कृषि उपजों को मिला जीआई टैग",
+      "summary": "मध्यप्रदेश की चार विशिष्ट कृषि उपजों को मिला जीआई टैग",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/four-distinctive-agricultural-products-from-madhya-pradesh-receive-gi-tags/",
+      "important": false
+    },
+    {
+      "id": "2b6b36d6",
+      "title": "मूँग तुलाई, डीजल और खाद की किल्लत को लेकर किसान कांग्रेस बनाएगी आंदोलन की रणनीति",
+      "summary": "मूँग तुलाई, डीजल और खाद की किल्लत को लेकर किसान कांग्रेस बनाएगी आंदोलन की रणनीति",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kisan-congress-to-formulate-a-strategy-for-agitation-over-issues-regarding-the-weighing-of-moong-green-gram-and-shortages-of-diesel-and-fertilizer/",
+      "important": false
+    },
     {
       "id": "9e455206",
       "title": "खाद के अग्रिम उठाव की व्यवस्था सुनिश्चित करें- एसडीएम नर्मदापुरम",
@@ -517,39 +550,6 @@
       "date": "2026-06-25",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/by-adopting-this-special-technique-in-soybean-farming-a-farmer-earned-a-net-profit-of-%e2%82%b91-lakh-from-just-3-bighas-of-land/",
-      "important": false
-    },
-    {
-      "id": "1ba67be6",
-      "title": "छिंदवाड़ा: जलवायु अनुकूल खेती से किसानों की आय बढ़ाने के लिये कार्यशाला आयोजित",
-      "summary": "छिंदवाड़ा: जलवायु अनुकूल खेती से किसानों की आय बढ़ाने के लिये कार्यशाला आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-workshop-organized-to-boost-farmers-income-through-climate-resilient-farming/",
-      "important": false
-    },
-    {
-      "id": "97da9b5f",
-      "title": "जावर का खीरा व टमाटर दुबई तक हो रहा एक्सपोर्ट",
-      "summary": "जावर का खीरा व टमाटर दुबई तक हो रहा एक्सपोर्ट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/cucumbers-and-tomatoes-from-jawar-are-being-exported-to-dubai/",
-      "important": false
-    },
-    {
-      "id": "79a77d60",
-      "title": "मध्यप्रदेश में दाल मिल कारोबार का एक दिवसीय बंद सफल रहा",
-      "summary": "मध्यप्रदेश में दाल मिल कारोबार का एक दिवसीय बंद सफल रहा",
-      "level": "state",
-      "category": "market",
-      "date": "2026-06-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-one-day-shutdown-of-the-pulse-mill-business-in-madhya-pradesh-was-successful/",
       "important": false
     }
   ]
