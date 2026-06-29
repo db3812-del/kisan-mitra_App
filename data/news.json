@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-29T11:11:26Z",
-  "new_count": 8,
+  "updated": "2026-06-29T15:56:46Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "73f940d0",
+      "title": "मध्य प्रदेश में मानसून एक्टिव: मंदसौर में सबसे ज्यादा 76 मिमी बरसात, बैतूल-धार समेत कई जिलों में आज भारी बारिश का अलर्ट",
+      "summary": "मध्य प्रदेश में मानसून एक्टिव: मंदसौर में सबसे ज्यादा 76 मिमी बरसात, बैतूल-धार समेत कई जिलों में आज भारी बारिश का अलर्ट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/monsoon-active-in-madhya-pradesh-mandsaur-records-highest-rainfall-at-76-mm-heavy-rain-alert-issued-for-several-districts-including-betul-and-dhar-for-today/",
+      "important": false
+    },
+    {
+      "id": "e491df3a",
+      "title": "आज का गेहूँ मंडी रेट (29 जून 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (29 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-29-june-2026/",
+      "important": false
+    },
+    {
+      "id": "4b3b328e",
+      "title": "आज का धान मंडी रेट (29 जून 2026)",
+      "summary": "आज का धान मंडी रेट (29 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-29-june-2026/",
+      "important": false
+    },
+    {
+      "id": "ed7bf8e2",
+      "title": "आज का मक्का मंडी रेट (29 जून 2026)",
+      "summary": "आज का मक्का मंडी रेट (29 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-29-june-2026/",
+      "important": false
+    },
+    {
+      "id": "8e924400",
+      "title": "आज का सोयाबीन मंडी रेट (29 जून 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (29 जून 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-29-june-2026/",
+      "important": false
+    },
+    {
+      "id": "2d7300dd",
+      "title": "सूखे की चिंता छोड़िए! धान की ये 6 बेहतरीन किस्में बोएं, कम पानी में भी मिलेगा बंपर उत्पादन",
+      "summary": "सूखे की चिंता छोड़िए! धान की ये 6 बेहतरीन किस्में बोएं, कम पानी में भी मिलेगा बंपर उत्पादन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/stop-worrying-about-drought-sow-these-6-excellent-paddy-varieties-to-get-bumper-yields-even-with-less-water/",
+      "important": false
+    },
+    {
+      "id": "5f2ecc46",
+      "title": "गुना का भटोदिया गांव बना ‘मिनी इजराइल’, आधुनिक सब्जी उत्पादन से कमा रहे 4 लाख रुपये तक प्रति एकड़",
+      "summary": "गुना का भटोदिया गांव बना ‘मिनी इजराइल’, आधुनिक सब्जी उत्पादन से कमा रहे 4 लाख रुपये तक प्रति एकड़",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bhatodiya-village-in-guna-has-become-a-mini-israel-earning-up-to-%e2%82%b94-lakh-per-acre-through-modern-vegetable-cultivation/",
+      "important": false
+    },
     {
       "id": "0ab611ec",
       "title": "कृषि विज्ञान केंद्र हरदा में कोदो जे. के. 9-1 का ब्रीडर सीड उपलब्ध",
@@ -473,83 +550,6 @@
       "date": "2026-06-26",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/agriculture-departments-alert-for-the-kharif-season-adopt-these-measures-for-higher-yields-and-lower-risk/",
-      "important": false
-    },
-    {
-      "id": "3ab7825f",
-      "title": "किसान रहें सावधान! कस्टम हायरिंग सेंटर योजना के नाम पर हो रही साइबर ठगी, कृषि विभाग ने जारी की चेतावनी",
-      "summary": "किसान रहें सावधान! कस्टम हायरिंग सेंटर योजना के नाम पर हो रही साइबर ठगी, कृषि विभाग ने जारी की चेतावनी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-beware-cyber-fraud-is-being-committed-in-the-name-of-the-custom-hiring-center-scheme-the-agriculture-department-has-issued-a-warning/",
-      "important": false
-    },
-    {
-      "id": "e8fddd24",
-      "title": "आज का गेहूँ मंडी रेट (25 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (25 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-25-june-2026/",
-      "important": false
-    },
-    {
-      "id": "b434515b",
-      "title": "आज का धान मंडी रेट (25 जून 2026)",
-      "summary": "आज का धान मंडी रेट (25 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-25-june-2026/",
-      "important": false
-    },
-    {
-      "id": "662ea687",
-      "title": "आज का मक्का मंडी रेट (25 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (25 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-25-june-2026/",
-      "important": false
-    },
-    {
-      "id": "4c2d23b2",
-      "title": "आज का सोयाबीन मंडी रेट (25 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (25 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-25-june-2026/",
-      "important": false
-    },
-    {
-      "id": "08c776fd",
-      "title": "Weather Update: अगले 4 दिनों में मानसून पकड़ेगा रफ्तार, कई राज्यों में भारी बारिश का अलर्ट; बिहार-यूपी में हीटवेव जारी",
-      "summary": "Weather Update: अगले 4 दिनों में मानसून पकड़ेगा रफ्तार, कई राज्यों में भारी बारिश का अलर्ट; बिहार-यूपी में हीटवेव जारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-update-monsoon-to-pick-up-pace-over-the-next-4-days-heavy-rain-alert-for-several-states-heatwave-continues-in-bihar-and-up/",
-      "important": false
-    },
-    {
-      "id": "0c505f33",
-      "title": "IMD Weather Update: मध्यप्रदेश में कई जिलों में झमाझम बारिश, जबलपुर-सीहोर में तेज आंधी का अलर्ट; बालाघाट में ओलावृष्टि क",
-      "summary": "IMD Weather Update: मध्यप्रदेश में कई जिलों में झमाझम बारिश, जबलपुर-सीहोर में तेज आंधी का अलर्ट; बालाघाट में ओलावृष्टि की चेतावनी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/imd-weather-update-heavy-rainfall-in-several-districts-of-madhya-pradesh-alert-issued-for-strong-winds-in-jabalpur-and-sehore-hailstorm-warning-for-balaghat/",
       "important": false
     }
   ]
