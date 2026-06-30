@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-30T04:07:44Z",
-  "new_count": 0,
+  "updated": "2026-06-30T09:51:16Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "a47a9de5",
+      "title": "तेलंगाना के लिए नई चावल निर्यात नीति जल्द, वैश्विक बाजार पर सरकार की नजर",
+      "summary": "तेलंगाना के लिए नई चावल निर्यात नीति जल्द, वैश्विक बाजार पर सरकार की नजर",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/new-rice-export-policy-for-telangana-soon-government-eyes-global-market/",
+      "important": false
+    },
+    {
+      "id": "d5d2b9dd",
+      "title": "इनेरा क्रॉप साइंस और क्रॉपएनएक्सटी सॉल्यूशंस ने पांच राज्यों में जैविक कृषि इनपुट्स के विस्तार के लिए साझेदारी की",
+      "summary": "इनेरा क्रॉप साइंस और क्रॉपएनएक्सटी सॉल्यूशंस ने पांच राज्यों में जैविक कृषि इनपुट्स के विस्तार के लिए साझेदारी की",
+      "level": "central",
+      "category": "price",
+      "date": "2026-06-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/inera-crop-science-and-cropnxt-solutions-have-partnered-to-expand-organic-farming-inputs-across-five-states/",
+      "important": false
+    },
+    {
+      "id": "2bf7e140",
+      "title": "आईआईटी रोपड़, सिंजेंटा और गूगल ने भारतीय कृषि के लिए AI हैकाथॉन ‘HACK CORE 2026’ शुरू किया",
+      "summary": "आईआईटी रोपड़, सिंजेंटा और गूगल ने भारतीय कृषि के लिए AI हैकाथॉन ‘HACK CORE 2026’ शुरू किया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/iit-ropar-syngenta-and-google-have-launched-the-ai-hackathonhack-core-2026-for-indian-agriculture/",
+      "important": false
+    },
+    {
+      "id": "e35304df",
+      "title": "1 जुलाई से ‘विकसित भारत जी राम जी’ योजना पूरे देश में होगी लागू: केंद्रीय कृषि मंत्री शिवराज सिंह चौहान",
+      "summary": "1 जुलाई से ‘विकसित भारत जी राम जी’ योजना पूरे देश में होगी लागू: केंद्रीय कृषि मंत्री शिवराज सिंह चौहान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-06-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/viksit-bharat-g-ram-g-scheme-to-be-implemented-nationwide-from-july-1-union-agriculture-minister-shivraj-singh-chouhan/",
+      "important": false
+    },
+    {
+      "id": "6f26e80c",
+      "title": "धान की खेती में बढ़ानी है कमाई? अपनाएं श्री विधि, मिलेगा दोगुना फायदा",
+      "summary": "धान की खेती में बढ़ानी है कमाई? अपनाएं श्री विधि, मिलेगा दोगुना फायदा",
+      "level": "state",
+      "category": "general",
+      "date": "2026-06-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/want-to-increase-earnings-from-paddy-cultivation-adopt-the-sri-vidhi-method-and-reap-double-the-benefits/",
+      "important": false
+    },
+    {
+      "id": "e722dd76",
+      "title": "कम बारिश में भी होगी अच्छी पैदावार, कृषि विभाग ने किसानों को बताए जरूरी उपाय",
+      "summary": "कम बारिश में भी होगी अच्छी पैदावार, कृषि विभाग ने किसानों को बताए जरूरी उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/good-yields-possible-even-with-scanty-rainfall-agriculture-department-outlines-essential-measures-for-farmers/",
+      "important": false
+    },
+    {
+      "id": "871575bb",
+      "title": "मंदसौर: कृषक आधुनिक वैज्ञानिक तकनीकों के साथ सोयाबीन की खेती करें",
+      "summary": "मंदसौर: कृषक आधुनिक वैज्ञानिक तकनीकों के साथ सोयाबीन की खेती करें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-06-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mandsaur-farmers-should-cultivate-soybean-using-modern-scientific-techniques/",
+      "important": false
+    },
+    {
+      "id": "20de2586",
+      "title": "मंदसौर मंडी में 32 दुकानों से व्यापारियों एवं किसानों को मिलेगा सीधा लाभ : उप मुख्यमंत्री श्री देवड़ा",
+      "summary": "मंदसौर मंडी में 32 दुकानों से व्यापारियों एवं किसानों को मिलेगा सीधा लाभ : उप मुख्यमंत्री श्री देवड़ा",
+      "level": "central",
+      "category": "market",
+      "date": "2026-06-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/traders-and-farmers-to-benefit-directly-from-32-shops-at-mandsaur-mandi-deputy-chief-minister-shri-devda/",
+      "important": false
+    },
     {
       "id": "73f940d0",
       "title": "मध्य प्रदेश में मानसून एक्टिव: मंदसौर में सबसे ज्यादा 76 मिमी बरसात, बैतूल-धार समेत कई जिलों में आज भारी बारिश का अलर्ट",
@@ -462,94 +550,6 @@
       "date": "2026-06-27",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/central-governments-multi-level-preparedness-amidst-the-el-nino-challenge-shivraj-singh-outlines-the-full-plan/",
-      "important": false
-    },
-    {
-      "id": "d91e553b",
-      "title": "रतलाम जिले के उन्नत कृषकों के लिए सोशल मीडिया संबंधी लिंक जारी",
-      "summary": "रतलाम जिले के उन्नत कृषकों के लिए सोशल मीडिया संबंधी लिंक जारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/social-media-links-released-for-progressive-farmers-of-ratlam-district-social-media-links-released-for-progressive-farmers-of-ratlam-district-%e0%a4%b0%e0%a4%a4%e0%a4%b2%e0%a4%be%e0%a4%ae-%e0%a4%9c/",
-      "important": false
-    },
-    {
-      "id": "17f47e53",
-      "title": "आगर मालवा में पशुपालन विभाग की कार्यशाला आयोजित",
-      "summary": "आगर मालवा में पशुपालन विभाग की कार्यशाला आयोजित",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/animal-husbandry-department-workshop-organized-in-agar-malwa/",
-      "important": false
-    },
-    {
-      "id": "08fb0cf3",
-      "title": "शाजापुर: उर्वरक विक्रेताओं की बैठक संपन्न",
-      "summary": "शाजापुर: उर्वरक विक्रेताओं की बैठक संपन्न",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shajapur-meeting-of-fertilizer-dealers-concludes/",
-      "important": false
-    },
-    {
-      "id": "a7faef86",
-      "title": "शाजापुर में विभागीय योजना अंतर्गत बीज वितरण किया",
-      "summary": "शाजापुर में विभागीय योजना अंतर्गत बीज वितरण किया",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seeds-were-distributed-in-shajapur-under-a-departmental-scheme/",
-      "important": false
-    },
-    {
-      "id": "514ac704",
-      "title": "शाजापुर: पशुपालन एवं डेयरी विभाग द्वारा एक दिवसीय कार्यशाला आयोजित",
-      "summary": "शाजापुर: पशुपालन एवं डेयरी विभाग द्वारा एक दिवसीय कार्यशाला आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shajapur-one-day-workshop-organized-by-the-animal-husbandry-and-dairy-department/",
-      "important": false
-    },
-    {
-      "id": "0249fbc7",
-      "title": "पॉलीहाउस खेती से बदली किस्मत, किसान ने उगाए 50 हजार जरबेरा पौधे; जयपुर-दिल्ली बाजार में होगी सप्लाई",
-      "summary": "पॉलीहाउस खेती से बदली किस्मत, किसान ने उगाए 50 हजार जरबेरा पौधे; जयपुर-दिल्ली बाजार में होगी सप्लाई",
-      "level": "state",
-      "category": "market",
-      "date": "2026-06-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/polyhouse-farming-transforms-fortunes-farmer-cultivates-50000-gerbera-plants-for-supply-to-jaipur-and-delhi-markets/",
-      "important": false
-    },
-    {
-      "id": "d3c85555",
-      "title": "कार्बन क्रेडिट से होगी किसानों की कमाई, धमतरी बनेगा छत्तीसगढ़ का पहला ‘कार्बन कृषि’ जिला",
-      "summary": "कार्बन क्रेडिट से होगी किसानों की कमाई, धमतरी बनेगा छत्तीसगढ़ का पहला ‘कार्बन कृषि’ जिला",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-to-earn-from-carbon-credits-dhamtari-to-become-chhattisgarhs-first-carbon-farming-district/",
-      "important": false
-    },
-    {
-      "id": "7e25b44f",
-      "title": "खरीफ सीजन के लिए कृषि विभाग का अलर्ट: अधिक उत्पादन और कम जोखिम के लिए अपनाएं ये उपाय",
-      "summary": "खरीफ सीजन के लिए कृषि विभाग का अलर्ट: अधिक उत्पादन और कम जोखिम के लिए अपनाएं ये उपाय",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agriculture-departments-alert-for-the-kharif-season-adopt-these-measures-for-higher-yields-and-lower-risk/",
       "important": false
     }
   ]
