@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-01T04:23:37Z",
-  "new_count": 5,
+  "updated": "2026-07-01T10:00:18Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "ea617376",
+      "title": "आरएचबी बाजरा : कम अवधि में अधिक उत्पादन देने वाली पोषक तत्वों से भरपूर उन्नत किस्म",
+      "summary": "आरएचबी बाजरा : कम अवधि में अधिक उत्पादन देने वाली पोषक तत्वों से भरपूर उन्नत किस्म",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/rhb-bajra-a-nutrient-rich-high-yielding-short-duration-improved-variety/",
+      "important": false
+    },
+    {
+      "id": "53b2bf06",
+      "title": "रबी सीजन में किसानों को दिन में मिलेगी बिजली, मुख्यमंत्री डॉ. मोहन यादव का बड़ा ऐलान",
+      "summary": "रबी सीजन में किसानों को दिन में मिलेगी बिजली, मुख्यमंत्री डॉ. मोहन यादव का बड़ा ऐलान",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-to-receive-electricity-during-the-day-in-the-rabi-season-major-announcement-by-chief-minister-dr-mohan-yadav/",
+      "important": false
+    },
+    {
+      "id": "8f28e576",
+      "title": "सतत कृषि विकास में महिलाओं की भूमिका पर राष्ट्रीय मंथन, पूसा सम्मेलन में जारी हुआ भविष्य का रोडमैप",
+      "summary": "सतत कृषि विकास में महिलाओं की भूमिका पर राष्ट्रीय मंथन, पूसा सम्मेलन में जारी हुआ भविष्य का रोडमैप",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/national-deliberation-on-the-role-of-women-in-sustainable-agricultural-development-future-roadmap-unveiled-at-the-pusa-conference/",
+      "important": false
+    },
+    {
+      "id": "8c50c783",
+      "title": "कुक्कुट खाद : कम लागत में उपज बढ़ाने और मिट्टी की सेहत सुधारने का प्रभावी जैविक विकल्प",
+      "summary": "कुक्कुट खाद : कम लागत में उपज बढ़ाने और मिट्टी की सेहत सुधारने का प्रभावी जैविक विकल्प",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/poultry-manure-an-effective-organic-option-to-boost-yields-and-improve-soil-health-at-a-low-cost/",
+      "important": false
+    },
+    {
+      "id": "c098871f",
+      "title": "SOMS 2026: स्पेशलिटी फर्टिलाइज़र में आत्मनिर्भरता और नवाचार पर होगा मंथन",
+      "summary": "SOMS 2026: स्पेशलिटी फर्टिलाइज़र में आत्मनिर्भरता और नवाचार पर होगा मंथन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/soms-2026-deliberations-to-focus-on-self-reliance-and-innovation-in-specialty-fertilizers/",
+      "important": false
+    },
+    {
+      "id": "428408f0",
+      "title": "बाढ़ से तबाह फसलों का लेंगे जायजा, आज अरुणाचल-असम के बाढ़ प्रभावित इलाकों में पहुंचेंगे शिवराज सिंह",
+      "summary": "बाढ़ से तबाह फसलों का लेंगे जायजा, आज अरुणाचल-असम के बाढ़ प्रभावित इलाकों में पहुंचेंगे शिवराज सिंह",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/shivraj-singh-to-assess-flood-ravaged-crops-will-reach-flood-hit-areas-of-arunachal-and-assam-today/",
+      "important": false
+    },
+    {
+      "id": "1e8349ad",
+      "title": "खरीफ 2026: कृषि आदान विक्रेताओं पर कृषि विभाग की सख्ती, 10 नमूने जांच के लिए भेजे",
+      "summary": "खरीफ 2026: कृषि आदान विक्रेताओं पर कृषि विभाग की सख्ती, 10 नमूने जांच के लिए भेजे",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kharif-2026-agriculture-department-cracks-down-on-agri-input-dealers-10-samples-sent-for-testing/",
+      "important": false
+    },
+    {
+      "id": "aafa3b86",
+      "title": "जून 2026 में महिंद्रा ट्रैक्टरों की बिक्री 12% बढ़ी, घरेलू बाजार की मजबूत मांग से मिला सहारा",
+      "summary": "जून 2026 में महिंद्रा ट्रैक्टरों की बिक्री 12% बढ़ी, घरेलू बाजार की मजबूत मांग से मिला सहारा",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-tractor-sales-rose-by-12-in-june-2026-supported-by-strong-domestic-market-demand/",
+      "important": false
+    },
     {
       "id": "1e3b1e1f",
       "title": "फार्मर रजिस्ट्री के कार्य पर फोकस करें राजस्व अधिकारी- कलेक्टर सतना",
@@ -462,94 +550,6 @@
       "date": "2026-06-28",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/madhya-pradesh-arhar-pigeon-pea-cultivation-to-get-a-boost-free-seed-mini-kits-distributed-to-farmers-and-information-about-schemes-provided/",
-      "important": false
-    },
-    {
-      "id": "9ee24c6c",
-      "title": "उमरिया: मृदा परीक्षण के आधार पर ही करें उर्वरकों का उपयोग",
-      "summary": "उमरिया: मृदा परीक्षण के आधार पर ही करें उर्वरकों का उपयोग",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/umaria-use-fertilizers-only-based-on-soil-testing/",
-      "important": false
-    },
-    {
-      "id": "daf1f936",
-      "title": "कृषि विज्ञान केंद्र, हरदा की कृषकों को सलाह",
-      "summary": "कृषि विज्ञान केंद्र, हरदा की कृषकों को सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/advice-to-farmers-from-krishi-vigyan-kendra-harda/",
-      "important": false
-    },
-    {
-      "id": "dac4f405",
-      "title": "धान नहीं, अब हल्दी से होगी मोटी कमाई! धमतरी के 250 किसानों ने बोए 10 टन बीज; 250 टन उत्पादन का लक्ष्य",
-      "summary": "धान नहीं, अब हल्दी से होगी मोटी कमाई! धमतरी के 250 किसानों ने बोए 10 टन बीज; 250 टन उत्पादन का लक्ष्य",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/not-paddy-but-turmeric-to-yield-big-profits-now-250-farmers-in-dhamtari-have-sown-10-tonnes-of-seed-target-set-for-250-tonnes-of-production/",
-      "important": false
-    },
-    {
-      "id": "43a3091a",
-      "title": "उमरिया: कम वर्षा की स्थिति में वैकल्पिक फसलों का उत्पादन करें कृषक",
-      "summary": "उमरिया: कम वर्षा की स्थिति में वैकल्पिक फसलों का उत्पादन करें कृषक",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/umaria-farmers-should-cultivate-alternative-crops-in-the-event-of-low-rainfall/",
-      "important": false
-    },
-    {
-      "id": "71fa7932",
-      "title": "मध्य प्रदेश के इस खास आम की विदेश में बढ़ी डिमांड, UAE पहुंची पहली खेप; किसानों की होगी मोटी कमाई",
-      "summary": "मध्य प्रदेश के इस खास आम की विदेश में बढ़ी डिमांड, UAE पहुंची पहली खेप; किसानों की होगी मोटी कमाई",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/demand-for-this-special-mango-from-madhya-pradesh-has-risen-abroad-the-first-consignment-has-reached-the-uae-and-farmers-stand-to-earn-handsome-profits/",
-      "important": false
-    },
-    {
-      "id": "5e008da3",
-      "title": "समुद्र के रास्ते सिंगापुर पहुंचे भारत के बंगनपल्ली आम, किसानों को मिलेगा बेहतर दाम",
-      "summary": "समुद्र के रास्ते सिंगापुर पहुंचे भारत के बंगनपल्ली आम, किसानों को मिलेगा बेहतर दाम",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/indias-banganapalli-mangoes-reach-singapore-via-sea-route-farmers-to-get-better-prices/",
-      "important": false
-    },
-    {
-      "id": "3f095630",
-      "title": "आज का गेहूँ मंडी रेट (27 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (27 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-27-june-2026/",
-      "important": false
-    },
-    {
-      "id": "c0e83f9d",
-      "title": "आज का धान मंडी रेट (27 जून 2026)",
-      "summary": "आज का धान मंडी रेट (27 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-27-june-2026/",
       "important": false
     }
   ]
