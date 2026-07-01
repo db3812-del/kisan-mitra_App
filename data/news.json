@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-30T20:05:52Z",
-  "new_count": 0,
+  "updated": "2026-07-01T04:23:37Z",
+  "new_count": 5,
   "articles": [
+    {
+      "id": "1e3b1e1f",
+      "title": "फार्मर रजिस्ट्री के कार्य पर फोकस करें राजस्व अधिकारी- कलेक्टर सतना",
+      "summary": "फार्मर रजिस्ट्री के कार्य पर फोकस करें राजस्व अधिकारी- कलेक्टर सतना",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/revenue-officials-should-focus-on-the-work-related-to-the-farmers-registry-satna-collector/",
+      "important": false
+    },
+    {
+      "id": "acf43b41",
+      "title": "मध्यप्रदेश में बारिश का दौर तेज: भोपाल-इंदौर समेत 40 से ज्यादा जिलों में बारिश-आंधी का अलर्ट, 40-50 Kmph की रफ्तार से चल",
+      "summary": "मध्यप्रदेश में बारिश का दौर तेज: भोपाल-इंदौर समेत 40 से ज्यादा जिलों में बारिश-आंधी का अलर्ट, 40-50 Kmph की रफ्तार से चलेंगी हवाएं",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rain-intensifies-in-madhya-pradesh-rain-and-thunderstorm-alert-for-over-40-districts-including-bhopal-and-indore-winds-to-blow-at-speeds-of-40-50-kmph/",
+      "important": false
+    },
+    {
+      "id": "23b68431",
+      "title": "किसान बैंगन की इन 6 उन्नत किस्मों की करें खेती, मिलेगा ज्यादा उत्पादन और बेहतर मुनाफा",
+      "summary": "किसान बैंगन की इन 6 उन्नत किस्मों की करें खेती, मिलेगा ज्यादा उत्पादन और बेहतर मुनाफा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/farmers-should-cultivate-these-6-improved-varieties-of-brinjal-for-higher-yields-and-better-profits/",
+      "important": false
+    },
+    {
+      "id": "6d63be85",
+      "title": "मूंग छोड़ अपनाई मूंगफली की खेती, सागर के किसान को मिला प्रति एकड़ 12 क्विंटल तक उत्पादन; बढ़ा मुनाफा",
+      "summary": "मूंग छोड़ अपनाई मूंगफली की खेती, सागर के किसान को मिला प्रति एकड़ 12 क्विंटल तक उत्पादन; बढ़ा मुनाफा",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/switched-from-moong-to-groundnut-cultivation-sagar-farmer-achieves-yield-of-up-to-12-quintals-per-acre-boosting-profits/",
+      "important": false
+    },
+    {
+      "id": "530dd989",
+      "title": "वारासिवनी में प्रशासन की बड़ी कार्रवाई: कृषि केंद्र से एक्सपायरी कीटनाशक जब्त, अब होंगे नष्ट",
+      "summary": "वारासिवनी में प्रशासन की बड़ी कार्रवाई: कृषि केंद्र से एक्सपायरी कीटनाशक जब्त, अब होंगे नष्ट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-administrative-action-in-waraseoni-expired-pesticides-seized-from-an-agricultural-center-they-will-now-be-destroyed/",
+      "important": false
+    },
     {
       "id": "89b9cf3a",
       "title": "आज गुवाहाटी में उच्चस्तरीय बैठक करेंगे मंत्री शिवराज सिंह, 1 जुलाई को अरुणाचल के बाढ़ग्रस्त इलाकों का दौरा करेंगे",
@@ -495,61 +550,6 @@
       "date": "2026-06-27",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-27-june-2026/",
-      "important": false
-    },
-    {
-      "id": "f6f2f853",
-      "title": "IMD Weather Update: पूर्वोत्तर में मूसलाधार बारिश का अलर्ट, यूपी में भीषण लू जारी; जानें आपके राज्य का मौसम",
-      "summary": "IMD Weather Update: पूर्वोत्तर में मूसलाधार बारिश का अलर्ट, यूपी में भीषण लू जारी; जानें आपके राज्य का मौसम",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-torrential-rain-alert-for-the-northeast-severe-heatwave-continues-in-up-check-the-weather-in-your-state/",
-      "important": false
-    },
-    {
-      "id": "cd0ec7a9",
-      "title": "आज का मक्का मंडी रेट (27 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (27 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-27-june-2026/",
-      "important": false
-    },
-    {
-      "id": "6d6cd533",
-      "title": "आज का सोयाबीन मंडी रेट (27 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (27 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-27-june-2026/",
-      "important": false
-    },
-    {
-      "id": "8fdd201a",
-      "title": "अल नीनो के खतरे के बीच भारत के 111 सर्वाधिक संवेदनशील जिलों पर केंद्र का विशेष फोकस",
-      "summary": "अल नीनो के खतरे के बीच भारत के 111 सर्वाधिक संवेदनशील जिलों पर केंद्र का विशेष फोकस",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/centres-special-focus-on-indias-111-most-vulnerable-districts-amidst-el-nino-threat/",
-      "important": false
-    },
-    {
-      "id": "0d536546",
-      "title": "मध्य प्रदेश में मानसून का असर तेज, धार में 131 मिमी बारिश; आज भी कई जिलों में भारी बारिश की चेतावनी",
-      "summary": "मध्य प्रदेश में मानसून का असर तेज, धार में 131 मिमी बारिश; आज भी कई जिलों में भारी बारिश की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/monsoon-intensifies-in-madhya-pradesh-dhar-records-131-mm-of-rainfall-heavy-rain-warning-issued-for-several-districts-today-as-well/",
       "important": false
     }
   ]
