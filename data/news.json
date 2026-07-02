@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-01T20:03:35Z",
-  "new_count": 0,
+  "updated": "2026-07-02T04:03:00Z",
+  "new_count": 2,
   "articles": [
+    {
+      "id": "2af1fdea",
+      "title": "इंदौर में ‘कृषि विपणन में प्राकृतिक खेती एवं सहकारी संस्थाओं की भूमिका ‘विषय पर सम्मेलन सम्पन्न",
+      "summary": "इंदौर में ‘कृषि विपणन में प्राकृतिक खेती एवं सहकारी संस्थाओं की भूमिका ‘विषय पर सम्मेलन सम्पन्न",
+      "level": "state",
+      "category": "market",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/conference-on-role-of-natural-farming-and-cooperative-societies-in-agricultural-marketing-concludes-in-indore/",
+      "important": false
+    },
+    {
+      "id": "8d2f0e61",
+      "title": "आईक्रिसैट और यूएएस धारवाड़ ने विकसित की मूंगफली की दो नई हाई-ओलिक किस्में",
+      "summary": "आईक्रिसैट और यूएएस धारवाड़ ने विकसित की मूंगफली की दो नई हाई-ओलिक किस्में",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/icrisat-and-uas-dharwad-have-developed-two-new-high-oleic-groundnut-varieties/",
+      "important": false
+    },
     {
       "id": "ea617376",
       "title": "आरएचबी बाजरा : कम अवधि में अधिक उत्पादन देने वाली पोषक तत्वों से भरपूर उन्नत किस्म",
@@ -528,28 +550,6 @@
       "date": "2026-06-28",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/ensure-arrangements-for-the-advance-lifting-of-fertilizer-sdm-narmadapuram/",
-      "important": false
-    },
-    {
-      "id": "920159f3",
-      "title": "बुरहानपुर के केले को मिला GI टैग, किसानों को मिलेगा बेहतर दाम और वैश्विक पहचान",
-      "summary": "बुरहानपुर के केले को मिला GI टैग, किसानों को मिलेगा बेहतर दाम और वैश्विक पहचान",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/burhanpur-bananas-receive-gi-tag-farmers-to-get-better-prices-and-global-recognition/",
-      "important": false
-    },
-    {
-      "id": "9a49db1d",
-      "title": "मध्यप्रदेश: अरहर की खेती को मिलेगा बढ़ावा, किसानों को वितरित किए गए मुफ्त बीज मिनीकिट; योजनाओं की भी दी गई जानकारी",
-      "summary": "मध्यप्रदेश: अरहर की खेती को मिलेगा बढ़ावा, किसानों को वितरित किए गए मुफ्त बीज मिनीकिट; योजनाओं की भी दी गई जानकारी",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-06-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-arhar-pigeon-pea-cultivation-to-get-a-boost-free-seed-mini-kits-distributed-to-farmers-and-information-about-schemes-provided/",
       "important": false
     }
   ]
