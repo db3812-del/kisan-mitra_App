@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-02T09:23:07Z",
+  "updated": "2026-07-02T14:15:41Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "0bb85969",
+      "title": "आज का धान मंडी रेट (02 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (02 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-02-july-2026/",
+      "important": false
+    },
+    {
+      "id": "aa823360",
+      "title": "आज का सोयाबीन मंडी रेट (02 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (02 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-02-july-2026/",
+      "important": false
+    },
+    {
+      "id": "908de8ed",
+      "title": "IMD Weather Update: बंगाल की खाड़ी में बना लो प्रेशर एरिया, मौसम विभाग ने अगले 5 दिनों के लिए जारी किया मौसम अलर्ट",
+      "summary": "IMD Weather Update: बंगाल की खाड़ी में बना लो प्रेशर एरिया, मौसम विभाग ने अगले 5 दिनों के लिए जारी किया मौसम अलर्ट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-low-pressure-area-forms-over-the-bay-of-bengal-weather-department-issues-weather-alert-for-the-next-5-days/",
+      "important": false
+    },
+    {
+      "id": "de21f8ea",
+      "title": "आज का गेहूँ मंडी रेट (02 जुलाई 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (02 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-02-july-2026/",
+      "important": false
+    },
+    {
+      "id": "319b25c3",
+      "title": "MP Weather Update: मध्यप्रदेश के कई जिलों में झमाझम बारिश, 6 जिलों में अति भारी वर्षा का अलर्ट; 40-50 किमी/घंटा की रफ्ता",
+      "summary": "MP Weather Update: मध्यप्रदेश के कई जिलों में झमाझम बारिश, 6 जिलों में अति भारी वर्षा का अलर्ट; 40-50 किमी/घंटा की रफ्तार से चलेंगी तेज हवाएं",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mp-weather-update-heavy-rainfall-across-several-districts-of-madhya-pradesh-alert-issued-for-extremely-heavy-rain-in-6-districts-strong-winds-expected-at-speeds-of-40-50-km-h/",
+      "important": false
+    },
+    {
+      "id": "f7a9e79e",
+      "title": "Mandi Rate: MSP से नीचे बिक रहा मक्का, मध्यप्रदेश में आज ₹1,798 से ₹2,325 प्रति क्विंटल तक मिले भाव",
+      "summary": "Mandi Rate: MSP से नीचे बिक रहा मक्का, मध्यप्रदेश में आज ₹1,798 से ₹2,325 प्रति क्विंटल तक मिले भाव",
+      "level": "state",
+      "category": "price",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mandi-rates-maize-selling-below-msp-prices-in-madhya-pradesh-today-ranged-from-%e2%82%b91798-to-%e2%82%b92325-per-quintal/",
+      "important": true
+    },
+    {
+      "id": "4886a5c5",
+      "title": "इफको का अन्तः सेवा प्रशिक्षण कार्यक्रम श्रीनगर में संपन्न",
+      "summary": "इफको का अन्तः सेवा प्रशिक्षण कार्यक्रम श्रीनगर में संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/iffcos-in-service-training-program-concludes-in-srinagar/",
+      "important": false
+    },
+    {
+      "id": "9e31c076",
+      "title": "कोद में समृद्ध किसान अभियान शिविर संपन्न",
+      "summary": "कोद में समृद्ध किसान अभियान शिविर संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/samriddh-kisan-abhiyan-camp-concludes-in-kod/",
+      "important": false
+    },
     {
       "id": "93cd7d7e",
       "title": "अनानास जैसी खुशबू और गाजर जैसा गूदा, जानिए क्यों खास है बैतूल का गाजरिया आम",
@@ -462,94 +550,6 @@
       "date": "2026-06-29",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-29-june-2026/",
-      "important": false
-    },
-    {
-      "id": "ed7bf8e2",
-      "title": "आज का मक्का मंडी रेट (29 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (29 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-29-june-2026/",
-      "important": false
-    },
-    {
-      "id": "8e924400",
-      "title": "आज का सोयाबीन मंडी रेट (29 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (29 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-29-june-2026/",
-      "important": false
-    },
-    {
-      "id": "2d7300dd",
-      "title": "सूखे की चिंता छोड़िए! धान की ये 6 बेहतरीन किस्में बोएं, कम पानी में भी मिलेगा बंपर उत्पादन",
-      "summary": "सूखे की चिंता छोड़िए! धान की ये 6 बेहतरीन किस्में बोएं, कम पानी में भी मिलेगा बंपर उत्पादन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/stop-worrying-about-drought-sow-these-6-excellent-paddy-varieties-to-get-bumper-yields-even-with-less-water/",
-      "important": false
-    },
-    {
-      "id": "5f2ecc46",
-      "title": "गुना का भटोदिया गांव बना ‘मिनी इजराइल’, आधुनिक सब्जी उत्पादन से कमा रहे 4 लाख रुपये तक प्रति एकड़",
-      "summary": "गुना का भटोदिया गांव बना ‘मिनी इजराइल’, आधुनिक सब्जी उत्पादन से कमा रहे 4 लाख रुपये तक प्रति एकड़",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bhatodiya-village-in-guna-has-become-a-mini-israel-earning-up-to-%e2%82%b94-lakh-per-acre-through-modern-vegetable-cultivation/",
-      "important": false
-    },
-    {
-      "id": "0ab611ec",
-      "title": "कृषि विज्ञान केंद्र हरदा में कोदो जे. के. 9-1 का ब्रीडर सीड उपलब्ध",
-      "summary": "कृषि विज्ञान केंद्र हरदा में कोदो जे. के. 9-1 का ब्रीडर सीड उपलब्ध",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/hey-why-do-you-change-the-background-story-when-i-only-asked-to-clean-up-the-boys-face/",
-      "important": false
-    },
-    {
-      "id": "34fbcf7e",
-      "title": "दिल्ली में ग्रामीण विकास सम्मेलन का शुभारंभ, शिवराज सिंह चौहान ने दिया विकसित भारत का रोडमैप",
-      "summary": "दिल्ली में ग्रामीण विकास सम्मेलन का शुभारंभ, शिवराज सिंह चौहान ने दिया विकसित भारत का रोडमैप",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/rural-development-conference-inaugurated-in-delhi-shivraj-singh-chouhan-presents-roadmap-for-a-developed-india/",
-      "important": false
-    },
-    {
-      "id": "81b5d706",
-      "title": "छिंदवाड़ा: जीआई-टैग वाले रीवा सुंदरजा आमों का हुआ पहला वाणिज्यिक निर्यात",
-      "summary": "छिंदवाड़ा: जीआई-टैग वाले रीवा सुंदरजा आमों का हुआ पहला वाणिज्यिक निर्यात",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-first-commercial-export-of-gi-tagged-rewa-sundarja-mangoes-takes-place/",
-      "important": false
-    },
-    {
-      "id": "94aa6974",
-      "title": "जबलपुर जिले में बड़ी मात्रा में नकली डीएपी बनाने में प्रयुक्त सामग्री जब्त",
-      "summary": "जबलपुर जिले में बड़ी मात्रा में नकली डीएपी बनाने में प्रयुक्त सामग्री जब्त",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/large-quantity-of-materials-used-for-manufacturing-spurious-dap-seized-in-jabalpur-district/",
       "important": false
     }
   ]
