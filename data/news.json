@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-02T04:03:00Z",
-  "new_count": 2,
+  "updated": "2026-07-02T09:23:07Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "93cd7d7e",
+      "title": "अनानास जैसी खुशबू और गाजर जैसा गूदा, जानिए क्यों खास है बैतूल का गाजरिया आम",
+      "summary": "अनानास जैसी खुशबू और गाजर जैसा गूदा, जानिए क्यों खास है बैतूल का गाजरिया आम",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/with-a-pineapple-like-aroma-and-carrot-like-pulp-discover-what-makes-betuls-gajariya-mango-special/",
+      "important": false
+    },
+    {
+      "id": "9478abb3",
+      "title": "मध्यप्रदेश ने रचा इतिहास, एक साथ 12 उद्यानिकी फसलों को मिला GI टैग",
+      "summary": "मध्यप्रदेश ने रचा इतिहास, एक साथ 12 उद्यानिकी फसलों को मिला GI टैग",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-makes-history-12-horticultural-crops-receive-gi-tags-simultaneously/",
+      "important": false
+    },
+    {
+      "id": "407da2bb",
+      "title": "खरीफ खेती की रफ्तार पड़ी धीमी, 53.74 लाख हेक्टेयर घटा रकबा; धान, सोयाबीन और कपास की बुवाई में बड़ी गिरावट",
+      "summary": "खरीफ खेती की रफ्तार पड़ी धीमी, 53.74 लाख हेक्टेयर घटा रकबा; धान, सोयाबीन और कपास की बुवाई में बड़ी गिरावट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/kharif-sowing-pace-slows-acreage-drops-by-5-374-million-hectares-sharp-decline-in-paddy-soybean-and-cotton-sowing/",
+      "important": false
+    },
+    {
+      "id": "8a293c6e",
+      "title": "खेती होगी आसान, मल्टी क्रॉप थ्रेसर पर सरकार दे रही 2.25 लाख रुपये तक की सब्सिडी; जानें पूरी प्रक्रिया",
+      "summary": "खेती होगी आसान, मल्टी क्रॉप थ्रेसर पर सरकार दे रही 2.25 लाख रुपये तक की सब्सिडी; जानें पूरी प्रक्रिया",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farming-made-easy-government-offering-a-subsidy-of-up-to-%e2%82%b92-25-lakh-on-multi-crop-threshers-know-the-complete-process/",
+      "important": false
+    },
+    {
+      "id": "cc855874",
+      "title": "भारत-सेशेल्स की नई कृषि साझेदारी: अनुसंधान, तकनीक और जलवायु-अनुकूल खेती पर 2031 तक साथ करेंगे काम",
+      "summary": "भारत-सेशेल्स की नई कृषि साझेदारी: अनुसंधान, तकनीक और जलवायु-अनुकूल खेती पर 2031 तक साथ करेंगे काम",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/new-india-seychelles-agriculture-partnership-collaboration-on-research-technology-and-climate-resilient-farming-until-2031/",
+      "important": false
+    },
+    {
+      "id": "f9b2f9f9",
+      "title": "धान उत्पादक किसानों के लिए बड़ी सौगात, मध्यप्रदेश में धान पर भी लागू होगी भावांतर योजना",
+      "summary": "धान उत्पादक किसानों के लिए बड़ी सौगात, मध्यप्रदेश में धान पर भी लागू होगी भावांतर योजना",
+      "level": "state",
+      "category": "price",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-major-boon-for-paddy-farmers-the-bhavantar-scheme-will-now-apply-to-paddy-in-madhya-pradesh-as-well/",
+      "important": false
+    },
+    {
+      "id": "9f0596f7",
+      "title": "छिंदवाड़ा 1 से 31 जुलाई तक मनाया जाएगा फसल बीमा माह",
+      "summary": "छिंदवाड़ा 1 से 31 जुलाई तक मनाया जाएगा फसल बीमा माह",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/crop-insurance-month-to-be-observed-in-chhindwara-from-july-1-to-31/",
+      "important": false
+    },
+    {
+      "id": "6d25600d",
+      "title": "‘आप अकेले नहीं हैं’: अरुणाचल के बाढ़ पीड़ितों से मिले शिवराज सिंह चौहान, हरसंभव मदद का दिलाया भरोसा",
+      "summary": "‘आप अकेले नहीं हैं’: अरुणाचल के बाढ़ पीड़ितों से मिले शिवराज सिंह चौहान, हरसंभव मदद का दिलाया भरोसा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/you-are-not-alone-shivraj-singh-chouhan-meets-flood-victims-in-arunachal-assures-all-possible-help/",
+      "important": false
+    },
     {
       "id": "2af1fdea",
       "title": "इंदौर में ‘कृषि विपणन में प्राकृतिक खेती एवं सहकारी संस्थाओं की भूमिका ‘विषय पर सम्मेलन सम्पन्न",
@@ -462,94 +550,6 @@
       "date": "2026-06-29",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/large-quantity-of-materials-used-for-manufacturing-spurious-dap-seized-in-jabalpur-district/",
-      "important": false
-    },
-    {
-      "id": "ce8a06f5",
-      "title": "रायपुर: तिलहनी फसलों का उत्पादन बढ़ाने की तैयारी, किसानों को बांटे गए उन्नत मूंगफली बीज",
-      "summary": "रायपुर: तिलहनी फसलों का उत्पादन बढ़ाने की तैयारी, किसानों को बांटे गए उन्नत मूंगफली बीज",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-preparations-underway-to-boost-oilseed-production-improved-groundnut-seeds-distributed-to-farmers/",
-      "important": false
-    },
-    {
-      "id": "e0c49f98",
-      "title": "रायपुर : मेड़ पर लगाए थे कुछ अनानास के पौधे, अब हर साल हो रही 2.5 लाख रुपये तक की कमाई",
-      "summary": "रायपुर : मेड़ पर लगाए थे कुछ अनानास के पौधे, अब हर साल हो रही 2.5 लाख रुपये तक की कमाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-a-few-pineapple-plants-were-planted-on-the-farm-bund-now-they-generate-earnings-of-up-to-%e2%82%b92-5-lakh-annually/",
-      "important": false
-    },
-    {
-      "id": "6958cae0",
-      "title": "रायपुर: कृषि विभाग की बड़ी कार्रवाई, उड़ीसा प्रिंट वाली 550 किलो उर्वरक जब्त",
-      "summary": "रायपुर: कृषि विभाग की बड़ी कार्रवाई, उड़ीसा प्रिंट वाली 550 किलो उर्वरक जब्त",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-major-crackdown-by-the-agriculture-department-550-kg-of-fertilizer-with-odisha-markings-seized/",
-      "important": false
-    },
-    {
-      "id": "3979811f",
-      "title": "Weather Update: अगले 5 दिनों तक इन राज्यों में मूसलाधार बारिश-आंधी का अलर्ट, UP में अभी भी लू का कहर; IMD ने जारी किया प",
-      "summary": "Weather Update: अगले 5 दिनों तक इन राज्यों में मूसलाधार बारिश-आंधी का अलर्ट, UP में अभी भी लू का कहर; IMD ने जारी किया पूर्वानुमान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-update-alert-issued-for-torrential-rain-and-storms-in-these-states-over-the-next-5-days-heatwave-continues-to-grip-up-imd-releases-forecast/",
-      "important": false
-    },
-    {
-      "id": "a57e0986",
-      "title": "बैतूल: अनधिकृत उर्वरक एवं जैविक खाद जब्त, एफआईआर की कार्रवाई",
-      "summary": "बैतूल: अनधिकृत उर्वरक एवं जैविक खाद जब्त, एफआईआर की कार्रवाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/betul-unauthorized-fertilizers-and-organic-manure-seized-fir-registered/",
-      "important": false
-    },
-    {
-      "id": "7423cfbe",
-      "title": "मध्यप्रदेश की चार विशिष्ट कृषि उपजों को मिला जीआई टैग",
-      "summary": "मध्यप्रदेश की चार विशिष्ट कृषि उपजों को मिला जीआई टैग",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/four-distinctive-agricultural-products-from-madhya-pradesh-receive-gi-tags/",
-      "important": false
-    },
-    {
-      "id": "2b6b36d6",
-      "title": "मूँग तुलाई, डीजल और खाद की किल्लत को लेकर किसान कांग्रेस बनाएगी आंदोलन की रणनीति",
-      "summary": "मूँग तुलाई, डीजल और खाद की किल्लत को लेकर किसान कांग्रेस बनाएगी आंदोलन की रणनीति",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/kisan-congress-to-formulate-a-strategy-for-agitation-over-issues-regarding-the-weighing-of-moong-green-gram-and-shortages-of-diesel-and-fertilizer/",
-      "important": false
-    },
-    {
-      "id": "9e455206",
-      "title": "खाद के अग्रिम उठाव की व्यवस्था सुनिश्चित करें- एसडीएम नर्मदापुरम",
-      "summary": "खाद के अग्रिम उठाव की व्यवस्था सुनिश्चित करें- एसडीएम नर्मदापुरम",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ensure-arrangements-for-the-advance-lifting-of-fertilizer-sdm-narmadapuram/",
       "important": false
     }
   ]
