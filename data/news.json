@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-03T03:49:09Z",
-  "new_count": 0,
+  "updated": "2026-07-03T09:27:44Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "6d79126e",
+      "title": "इंदौर संभागायुक्त ने धार जिले में आधुनिक उद्यानिकी एवं संरक्षित खेती का किया निरीक्षण",
+      "summary": "इंदौर संभागायुक्त ने धार जिले में आधुनिक उद्यानिकी एवं संरक्षित खेती का किया निरीक्षण",
+      "level": "state",
+      "category": "price",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-indore-divisional-commissioner-inspected-modern-horticulture-and-protected-cultivation-in-dhar-district/",
+      "important": false
+    },
+    {
+      "id": "45051845",
+      "title": "मखाना की खेती से बढ़ेगी किसानों की कमाई! छत्तीसगढ़ में 29 एकड़ में सफल उत्पादन, सरकार करेगी और विस्तार",
+      "summary": "मखाना की खेती से बढ़ेगी किसानों की कमाई! छत्तीसगढ़ में 29 एकड़ में सफल उत्पादन, सरकार करेगी और विस्तार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/makhana-cultivation-to-boost-farmers-income-successful-production-on-29-acres-in-chhattisgarh-government-to-expand-further/",
+      "important": false
+    },
+    {
+      "id": "50647f3a",
+      "title": "इंदौर संभाग में हाई-वैल्यू बागवानी फसलों पर संभागायुक्त का फोकस",
+      "summary": "इंदौर संभाग में हाई-वैल्यू बागवानी फसलों पर संभागायुक्त का फोकस",
+      "level": "state",
+      "category": "price",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/divisional-commissioner-focuses-on-high-value-horticultural-crops-in-indore-division/",
+      "important": false
+    },
+    {
+      "id": "19dfc8c8",
+      "title": "बीज लाइसेंस में संशोधन अब आसान, 30 कार्य दिवस में होगा निराकरण",
+      "summary": "बीज लाइसेंस में संशोधन अब आसान, 30 कार्य दिवस में होगा निराकरण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/amending-seed-licenses-is-now-easier-resolution-will-take-place-within-30-working-days/",
+      "important": false
+    },
+    {
+      "id": "12ef002a",
+      "title": "खरीफ खेती ने पकड़ी रफ्तार! छत्तीसगढ़ में 13% बुआई पूरी, किसानों को 7.28 लाख टन खाद और 3.09 लाख क्विंटल बीज मिला",
+      "summary": "खरीफ खेती ने पकड़ी रफ्तार! छत्तीसगढ़ में 13% बुआई पूरी, किसानों को 7.28 लाख टन खाद और 3.09 लाख क्विंटल बीज मिला",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kharif-farming-gains-momentum-13-of-sowing-completed-in-chhattisgarh-farmers-receive-7-28-lakh-tonnes-of-fertilizer-and-3-09-lakh-quintals-of-seeds/",
+      "important": false
+    },
+    {
+      "id": "de82aeb9",
+      "title": "छत्तीसगढ़: बीजापुर में बनेगा आधुनिक मत्स्य पालन प्रशिक्षण केंद्र, किसानों की आय बढ़ाने पर सरकार का फोकस",
+      "summary": "छत्तीसगढ़: बीजापुर में बनेगा आधुनिक मत्स्य पालन प्रशिक्षण केंद्र, किसानों की आय बढ़ाने पर सरकार का फोकस",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-modern-fisheries-training-center-to-be-set-up-in-bijapur-government-focuses-on-boosting-farmers-income-chhattisgarh-modern-fisheries-training-center-to-be-set-up-in-bijapur-governme/",
+      "important": false
+    },
+    {
+      "id": "cf931965",
+      "title": "सचिन तेंदुलकर बने SML Limited के ब्रांड एंबेसडर",
+      "summary": "सचिन तेंदुलकर बने SML Limited के ब्रांड एंबेसडर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/sachin-tendulkar-becomes-brand-ambassador-for-sml-limited/",
+      "important": false
+    },
+    {
+      "id": "934001ac",
+      "title": "कम वर्षा की आशंका और किसान",
+      "summary": "कम वर्षा की आशंका और किसान",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/fear-of-less-rainfall-and-farmers/",
+      "important": false
+    },
     {
       "id": "0bb85969",
       "title": "आज का धान मंडी रेट (02 जुलाई 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-06-30",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/iit-ropar-syngenta-and-google-have-launched-the-ai-hackathonhack-core-2026-for-indian-agriculture/",
-      "important": false
-    },
-    {
-      "id": "e35304df",
-      "title": "1 जुलाई से ‘विकसित भारत जी राम जी’ योजना पूरे देश में होगी लागू: केंद्रीय कृषि मंत्री शिवराज सिंह चौहान",
-      "summary": "1 जुलाई से ‘विकसित भारत जी राम जी’ योजना पूरे देश में होगी लागू: केंद्रीय कृषि मंत्री शिवराज सिंह चौहान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/viksit-bharat-g-ram-g-scheme-to-be-implemented-nationwide-from-july-1-union-agriculture-minister-shivraj-singh-chouhan/",
-      "important": false
-    },
-    {
-      "id": "6f26e80c",
-      "title": "धान की खेती में बढ़ानी है कमाई? अपनाएं श्री विधि, मिलेगा दोगुना फायदा",
-      "summary": "धान की खेती में बढ़ानी है कमाई? अपनाएं श्री विधि, मिलेगा दोगुना फायदा",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/want-to-increase-earnings-from-paddy-cultivation-adopt-the-sri-vidhi-method-and-reap-double-the-benefits/",
-      "important": false
-    },
-    {
-      "id": "e722dd76",
-      "title": "कम बारिश में भी होगी अच्छी पैदावार, कृषि विभाग ने किसानों को बताए जरूरी उपाय",
-      "summary": "कम बारिश में भी होगी अच्छी पैदावार, कृषि विभाग ने किसानों को बताए जरूरी उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/good-yields-possible-even-with-scanty-rainfall-agriculture-department-outlines-essential-measures-for-farmers/",
-      "important": false
-    },
-    {
-      "id": "871575bb",
-      "title": "मंदसौर: कृषक आधुनिक वैज्ञानिक तकनीकों के साथ सोयाबीन की खेती करें",
-      "summary": "मंदसौर: कृषक आधुनिक वैज्ञानिक तकनीकों के साथ सोयाबीन की खेती करें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mandsaur-farmers-should-cultivate-soybean-using-modern-scientific-techniques/",
-      "important": false
-    },
-    {
-      "id": "20de2586",
-      "title": "मंदसौर मंडी में 32 दुकानों से व्यापारियों एवं किसानों को मिलेगा सीधा लाभ : उप मुख्यमंत्री श्री देवड़ा",
-      "summary": "मंदसौर मंडी में 32 दुकानों से व्यापारियों एवं किसानों को मिलेगा सीधा लाभ : उप मुख्यमंत्री श्री देवड़ा",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/traders-and-farmers-to-benefit-directly-from-32-shops-at-mandsaur-mandi-deputy-chief-minister-shri-devda/",
-      "important": false
-    },
-    {
-      "id": "73f940d0",
-      "title": "मध्य प्रदेश में मानसून एक्टिव: मंदसौर में सबसे ज्यादा 76 मिमी बरसात, बैतूल-धार समेत कई जिलों में आज भारी बारिश का अलर्ट",
-      "summary": "मध्य प्रदेश में मानसून एक्टिव: मंदसौर में सबसे ज्यादा 76 मिमी बरसात, बैतूल-धार समेत कई जिलों में आज भारी बारिश का अलर्ट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/monsoon-active-in-madhya-pradesh-mandsaur-records-highest-rainfall-at-76-mm-heavy-rain-alert-issued-for-several-districts-including-betul-and-dhar-for-today/",
-      "important": false
-    },
-    {
-      "id": "e491df3a",
-      "title": "आज का गेहूँ मंडी रेट (29 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (29 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-29-june-2026/",
-      "important": false
-    },
-    {
-      "id": "4b3b328e",
-      "title": "आज का धान मंडी रेट (29 जून 2026)",
-      "summary": "आज का धान मंडी रेट (29 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-29-june-2026/",
       "important": false
     }
   ]
