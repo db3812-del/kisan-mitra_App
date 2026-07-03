@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-03T09:27:44Z",
+  "updated": "2026-07-03T14:21:33Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "1b5221df",
+      "title": "आज का मक्का मंडी रेट (03 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (03 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-03-july-2026/",
+      "important": false
+    },
+    {
+      "id": "9c418dd4",
+      "title": "आज का धान मंडी रेट (03 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (03 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-03-july-2026/",
+      "important": false
+    },
+    {
+      "id": "15693e9c",
+      "title": "MP Weather Today: मध्यप्रदेश में झमाझम बरसे बादल, पचोर में 168 मिमी बारिश; हरदा-खंडवा-देवास में अति भारी वर्षा का रेड अल",
+      "summary": "MP Weather Today: मध्यप्रदेश में झमाझम बरसे बादल, पचोर में 168 मिमी बारिश; हरदा-खंडवा-देवास में अति भारी वर्षा का रेड अलर्ट",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mp-weather-today-heavy-rainfall-across-madhya-pradesh-168-mm-of-rain-in-pachor-red-alert-for-extremely-heavy-rain-in-harda-khandwa-and-dewas/",
+      "important": false
+    },
+    {
+      "id": "8049599b",
+      "title": "आज का सोयाबीन मंडी रेट (03 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (03 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-03-july-2026/",
+      "important": false
+    },
+    {
+      "id": "9be17f49",
+      "title": "धान के बाद सरसों की खेती और तेल प्रसंस्करण से बढ़ेगी किसानों की आय: डॉ. पी.के. राय",
+      "summary": "धान के बाद सरसों की खेती और तेल प्रसंस्करण से बढ़ेगी किसानों की आय: डॉ. पी.के. राय",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-income-to-rise-through-mustard-cultivation-and-oil-processing-after-paddy-dr-p-k-rai/",
+      "important": false
+    },
+    {
+      "id": "7f2247ef",
+      "title": "प्रदेश में 150 लाख हेक्टेयर से अधिक क्षेत्र में होगी खरीफ बुवाई",
+      "summary": "प्रदेश में 150 लाख हेक्टेयर से अधिक क्षेत्र में होगी खरीफ बुवाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/kharif-sowing-will-take-place-over-an-area-of-more-than-150-lakh-hectares-in-the-state/",
+      "important": false
+    },
+    {
+      "id": "91280b22",
+      "title": "पीएचडीसीसीआई एग्री-बिजनेस अवॉर्ड्स 2026 में कृषि नवाचार और उत्कृष्टता का सम्मान",
+      "summary": "पीएचडीसीसीआई एग्री-बिजनेस अवॉर्ड्स 2026 में कृषि नवाचार और उत्कृष्टता का सम्मान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/honouring-agricultural-innovation-and-excellence-at-the-phdcci-agri-business-awards-2026/",
+      "important": false
+    },
+    {
+      "id": "884427ea",
+      "title": "इंदौर जिले में अब तक 265.1 मिलीमीटर (लगभग साढ़े 10 इंच) औसत वर्षा",
+      "summary": "इंदौर जिले में अब तक 265.1 मिलीमीटर (लगभग साढ़े 10 इंच) औसत वर्षा",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/indore-district-has-recorded-an-average-rainfall-of-265-1-millimeters-approximately-10-5-inches-so-far/",
+      "important": false
+    },
     {
       "id": "6d79126e",
       "title": "इंदौर संभागायुक्त ने धार जिले में आधुनिक उद्यानिकी एवं संरक्षित खेती का किया निरीक्षण",
@@ -462,94 +550,6 @@
       "date": "2026-06-30",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-30-june-2026/",
-      "important": false
-    },
-    {
-      "id": "78180950",
-      "title": "आज का सोयाबीन मंडी रेट (30 जून 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (30 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-30-june-2026/",
-      "important": false
-    },
-    {
-      "id": "293e233f",
-      "title": "आज का मक्का मंडी रेट (30 जून 2026)",
-      "summary": "आज का मक्का मंडी रेट (30 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-30-june-2026/",
-      "important": false
-    },
-    {
-      "id": "3c4b5298",
-      "title": "Soybean Mandi Bhav: महाराष्ट्र में सोयाबीन के दाम ₹7,100 तक पहुंचे, देखें आज के ताजा मंडी रेट",
-      "summary": "Soybean Mandi Bhav: महाराष्ट्र में सोयाबीन के दाम ₹7,100 तक पहुंचे, देखें आज के ताजा मंडी रेट",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/soybean-market-prices-soybean-prices-in-maharashtra-have-reached-%e2%82%b97100-check-todays-latest-market-rates/",
-      "important": false
-    },
-    {
-      "id": "fa17bfd0",
-      "title": "इंदौर जिले में अब तक 189.5 मिलीमीटर (लगभग साढ़े 7 इंच) औसत वर्षा",
-      "summary": "इंदौर जिले में अब तक 189.5 मिलीमीटर (लगभग साढ़े 7 इंच) औसत वर्षा",
-      "level": "state",
-      "category": "general",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/indore-district-has-recorded-an-average-rainfall-of-189-5-millimeters-approximately-7-5-inches-so-far/",
-      "important": false
-    },
-    {
-      "id": "8f72fb96",
-      "title": "देश में खरीफ बुवाई 119 लाख हेक्टेयर में हुई",
-      "summary": "देश में खरीफ बुवाई 119 लाख हेक्टेयर में हुई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/kharif-sowing-in-the-country-has-been-completed-across-119-lakh-hectares/",
-      "important": false
-    },
-    {
-      "id": "a47a9de5",
-      "title": "तेलंगाना के लिए नई चावल निर्यात नीति जल्द, वैश्विक बाजार पर सरकार की नजर",
-      "summary": "तेलंगाना के लिए नई चावल निर्यात नीति जल्द, वैश्विक बाजार पर सरकार की नजर",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/new-rice-export-policy-for-telangana-soon-government-eyes-global-market/",
-      "important": false
-    },
-    {
-      "id": "d5d2b9dd",
-      "title": "इनेरा क्रॉप साइंस और क्रॉपएनएक्सटी सॉल्यूशंस ने पांच राज्यों में जैविक कृषि इनपुट्स के विस्तार के लिए साझेदारी की",
-      "summary": "इनेरा क्रॉप साइंस और क्रॉपएनएक्सटी सॉल्यूशंस ने पांच राज्यों में जैविक कृषि इनपुट्स के विस्तार के लिए साझेदारी की",
-      "level": "central",
-      "category": "price",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/inera-crop-science-and-cropnxt-solutions-have-partnered-to-expand-organic-farming-inputs-across-five-states/",
-      "important": false
-    },
-    {
-      "id": "2bf7e140",
-      "title": "आईआईटी रोपड़, सिंजेंटा और गूगल ने भारतीय कृषि के लिए AI हैकाथॉन ‘HACK CORE 2026’ शुरू किया",
-      "summary": "आईआईटी रोपड़, सिंजेंटा और गूगल ने भारतीय कृषि के लिए AI हैकाथॉन ‘HACK CORE 2026’ शुरू किया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/iit-ropar-syngenta-and-google-have-launched-the-ai-hackathonhack-core-2026-for-indian-agriculture/",
       "important": false
     }
   ]
