@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-04T08:45:06Z",
+  "updated": "2026-07-04T13:46:25Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "92434631",
+      "title": "इंडियन पोटाश लिमिटेड और यूपीएल ने गुजरात में टिकाऊ गन्ना खेती के लिए किया तीन वर्षीय समझौता",
+      "summary": "इंडियन पोटाश लिमिटेड और यूपीएल ने गुजरात में टिकाऊ गन्ना खेती के लिए किया तीन वर्षीय समझौता",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/indian-potash-limited-and-upl-sign-a-three-year-agreement-for-sustainable-sugarcane-farming-in-gujarat/",
+      "important": false
+    },
+    {
+      "id": "f5260882",
+      "title": "स्टॉक भरपूर, फिर भी किसान परेशान: ई-विकास पोर्टल पर नहीं मिल रही जरूरत की खाद",
+      "summary": "स्टॉक भरपूर, फिर भी किसान परेशान: ई-विकास पोर्टल पर नहीं मिल रही जरूरत की खाद",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ample-stock-yet-farmers-distressed-essential-fertilizer-unavailable-on-the-e-vikas-portal/",
+      "important": false
+    },
+    {
+      "id": "74609e6b",
+      "title": "मध्यप्रदेश में मानसून का जोर: खरगोन-बड़वानी में अति-भारी वर्षा का रेड अलर्ट, इंदौर समेत 9 जिलों में ऑरेंज अलर्ट जारी",
+      "summary": "मध्यप्रदेश में मानसून का जोर: खरगोन-बड़वानी में अति-भारी वर्षा का रेड अलर्ट, इंदौर समेत 9 जिलों में ऑरेंज अलर्ट जारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/monsoon-intensifies-in-madhya-pradesh-red-alert-for-extremely-heavy-rainfall-in-khargone-and-barwani-orange-alert-issued-for-9-districts-including-indore/",
+      "important": false
+    },
+    {
+      "id": "7a1e13d1",
+      "title": "आज का गेहूँ मंडी रेट (04 जुलाई 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (04 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-04-july-2026/",
+      "important": false
+    },
+    {
+      "id": "4b484bed",
+      "title": "आज का धान मंडी रेट (04 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (04 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-04-july-2026/",
+      "important": false
+    },
+    {
+      "id": "0cc13c92",
+      "title": "आज का मक्का मंडी रेट (04 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (04 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-04-july-2026/",
+      "important": false
+    },
+    {
+      "id": "4111a3be",
+      "title": "आज का सोयाबीन मंडी रेट (04 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (04 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-04-july-2026/",
+      "important": false
+    },
+    {
+      "id": "8f36f87e",
+      "title": "खरगोन और बड़वानी जिलों में अत्यधिक भारी वर्षा का रेड अलर्ट जारी",
+      "summary": "खरगोन और बड़वानी जिलों में अत्यधिक भारी वर्षा का रेड अलर्ट जारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/red-alert-issued-for-extremely-heavy-rainfall-in-khargone-and-barwani-districts/",
+      "important": false
+    },
     {
       "id": "6880d462",
       "title": "मेडो पर गेंदा, चिया लगाए: श्री श्रीवास्तव",
@@ -462,94 +550,6 @@
       "date": "2026-07-02",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/icrisat-and-uas-dharwad-have-developed-two-new-high-oleic-groundnut-varieties/",
-      "important": false
-    },
-    {
-      "id": "ea617376",
-      "title": "आरएचबी बाजरा : कम अवधि में अधिक उत्पादन देने वाली पोषक तत्वों से भरपूर उन्नत किस्म",
-      "summary": "आरएचबी बाजरा : कम अवधि में अधिक उत्पादन देने वाली पोषक तत्वों से भरपूर उन्नत किस्म",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/rhb-bajra-a-nutrient-rich-high-yielding-short-duration-improved-variety/",
-      "important": false
-    },
-    {
-      "id": "53b2bf06",
-      "title": "रबी सीजन में किसानों को दिन में मिलेगी बिजली, मुख्यमंत्री डॉ. मोहन यादव का बड़ा ऐलान",
-      "summary": "रबी सीजन में किसानों को दिन में मिलेगी बिजली, मुख्यमंत्री डॉ. मोहन यादव का बड़ा ऐलान",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-to-receive-electricity-during-the-day-in-the-rabi-season-major-announcement-by-chief-minister-dr-mohan-yadav/",
-      "important": false
-    },
-    {
-      "id": "8f28e576",
-      "title": "सतत कृषि विकास में महिलाओं की भूमिका पर राष्ट्रीय मंथन, पूसा सम्मेलन में जारी हुआ भविष्य का रोडमैप",
-      "summary": "सतत कृषि विकास में महिलाओं की भूमिका पर राष्ट्रीय मंथन, पूसा सम्मेलन में जारी हुआ भविष्य का रोडमैप",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/national-deliberation-on-the-role-of-women-in-sustainable-agricultural-development-future-roadmap-unveiled-at-the-pusa-conference/",
-      "important": false
-    },
-    {
-      "id": "8c50c783",
-      "title": "कुक्कुट खाद : कम लागत में उपज बढ़ाने और मिट्टी की सेहत सुधारने का प्रभावी जैविक विकल्प",
-      "summary": "कुक्कुट खाद : कम लागत में उपज बढ़ाने और मिट्टी की सेहत सुधारने का प्रभावी जैविक विकल्प",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/poultry-manure-an-effective-organic-option-to-boost-yields-and-improve-soil-health-at-a-low-cost/",
-      "important": false
-    },
-    {
-      "id": "c098871f",
-      "title": "SOMS 2026: स्पेशलिटी फर्टिलाइज़र में आत्मनिर्भरता और नवाचार पर होगा मंथन",
-      "summary": "SOMS 2026: स्पेशलिटी फर्टिलाइज़र में आत्मनिर्भरता और नवाचार पर होगा मंथन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/soms-2026-deliberations-to-focus-on-self-reliance-and-innovation-in-specialty-fertilizers/",
-      "important": false
-    },
-    {
-      "id": "428408f0",
-      "title": "बाढ़ से तबाह फसलों का लेंगे जायजा, आज अरुणाचल-असम के बाढ़ प्रभावित इलाकों में पहुंचेंगे शिवराज सिंह",
-      "summary": "बाढ़ से तबाह फसलों का लेंगे जायजा, आज अरुणाचल-असम के बाढ़ प्रभावित इलाकों में पहुंचेंगे शिवराज सिंह",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/shivraj-singh-to-assess-flood-ravaged-crops-will-reach-flood-hit-areas-of-arunachal-and-assam-today/",
-      "important": false
-    },
-    {
-      "id": "1e8349ad",
-      "title": "खरीफ 2026: कृषि आदान विक्रेताओं पर कृषि विभाग की सख्ती, 10 नमूने जांच के लिए भेजे",
-      "summary": "खरीफ 2026: कृषि आदान विक्रेताओं पर कृषि विभाग की सख्ती, 10 नमूने जांच के लिए भेजे",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/kharif-2026-agriculture-department-cracks-down-on-agri-input-dealers-10-samples-sent-for-testing/",
-      "important": false
-    },
-    {
-      "id": "aafa3b86",
-      "title": "जून 2026 में महिंद्रा ट्रैक्टरों की बिक्री 12% बढ़ी, घरेलू बाजार की मजबूत मांग से मिला सहारा",
-      "summary": "जून 2026 में महिंद्रा ट्रैक्टरों की बिक्री 12% बढ़ी, घरेलू बाजार की मजबूत मांग से मिला सहारा",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-tractor-sales-rose-by-12-in-june-2026-supported-by-strong-domestic-market-demand/",
       "important": false
     }
   ]
