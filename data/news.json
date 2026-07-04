@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-04T03:40:32Z",
-  "new_count": 0,
+  "updated": "2026-07-04T08:45:06Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "6880d462",
+      "title": "मेडो पर गेंदा, चिया लगाए: श्री श्रीवास्तव",
+      "summary": "मेडो पर गेंदा, चिया लगाए: श्री श्रीवास्तव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/marigolds-and-chia-planted-on-the-field-bunds-shri-srivastava/",
+      "important": false
+    },
+    {
+      "id": "32565338",
+      "title": "बाजार में तोतापुरी आम की स्थिति खराब, किसानों को राहत दिलाने के लिए केंद्र सरकार ने बनाई विशेषज्ञ समिति",
+      "summary": "बाजार में तोतापुरी आम की स्थिति खराब, किसानों को राहत दिलाने के लिए केंद्र सरकार ने बनाई विशेषज्ञ समिति",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/poor-market-conditions-for-totapuri-mangoes-central-government-forms-expert-committee-to-provide-relief-to-farmers/",
+      "important": false
+    },
+    {
+      "id": "01f5cbee",
+      "title": "कृषक कल्याण वर्ष: किसानों की आय बढ़ाने के लिए मिशन मोड में काम करेगी सरकार, CM मोहन यादव के निर्देश",
+      "summary": "कृषक कल्याण वर्ष: किसानों की आय बढ़ाने के लिए मिशन मोड में काम करेगी सरकार, CM मोहन यादव के निर्देश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-welfare-year-government-to-work-in-mission-mode-to-boost-farmers-income-cm-mohan-yadav-issues-directives/",
+      "important": false
+    },
+    {
+      "id": "fe44465d",
+      "title": "रायपुर: वैज्ञानिक खेती से बढ़ेगा गन्ना उत्पादन, 267 गांवों में किसानों के लिए शुरू हुआ प्रशिक्षण अभियान",
+      "summary": "रायपुर: वैज्ञानिक खेती से बढ़ेगा गन्ना उत्पादन, 267 गांवों में किसानों के लिए शुरू हुआ प्रशिक्षण अभियान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-sugarcane-production-to-increase-through-scientific-farming-training-campaign-launched-for-farmers-across-267-villages/",
+      "important": false
+    },
+    {
+      "id": "954ba522",
+      "title": "मध्य भारत में कमजोर मानसून की आशंका, किसान कैसे बचाएं अपनी खेती?",
+      "summary": "मध्य भारत में कमजोर मानसून की आशंका, किसान कैसे बचाएं अपनी खेती?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/apprehension-of-a-weak-monsoon-in-central-india-how-can-farmers-save-their-crops/",
+      "important": false
+    },
+    {
+      "id": "83322db9",
+      "title": "CM योगी का बड़ा ऐलान: यूपी के आम को दिलाएंगे वैश्विक पहचान, एक्सपोर्ट और ब्रांडिंग पर होगा फोकस",
+      "summary": "CM योगी का बड़ा ऐलान: यूपी के आम को दिलाएंगे वैश्विक पहचान, एक्सपोर्ट और ब्रांडिंग पर होगा फोकस",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/cm-yogis-major-announcement-ups-mangoes-to-gain-global-recognition-focus-to-be-on-exports-and-branding/",
+      "important": false
+    },
+    {
+      "id": "8a9a9aed",
+      "title": "किसानों के लिए अलर्ट: सरकारी योजना के नाम पर आने वाले कॉल से रहें सावधान, निजी जानकारी न करें साझा",
+      "summary": "किसानों के लिए अलर्ट: सरकारी योजना के नाम पर आने वाले कॉल से रहें सावधान, निजी जानकारी न करें साझा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/alert-for-farmers-beware-of-calls-made-in-the-name-of-government-schemes-do-not-share-personal-information/",
+      "important": false
+    },
+    {
+      "id": "5b359851",
+      "title": "किसानों के लिए जरूरी खबर: 31 जुलाई तक कराएं फसल बीमा, प्राकृतिक आपदा में मिलेगा आर्थिक सुरक्षा कवच",
+      "summary": "किसानों के लिए जरूरी खबर: 31 जुलाई तक कराएं फसल बीमा, प्राकृतिक आपदा में मिलेगा आर्थिक सुरक्षा कवच",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-07-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/important-news-for-farmers-get-crop-insurance-by-july-31-secure-a-financial-safety-net-against-natural-disasters/",
+      "important": false
+    },
     {
       "id": "1b5221df",
       "title": "आज का मक्का मंडी रेट (03 जुलाई 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-07-01",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-tractor-sales-rose-by-12-in-june-2026-supported-by-strong-domestic-market-demand/",
-      "important": false
-    },
-    {
-      "id": "1e3b1e1f",
-      "title": "फार्मर रजिस्ट्री के कार्य पर फोकस करें राजस्व अधिकारी- कलेक्टर सतना",
-      "summary": "फार्मर रजिस्ट्री के कार्य पर फोकस करें राजस्व अधिकारी- कलेक्टर सतना",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/revenue-officials-should-focus-on-the-work-related-to-the-farmers-registry-satna-collector/",
-      "important": false
-    },
-    {
-      "id": "acf43b41",
-      "title": "मध्यप्रदेश में बारिश का दौर तेज: भोपाल-इंदौर समेत 40 से ज्यादा जिलों में बारिश-आंधी का अलर्ट, 40-50 Kmph की रफ्तार से चल",
-      "summary": "मध्यप्रदेश में बारिश का दौर तेज: भोपाल-इंदौर समेत 40 से ज्यादा जिलों में बारिश-आंधी का अलर्ट, 40-50 Kmph की रफ्तार से चलेंगी हवाएं",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rain-intensifies-in-madhya-pradesh-rain-and-thunderstorm-alert-for-over-40-districts-including-bhopal-and-indore-winds-to-blow-at-speeds-of-40-50-kmph/",
-      "important": false
-    },
-    {
-      "id": "23b68431",
-      "title": "किसान बैंगन की इन 6 उन्नत किस्मों की करें खेती, मिलेगा ज्यादा उत्पादन और बेहतर मुनाफा",
-      "summary": "किसान बैंगन की इन 6 उन्नत किस्मों की करें खेती, मिलेगा ज्यादा उत्पादन और बेहतर मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/farmers-should-cultivate-these-6-improved-varieties-of-brinjal-for-higher-yields-and-better-profits/",
-      "important": false
-    },
-    {
-      "id": "6d63be85",
-      "title": "मूंग छोड़ अपनाई मूंगफली की खेती, सागर के किसान को मिला प्रति एकड़ 12 क्विंटल तक उत्पादन; बढ़ा मुनाफा",
-      "summary": "मूंग छोड़ अपनाई मूंगफली की खेती, सागर के किसान को मिला प्रति एकड़ 12 क्विंटल तक उत्पादन; बढ़ा मुनाफा",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/switched-from-moong-to-groundnut-cultivation-sagar-farmer-achieves-yield-of-up-to-12-quintals-per-acre-boosting-profits/",
-      "important": false
-    },
-    {
-      "id": "530dd989",
-      "title": "वारासिवनी में प्रशासन की बड़ी कार्रवाई: कृषि केंद्र से एक्सपायरी कीटनाशक जब्त, अब होंगे नष्ट",
-      "summary": "वारासिवनी में प्रशासन की बड़ी कार्रवाई: कृषि केंद्र से एक्सपायरी कीटनाशक जब्त, अब होंगे नष्ट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-administrative-action-in-waraseoni-expired-pesticides-seized-from-an-agricultural-center-they-will-now-be-destroyed/",
-      "important": false
-    },
-    {
-      "id": "89b9cf3a",
-      "title": "आज गुवाहाटी में उच्चस्तरीय बैठक करेंगे मंत्री शिवराज सिंह, 1 जुलाई को अरुणाचल के बाढ़ग्रस्त इलाकों का दौरा करेंगे",
-      "summary": "आज गुवाहाटी में उच्चस्तरीय बैठक करेंगे मंत्री शिवराज सिंह, 1 जुलाई को अरुणाचल के बाढ़ग्रस्त इलाकों का दौरा करेंगे",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/minister-shivraj-singh-will-hold-a-high-level-meeting-in-guwahati-today-and-visit-the-flood-affected-areas-of-arunachal-pradesh-on-july-1/",
-      "important": false
-    },
-    {
-      "id": "d5bc6183",
-      "title": "बीएएसएफ (BASF) ने भारत में लॉन्च किए नए उत्पाद Melyra® और Inveris® Gold",
-      "summary": "बीएएसएफ (BASF) ने भारत में लॉन्च किए नए उत्पाद Melyra® और Inveris® Gold",
-      "level": "central",
-      "category": "general",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/basf-launched-new-products-melyra-and-inveris-gold-in-india/",
-      "important": false
-    },
-    {
-      "id": "6b32ee0a",
-      "title": "आज का गेहूँ मंडी रेट (30 जून 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (30 जून 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-06-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-30-june-2026/",
       "important": false
     }
   ]
