@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-06T04:06:04Z",
-  "new_count": 0,
+  "updated": "2026-07-06T10:49:40Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "4697c591",
+      "title": "मुख्यमंत्री का हल चलाना: कृषि सम्मान और ग्रामीण समृद्धि का प्रतीक",
+      "summary": "मुख्यमंत्री का हल चलाना: कृषि सम्मान और ग्रामीण समृद्धि का प्रतीक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-chief-minister-ploughing-the-field-a-symbol-of-agricultural-honour-and-rural-prosperity/",
+      "important": false
+    },
+    {
+      "id": "987171c9",
+      "title": "प्राकृतिक खेती को बढ़ावा देने हेतु सक्रिय रूप से कार्य करे कृषि विभाग- सांसद श्री पाटील",
+      "summary": "प्राकृतिक खेती को बढ़ावा देने हेतु सक्रिय रूप से कार्य करे कृषि विभाग- सांसद श्री पाटील",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agriculture-department-should-work-actively-to-promote-natural-farming-mp-shri-patil/",
+      "important": false
+    },
+    {
+      "id": "14e87c1c",
+      "title": "छिंदवाड़ा कलेक्टर ने की पशुपालन विभाग की समीक्षा",
+      "summary": "छिंदवाड़ा कलेक्टर ने की पशुपालन विभाग की समीक्षा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-collector-reviews-the-animal-husbandry-department/",
+      "important": false
+    },
+    {
+      "id": "aac1debf",
+      "title": "ज्वार की फसल में छिपे दुश्मन: पहचान से लेकर प्रबंधन तक",
+      "summary": "ज्वार की फसल में छिपे दुश्मन: पहचान से लेकर प्रबंधन तक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/hidden-enemies-in-the-sorghum-crop-from-identification-to-management/",
+      "important": false
+    },
+    {
+      "id": "d8520de6",
+      "title": "मक्का का स्वास्थ्य: मध्य प्रदेश में प्रमुख रोग और कीट, पहचान से लेकर रासायनिक नियंत्रण तक",
+      "summary": "मक्का का स्वास्थ्य: मध्य प्रदेश में प्रमुख रोग और कीट, पहचान से लेकर रासायनिक नियंत्रण तक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/maize-health-major-diseases-and-pests-in-madhya-pradesh-from-identification-to-chemical-control/",
+      "important": false
+    },
+    {
+      "id": "2481ff7c",
+      "title": "मध्यप्रदेश बनेगा देश में महिलाओं की सोसायटी बनाने वाला अग्रणी राज्य : मंत्री श्री सारंग",
+      "summary": "मध्यप्रदेश बनेगा देश में महिलाओं की सोसायटी बनाने वाला अग्रणी राज्य : मंत्री श्री सारंग",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-to-become-the-leading-state-in-the-country-in-forming-womens-societies-minister-shri-sarang/",
+      "important": false
+    },
+    {
+      "id": "5809ff2b",
+      "title": "सोयाबीन की सलामती: मध्य प्रदेश में प्रमुख रोग और कीट, पहचान से लेकर रासायनिक नियंत्रण तक",
+      "summary": "सोयाबीन की सलामती: मध्य प्रदेश में प्रमुख रोग और कीट, पहचान से लेकर रासायनिक नियंत्रण तक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/safeguarding-soybean-crops-major-diseases-and-pests-in-madhya-pradesh-from-identification-to-chemical-control/",
+      "important": false
+    },
+    {
+      "id": "3737d99f",
+      "title": "महिंद्रा ने भारत में नया Yuvo Tech+ 585 DI V1 ट्रैक्टर mBULL इंजन के साथ लॉन्च किया",
+      "summary": "महिंद्रा ने भारत में नया Yuvo Tech+ 585 DI V1 ट्रैक्टर mBULL इंजन के साथ लॉन्च किया",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-has-launched-the-new-yuvo-tech-585-di-v1-tractor-in-india-with-the-mbull-engine/",
+      "important": false
+    },
     {
       "id": "92434631",
       "title": "इंडियन पोटाश लिमिटेड और यूपीएल ने गुजरात में टिकाऊ गन्ना खेती के लिए किया तीन वर्षीय समझौता",
@@ -462,94 +550,6 @@
       "date": "2026-07-02",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/madhya-pradesh-makes-history-12-horticultural-crops-receive-gi-tags-simultaneously/",
-      "important": false
-    },
-    {
-      "id": "407da2bb",
-      "title": "खरीफ खेती की रफ्तार पड़ी धीमी, 53.74 लाख हेक्टेयर घटा रकबा; धान, सोयाबीन और कपास की बुवाई में बड़ी गिरावट",
-      "summary": "खरीफ खेती की रफ्तार पड़ी धीमी, 53.74 लाख हेक्टेयर घटा रकबा; धान, सोयाबीन और कपास की बुवाई में बड़ी गिरावट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/kharif-sowing-pace-slows-acreage-drops-by-5-374-million-hectares-sharp-decline-in-paddy-soybean-and-cotton-sowing/",
-      "important": false
-    },
-    {
-      "id": "8a293c6e",
-      "title": "खेती होगी आसान, मल्टी क्रॉप थ्रेसर पर सरकार दे रही 2.25 लाख रुपये तक की सब्सिडी; जानें पूरी प्रक्रिया",
-      "summary": "खेती होगी आसान, मल्टी क्रॉप थ्रेसर पर सरकार दे रही 2.25 लाख रुपये तक की सब्सिडी; जानें पूरी प्रक्रिया",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farming-made-easy-government-offering-a-subsidy-of-up-to-%e2%82%b92-25-lakh-on-multi-crop-threshers-know-the-complete-process/",
-      "important": false
-    },
-    {
-      "id": "cc855874",
-      "title": "भारत-सेशेल्स की नई कृषि साझेदारी: अनुसंधान, तकनीक और जलवायु-अनुकूल खेती पर 2031 तक साथ करेंगे काम",
-      "summary": "भारत-सेशेल्स की नई कृषि साझेदारी: अनुसंधान, तकनीक और जलवायु-अनुकूल खेती पर 2031 तक साथ करेंगे काम",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/new-india-seychelles-agriculture-partnership-collaboration-on-research-technology-and-climate-resilient-farming-until-2031/",
-      "important": false
-    },
-    {
-      "id": "f9b2f9f9",
-      "title": "धान उत्पादक किसानों के लिए बड़ी सौगात, मध्यप्रदेश में धान पर भी लागू होगी भावांतर योजना",
-      "summary": "धान उत्पादक किसानों के लिए बड़ी सौगात, मध्यप्रदेश में धान पर भी लागू होगी भावांतर योजना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-07-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-major-boon-for-paddy-farmers-the-bhavantar-scheme-will-now-apply-to-paddy-in-madhya-pradesh-as-well/",
-      "important": false
-    },
-    {
-      "id": "9f0596f7",
-      "title": "छिंदवाड़ा 1 से 31 जुलाई तक मनाया जाएगा फसल बीमा माह",
-      "summary": "छिंदवाड़ा 1 से 31 जुलाई तक मनाया जाएगा फसल बीमा माह",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-07-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/crop-insurance-month-to-be-observed-in-chhindwara-from-july-1-to-31/",
-      "important": false
-    },
-    {
-      "id": "6d25600d",
-      "title": "‘आप अकेले नहीं हैं’: अरुणाचल के बाढ़ पीड़ितों से मिले शिवराज सिंह चौहान, हरसंभव मदद का दिलाया भरोसा",
-      "summary": "‘आप अकेले नहीं हैं’: अरुणाचल के बाढ़ पीड़ितों से मिले शिवराज सिंह चौहान, हरसंभव मदद का दिलाया भरोसा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/you-are-not-alone-shivraj-singh-chouhan-meets-flood-victims-in-arunachal-assures-all-possible-help/",
-      "important": false
-    },
-    {
-      "id": "2af1fdea",
-      "title": "इंदौर में ‘कृषि विपणन में प्राकृतिक खेती एवं सहकारी संस्थाओं की भूमिका ‘विषय पर सम्मेलन सम्पन्न",
-      "summary": "इंदौर में ‘कृषि विपणन में प्राकृतिक खेती एवं सहकारी संस्थाओं की भूमिका ‘विषय पर सम्मेलन सम्पन्न",
-      "level": "state",
-      "category": "market",
-      "date": "2026-07-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/conference-on-role-of-natural-farming-and-cooperative-societies-in-agricultural-marketing-concludes-in-indore/",
-      "important": false
-    },
-    {
-      "id": "8d2f0e61",
-      "title": "आईक्रिसैट और यूएएस धारवाड़ ने विकसित की मूंगफली की दो नई हाई-ओलिक किस्में",
-      "summary": "आईक्रिसैट और यूएएस धारवाड़ ने विकसित की मूंगफली की दो नई हाई-ओलिक किस्में",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/icrisat-and-uas-dharwad-have-developed-two-new-high-oleic-groundnut-varieties/",
       "important": false
     }
   ]
