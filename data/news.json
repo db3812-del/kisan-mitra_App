@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-07T09:52:20Z",
+  "updated": "2026-07-07T14:49:45Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "e9d44460",
+      "title": "मुख्यमंत्री डेयरी प्लस योजना ने बदली महिला की किस्मत, अब हर महीने 40 हजार रुपये की शुद्ध कमाई",
+      "summary": "मुख्यमंत्री डेयरी प्लस योजना ने बदली महिला की किस्मत, अब हर महीने 40 हजार रुपये की शुद्ध कमाई",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chief-ministers-dairy-plus-scheme-transforms-a-womans-fortunes-she-now-earns-a-net-income-of-%e2%82%b940000-per-month/",
+      "important": false
+    },
+    {
+      "id": "4835aac4",
+      "title": "Monsoon Update: मानसून ने पकड़ी रफ्तार, गुजरात से दिल्ली तक बारिश का दौर; अगले 3 दिन इन राज्यों में बरसेंगे बादल",
+      "summary": "Monsoon Update: मानसून ने पकड़ी रफ्तार, गुजरात से दिल्ली तक बारिश का दौर; अगले 3 दिन इन राज्यों में बरसेंगे बादल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/monsoon-update-monsoon-gains-momentum-bringing-rain-from-gujarat-to-delhi-these-states-to-receive-rainfall-over-the-next-3-days/",
+      "important": false
+    },
+    {
+      "id": "d74c08b4",
+      "title": "आज का गेहूँ मंडी रेट (07 जुलाई 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (07 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-07-july-2026/",
+      "important": false
+    },
+    {
+      "id": "64b121fd",
+      "title": "आज का धान मंडी रेट (07 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (07 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-07-july-2026/",
+      "important": false
+    },
+    {
+      "id": "edf58ee8",
+      "title": "आज का मक्का मंडी रेट (07 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (07 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-07-july-2026/",
+      "important": false
+    },
+    {
+      "id": "722bb131",
+      "title": "सोयाबीन की बुवाई का सही समय क्या है?",
+      "summary": "सोयाबीन की बुवाई का सही समय क्या है?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/what-is-the-right-time-for-sowing-soybeans/",
+      "important": false
+    },
+    {
+      "id": "c211e32e",
+      "title": "आज का सोयाबीन मंडी रेट (07 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (07 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-07-july-2026/",
+      "important": false
+    },
+    {
+      "id": "be54e30c",
+      "title": "मूंग उत्पादक किसानों की पूरी उपज MSP पर खरीदी जाए, केंद्र और राज्य सरकार तत्काल निर्णय लें : जीतू पटवारी",
+      "summary": "मूंग उत्पादक किसानों की पूरी उपज MSP पर खरीदी जाए, केंद्र और राज्य सरकार तत्काल निर्णय लें : जीतू पटवारी",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-entire-produce-of-moong-growing-farmers-should-be-procured-at-msp-the-central-and-state-governments-must-take-an-immediate-decision-jitu-patwari/",
+      "important": true
+    },
     {
       "id": "7d528b0e",
       "title": "दुग्ध उत्पादन और मिल्किंग मशीन का महत्व",
@@ -462,94 +550,6 @@
       "date": "2026-07-03",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-03-july-2026/",
-      "important": false
-    },
-    {
-      "id": "15693e9c",
-      "title": "MP Weather Today: मध्यप्रदेश में झमाझम बरसे बादल, पचोर में 168 मिमी बारिश; हरदा-खंडवा-देवास में अति भारी वर्षा का रेड अल",
-      "summary": "MP Weather Today: मध्यप्रदेश में झमाझम बरसे बादल, पचोर में 168 मिमी बारिश; हरदा-खंडवा-देवास में अति भारी वर्षा का रेड अलर्ट",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mp-weather-today-heavy-rainfall-across-madhya-pradesh-168-mm-of-rain-in-pachor-red-alert-for-extremely-heavy-rain-in-harda-khandwa-and-dewas/",
-      "important": false
-    },
-    {
-      "id": "8049599b",
-      "title": "आज का सोयाबीन मंडी रेट (03 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (03 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-03-july-2026/",
-      "important": false
-    },
-    {
-      "id": "9be17f49",
-      "title": "धान के बाद सरसों की खेती और तेल प्रसंस्करण से बढ़ेगी किसानों की आय: डॉ. पी.के. राय",
-      "summary": "धान के बाद सरसों की खेती और तेल प्रसंस्करण से बढ़ेगी किसानों की आय: डॉ. पी.के. राय",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-income-to-rise-through-mustard-cultivation-and-oil-processing-after-paddy-dr-p-k-rai/",
-      "important": false
-    },
-    {
-      "id": "7f2247ef",
-      "title": "प्रदेश में 150 लाख हेक्टेयर से अधिक क्षेत्र में होगी खरीफ बुवाई",
-      "summary": "प्रदेश में 150 लाख हेक्टेयर से अधिक क्षेत्र में होगी खरीफ बुवाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/kharif-sowing-will-take-place-over-an-area-of-more-than-150-lakh-hectares-in-the-state/",
-      "important": false
-    },
-    {
-      "id": "91280b22",
-      "title": "पीएचडीसीसीआई एग्री-बिजनेस अवॉर्ड्स 2026 में कृषि नवाचार और उत्कृष्टता का सम्मान",
-      "summary": "पीएचडीसीसीआई एग्री-बिजनेस अवॉर्ड्स 2026 में कृषि नवाचार और उत्कृष्टता का सम्मान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/honouring-agricultural-innovation-and-excellence-at-the-phdcci-agri-business-awards-2026/",
-      "important": false
-    },
-    {
-      "id": "884427ea",
-      "title": "इंदौर जिले में अब तक 265.1 मिलीमीटर (लगभग साढ़े 10 इंच) औसत वर्षा",
-      "summary": "इंदौर जिले में अब तक 265.1 मिलीमीटर (लगभग साढ़े 10 इंच) औसत वर्षा",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/indore-district-has-recorded-an-average-rainfall-of-265-1-millimeters-approximately-10-5-inches-so-far/",
-      "important": false
-    },
-    {
-      "id": "6d79126e",
-      "title": "इंदौर संभागायुक्त ने धार जिले में आधुनिक उद्यानिकी एवं संरक्षित खेती का किया निरीक्षण",
-      "summary": "इंदौर संभागायुक्त ने धार जिले में आधुनिक उद्यानिकी एवं संरक्षित खेती का किया निरीक्षण",
-      "level": "state",
-      "category": "price",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-indore-divisional-commissioner-inspected-modern-horticulture-and-protected-cultivation-in-dhar-district/",
-      "important": false
-    },
-    {
-      "id": "45051845",
-      "title": "मखाना की खेती से बढ़ेगी किसानों की कमाई! छत्तीसगढ़ में 29 एकड़ में सफल उत्पादन, सरकार करेगी और विस्तार",
-      "summary": "मखाना की खेती से बढ़ेगी किसानों की कमाई! छत्तीसगढ़ में 29 एकड़ में सफल उत्पादन, सरकार करेगी और विस्तार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/makhana-cultivation-to-boost-farmers-income-successful-production-on-29-acres-in-chhattisgarh-government-to-expand-further/",
       "important": false
     }
   ]
