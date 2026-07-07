@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-07T03:57:01Z",
-  "new_count": 0,
+  "updated": "2026-07-07T09:52:20Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "7d528b0e",
+      "title": "दुग्ध उत्पादन और मिल्किंग मशीन का महत्व",
+      "summary": "दुग्ध उत्पादन और मिल्किंग मशीन का महत्व",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/importance-of-milk-production-and-milking-machines/",
+      "important": false
+    },
+    {
+      "id": "307f96e8",
+      "title": "छिंदवाड़ा जिले में उर्वरकों का पर्याप्त भंडारण – उप संचालक कृषि श्री नाथ",
+      "summary": "छिंदवाड़ा जिले में उर्वरकों का पर्याप्त भंडारण – उप संचालक कृषि श्री नाथ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/adequate-stock-of-fertilizers-in-chhindwara-district-deputy-director-agriculture-mr-nath/",
+      "important": false
+    },
+    {
+      "id": "6f064733",
+      "title": "प्रदेश में 49 लाख हेक्टर से अधिक हुई बोंनी",
+      "summary": "प्रदेश में 49 लाख हेक्टर से अधिक हुई बोंनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/sowing-completed-on-over-4-9-million-hectares-in-the-state/",
+      "important": false
+    },
+    {
+      "id": "918f828d",
+      "title": "किसानों के लिए बड़ी खुशखबरी! होर्मुज पार कर भारत की ओर बढ़े यूरिया-डीएपी से लदे 15 जहाज",
+      "summary": "किसानों के लिए बड़ी खुशखबरी! होर्मुज पार कर भारत की ओर बढ़े यूरिया-डीएपी से लदे 15 जहाज",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/great-news-for-farmers-15-ships-loaded-with-urea-and-dap-have-crossed-the-strait-of-hormuz-and-are-heading-towards-india/",
+      "important": false
+    },
+    {
+      "id": "3cb32aa0",
+      "title": "राजस्थान में बड़ी कार्रवाई: भ्रष्टाचार के आरोप में 3 कृषि अधिकारी तत्काल निलंबित",
+      "summary": "राजस्थान में बड़ी कार्रवाई: भ्रष्टाचार के आरोप में 3 कृषि अधिकारी तत्काल निलंबित",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-action-in-rajasthan-3-agriculture-officers-immediately-suspended-on-corruption-charges/",
+      "important": false
+    },
+    {
+      "id": "04e5311a",
+      "title": "mBULL इंजन वाला महिंद्रा ट्रैक्टर YuvoTech+ 585 DI V1 देशभर में उपलब्ध",
+      "summary": "mBULL इंजन वाला महिंद्रा ट्रैक्टर YuvoTech+ 585 DI V1 देशभर में उपलब्ध",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-yuvotech-585-di-v1-tractor-with-mbull-engine-available-nationwide/",
+      "important": false
+    },
+    {
+      "id": "412383a2",
+      "title": "किसानों के लिए जरूरी खबर! अधिक बारिश में लेही पद्धति से करें धान की बुवाई, कृषि विभाग की सलाह",
+      "summary": "किसानों के लिए जरूरी खबर! अधिक बारिश में लेही पद्धति से करें धान की बुवाई, कृषि विभाग की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/important-news-for-farmers-sow-paddy-using-the-lehi-method-during-heavy-rains-advice-from-the-agriculture-department/",
+      "important": false
+    },
+    {
+      "id": "e9f01d88",
+      "title": "छिंदवाड़ा: आधुनिक उद्यानिकी से बदली युवा कृषक श्री संदीप पवार की तस्वीर",
+      "summary": "छिंदवाड़ा: आधुनिक उद्यानिकी से बदली युवा कृषक श्री संदीप पवार की तस्वीर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-modern-horticulture-transforms-the-fortunes-of-young-farmer-mr-sandeep-pawar/",
+      "important": false
+    },
     {
       "id": "45cf6eeb",
       "title": "आज का सोयाबीन मंडी रेट (06 जुलाई 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-07-03",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/makhana-cultivation-to-boost-farmers-income-successful-production-on-29-acres-in-chhattisgarh-government-to-expand-further/",
-      "important": false
-    },
-    {
-      "id": "50647f3a",
-      "title": "इंदौर संभाग में हाई-वैल्यू बागवानी फसलों पर संभागायुक्त का फोकस",
-      "summary": "इंदौर संभाग में हाई-वैल्यू बागवानी फसलों पर संभागायुक्त का फोकस",
-      "level": "state",
-      "category": "price",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/divisional-commissioner-focuses-on-high-value-horticultural-crops-in-indore-division/",
-      "important": false
-    },
-    {
-      "id": "19dfc8c8",
-      "title": "बीज लाइसेंस में संशोधन अब आसान, 30 कार्य दिवस में होगा निराकरण",
-      "summary": "बीज लाइसेंस में संशोधन अब आसान, 30 कार्य दिवस में होगा निराकरण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/amending-seed-licenses-is-now-easier-resolution-will-take-place-within-30-working-days/",
-      "important": false
-    },
-    {
-      "id": "12ef002a",
-      "title": "खरीफ खेती ने पकड़ी रफ्तार! छत्तीसगढ़ में 13% बुआई पूरी, किसानों को 7.28 लाख टन खाद और 3.09 लाख क्विंटल बीज मिला",
-      "summary": "खरीफ खेती ने पकड़ी रफ्तार! छत्तीसगढ़ में 13% बुआई पूरी, किसानों को 7.28 लाख टन खाद और 3.09 लाख क्विंटल बीज मिला",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/kharif-farming-gains-momentum-13-of-sowing-completed-in-chhattisgarh-farmers-receive-7-28-lakh-tonnes-of-fertilizer-and-3-09-lakh-quintals-of-seeds/",
-      "important": false
-    },
-    {
-      "id": "de82aeb9",
-      "title": "छत्तीसगढ़: बीजापुर में बनेगा आधुनिक मत्स्य पालन प्रशिक्षण केंद्र, किसानों की आय बढ़ाने पर सरकार का फोकस",
-      "summary": "छत्तीसगढ़: बीजापुर में बनेगा आधुनिक मत्स्य पालन प्रशिक्षण केंद्र, किसानों की आय बढ़ाने पर सरकार का फोकस",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhattisgarh-modern-fisheries-training-center-to-be-set-up-in-bijapur-government-focuses-on-boosting-farmers-income-chhattisgarh-modern-fisheries-training-center-to-be-set-up-in-bijapur-governme/",
-      "important": false
-    },
-    {
-      "id": "cf931965",
-      "title": "सचिन तेंदुलकर बने SML Limited के ब्रांड एंबेसडर",
-      "summary": "सचिन तेंदुलकर बने SML Limited के ब्रांड एंबेसडर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/sachin-tendulkar-becomes-brand-ambassador-for-sml-limited/",
-      "important": false
-    },
-    {
-      "id": "934001ac",
-      "title": "कम वर्षा की आशंका और किसान",
-      "summary": "कम वर्षा की आशंका और किसान",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/fear-of-less-rainfall-and-farmers/",
-      "important": false
-    },
-    {
-      "id": "0bb85969",
-      "title": "आज का धान मंडी रेट (02 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (02 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-02-july-2026/",
-      "important": false
-    },
-    {
-      "id": "aa823360",
-      "title": "आज का सोयाबीन मंडी रेट (02 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (02 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-02-july-2026/",
       "important": false
     }
   ]
