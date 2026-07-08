@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-08T03:23:00Z",
-  "new_count": 0,
+  "updated": "2026-07-08T08:37:25Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "a5e77c31",
+      "title": "बैतूल: फसल बीमा के लिए आवेदन शुरू, 31 जुलाई अंतिम तिथि",
+      "summary": "बैतूल: फसल बीमा के लिए आवेदन शुरू, 31 जुलाई अंतिम तिथि",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/betul-applications-for-crop-insurance-begin-july-31-is-the-last-date/",
+      "important": true
+    },
+    {
+      "id": "d0eb1f51",
+      "title": "किसानों के लिए अच्छी खबर! दाल मिल लगाने पर मिलेगी 25 लाख रुपये तक की सब्सिडी, 5 अगस्त तक करें आवेदन",
+      "summary": "किसानों के लिए अच्छी खबर! दाल मिल लगाने पर मिलेगी 25 लाख रुपये तक की सब्सिडी, 5 अगस्त तक करें आवेदन",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/good-news-for-farmers-get-a-subsidy-of-up-to-%e2%82%b925-lakh-for-setting-up-a-pulse-mill-apply-by-august-5/",
+      "important": false
+    },
+    {
+      "id": "238bf4c9",
+      "title": "मध्यप्रदेश में बारिश का जोर: आज गुना-अशोकनगर समेत इन 8 जिलों में अति भारी वर्षा का IMD ने जारी किया ऑरेंज अलर्ट",
+      "summary": "मध्यप्रदेश में बारिश का जोर: आज गुना-अशोकनगर समेत इन 8 जिलों में अति भारी वर्षा का IMD ने जारी किया ऑरेंज अलर्ट",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/intense-rainfall-in-madhya-pradesh-imd-issues-orange-alert-for-extremely-heavy-rain-in-8-districts-including-guna-and-ashoknagar-today/",
+      "important": false
+    },
+    {
+      "id": "f0442431",
+      "title": "स्टेट हाईवे होंगे गोवंश मुक्त, हर पांच किलोमीटर पर बनेगी गौशाला",
+      "summary": "स्टेट हाईवे होंगे गोवंश मुक्त, हर पांच किलोमीटर पर बनेगी गौशाला",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/state-highways-to-be-made-free-of-stray-cattle-cow-shelters-to-be-built-every-five-kilometers/",
+      "important": false
+    },
+    {
+      "id": "f08813ab",
+      "title": "बहुफसली खेती और पशुपालन से बढ़ेगी किसानों की आय : मुख्यमंत्री डॉ. मोहन यादव",
+      "summary": "बहुफसली खेती और पशुपालन से बढ़ेगी किसानों की आय : मुख्यमंत्री डॉ. मोहन यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-income-to-rise-through-multi-cropping-and-animal-husbandry-chief-minister-dr-mohan-yadav/",
+      "important": false
+    },
+    {
+      "id": "25df9b26",
+      "title": "किसानों को बड़ी राहत: अब कृषि ऋण चुकाने के लिए मिलेगा पूरा एक वर्ष",
+      "summary": "किसानों को बड़ी राहत: अब कृषि ऋण चुकाने के लिए मिलेगा पूरा एक वर्ष",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-relief-for-farmers-now-a-full-year-will-be-available-to-repay-agricultural-loans/",
+      "important": false
+    },
+    {
+      "id": "3e749e23",
+      "title": "खरीफ सीजन में किसानों को पर्याप्त खाद उपलब्ध कराने के लिए प्रतिबद्ध योगी सरकार",
+      "summary": "खरीफ सीजन में किसानों को पर्याप्त खाद उपलब्ध कराने के लिए प्रतिबद्ध योगी सरकार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/yogi-government-committed-to-ensuring-adequate-fertilizer-availability-for-farmers-during-the-kharif-season/",
+      "important": false
+    },
+    {
+      "id": "050a1fef",
+      "title": "मानसून में देरी से घबराएं नहीं किसान, धान की खेती के लिए अभी पर्याप्त समय : कृषि वैज्ञानिक",
+      "summary": "मानसून में देरी से घबराएं नहीं किसान, धान की खेती के लिए अभी पर्याप्त समय : कृषि वैज्ञानिक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-need-not-panic-over-the-delayed-monsoon-there-is-still-sufficient-time-for-paddy-cultivation-agricultural-scientist/",
+      "important": false
+    },
     {
       "id": "e9d44460",
       "title": "मुख्यमंत्री डेयरी प्लस योजना ने बदली महिला की किस्मत, अब हर महीने 40 हजार रुपये की शुद्ध कमाई",
@@ -462,94 +550,6 @@
       "date": "2026-07-04",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/poor-market-conditions-for-totapuri-mangoes-central-government-forms-expert-committee-to-provide-relief-to-farmers/",
-      "important": false
-    },
-    {
-      "id": "01f5cbee",
-      "title": "कृषक कल्याण वर्ष: किसानों की आय बढ़ाने के लिए मिशन मोड में काम करेगी सरकार, CM मोहन यादव के निर्देश",
-      "summary": "कृषक कल्याण वर्ष: किसानों की आय बढ़ाने के लिए मिशन मोड में काम करेगी सरकार, CM मोहन यादव के निर्देश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-welfare-year-government-to-work-in-mission-mode-to-boost-farmers-income-cm-mohan-yadav-issues-directives/",
-      "important": false
-    },
-    {
-      "id": "fe44465d",
-      "title": "रायपुर: वैज्ञानिक खेती से बढ़ेगा गन्ना उत्पादन, 267 गांवों में किसानों के लिए शुरू हुआ प्रशिक्षण अभियान",
-      "summary": "रायपुर: वैज्ञानिक खेती से बढ़ेगा गन्ना उत्पादन, 267 गांवों में किसानों के लिए शुरू हुआ प्रशिक्षण अभियान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-sugarcane-production-to-increase-through-scientific-farming-training-campaign-launched-for-farmers-across-267-villages/",
-      "important": false
-    },
-    {
-      "id": "954ba522",
-      "title": "मध्य भारत में कमजोर मानसून की आशंका, किसान कैसे बचाएं अपनी खेती?",
-      "summary": "मध्य भारत में कमजोर मानसून की आशंका, किसान कैसे बचाएं अपनी खेती?",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/apprehension-of-a-weak-monsoon-in-central-india-how-can-farmers-save-their-crops/",
-      "important": false
-    },
-    {
-      "id": "83322db9",
-      "title": "CM योगी का बड़ा ऐलान: यूपी के आम को दिलाएंगे वैश्विक पहचान, एक्सपोर्ट और ब्रांडिंग पर होगा फोकस",
-      "summary": "CM योगी का बड़ा ऐलान: यूपी के आम को दिलाएंगे वैश्विक पहचान, एक्सपोर्ट और ब्रांडिंग पर होगा फोकस",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/cm-yogis-major-announcement-ups-mangoes-to-gain-global-recognition-focus-to-be-on-exports-and-branding/",
-      "important": false
-    },
-    {
-      "id": "8a9a9aed",
-      "title": "किसानों के लिए अलर्ट: सरकारी योजना के नाम पर आने वाले कॉल से रहें सावधान, निजी जानकारी न करें साझा",
-      "summary": "किसानों के लिए अलर्ट: सरकारी योजना के नाम पर आने वाले कॉल से रहें सावधान, निजी जानकारी न करें साझा",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/alert-for-farmers-beware-of-calls-made-in-the-name-of-government-schemes-do-not-share-personal-information/",
-      "important": false
-    },
-    {
-      "id": "5b359851",
-      "title": "किसानों के लिए जरूरी खबर: 31 जुलाई तक कराएं फसल बीमा, प्राकृतिक आपदा में मिलेगा आर्थिक सुरक्षा कवच",
-      "summary": "किसानों के लिए जरूरी खबर: 31 जुलाई तक कराएं फसल बीमा, प्राकृतिक आपदा में मिलेगा आर्थिक सुरक्षा कवच",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/important-news-for-farmers-get-crop-insurance-by-july-31-secure-a-financial-safety-net-against-natural-disasters/",
-      "important": false
-    },
-    {
-      "id": "1b5221df",
-      "title": "आज का मक्का मंडी रेट (03 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (03 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-03-july-2026/",
-      "important": false
-    },
-    {
-      "id": "9c418dd4",
-      "title": "आज का धान मंडी रेट (03 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (03 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-03-july-2026/",
       "important": false
     }
   ]
