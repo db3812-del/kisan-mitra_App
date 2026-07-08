@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-08T08:37:25Z",
+  "updated": "2026-07-08T14:27:38Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "d481195f",
+      "title": "आत्मा कृषक संगोष्ठी में किसानों की भागीदारी",
+      "summary": "आत्मा कृषक संगोष्ठी में किसानों की भागीदारी",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-participation-in-the-atma-farmers-seminar/",
+      "important": false
+    },
+    {
+      "id": "e7781b91",
+      "title": "आज का गेहूँ मंडी रेट (08 जुलाई 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (08 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-08-july-2026/",
+      "important": false
+    },
+    {
+      "id": "5c495383",
+      "title": "आज का मक्का मंडी रेट (08 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (08 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-08-july-2026/",
+      "important": false
+    },
+    {
+      "id": "3a0db194",
+      "title": "आज का धान मंडी रेट (08 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (08 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-08-july-2026/",
+      "important": false
+    },
+    {
+      "id": "080fbc11",
+      "title": "आज का सोयाबीन मंडी रेट (08 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (08 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-08-july-2026/",
+      "important": false
+    },
+    {
+      "id": "bf2fbd2f",
+      "title": "अल नीनो की चुनौती पर सरकार अलर्ट, कृषि मंत्री शिवराज सिंह चौहान हर हफ्ते कर रहे हाई-लेवल मॉनिटरिंग",
+      "summary": "अल नीनो की चुनौती पर सरकार अलर्ट, कृषि मंत्री शिवराज सिंह चौहान हर हफ्ते कर रहे हाई-लेवल मॉनिटरिंग",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/government-on-alert-regarding-the-el-nino-challenge-agriculture-minister-shivraj-singh-chouhan-conducting-weekly-high-level-monitoring/",
+      "important": false
+    },
+    {
+      "id": "15a03747",
+      "title": "रतलाम: पद्म पुरस्कार 2027 के लिए बागवानी क्षेत्र से नामांकन आमंत्रित",
+      "summary": "रतलाम: पद्म पुरस्कार 2027 के लिए बागवानी क्षेत्र से नामांकन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ratlam-nominations-invited-for-padma-awards-2027-in-the-horticulture-sector/",
+      "important": false
+    },
+    {
+      "id": "ce850857",
+      "title": "शाजापुर: मछली पालन के लिए शासकीय तालाब पट्टे पर देने हेतु आवेदन आमंत्रित",
+      "summary": "शाजापुर: मछली पालन के लिए शासकीय तालाब पट्टे पर देने हेतु आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shajapur-applications-invited-for-leasing-government-ponds-for-fish-farming/",
+      "important": false
+    },
     {
       "id": "a5e77c31",
       "title": "बैतूल: फसल बीमा के लिए आवेदन शुरू, 31 जुलाई अंतिम तिथि",
@@ -462,94 +550,6 @@
       "date": "2026-07-04",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/ample-stock-yet-farmers-distressed-essential-fertilizer-unavailable-on-the-e-vikas-portal/",
-      "important": false
-    },
-    {
-      "id": "74609e6b",
-      "title": "मध्यप्रदेश में मानसून का जोर: खरगोन-बड़वानी में अति-भारी वर्षा का रेड अलर्ट, इंदौर समेत 9 जिलों में ऑरेंज अलर्ट जारी",
-      "summary": "मध्यप्रदेश में मानसून का जोर: खरगोन-बड़वानी में अति-भारी वर्षा का रेड अलर्ट, इंदौर समेत 9 जिलों में ऑरेंज अलर्ट जारी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/monsoon-intensifies-in-madhya-pradesh-red-alert-for-extremely-heavy-rainfall-in-khargone-and-barwani-orange-alert-issued-for-9-districts-including-indore/",
-      "important": false
-    },
-    {
-      "id": "7a1e13d1",
-      "title": "आज का गेहूँ मंडी रेट (04 जुलाई 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (04 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-04-july-2026/",
-      "important": false
-    },
-    {
-      "id": "4b484bed",
-      "title": "आज का धान मंडी रेट (04 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (04 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-04-july-2026/",
-      "important": false
-    },
-    {
-      "id": "0cc13c92",
-      "title": "आज का मक्का मंडी रेट (04 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (04 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-04-july-2026/",
-      "important": false
-    },
-    {
-      "id": "4111a3be",
-      "title": "आज का सोयाबीन मंडी रेट (04 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (04 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-04-july-2026/",
-      "important": false
-    },
-    {
-      "id": "8f36f87e",
-      "title": "खरगोन और बड़वानी जिलों में अत्यधिक भारी वर्षा का रेड अलर्ट जारी",
-      "summary": "खरगोन और बड़वानी जिलों में अत्यधिक भारी वर्षा का रेड अलर्ट जारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/red-alert-issued-for-extremely-heavy-rainfall-in-khargone-and-barwani-districts/",
-      "important": false
-    },
-    {
-      "id": "6880d462",
-      "title": "मेडो पर गेंदा, चिया लगाए: श्री श्रीवास्तव",
-      "summary": "मेडो पर गेंदा, चिया लगाए: श्री श्रीवास्तव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/marigolds-and-chia-planted-on-the-field-bunds-shri-srivastava/",
-      "important": false
-    },
-    {
-      "id": "32565338",
-      "title": "बाजार में तोतापुरी आम की स्थिति खराब, किसानों को राहत दिलाने के लिए केंद्र सरकार ने बनाई विशेषज्ञ समिति",
-      "summary": "बाजार में तोतापुरी आम की स्थिति खराब, किसानों को राहत दिलाने के लिए केंद्र सरकार ने बनाई विशेषज्ञ समिति",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/poor-market-conditions-for-totapuri-mangoes-central-government-forms-expert-committee-to-provide-relief-to-farmers/",
       "important": false
     }
   ]
