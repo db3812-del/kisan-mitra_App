@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-09T03:50:50Z",
-  "new_count": 0,
+  "updated": "2026-07-09T09:50:00Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "df7b16c6",
+      "title": "Soybean Fertilizer: सोयाबीन में कितना डालें यूरिया, DAP और SSP? वैज्ञानिकों ने बताई पूरी मात्रा",
+      "summary": "Soybean Fertilizer: सोयाबीन में कितना डालें यूरिया, DAP और SSP? वैज्ञानिकों ने बताई पूरी मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/soybean-fertilizer-how-much-urea-dap-and-ssp-should-be-applied-to-soybeans-scientists-reveal-the-exact-quantities/",
+      "important": false
+    },
+    {
+      "id": "35577468",
+      "title": "मुख्यमंत्री ने पीथमपुर में किसान इरिगेशन की चौथी विनिर्माण इकाई का किया लोकार्पण",
+      "summary": "मुख्यमंत्री ने पीथमपुर में किसान इरिगेशन की चौथी विनिर्माण इकाई का किया लोकार्पण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-chief-minister-inaugurated-the-fourth-manufacturing-unit-of-kisan-irrigation-in-pithampur/",
+      "important": false
+    },
+    {
+      "id": "2a2d8943",
+      "title": "सोयाबीन की बुवाई के बाद तुरंत करें ये 5 काम, तना मक्खी और खरपतवार से बचेगी फसल",
+      "summary": "सोयाबीन की बुवाई के बाद तुरंत करें ये 5 काम, तना मक्खी और खरपतवार से बचेगी फसल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/farming-solution/carry-out-these-5-tasks-immediately-after-sowing-soybean-the-crop-will-be-protected-from-stem-flies-and-weeds/",
+      "important": false
+    },
+    {
+      "id": "c16ff16b",
+      "title": "सोयाबीन किसानों के लिए साप्ताहिक एडवाइजरी: बुवाई से लेकर तना मक्खी नियंत्रण तक जानिए हर जरूरी सलाह",
+      "summary": "सोयाबीन किसानों के लिए साप्ताहिक एडवाइजरी: बुवाई से लेकर तना मक्खी नियंत्रण तक जानिए हर जरूरी सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/weekly-advisory-for-soybean-farmers-get-essential-advice-on-everything-from-sowing-to-stem-fly-control/",
+      "important": false
+    },
+    {
+      "id": "5216190f",
+      "title": "गोदावरी बायो-रिफाइनरीज़ ने अनाज/मक्का-आधारित डिस्टिलरी  में कमर्शियल ऑपरेशन शुरू",
+      "summary": "गोदावरी बायो-रिफाइनरीज़ ने अनाज/मक्का-आधारित डिस्टिलरी  में कमर्शियल ऑपरेशन शुरू",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/godavari-biorefineries-commences-commercial-operations-at-grain-maize-based-distillery/",
+      "important": false
+    },
+    {
+      "id": "f13d6516",
+      "title": "सोयाबीन में खरपतवार बन रहे हैं परेशानी? वैज्ञानिकों ने बताया कब और कैसे करें नियंत्रण",
+      "summary": "सोयाबीन में खरपतवार बन रहे हैं परेशानी? वैज्ञानिकों ने बताया कब और कैसे करें नियंत्रण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/are-weeds-becoming-a-problem-in-soybean-crops-scientists-explain-when-and-how-to-control-them/",
+      "important": false
+    },
+    {
+      "id": "f6307c9f",
+      "title": "Weather Update: पूरे देश में पहुंचा मानसून, उत्तराखंड-UP समेत कई राज्यों में भारी बारिश का अलर्ट; जानें अपने राज्य का हा",
+      "summary": "Weather Update: पूरे देश में पहुंचा मानसून, उत्तराखंड-UP समेत कई राज्यों में भारी बारिश का अलर्ट; जानें अपने राज्य का हाल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-update-monsoon-reaches-across-the-country-heavy-rain-alert-for-several-states-including-uttarakhand-and-up-check-the-situation-in-your-state/",
+      "important": false
+    },
+    {
+      "id": "1e3450c6",
+      "title": "वैज्ञानिक खेती का कमाल! मेढ़-नाली तकनीक से किसान ने बचाई मक्का की फसल, भारी बारिश भी नहीं बनी बाधा",
+      "summary": "वैज्ञानिक खेती का कमाल! मेढ़-नाली तकनीक से किसान ने बचाई मक्का की फसल, भारी बारिश भी नहीं बनी बाधा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-wonders-of-scientific-farming-a-farmer-saved-his-maize-crop-using-the-ridge-and-furrow-technique-even-heavy-rain-posed-no-obstacle/",
+      "important": false
+    },
     {
       "id": "d481195f",
       "title": "आत्मा कृषक संगोष्ठी में किसानों की भागीदारी",
@@ -462,94 +550,6 @@
       "date": "2026-07-06",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/agriculture-department-should-work-actively-to-promote-natural-farming-mp-shri-patil/",
-      "important": false
-    },
-    {
-      "id": "14e87c1c",
-      "title": "छिंदवाड़ा कलेक्टर ने की पशुपालन विभाग की समीक्षा",
-      "summary": "छिंदवाड़ा कलेक्टर ने की पशुपालन विभाग की समीक्षा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-collector-reviews-the-animal-husbandry-department/",
-      "important": false
-    },
-    {
-      "id": "aac1debf",
-      "title": "ज्वार की फसल में छिपे दुश्मन: पहचान से लेकर प्रबंधन तक",
-      "summary": "ज्वार की फसल में छिपे दुश्मन: पहचान से लेकर प्रबंधन तक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/hidden-enemies-in-the-sorghum-crop-from-identification-to-management/",
-      "important": false
-    },
-    {
-      "id": "d8520de6",
-      "title": "मक्का का स्वास्थ्य: मध्य प्रदेश में प्रमुख रोग और कीट, पहचान से लेकर रासायनिक नियंत्रण तक",
-      "summary": "मक्का का स्वास्थ्य: मध्य प्रदेश में प्रमुख रोग और कीट, पहचान से लेकर रासायनिक नियंत्रण तक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/maize-health-major-diseases-and-pests-in-madhya-pradesh-from-identification-to-chemical-control/",
-      "important": false
-    },
-    {
-      "id": "2481ff7c",
-      "title": "मध्यप्रदेश बनेगा देश में महिलाओं की सोसायटी बनाने वाला अग्रणी राज्य : मंत्री श्री सारंग",
-      "summary": "मध्यप्रदेश बनेगा देश में महिलाओं की सोसायटी बनाने वाला अग्रणी राज्य : मंत्री श्री सारंग",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-to-become-the-leading-state-in-the-country-in-forming-womens-societies-minister-shri-sarang/",
-      "important": false
-    },
-    {
-      "id": "5809ff2b",
-      "title": "सोयाबीन की सलामती: मध्य प्रदेश में प्रमुख रोग और कीट, पहचान से लेकर रासायनिक नियंत्रण तक",
-      "summary": "सोयाबीन की सलामती: मध्य प्रदेश में प्रमुख रोग और कीट, पहचान से लेकर रासायनिक नियंत्रण तक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/safeguarding-soybean-crops-major-diseases-and-pests-in-madhya-pradesh-from-identification-to-chemical-control/",
-      "important": false
-    },
-    {
-      "id": "3737d99f",
-      "title": "महिंद्रा ने भारत में नया Yuvo Tech+ 585 DI V1 ट्रैक्टर mBULL इंजन के साथ लॉन्च किया",
-      "summary": "महिंद्रा ने भारत में नया Yuvo Tech+ 585 DI V1 ट्रैक्टर mBULL इंजन के साथ लॉन्च किया",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-has-launched-the-new-yuvo-tech-585-di-v1-tractor-in-india-with-the-mbull-engine/",
-      "important": false
-    },
-    {
-      "id": "92434631",
-      "title": "इंडियन पोटाश लिमिटेड और यूपीएल ने गुजरात में टिकाऊ गन्ना खेती के लिए किया तीन वर्षीय समझौता",
-      "summary": "इंडियन पोटाश लिमिटेड और यूपीएल ने गुजरात में टिकाऊ गन्ना खेती के लिए किया तीन वर्षीय समझौता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/indian-potash-limited-and-upl-sign-a-three-year-agreement-for-sustainable-sugarcane-farming-in-gujarat/",
-      "important": false
-    },
-    {
-      "id": "f5260882",
-      "title": "स्टॉक भरपूर, फिर भी किसान परेशान: ई-विकास पोर्टल पर नहीं मिल रही जरूरत की खाद",
-      "summary": "स्टॉक भरपूर, फिर भी किसान परेशान: ई-विकास पोर्टल पर नहीं मिल रही जरूरत की खाद",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ample-stock-yet-farmers-distressed-essential-fertilizer-unavailable-on-the-e-vikas-portal/",
       "important": false
     }
   ]
