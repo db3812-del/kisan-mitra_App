@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-09T09:50:00Z",
+  "updated": "2026-07-09T15:22:25Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "095538d2",
+      "title": "Soybean Farming: सूखा हो या जलभराव, सोयाबीन की फसल बचाएगी BBF और रिज-फरो तकनीक",
+      "summary": "Soybean Farming: सूखा हो या जलभराव, सोयाबीन की फसल बचाएगी BBF और रिज-फरो तकनीक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/soybean-farming-whether-it-is-drought-or-waterlogging-bbf-and-ridge-and-furrow-techniques-will-save-the-soybean-crop/",
+      "important": false
+    },
+    {
+      "id": "d581e91b",
+      "title": "तमिलनाडु के किसानों को बड़ी राहत: सरकार खरीदेगी 87,226 टन खोपरा और 96,879 टन तोतापुरी आम",
+      "summary": "तमिलनाडु के किसानों को बड़ी राहत: सरकार खरीदेगी 87,226 टन खोपरा और 96,879 टन तोतापुरी आम",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/major-relief-for-tamil-nadu-farmers-government-to-procure-87226-tonnes-of-copra-and-96879-tonnes-of-totapuri-mangoes/",
+      "important": false
+    },
+    {
+      "id": "f45054c4",
+      "title": "आज का गेहूँ मंडी रेट (09 जुलाई 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (09 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-09-july-2026/",
+      "important": false
+    },
+    {
+      "id": "d5279e12",
+      "title": "आज का धान मंडी रेट (09 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (09 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-09-july-2026/",
+      "important": false
+    },
+    {
+      "id": "11986a82",
+      "title": "आज का मक्का मंडी रेट (09 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (09 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-09-july-2026/",
+      "important": false
+    },
+    {
+      "id": "2d264f3d",
+      "title": "आज का सोयाबीन मंडी रेट (09 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (09 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-09-july-2026/",
+      "important": false
+    },
+    {
+      "id": "494afbe6",
+      "title": "खेती में रसायनों का संतुलित उपयोग: व्यावहारिक समाधान",
+      "summary": "खेती में रसायनों का संतुलित उपयोग: व्यावहारिक समाधान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/balanced-use-of-chemicals-in-agriculture-a-practical-solution/",
+      "important": false
+    },
+    {
+      "id": "a3cf8ef3",
+      "title": "धान की खेती में खरपतवार नियंत्रण के लिए यूपीएल ने लॉन्च किया स्मार्ट खरपतवार नाशक ‘राईसबॉक्स’",
+      "summary": "धान की खेती में खरपतवार नियंत्रण के लिए यूपीएल ने लॉन्च किया स्मार्ट खरपतवार नाशक ‘राईसबॉक्स’",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/upl-launches-ricebeaux-a-smart-herbicide-for-weed-control-in-paddy-cultivation-2/",
+      "important": false
+    },
     {
       "id": "df7b16c6",
       "title": "Soybean Fertilizer: सोयाबीन में कितना डालें यूरिया, DAP और SSP? वैज्ञानिकों ने बताई पूरी मात्रा",
@@ -462,94 +550,6 @@
       "date": "2026-07-06",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/increase-the-acreage-of-low-water-short-duration-crops-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "55e8d65e",
-      "title": "विदिशा : मंडी प्रांगण के बाहर कृषि उपज की तौल पर होगी सख्त कार्रवाई",
-      "summary": "विदिशा : मंडी प्रांगण के बाहर कृषि उपज की तौल पर होगी सख्त कार्रवाई",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-strict-action-to-be-taken-against-the-weighing-of-agricultural-produce-outside-the-mandi-premises/",
-      "important": false
-    },
-    {
-      "id": "af52e131",
-      "title": "विदिशा : उप संचालक कृषि ने उर्वरक वितरण व्यवस्था का जायजा लिया",
-      "summary": "विदिशा : उप संचालक कृषि ने उर्वरक वितरण व्यवस्था का जायजा लिया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-deputy-director-of-agriculture-reviewed-the-fertilizer-distribution-system/",
-      "important": false
-    },
-    {
-      "id": "af3850e3",
-      "title": "विदिशा: मुख्यमंत्री मछुआ समृद्धि योजना के लिए आवेदन आमंत्रित",
-      "summary": "विदिशा: मुख्यमंत्री मछुआ समृद्धि योजना के लिए आवेदन आमंत्रित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-applications-invited-for-the-chief-ministers-fishermen-prosperity-scheme/",
-      "important": false
-    },
-    {
-      "id": "4b578c25",
-      "title": "सीहोर: ‘दुग्ध समृद्धि संपर्क अभियान’ का तीसरा चरण 13 जुलाई से",
-      "summary": "सीहोर: ‘दुग्ध समृद्धि संपर्क अभियान’ का तीसरा चरण 13 जुलाई से",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-third-phase-of-dugdh-samriddhi-sampark-abhiyan-begins-on-july-13/",
-      "important": false
-    },
-    {
-      "id": "96fc0b65",
-      "title": "शिवपुरी: शकरकंद की वैज्ञानिक खेती को बढ़ावा देने खेतों में पहुंच रहे कृषि वैज्ञानिक",
-      "summary": "शिवपुरी: शकरकंद की वैज्ञानिक खेती को बढ़ावा देने खेतों में पहुंच रहे कृषि वैज्ञानिक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shivpuri-agricultural-scientists-are-visiting-farms-to-promote-the-scientific-cultivation-of-sweet-potatoes/",
-      "important": false
-    },
-    {
-      "id": "4cb5550a",
-      "title": "गुना: नीम की उन्नत खेती पर विशेष कृषक सेमिनार एवं कार्यशाला आयोजित",
-      "summary": "गुना: नीम की उन्नत खेती पर विशेष कृषक सेमिनार एवं कार्यशाला आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guna-special-farmers-seminar-and-workshop-organized-on-advanced-neem-cultivation/",
-      "important": false
-    },
-    {
-      "id": "4697c591",
-      "title": "मुख्यमंत्री का हल चलाना: कृषि सम्मान और ग्रामीण समृद्धि का प्रतीक",
-      "summary": "मुख्यमंत्री का हल चलाना: कृषि सम्मान और ग्रामीण समृद्धि का प्रतीक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-chief-minister-ploughing-the-field-a-symbol-of-agricultural-honour-and-rural-prosperity/",
-      "important": false
-    },
-    {
-      "id": "987171c9",
-      "title": "प्राकृतिक खेती को बढ़ावा देने हेतु सक्रिय रूप से कार्य करे कृषि विभाग- सांसद श्री पाटील",
-      "summary": "प्राकृतिक खेती को बढ़ावा देने हेतु सक्रिय रूप से कार्य करे कृषि विभाग- सांसद श्री पाटील",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agriculture-department-should-work-actively-to-promote-natural-farming-mp-shri-patil/",
       "important": false
     }
   ]
