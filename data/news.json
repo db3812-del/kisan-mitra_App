@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-10T09:45:39Z",
+  "updated": "2026-07-10T14:40:16Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "c8f52bc6",
+      "title": "MP Horticulture Scheme: किसानों के लिए खुशखबरी! फल, सब्जी, पावर टिलर समेत कई योजनाओं के लिए आवेदन शुरू",
+      "summary": "MP Horticulture Scheme: किसानों के लिए खुशखबरी! फल, सब्जी, पावर टिलर समेत कई योजनाओं के लिए आवेदन शुरू",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mp-horticulture-scheme-good-news-for-farmers-applications-have-opened-for-various-schemes-including-those-for-fruits-vegetables-and-power-tillers/",
+      "important": false
+    },
+    {
+      "id": "e893d9f0",
+      "title": "किसानों को बड़ी राहत: छत्तीसगढ़ के धान खरीदी केंद्रों में बनेगा आधुनिक इंफ्रास्ट्रक्चर, हर केंद्र को मिलेंगे 10-10 लाख र",
+      "summary": "किसानों को बड़ी राहत: छत्तीसगढ़ के धान खरीदी केंद्रों में बनेगा आधुनिक इंफ्रास्ट्रक्चर, हर केंद्र को मिलेंगे 10-10 लाख रुपए",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-relief-for-farmers-modern-infrastructure-to-be-developed-at-chhattisgarhs-paddy-procurement-centers-each-center-to-receive-%e2%82%b910-lakh/",
+      "important": false
+    },
+    {
+      "id": "e2b7c70b",
+      "title": "Weather Update: उत्तर भारत में भारी बारिश का रेड अलर्ट, UP-उत्तराखंड-दिल्ली समेत इन राज्यों में आज जमकर बरसेंगे बादल",
+      "summary": "Weather Update: उत्तर भारत में भारी बारिश का रेड अलर्ट, UP-उत्तराखंड-दिल्ली समेत इन राज्यों में आज जमकर बरसेंगे बादल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-update-red-alert-for-heavy-rain-in-north-india-heavy-downpour-expected-today-in-states-including-up-uttarakhand-and-delhi/",
+      "important": false
+    },
+    {
+      "id": "97b34500",
+      "title": "आज का गेहूँ मंडी रेट (10 जुलाई 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (10 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-10-july-2026/",
+      "important": false
+    },
+    {
+      "id": "d05745de",
+      "title": "आज का धान मंडी रेट (10 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (10 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-10-july-2026/",
+      "important": false
+    },
+    {
+      "id": "a4af4da1",
+      "title": "नौकरी छोड़ खेती को बनाया करियर! अब जैविक खेती से कर रहे लाखों की कमाई, दूसरे किसानों के लिए बने मिसाल",
+      "summary": "नौकरी छोड़ खेती को बनाया करियर! अब जैविक खेती से कर रहे लाखों की कमाई, दूसरे किसानों के लिए बने मिसाल",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/quit-job-to-make-farming-a-career-now-earning-lakhs-through-organic-farming-becoming-a-role-model-for-other-farmers/",
+      "important": false
+    },
+    {
+      "id": "f138dd61",
+      "title": "आज का मक्का मंडी रेट (10 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (10 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-10-july-2026/",
+      "important": false
+    },
+    {
+      "id": "a524cbff",
+      "title": "आज का सोयाबीन मंडी रेट (10 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (10 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-10-july-2026/",
+      "important": false
+    },
     {
       "id": "d6cdf519",
       "title": "झाबुआ की अर्चना बनीं आत्मनिर्भरता की मिसाल",
@@ -462,94 +550,6 @@
       "date": "2026-07-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/monsoon-update-monsoon-gains-momentum-bringing-rain-from-gujarat-to-delhi-these-states-to-receive-rainfall-over-the-next-3-days/",
-      "important": false
-    },
-    {
-      "id": "d74c08b4",
-      "title": "आज का गेहूँ मंडी रेट (07 जुलाई 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (07 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-07-july-2026/",
-      "important": false
-    },
-    {
-      "id": "64b121fd",
-      "title": "आज का धान मंडी रेट (07 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (07 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-07-july-2026/",
-      "important": false
-    },
-    {
-      "id": "edf58ee8",
-      "title": "आज का मक्का मंडी रेट (07 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (07 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-07-july-2026/",
-      "important": false
-    },
-    {
-      "id": "722bb131",
-      "title": "सोयाबीन की बुवाई का सही समय क्या है?",
-      "summary": "सोयाबीन की बुवाई का सही समय क्या है?",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/what-is-the-right-time-for-sowing-soybeans/",
-      "important": false
-    },
-    {
-      "id": "c211e32e",
-      "title": "आज का सोयाबीन मंडी रेट (07 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (07 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-07-july-2026/",
-      "important": false
-    },
-    {
-      "id": "be54e30c",
-      "title": "मूंग उत्पादक किसानों की पूरी उपज MSP पर खरीदी जाए, केंद्र और राज्य सरकार तत्काल निर्णय लें : जीतू पटवारी",
-      "summary": "मूंग उत्पादक किसानों की पूरी उपज MSP पर खरीदी जाए, केंद्र और राज्य सरकार तत्काल निर्णय लें : जीतू पटवारी",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-entire-produce-of-moong-growing-farmers-should-be-procured-at-msp-the-central-and-state-governments-must-take-an-immediate-decision-jitu-patwari/",
-      "important": true
-    },
-    {
-      "id": "7d528b0e",
-      "title": "दुग्ध उत्पादन और मिल्किंग मशीन का महत्व",
-      "summary": "दुग्ध उत्पादन और मिल्किंग मशीन का महत्व",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/importance-of-milk-production-and-milking-machines/",
-      "important": false
-    },
-    {
-      "id": "307f96e8",
-      "title": "छिंदवाड़ा जिले में उर्वरकों का पर्याप्त भंडारण – उप संचालक कृषि श्री नाथ",
-      "summary": "छिंदवाड़ा जिले में उर्वरकों का पर्याप्त भंडारण – उप संचालक कृषि श्री नाथ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/adequate-stock-of-fertilizers-in-chhindwara-district-deputy-director-agriculture-mr-nath/",
       "important": false
     }
   ]
