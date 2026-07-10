@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-10T03:51:52Z",
-  "new_count": 0,
+  "updated": "2026-07-10T09:45:39Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "d6cdf519",
+      "title": "झाबुआ की अर्चना बनीं आत्मनिर्भरता की मिसाल",
+      "summary": "झाबुआ की अर्चना बनीं आत्मनिर्भरता की मिसाल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/archana-from-jhabua-becomes-an-example-of-self-reliance/",
+      "important": false
+    },
+    {
+      "id": "a706baea",
+      "title": "राजस्थान में कृषि विकास को नई रफ्तार, 30 से अधिक संस्थाओं के साथ MoU करेगा कृषि विभाग",
+      "summary": "राजस्थान में कृषि विकास को नई रफ्तार, 30 से अधिक संस्थाओं के साथ MoU करेगा कृषि विभाग",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/new-momentum-for-agricultural-development-in-rajasthan-agriculture-department-to-sign-mous-with-over-30-organizations/",
+      "important": false
+    },
+    {
+      "id": "a507b930",
+      "title": "हल-बैल छोड़ महिला किसान ने अपनाई आधुनिक तकनीक, पावर टिलर से आसान हुई खेती; बढ़ी आमदनी और आत्मविश्वास",
+      "summary": "हल-बैल छोड़ महिला किसान ने अपनाई आधुनिक तकनीक, पावर टिलर से आसान हुई खेती; बढ़ी आमदनी और आत्मविश्वास",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/leaving-behind-the-traditional-plough-and-bullocks-a-woman-farmer-adopted-modern-technology-farming-became-easier-with-a-power-tiller-boosting-both-her-income-and-self-confidence/",
+      "important": false
+    },
+    {
+      "id": "dd516cd1",
+      "title": "MP में गेहूं खरीदी में कमी की होगी जांच, मंत्री गोविंद सिंह राजपूत ने दिए वसूली के निर्देश",
+      "summary": "MP में गेहूं खरीदी में कमी की होगी जांच, मंत्री गोविंद सिंह राजपूत ने दिए वसूली के निर्देश",
+      "level": "state",
+      "category": "price",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/probe-ordered-into-shortfall-in-wheat-procurement-in-mp-minister-govind-singh-rajput-issues-directives-for-recovery/",
+      "important": false
+    },
+    {
+      "id": "e8356086",
+      "title": "एल नीनो का संकट: सरकार, कृषि वैज्ञानिक और किसानों की परीक्षा",
+      "summary": "एल नीनो का संकट: सरकार, कृषि वैज्ञानिक और किसानों की परीक्षा",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/the-el-nino-crisis-a-test-for-the-government-agricultural-scientists-and-farmers/",
+      "important": false
+    },
+    {
+      "id": "3a0823ee",
+      "title": "MP की महिला किसान का कमाल! 2 गायों से शुरू किया डेयरी कारोबार, अब हर महीने 2 लाख रुपए तक की कर रही कमाई",
+      "summary": "MP की महिला किसान का कमाल! 2 गायों से शुरू किया डेयरी कारोबार, अब हर महीने 2 लाख रुपए तक की कर रही कमाई",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/remarkable-feat-by-a-female-farmer-from-mp-started-a-dairy-business-with-just-two-cows-now-earning-up-to-%e2%82%b92-lakh-per-month/",
+      "important": false
+    },
+    {
+      "id": "7cab5def",
+      "title": "मध्यप्रदेश के 5 जिलों में भारी वर्षा एवं शेष जिलों में सामान्य वर्षा की संभावना",
+      "summary": "मध्यप्रदेश के 5 जिलों में भारी वर्षा एवं शेष जिलों में सामान्य वर्षा की संभावना",
+      "level": "state",
+      "category": "price",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/heavy-rainfall-is-likely-in-five-districts-of-madhya-pradesh-with-normal-rainfall-expected-in-the-remaining-districts/",
+      "important": false
+    },
+    {
+      "id": "83f7382c",
+      "title": "आधुनिक खेती बनी मुनाफे का सौदा! धान की पारंपरिक खेती छोड़ किसान ने अपनाई तकनीक, 1.5 लाख तक पहुंची आय",
+      "summary": "आधुनिक खेती बनी मुनाफे का सौदा! धान की पारंपरिक खेती छोड़ किसान ने अपनाई तकनीक, 1.5 लाख तक पहुंची आय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/modern-farming-turns-profitable-farmer-ditches-traditional-paddy-cultivation-for-technology-income-reaches-%e2%82%b91-5-lakh/",
+      "important": false
+    },
     {
       "id": "095538d2",
       "title": "Soybean Farming: सूखा हो या जलभराव, सोयाबीन की फसल बचाएगी BBF और रिज-फरो तकनीक",
@@ -462,94 +550,6 @@
       "date": "2026-07-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/adequate-stock-of-fertilizers-in-chhindwara-district-deputy-director-agriculture-mr-nath/",
-      "important": false
-    },
-    {
-      "id": "6f064733",
-      "title": "प्रदेश में 49 लाख हेक्टर से अधिक हुई बोंनी",
-      "summary": "प्रदेश में 49 लाख हेक्टर से अधिक हुई बोंनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/sowing-completed-on-over-4-9-million-hectares-in-the-state/",
-      "important": false
-    },
-    {
-      "id": "918f828d",
-      "title": "किसानों के लिए बड़ी खुशखबरी! होर्मुज पार कर भारत की ओर बढ़े यूरिया-डीएपी से लदे 15 जहाज",
-      "summary": "किसानों के लिए बड़ी खुशखबरी! होर्मुज पार कर भारत की ओर बढ़े यूरिया-डीएपी से लदे 15 जहाज",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/great-news-for-farmers-15-ships-loaded-with-urea-and-dap-have-crossed-the-strait-of-hormuz-and-are-heading-towards-india/",
-      "important": false
-    },
-    {
-      "id": "3cb32aa0",
-      "title": "राजस्थान में बड़ी कार्रवाई: भ्रष्टाचार के आरोप में 3 कृषि अधिकारी तत्काल निलंबित",
-      "summary": "राजस्थान में बड़ी कार्रवाई: भ्रष्टाचार के आरोप में 3 कृषि अधिकारी तत्काल निलंबित",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-action-in-rajasthan-3-agriculture-officers-immediately-suspended-on-corruption-charges/",
-      "important": false
-    },
-    {
-      "id": "04e5311a",
-      "title": "mBULL इंजन वाला महिंद्रा ट्रैक्टर YuvoTech+ 585 DI V1 देशभर में उपलब्ध",
-      "summary": "mBULL इंजन वाला महिंद्रा ट्रैक्टर YuvoTech+ 585 DI V1 देशभर में उपलब्ध",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-yuvotech-585-di-v1-tractor-with-mbull-engine-available-nationwide/",
-      "important": false
-    },
-    {
-      "id": "412383a2",
-      "title": "किसानों के लिए जरूरी खबर! अधिक बारिश में लेही पद्धति से करें धान की बुवाई, कृषि विभाग की सलाह",
-      "summary": "किसानों के लिए जरूरी खबर! अधिक बारिश में लेही पद्धति से करें धान की बुवाई, कृषि विभाग की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/important-news-for-farmers-sow-paddy-using-the-lehi-method-during-heavy-rains-advice-from-the-agriculture-department/",
-      "important": false
-    },
-    {
-      "id": "e9f01d88",
-      "title": "छिंदवाड़ा: आधुनिक उद्यानिकी से बदली युवा कृषक श्री संदीप पवार की तस्वीर",
-      "summary": "छिंदवाड़ा: आधुनिक उद्यानिकी से बदली युवा कृषक श्री संदीप पवार की तस्वीर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-modern-horticulture-transforms-the-fortunes-of-young-farmer-mr-sandeep-pawar/",
-      "important": false
-    },
-    {
-      "id": "45cf6eeb",
-      "title": "आज का सोयाबीन मंडी रेट (06 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (06 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-06-july-2026/",
-      "important": false
-    },
-    {
-      "id": "dac3bdae",
-      "title": "कम पानी एवं कम अवधि वाली फसलों का बढ़ाएं रकबा : मुख्यमंत्री डॉ. यादव",
-      "summary": "कम पानी एवं कम अवधि वाली फसलों का बढ़ाएं रकबा : मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/increase-the-acreage-of-low-water-short-duration-crops-chief-minister-dr-yadav/",
       "important": false
     }
   ]
