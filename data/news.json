@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-11T03:18:11Z",
-  "new_count": 0,
+  "updated": "2026-07-11T08:04:15Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "3be967fc",
+      "title": "बिहार सरकार का बड़ा फैसला: किसानों को अब दिन में मिलेगी सिंचाई के लिए बिजली",
+      "summary": "बिहार सरकार का बड़ा फैसला: किसानों को अब दिन में मिलेगी सिंचाई के लिए बिजली",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-decision-by-the-bihar-government-farmers-will-now-get-electricity-for-irrigation-during-the-day/",
+      "important": false
+    },
+    {
+      "id": "6492df69",
+      "title": "बीएएसएफ की कृषक जागरूकता यात्रा प्रारंभ",
+      "summary": "बीएएसएफ की कृषक जागरूकता यात्रा प्रारंभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/basfs-farmer-awareness-tour-flagged-off/",
+      "important": false
+    },
+    {
+      "id": "a63d9c7a",
+      "title": "कृषि यंत्रीकरण से बदल रही खेती की तस्वीर, 21.61 लाख किसानों को मिली आधुनिक मशीनें",
+      "summary": "कृषि यंत्रीकरण से बदल रही खेती की तस्वीर, 21.61 लाख किसानों को मिली आधुनिक मशीनें",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farm-mechanization-is-transforming-the-agricultural-landscape-2-16-million-farmers-have-received-modern-machinery/",
+      "important": false
+    },
+    {
+      "id": "2a98cae9",
+      "title": "इंडोगल्फ क्रॉपसाइंसेज़ के एमडी संजय अग्रवाल को ‘विज़नरी लीडर अवॉर्ड’ से सम्मानित किया गया",
+      "summary": "इंडोगल्फ क्रॉपसाइंसेज़ के एमडी संजय अग्रवाल को ‘विज़नरी लीडर अवॉर्ड’ से सम्मानित किया गया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/sanjay-agarwal-md-of-indogulf-cropsciences-was-honored-with-the-visionary-leader-award/",
+      "important": false
+    },
+    {
+      "id": "3d85d219",
+      "title": "हरियाणा में प्राकृतिक खेती को मिलेगा नया विस्तार, हर जिले में बनेगी ‘प्रकृति श्री अन्न प्रेरक किसान कमेटी’",
+      "summary": "हरियाणा में प्राकृतिक खेती को मिलेगा नया विस्तार, हर जिले में बनेगी ‘प्रकृति श्री अन्न प्रेरक किसान कमेटी’",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-relief-for-copra-and-totapuri-mango-farmers-in-tamil-nadu/",
+      "important": false
+    },
+    {
+      "id": "f22834e1",
+      "title": "छिंदवाड़ा : हर्रई में खुलेगा नया उर्वरक केंद्र",
+      "summary": "छिंदवाड़ा : हर्रई में खुलेगा नया उर्वरक केंद्र",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-new-fertilizer-center-to-open-in-harrai/",
+      "important": false
+    },
+    {
+      "id": "f6d84dcd",
+      "title": "अदरक की खेती से किसान हुआ मालामाल! सिर्फ 1 एकड़ में कमाए 5 लाख रुपये, जानिए कैसे मिली सफलता",
+      "summary": "अदरक की खेती से किसान हुआ मालामाल! सिर्फ 1 एकड़ में कमाए 5 लाख रुपये, जानिए कैसे मिली सफलता",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmer-strikes-it-rich-with-ginger-farming-earned-%e2%82%b95-lakh-from-just-one-acre-find-out-how-he-achieved-this-success/",
+      "important": false
+    },
+    {
+      "id": "8bab7bd4",
+      "title": "गुजरात में सतत गन्ना खेती को बढ़ावा देंगे इंडियन पोटाश और जैन इरिगेशन, एमओयू पर हस्ताक्षर",
+      "summary": "गुजरात में सतत गन्ना खेती को बढ़ावा देंगे इंडियन पोटाश और जैन इरिगेशन, एमओयू पर हस्ताक्षर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/indian-potash-and-jain-irrigation-to-promote-sustainable-sugarcane-farming-in-gujarat-mou-signed/",
+      "important": false
+    },
     {
       "id": "c8f52bc6",
       "title": "MP Horticulture Scheme: किसानों के लिए खुशखबरी! फल, सब्जी, पावर टिलर समेत कई योजनाओं के लिए आवेदन शुरू",
@@ -462,94 +550,6 @@
       "date": "2026-07-08",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/good-news-for-farmers-get-a-subsidy-of-up-to-%e2%82%b925-lakh-for-setting-up-a-pulse-mill-apply-by-august-5/",
-      "important": false
-    },
-    {
-      "id": "238bf4c9",
-      "title": "मध्यप्रदेश में बारिश का जोर: आज गुना-अशोकनगर समेत इन 8 जिलों में अति भारी वर्षा का IMD ने जारी किया ऑरेंज अलर्ट",
-      "summary": "मध्यप्रदेश में बारिश का जोर: आज गुना-अशोकनगर समेत इन 8 जिलों में अति भारी वर्षा का IMD ने जारी किया ऑरेंज अलर्ट",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/intense-rainfall-in-madhya-pradesh-imd-issues-orange-alert-for-extremely-heavy-rain-in-8-districts-including-guna-and-ashoknagar-today/",
-      "important": false
-    },
-    {
-      "id": "f0442431",
-      "title": "स्टेट हाईवे होंगे गोवंश मुक्त, हर पांच किलोमीटर पर बनेगी गौशाला",
-      "summary": "स्टेट हाईवे होंगे गोवंश मुक्त, हर पांच किलोमीटर पर बनेगी गौशाला",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/state-highways-to-be-made-free-of-stray-cattle-cow-shelters-to-be-built-every-five-kilometers/",
-      "important": false
-    },
-    {
-      "id": "f08813ab",
-      "title": "बहुफसली खेती और पशुपालन से बढ़ेगी किसानों की आय : मुख्यमंत्री डॉ. मोहन यादव",
-      "summary": "बहुफसली खेती और पशुपालन से बढ़ेगी किसानों की आय : मुख्यमंत्री डॉ. मोहन यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-income-to-rise-through-multi-cropping-and-animal-husbandry-chief-minister-dr-mohan-yadav/",
-      "important": false
-    },
-    {
-      "id": "25df9b26",
-      "title": "किसानों को बड़ी राहत: अब कृषि ऋण चुकाने के लिए मिलेगा पूरा एक वर्ष",
-      "summary": "किसानों को बड़ी राहत: अब कृषि ऋण चुकाने के लिए मिलेगा पूरा एक वर्ष",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-relief-for-farmers-now-a-full-year-will-be-available-to-repay-agricultural-loans/",
-      "important": false
-    },
-    {
-      "id": "3e749e23",
-      "title": "खरीफ सीजन में किसानों को पर्याप्त खाद उपलब्ध कराने के लिए प्रतिबद्ध योगी सरकार",
-      "summary": "खरीफ सीजन में किसानों को पर्याप्त खाद उपलब्ध कराने के लिए प्रतिबद्ध योगी सरकार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/yogi-government-committed-to-ensuring-adequate-fertilizer-availability-for-farmers-during-the-kharif-season/",
-      "important": false
-    },
-    {
-      "id": "050a1fef",
-      "title": "मानसून में देरी से घबराएं नहीं किसान, धान की खेती के लिए अभी पर्याप्त समय : कृषि वैज्ञानिक",
-      "summary": "मानसून में देरी से घबराएं नहीं किसान, धान की खेती के लिए अभी पर्याप्त समय : कृषि वैज्ञानिक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-need-not-panic-over-the-delayed-monsoon-there-is-still-sufficient-time-for-paddy-cultivation-agricultural-scientist/",
-      "important": false
-    },
-    {
-      "id": "e9d44460",
-      "title": "मुख्यमंत्री डेयरी प्लस योजना ने बदली महिला की किस्मत, अब हर महीने 40 हजार रुपये की शुद्ध कमाई",
-      "summary": "मुख्यमंत्री डेयरी प्लस योजना ने बदली महिला की किस्मत, अब हर महीने 40 हजार रुपये की शुद्ध कमाई",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chief-ministers-dairy-plus-scheme-transforms-a-womans-fortunes-she-now-earns-a-net-income-of-%e2%82%b940000-per-month/",
-      "important": false
-    },
-    {
-      "id": "4835aac4",
-      "title": "Monsoon Update: मानसून ने पकड़ी रफ्तार, गुजरात से दिल्ली तक बारिश का दौर; अगले 3 दिन इन राज्यों में बरसेंगे बादल",
-      "summary": "Monsoon Update: मानसून ने पकड़ी रफ्तार, गुजरात से दिल्ली तक बारिश का दौर; अगले 3 दिन इन राज्यों में बरसेंगे बादल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/monsoon-update-monsoon-gains-momentum-bringing-rain-from-gujarat-to-delhi-these-states-to-receive-rainfall-over-the-next-3-days/",
       "important": false
     }
   ]
