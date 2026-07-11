@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-11T08:04:15Z",
+  "updated": "2026-07-11T13:39:05Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "0f8b9ea4",
+      "title": "मध्य प्रदेश में बारिश का दौर जारी, रीवा-भिंड समेत कई जिलों में झमाझम बारिश; 30 से ज्यादा जिलों में आंधी-तूफान का अलर्ट",
+      "summary": "मध्य प्रदेश में बारिश का दौर जारी, रीवा-भिंड समेत कई जिलों में झमाझम बारिश; 30 से ज्यादा जिलों में आंधी-तूफान का अलर्ट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rain-continues-in-madhya-pradesh-heavy-downpours-in-several-districts-including-rewa-and-bhind-storm-alerts-issued-for-over-30-districts/",
+      "important": false
+    },
+    {
+      "id": "aac377db",
+      "title": "आज का गेहूँ मंडी रेट (11 जुलाई 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (11 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-11-july-2026/",
+      "important": false
+    },
+    {
+      "id": "29941954",
+      "title": "आज का मक्का मंडी रेट (11 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (11 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-11-july-2026/",
+      "important": false
+    },
+    {
+      "id": "5815d168",
+      "title": "आज का धान मंडी रेट (11 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (11 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-11-july-2026/",
+      "important": false
+    },
+    {
+      "id": "1b6ae650",
+      "title": "आज का सोयाबीन मंडी रेट (11 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (11 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-11-july-2026/",
+      "important": false
+    },
+    {
+      "id": "bb76336f",
+      "title": "किसानों के लिए खुशखबरी! कपास की खेती पर मिलेगी ₹14,000 प्रति हेक्टेयर तक की सहायता, जानें कौन उठा सकता है लाभ",
+      "summary": "किसानों के लिए खुशखबरी! कपास की खेती पर मिलेगी ₹14,000 प्रति हेक्टेयर तक की सहायता, जानें कौन उठा सकता है लाभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/good-news-for-farmers-assistance-of-up-to-%e2%82%b914000-per-hectare-will-be-provided-for-cotton-cultivation-find-out-who-can-avail-of-this-benefit/",
+      "important": false
+    },
+    {
+      "id": "d84f687f",
+      "title": "दमोह: गोबर से जैविक उत्पाद एवं अन्य उपयोगी सामग्री तैयार करें – राज्यमंत्री श्री पटेल",
+      "summary": "दमोह: गोबर से जैविक उत्पाद एवं अन्य उपयोगी सामग्री तैयार करें – राज्यमंत्री श्री पटेल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/damoh-prepare-organic-products-and-other-useful-materials-from-cow-dung-minister-of-state-shri-patel/",
+      "important": false
+    },
+    {
+      "id": "ab3f8746",
+      "title": "सागर : ग्रीष्मकालीन मूंगफली की बंपर पैदावार बनी सफलता की नई मिसाल",
+      "summary": "सागर : ग्रीष्मकालीन मूंगफली की बंपर पैदावार बनी सफलता की नई मिसाल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sagar-bumper-yield-of-summer-groundnut-sets-a-new-example-of-success/",
+      "important": false
+    },
     {
       "id": "3be967fc",
       "title": "बिहार सरकार का बड़ा फैसला: किसानों को अब दिन में मिलेगी सिंचाई के लिए बिजली",
@@ -462,94 +550,6 @@
       "date": "2026-07-08",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-08-july-2026/",
-      "important": false
-    },
-    {
-      "id": "5c495383",
-      "title": "आज का मक्का मंडी रेट (08 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (08 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-08-july-2026/",
-      "important": false
-    },
-    {
-      "id": "3a0db194",
-      "title": "आज का धान मंडी रेट (08 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (08 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-08-july-2026/",
-      "important": false
-    },
-    {
-      "id": "080fbc11",
-      "title": "आज का सोयाबीन मंडी रेट (08 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (08 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-08-july-2026/",
-      "important": false
-    },
-    {
-      "id": "bf2fbd2f",
-      "title": "अल नीनो की चुनौती पर सरकार अलर्ट, कृषि मंत्री शिवराज सिंह चौहान हर हफ्ते कर रहे हाई-लेवल मॉनिटरिंग",
-      "summary": "अल नीनो की चुनौती पर सरकार अलर्ट, कृषि मंत्री शिवराज सिंह चौहान हर हफ्ते कर रहे हाई-लेवल मॉनिटरिंग",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/government-on-alert-regarding-the-el-nino-challenge-agriculture-minister-shivraj-singh-chouhan-conducting-weekly-high-level-monitoring/",
-      "important": false
-    },
-    {
-      "id": "15a03747",
-      "title": "रतलाम: पद्म पुरस्कार 2027 के लिए बागवानी क्षेत्र से नामांकन आमंत्रित",
-      "summary": "रतलाम: पद्म पुरस्कार 2027 के लिए बागवानी क्षेत्र से नामांकन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ratlam-nominations-invited-for-padma-awards-2027-in-the-horticulture-sector/",
-      "important": false
-    },
-    {
-      "id": "ce850857",
-      "title": "शाजापुर: मछली पालन के लिए शासकीय तालाब पट्टे पर देने हेतु आवेदन आमंत्रित",
-      "summary": "शाजापुर: मछली पालन के लिए शासकीय तालाब पट्टे पर देने हेतु आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shajapur-applications-invited-for-leasing-government-ponds-for-fish-farming/",
-      "important": false
-    },
-    {
-      "id": "a5e77c31",
-      "title": "बैतूल: फसल बीमा के लिए आवेदन शुरू, 31 जुलाई अंतिम तिथि",
-      "summary": "बैतूल: फसल बीमा के लिए आवेदन शुरू, 31 जुलाई अंतिम तिथि",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/betul-applications-for-crop-insurance-begin-july-31-is-the-last-date/",
-      "important": true
-    },
-    {
-      "id": "d0eb1f51",
-      "title": "किसानों के लिए अच्छी खबर! दाल मिल लगाने पर मिलेगी 25 लाख रुपये तक की सब्सिडी, 5 अगस्त तक करें आवेदन",
-      "summary": "किसानों के लिए अच्छी खबर! दाल मिल लगाने पर मिलेगी 25 लाख रुपये तक की सब्सिडी, 5 अगस्त तक करें आवेदन",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/good-news-for-farmers-get-a-subsidy-of-up-to-%e2%82%b925-lakh-for-setting-up-a-pulse-mill-apply-by-august-5/",
       "important": false
     }
   ]
