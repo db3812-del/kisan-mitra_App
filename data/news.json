@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-14T02:54:33Z",
-  "new_count": 0,
+  "updated": "2026-07-14T08:18:13Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "cbc6abba",
+      "title": "अब मजदूरों की टेंशन खत्म! 500ml पेट्रोल में 2 बीघा खेत की होगी निराई-गुड़ाई, जानिए पावर वीडर के फायदे",
+      "summary": "अब मजदूरों की टेंशन खत्म! 500ml पेट्रोल में 2 बीघा खेत की होगी निराई-गुड़ाई, जानिए पावर वीडर के फायदे",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/no-more-worries-for-farmers-weed-and-till-2-bighas-of-land-with-just-500ml-of-petrol-discover-the-benefits-of-a-power-weeder/",
+      "important": false
+    },
+    {
+      "id": "e88d945a",
+      "title": "भूमिहीन कृषि मजदूर कल्याण योजना बनी सहारा, सालाना ₹10,000 की मदद से आसान हुआ जीवन; बदली परिवार की जिंदगी",
+      "summary": "भूमिहीन कृषि मजदूर कल्याण योजना बनी सहारा, सालाना ₹10,000 की मदद से आसान हुआ जीवन; बदली परिवार की जिंदगी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-landless-agricultural-labourers-welfare-scheme-has-become-a-lifeline-annual-assistance-of-%e2%82%b910000-has-made-life-easier-and-transformed-the-familys-life/",
+      "important": false
+    },
+    {
+      "id": "bc4a47cf",
+      "title": "खेती का गजब फॉर्मूला! किसान ने एक ही खेत में उगा दिए अमरूद, अदरक और अरहर, अब तीन फसलों से हो रही तगड़ी कमाई",
+      "summary": "खेती का गजब फॉर्मूला! किसान ने एक ही खेत में उगा दिए अमरूद, अदरक और अरहर, अब तीन फसलों से हो रही तगड़ी कमाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/an-amazing-farming-formula-a-farmer-grew-guavas-ginger-and-pigeon-peas-arhar-in-the-same-field-now-he-is-earning-handsome-profits-from-all-three-crops/",
+      "important": false
+    },
+    {
+      "id": "28dc609c",
+      "title": "प्रदेश के 2 लाख कर्मचारियों को मिलेगा प्रमोशन का लाभ",
+      "summary": "प्रदेश के 2 लाख कर्मचारियों को मिलेगा प्रमोशन का लाभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/200000-state-employees-to-receive-promotion-benefits/",
+      "important": false
+    },
+    {
+      "id": "bd3041a7",
+      "title": "सोयाबीन आयात में जबरदस्त बढ़ोतरी, 9 महीने में 7.77 लाख टन तक पहुंचा आंकड़ा; जानें क्या है वजह",
+      "summary": "सोयाबीन आयात में जबरदस्त बढ़ोतरी, 9 महीने में 7.77 लाख टन तक पहुंचा आंकड़ा; जानें क्या है वजह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/massive-surge-in-soybean-imports-figure-reaches-7-77-lakh-tonnes-in-9-months-find-out-the-reason/",
+      "important": false
+    },
+    {
+      "id": "7c9d7359",
+      "title": "प्रदेश में प्राकृतिक खेती के साथ-साथ पशुपालन को बढ़ावा मुख्यमंत्री यादव",
+      "summary": "प्रदेश में प्राकृतिक खेती के साथ-साथ पशुपालन को बढ़ावा मुख्यमंत्री यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chief-minister-yadav-promotes-animal-husbandry-alongside-natural-farming-in-the-state/",
+      "important": false
+    },
+    {
+      "id": "b3a5b79f",
+      "title": "प्रदेश में खरीफ बुवाई की गति धीमी",
+      "summary": "प्रदेश में खरीफ बुवाई की गति धीमी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kharif-sowing-pace-slow-in-the-state/",
+      "important": false
+    },
+    {
+      "id": "5aff5b36",
+      "title": "धान छोड़ अपनाई उड़द की खेती, 70 दिन में मिला 15 क्विंटल उत्पादन; किसान ने कमाए 1.10 लाख रुपए",
+      "summary": "धान छोड़ अपनाई उड़द की खेती, 70 दिन में मिला 15 क्विंटल उत्पादन; किसान ने कमाए 1.10 लाख रुपए",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/switched-from-paddy-to-black-gram-cultivation-yielding-15-quintals-in-70-days-farmer-earned-%e2%82%b91-10-lakh/",
+      "important": false
+    },
     {
       "id": "2d1bc02a",
       "title": "आज का मक्का मंडी रेट (13 जुलाई 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-07-10",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/new-momentum-for-agricultural-development-in-rajasthan-agriculture-department-to-sign-mous-with-over-30-organizations/",
-      "important": false
-    },
-    {
-      "id": "a507b930",
-      "title": "हल-बैल छोड़ महिला किसान ने अपनाई आधुनिक तकनीक, पावर टिलर से आसान हुई खेती; बढ़ी आमदनी और आत्मविश्वास",
-      "summary": "हल-बैल छोड़ महिला किसान ने अपनाई आधुनिक तकनीक, पावर टिलर से आसान हुई खेती; बढ़ी आमदनी और आत्मविश्वास",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/leaving-behind-the-traditional-plough-and-bullocks-a-woman-farmer-adopted-modern-technology-farming-became-easier-with-a-power-tiller-boosting-both-her-income-and-self-confidence/",
-      "important": false
-    },
-    {
-      "id": "dd516cd1",
-      "title": "MP में गेहूं खरीदी में कमी की होगी जांच, मंत्री गोविंद सिंह राजपूत ने दिए वसूली के निर्देश",
-      "summary": "MP में गेहूं खरीदी में कमी की होगी जांच, मंत्री गोविंद सिंह राजपूत ने दिए वसूली के निर्देश",
-      "level": "state",
-      "category": "price",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/probe-ordered-into-shortfall-in-wheat-procurement-in-mp-minister-govind-singh-rajput-issues-directives-for-recovery/",
-      "important": false
-    },
-    {
-      "id": "e8356086",
-      "title": "एल नीनो का संकट: सरकार, कृषि वैज्ञानिक और किसानों की परीक्षा",
-      "summary": "एल नीनो का संकट: सरकार, कृषि वैज्ञानिक और किसानों की परीक्षा",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/the-el-nino-crisis-a-test-for-the-government-agricultural-scientists-and-farmers/",
-      "important": false
-    },
-    {
-      "id": "3a0823ee",
-      "title": "MP की महिला किसान का कमाल! 2 गायों से शुरू किया डेयरी कारोबार, अब हर महीने 2 लाख रुपए तक की कर रही कमाई",
-      "summary": "MP की महिला किसान का कमाल! 2 गायों से शुरू किया डेयरी कारोबार, अब हर महीने 2 लाख रुपए तक की कर रही कमाई",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/remarkable-feat-by-a-female-farmer-from-mp-started-a-dairy-business-with-just-two-cows-now-earning-up-to-%e2%82%b92-lakh-per-month/",
-      "important": false
-    },
-    {
-      "id": "7cab5def",
-      "title": "मध्यप्रदेश के 5 जिलों में भारी वर्षा एवं शेष जिलों में सामान्य वर्षा की संभावना",
-      "summary": "मध्यप्रदेश के 5 जिलों में भारी वर्षा एवं शेष जिलों में सामान्य वर्षा की संभावना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/heavy-rainfall-is-likely-in-five-districts-of-madhya-pradesh-with-normal-rainfall-expected-in-the-remaining-districts/",
-      "important": false
-    },
-    {
-      "id": "83f7382c",
-      "title": "आधुनिक खेती बनी मुनाफे का सौदा! धान की पारंपरिक खेती छोड़ किसान ने अपनाई तकनीक, 1.5 लाख तक पहुंची आय",
-      "summary": "आधुनिक खेती बनी मुनाफे का सौदा! धान की पारंपरिक खेती छोड़ किसान ने अपनाई तकनीक, 1.5 लाख तक पहुंची आय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/modern-farming-turns-profitable-farmer-ditches-traditional-paddy-cultivation-for-technology-income-reaches-%e2%82%b91-5-lakh/",
-      "important": false
-    },
-    {
-      "id": "095538d2",
-      "title": "Soybean Farming: सूखा हो या जलभराव, सोयाबीन की फसल बचाएगी BBF और रिज-फरो तकनीक",
-      "summary": "Soybean Farming: सूखा हो या जलभराव, सोयाबीन की फसल बचाएगी BBF और रिज-फरो तकनीक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/soybean-farming-whether-it-is-drought-or-waterlogging-bbf-and-ridge-and-furrow-techniques-will-save-the-soybean-crop/",
-      "important": false
-    },
-    {
-      "id": "d581e91b",
-      "title": "तमिलनाडु के किसानों को बड़ी राहत: सरकार खरीदेगी 87,226 टन खोपरा और 96,879 टन तोतापुरी आम",
-      "summary": "तमिलनाडु के किसानों को बड़ी राहत: सरकार खरीदेगी 87,226 टन खोपरा और 96,879 टन तोतापुरी आम",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/major-relief-for-tamil-nadu-farmers-government-to-procure-87226-tonnes-of-copra-and-96879-tonnes-of-totapuri-mangoes/",
       "important": false
     }
   ]
