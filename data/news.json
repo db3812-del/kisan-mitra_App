@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-14T08:18:13Z",
-  "new_count": 8,
+  "updated": "2026-07-14T13:57:35Z",
+  "new_count": 6,
   "articles": [
+    {
+      "id": "46fb20fd",
+      "title": "PM फसल बीमा योजना: 31 जुलाई तक कराएं पंजीयन, धान, सोयाबीन समेत 11 फसलों को मिलेगा लाभ",
+      "summary": "PM फसल बीमा योजना: 31 जुलाई तक कराएं पंजीयन, धान, सोयाबीन समेत 11 फसलों को मिलेगा लाभ",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pm-crop-insurance-scheme-register-by-july-31-11-crops-including-paddy-and-soybean-will-be-covered/",
+      "important": false
+    },
+    {
+      "id": "b2256542",
+      "title": "किसान कल्याण वर्ष में ग्वालियर बना कृषि नवाचार का मॉडल, हजारों किसानों को मिल रहा योजनाओं का लाभ",
+      "summary": "किसान कल्याण वर्ष में ग्वालियर बना कृषि नवाचार का मॉडल, हजारों किसानों को मिल रहा योजनाओं का लाभ",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gwalior-emerges-as-a-model-of-agricultural-innovation-during-the-year-of-farmers-welfare-thousands-of-farmers-are-reaping-the-benefits-of-various-schemes/",
+      "important": false
+    },
+    {
+      "id": "7d5b88bd",
+      "title": "सोयाबीन किसानों के लिए एडवाइजरी: बुआई के 20-30 दिन बाद करें डोरा या कुल्पा, बढ़ेगा उत्पादन",
+      "summary": "सोयाबीन किसानों के लिए एडवाइजरी: बुआई के 20-30 दिन बाद करें डोरा या कुल्पा, बढ़ेगा उत्पादन",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/advisory-for-soybean-farmers-use-a-dora-or-kulpa-inter-row-weeder-20-30-days-after-sowing-to-boost-yield/",
+      "important": false
+    },
+    {
+      "id": "615a6f01",
+      "title": "दलहन किसानों के लिए बड़ा ऐलान: सरकार देगी ₹10,000 प्रति हेक्टेयर सहायता, मुफ्त मिलेंगे बीज; 100% MSP पर खरीद की गारंटी",
+      "summary": "दलहन किसानों के लिए बड़ा ऐलान: सरकार देगी ₹10,000 प्रति हेक्टेयर सहायता, मुफ्त मिलेंगे बीज; 100% MSP पर खरीद की गारंटी",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/major-announcement-for-pulse-farmers-government-to-provide-assistance-of-%e2%82%b910000-per-hectare-and-free-seeds-guaranteed-procurement-at-100-msp/",
+      "important": true
+    },
+    {
+      "id": "2a9f6884",
+      "title": "किसान रहें सतर्क! आलू की फसल में लेट ब्लाइट का बढ़ा खतरा, जानें पहचान और नियंत्रण के तरीके",
+      "summary": "किसान रहें सतर्क! आलू की फसल में लेट ब्लाइट का बढ़ा खतरा, जानें पहचान और नियंत्रण के तरीके",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/farmers-stay-alert-increased-risk-of-late-blight-in-potato-crops-learn-how-to-identify-and-control-it/",
+      "important": false
+    },
+    {
+      "id": "52cbd7a5",
+      "title": "IMD Weather Update: बंगाल की खाड़ी में लो प्रेशर सिस्टम एक्टिव, अगले 7 दिन पूर्वी-पूर्वोत्तर क्षेत्र में होगी भारी बारिश",
+      "summary": "IMD Weather Update: बंगाल की खाड़ी में लो प्रेशर सिस्टम एक्टिव, अगले 7 दिन पूर्वी-पूर्वोत्तर क्षेत्र में होगी भारी बारिश; दिल्ली समेत उत्तर भारत में फिलहाल राहत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-low-pressure-system-active-in-the-bay-of-bengal-heavy-rain-expected-in-the-eastern-and-northeastern-regions-over-the-next-7-days-temporary-relief-for-north-india-including-delhi/",
+      "important": false
+    },
     {
       "id": "cbc6abba",
       "title": "अब मजदूरों की टेंशन खत्म! 500ml पेट्रोल में 2 बीघा खेत की होगी निराई-गुड़ाई, जानिए पावर वीडर के फायदे",
@@ -484,72 +550,6 @@
       "date": "2026-07-10",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-10-july-2026/",
-      "important": false
-    },
-    {
-      "id": "d05745de",
-      "title": "आज का धान मंडी रेट (10 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (10 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-10-july-2026/",
-      "important": false
-    },
-    {
-      "id": "a4af4da1",
-      "title": "नौकरी छोड़ खेती को बनाया करियर! अब जैविक खेती से कर रहे लाखों की कमाई, दूसरे किसानों के लिए बने मिसाल",
-      "summary": "नौकरी छोड़ खेती को बनाया करियर! अब जैविक खेती से कर रहे लाखों की कमाई, दूसरे किसानों के लिए बने मिसाल",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/quit-job-to-make-farming-a-career-now-earning-lakhs-through-organic-farming-becoming-a-role-model-for-other-farmers/",
-      "important": false
-    },
-    {
-      "id": "f138dd61",
-      "title": "आज का मक्का मंडी रेट (10 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (10 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-10-july-2026/",
-      "important": false
-    },
-    {
-      "id": "a524cbff",
-      "title": "आज का सोयाबीन मंडी रेट (10 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (10 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-10-july-2026/",
-      "important": false
-    },
-    {
-      "id": "d6cdf519",
-      "title": "झाबुआ की अर्चना बनीं आत्मनिर्भरता की मिसाल",
-      "summary": "झाबुआ की अर्चना बनीं आत्मनिर्भरता की मिसाल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/archana-from-jhabua-becomes-an-example-of-self-reliance/",
-      "important": false
-    },
-    {
-      "id": "a706baea",
-      "title": "राजस्थान में कृषि विकास को नई रफ्तार, 30 से अधिक संस्थाओं के साथ MoU करेगा कृषि विभाग",
-      "summary": "राजस्थान में कृषि विकास को नई रफ्तार, 30 से अधिक संस्थाओं के साथ MoU करेगा कृषि विभाग",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/new-momentum-for-agricultural-development-in-rajasthan-agriculture-department-to-sign-mous-with-over-30-organizations/",
       "important": false
     }
   ]
