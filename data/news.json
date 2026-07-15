@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-15T02:52:44Z",
-  "new_count": 0,
+  "updated": "2026-07-15T08:23:37Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "bdd6fa87",
+      "title": "मध्य प्रदेश के 7 जिलों में खरीफ 2026 के लिए प्रधानमंत्री फसल बीमा योजना लागू",
+      "summary": "मध्य प्रदेश के 7 जिलों में खरीफ 2026 के लिए प्रधानमंत्री फसल बीमा योजना लागू",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-07-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pradhan-mantri-fasal-bima-yojana-implemented-in-7-districts-of-madhya-pradesh-for-kharif-2026-2/",
+      "important": false
+    },
+    {
+      "id": "3835ee53",
+      "title": "अंतिम तिथि नजदीक! किसान 31 जुलाई तक प्रधानमंत्री फसल बीमा योजना का जरूर उठाएं लाभ",
+      "summary": "अंतिम तिथि नजदीक! किसान 31 जुलाई तक प्रधानमंत्री फसल बीमा योजना का जरूर उठाएं लाभ",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/deadline-approaching-farmers-must-avail-the-benefits-of-the-pradhan-mantri-fasal-bima-yojana-by-july-31/",
+      "important": true
+    },
+    {
+      "id": "da689615",
+      "title": "छत्तीसगढ़ के किसान ने अपनाई नई तकनीक, नैनो उर्वरकों से बढ़ी पैदावार और घटी लागत",
+      "summary": "छत्तीसगढ़ के किसान ने अपनाई नई तकनीक, नैनो उर्वरकों से बढ़ी पैदावार और घटी लागत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-farmer-adopts-new-technique-nano-fertilizers-boost-yield-and-reduce-costs/",
+      "important": false
+    },
+    {
+      "id": "95c9c1a2",
+      "title": "छत्तीसगढ़: रायगढ़ में कृषि मंत्रालय की टीम ने किया मृदा स्वास्थ्य कार्ड योजना का मूल्यांकन, किसानों से लिया फीडबैक",
+      "summary": "छत्तीसगढ़: रायगढ़ में कृषि मंत्रालय की टीम ने किया मृदा स्वास्थ्य कार्ड योजना का मूल्यांकन, किसानों से लिया फीडबैक",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-ministry-of-agriculture-team-evaluates-soil-health-card-scheme-in-raigarh-gathers-feedback-from-farmers/",
+      "important": false
+    },
+    {
+      "id": "e8a2c503",
+      "title": "कृषि उपज मण्डी लक्ष्मीबाई नगर इंदौर में बलराम कृषि महोत्सव आज",
+      "summary": "कृषि उपज मण्डी लक्ष्मीबाई नगर इंदौर में बलराम कृषि महोत्सव आज",
+      "level": "state",
+      "category": "market",
+      "date": "2026-07-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-at-the-agricultural-produce-market-lakshmibai-nagar-indore-today/",
+      "important": false
+    },
+    {
+      "id": "25f6ba0b",
+      "title": "पशुओं के इलाज में लापरवाही बर्दाश्त नहीं, देर से आने वाले डॉक्टरों पर हो तुरंत कार्रवाई; CM भजनलाल शर्मा ने दिए कड़े निर",
+      "summary": "पशुओं के इलाज में लापरवाही बर्दाश्त नहीं, देर से आने वाले डॉक्टरों पर हो तुरंत कार्रवाई; CM भजनलाल शर्मा ने दिए कड़े निर्देश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/negligence-in-the-treatment-of-animals-will-not-be-tolerated-immediate-action-must-be-taken-against-doctors-who-arrive-late-cm-bhajanlal-sharma-issues-strict-directives/",
+      "important": false
+    },
+    {
+      "id": "d1f71c94",
+      "title": "पैराक्वाट डाइक्लोराइड पर पूर्ण प्रतिबंध की तैयारी",
+      "summary": "पैराक्वाट डाइक्लोराइड पर पूर्ण प्रतिबंध की तैयारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/preparations-for-a-complete-ban-on-paraquat-dichloride/",
+      "important": false
+    },
+    {
+      "id": "c2db8a49",
+      "title": "बीएएसएफ ने मध्य प्रदेश में ‘सुरक्षा हमेशा – कृषक जागरूकता यात्रा’ का किया शुभारंभ",
+      "summary": "बीएएसएफ ने मध्य प्रदेश में ‘सुरक्षा हमेशा – कृषक जागरूकता यात्रा’ का किया शुभारंभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/basf-launches-suraksha-hamesha-farmer-awareness-yatra-in-madhya-pradesh/",
+      "important": false
+    },
     {
       "id": "c838b81d",
       "title": "खरीफ बुवाई पिछले वर्ष से 101.44 लाख हेक्टेयर पीछे, सोयाबीन, धान और कपास की रफ्तार धीमी",
@@ -462,94 +550,6 @@
       "date": "2026-07-11",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/sagar-bumper-yield-of-summer-groundnut-sets-a-new-example-of-success/",
-      "important": false
-    },
-    {
-      "id": "3be967fc",
-      "title": "बिहार सरकार का बड़ा फैसला: किसानों को अब दिन में मिलेगी सिंचाई के लिए बिजली",
-      "summary": "बिहार सरकार का बड़ा फैसला: किसानों को अब दिन में मिलेगी सिंचाई के लिए बिजली",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-decision-by-the-bihar-government-farmers-will-now-get-electricity-for-irrigation-during-the-day/",
-      "important": false
-    },
-    {
-      "id": "6492df69",
-      "title": "बीएएसएफ की कृषक जागरूकता यात्रा प्रारंभ",
-      "summary": "बीएएसएफ की कृषक जागरूकता यात्रा प्रारंभ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/basfs-farmer-awareness-tour-flagged-off/",
-      "important": false
-    },
-    {
-      "id": "a63d9c7a",
-      "title": "कृषि यंत्रीकरण से बदल रही खेती की तस्वीर, 21.61 लाख किसानों को मिली आधुनिक मशीनें",
-      "summary": "कृषि यंत्रीकरण से बदल रही खेती की तस्वीर, 21.61 लाख किसानों को मिली आधुनिक मशीनें",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farm-mechanization-is-transforming-the-agricultural-landscape-2-16-million-farmers-have-received-modern-machinery/",
-      "important": false
-    },
-    {
-      "id": "2a98cae9",
-      "title": "इंडोगल्फ क्रॉपसाइंसेज़ के एमडी संजय अग्रवाल को ‘विज़नरी लीडर अवॉर्ड’ से सम्मानित किया गया",
-      "summary": "इंडोगल्फ क्रॉपसाइंसेज़ के एमडी संजय अग्रवाल को ‘विज़नरी लीडर अवॉर्ड’ से सम्मानित किया गया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/sanjay-agarwal-md-of-indogulf-cropsciences-was-honored-with-the-visionary-leader-award/",
-      "important": false
-    },
-    {
-      "id": "3d85d219",
-      "title": "हरियाणा में प्राकृतिक खेती को मिलेगा नया विस्तार, हर जिले में बनेगी ‘प्रकृति श्री अन्न प्रेरक किसान कमेटी’",
-      "summary": "हरियाणा में प्राकृतिक खेती को मिलेगा नया विस्तार, हर जिले में बनेगी ‘प्रकृति श्री अन्न प्रेरक किसान कमेटी’",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-relief-for-copra-and-totapuri-mango-farmers-in-tamil-nadu/",
-      "important": false
-    },
-    {
-      "id": "f22834e1",
-      "title": "छिंदवाड़ा : हर्रई में खुलेगा नया उर्वरक केंद्र",
-      "summary": "छिंदवाड़ा : हर्रई में खुलेगा नया उर्वरक केंद्र",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-new-fertilizer-center-to-open-in-harrai/",
-      "important": false
-    },
-    {
-      "id": "f6d84dcd",
-      "title": "अदरक की खेती से किसान हुआ मालामाल! सिर्फ 1 एकड़ में कमाए 5 लाख रुपये, जानिए कैसे मिली सफलता",
-      "summary": "अदरक की खेती से किसान हुआ मालामाल! सिर्फ 1 एकड़ में कमाए 5 लाख रुपये, जानिए कैसे मिली सफलता",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmer-strikes-it-rich-with-ginger-farming-earned-%e2%82%b95-lakh-from-just-one-acre-find-out-how-he-achieved-this-success/",
-      "important": false
-    },
-    {
-      "id": "8bab7bd4",
-      "title": "गुजरात में सतत गन्ना खेती को बढ़ावा देंगे इंडियन पोटाश और जैन इरिगेशन, एमओयू पर हस्ताक्षर",
-      "summary": "गुजरात में सतत गन्ना खेती को बढ़ावा देंगे इंडियन पोटाश और जैन इरिगेशन, एमओयू पर हस्ताक्षर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/indian-potash-and-jain-irrigation-to-promote-sustainable-sugarcane-farming-in-gujarat-mou-signed/",
       "important": false
     }
   ]
