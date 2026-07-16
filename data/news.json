@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-16T08:22:47Z",
-  "new_count": 0,
+  "updated": "2026-07-16T14:06:01Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "c93d6dd1",
+      "title": "MP-राजस्थान में मानसून की रफ्तार धीमी: जगन्नाथ रथ यात्रा से पहले ओडिशा में अति भारी बारिश; यूपी-बिहार भी भीगेंगे बंगाल क",
+      "summary": "MP-राजस्थान में मानसून की रफ्तार धीमी: जगन्नाथ रथ यात्रा से पहले ओडिशा में अति भारी बारिश; यूपी-बिहार भी भीगेंगे बंगाल की खाड़ी में मजबूत लो प्रेशर का असर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/monsoon-slows-down-in-mp-and-rajasthan-extremely-heavy-rainfall-in-odisha-ahead-of-the-jagannath-rath-yatra-up-and-bihar-also-set-for-rain-due-to-the-impact-of-a-strong-low-pressure-system-in-the-ba/",
+      "important": false
+    },
+    {
+      "id": "bdc7c1b9",
+      "title": "30 जुलाई को खंडवा में होगा बलराम कृषि महोत्सव, ड्रोन तकनीक से जैविक खेती तक मिलेगा मार्गदर्शन",
+      "summary": "30 जुलाई को खंडवा में होगा बलराम कृषि महोत्सव, ड्रोन तकनीक से जैविक खेती तक मिलेगा मार्गदर्शन",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-to-be-held-in-khandwa-on-july-30-guidance-ranging-from-drone-technology-to-organic-farming-will-be-provided/",
+      "important": false
+    },
+    {
+      "id": "a81084f7",
+      "title": "सिंचाई यंत्र खरीदने का सुनहरा मौका! सरकार दे रही अनुदान, 31 जुलाई तक करें ऑनलाइन आवेदन",
+      "summary": "सिंचाई यंत्र खरीदने का सुनहरा मौका! सरकार दे रही अनुदान, 31 जुलाई तक करें ऑनलाइन आवेदन",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-07-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-golden-opportunity-to-buy-irrigation-equipment-the-government-is-offering-subsidies-apply-online-by-july-31/",
+      "important": false
+    },
+    {
+      "id": "7dad7fd8",
+      "title": "आज का गेहूँ मंडी रेट (16 जुलाई 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (16 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-16-july-2026/",
+      "important": false
+    },
+    {
+      "id": "6d2563fb",
+      "title": "आज का मक्का मंडी रेट (16 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (16 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-16-july-2026/",
+      "important": false
+    },
+    {
+      "id": "b8bdc013",
+      "title": "आज का सोयाबीन मंडी रेट (16 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (16 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-16-july-2026/",
+      "important": false
+    },
+    {
+      "id": "a220224b",
+      "title": "महिलाओं की आय बढ़ाने की बड़ी पहल! मशरूम उत्पादन के लिए कंपनी से हुआ अनुबंध, 6,500 किसानों को मिलेगा लाभ",
+      "summary": "महिलाओं की आय बढ़ाने की बड़ी पहल! मशरूम उत्पादन के लिए कंपनी से हुआ अनुबंध, 6,500 किसानों को मिलेगा लाभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-initiative-to-boost-womens-income-agreement-signed-with-a-company-for-mushroom-production-6500-farmers-to-benefit/",
+      "important": false
+    },
+    {
+      "id": "5f5b02f8",
+      "title": "छत्तीसगढ़ के किसान का कमाल! जुगाड़ तकनीक से बनाया सीड ड्रिल, अब आसान हुई मूंगफली की बुवाई",
+      "summary": "छत्तीसगढ़ के किसान का कमाल! जुगाड़ तकनीक से बनाया सीड ड्रिल, अब आसान हुई मूंगफली की बुवाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-chhattisgarh-farmers-feat-he-built-a-seed-drill-using-an-innovative-jugaad-technique-making-groundnut-sowing-easier/",
+      "important": false
+    },
     {
       "id": "6c7d5fc1",
       "title": "आज का गेहूं मंडी रेट (15 जुलाई 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-07-13",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/agriculture-machinery/tractor-market-2026-gaining-new-momentum-driven-by-farm-mechanization-madhya-pradesh-emerges-as-a-new-engine-of-growth/",
-      "important": false
-    },
-    {
-      "id": "37294b28",
-      "title": "सिर्फ नर्सरी तैयार कर सागर के किसान ने कमाए 1 लाख रुपये, जानिए कैसे मिली सफलता",
-      "summary": "सिर्फ नर्सरी तैयार कर सागर के किसान ने कमाए 1 लाख रुपये, जानिए कैसे मिली सफलता",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-farmer-from-sagar-earned-%e2%82%b91-lakh-solely-by-preparing-a-nursery-find-out-how-he-achieved-this-success/",
-      "important": false
-    },
-    {
-      "id": "e5c928bd",
-      "title": "PMDDKY: 13 जुलाई से शुरू होंगे ड्रिप और स्प्रिंकलर अनुदान के आवेदन, किसान ऑनलाइन कर सकेंगे अप्लाई",
-      "summary": "PMDDKY: 13 जुलाई से शुरू होंगे ड्रिप और स्प्रिंकलर अनुदान के आवेदन, किसान ऑनलाइन कर सकेंगे अप्लाई",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pmddky-applications-for-drip-and-sprinkler-subsidies-to-start-on-july-13-farmers-can-apply-online/",
-      "important": false
-    },
-    {
-      "id": "d82c9c86",
-      "title": "Weather Today: देश के कई राज्यों में भारी बारिश का अलर्ट, मेघालय में अत्यधिक बारिश की चेतावनी; जानें आपके शहर का मौसम",
-      "summary": "Weather Today: देश के कई राज्यों में भारी बारिश का अलर्ट, मेघालय में अत्यधिक बारिश की चेतावनी; जानें आपके शहर का मौसम",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-alert-for-several-states-warning-of-extremely-heavy-rainfall-in-meghalaya-check-the-weather-in-your-city/",
-      "important": false
-    },
-    {
-      "id": "59f7acae",
-      "title": "पैडी ट्रांसप्लांटर से आसान हुई धान की रोपाई, समय की बचत और 20% तक ज्यादा पैदावार की उम्मीद",
-      "summary": "पैडी ट्रांसप्लांटर से आसान हुई धान की रोपाई, समय की बचत और 20% तक ज्यादा पैदावार की उम्मीद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/paddy-transplanter-simplifies-paddy-transplantation-saves-time-and-promises-up-to-20-higher-yield/",
-      "important": false
-    },
-    {
-      "id": "b9adbe51",
-      "title": "छिंदवाड़ा: परंपरागत बीज संरक्षण एवं आदान-प्रदान मेला आयोजित",
-      "summary": "छिंदवाड़ा: परंपरागत बीज संरक्षण एवं आदान-प्रदान मेला आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-traditional-seed-conservation-and-exchange-fair-organized/",
-      "important": false
-    },
-    {
-      "id": "f273bb92",
-      "title": "उद्यानिकी फसलों से किसानों की आय बढ़ेगी: श्री कुशवाहा",
-      "summary": "उद्यानिकी फसलों से किसानों की आय बढ़ेगी: श्री कुशवाहा",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/horticulture/farmers-income-will-increase-through-horticultural-crops-shri-kushwaha/",
-      "important": false
-    },
-    {
-      "id": "ab01bf92",
-      "title": "‘एल नीनो’ की चपेट में दुनिया",
-      "summary": "‘एल नीनो’ की चपेट में दुनिया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/the-world-is-in-the-grip-of-el-nino/",
-      "important": false
-    },
-    {
-      "id": "3029b81f",
-      "title": "इंजीनियरिंग छोड़ अपनाई प्राकृतिक खेती! अब वर्मी कम्पोस्ट, नर्सरी और पशुपालन से दंपति कमा रहा लाखों रुपए, दूसरे किसान को ",
-      "summary": "इंजीनियरिंग छोड़ अपनाई प्राकृतिक खेती! अब वर्मी कम्पोस्ट, नर्सरी और पशुपालन से दंपति कमा रहा लाखों रुपए, दूसरे किसान को भी दे रहे प्रशिक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/left-engineering-to-embrace-natural-farming-the-couple-now-earns-lakhs-of-rupees-from-vermicompost-a-nursery-and-animal-husbandry-and-is-also-training-other-farmers/",
       "important": false
     }
   ]
