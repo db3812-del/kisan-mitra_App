@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-17T08:19:12Z",
+  "updated": "2026-07-17T13:50:12Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "badd9559",
+      "title": "कम बारिश में फसल कैसे बचाएं? कृषि विभाग ने किसानों को दिए नमी बचाने के जरूरी सुझाव",
+      "summary": "कम बारिश में फसल कैसे बचाएं? कृषि विभाग ने किसानों को दिए नमी बचाने के जरूरी सुझाव",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/how-to-save-crops-during-scanty-rainfall-the-agriculture-department-has-offered-farmers-essential-tips-for-conserving-soil-moisture/",
+      "important": false
+    },
+    {
+      "id": "46e7a991",
+      "title": "आज का गेहूँ मंडी रेट (17 जुलाई 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (17 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-17-july-2026/",
+      "important": false
+    },
+    {
+      "id": "5593ed74",
+      "title": "आज का मक्का मंडी रेट (17 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (17 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-17-july-2026/",
+      "important": false
+    },
+    {
+      "id": "1290705e",
+      "title": "आज का धान मंडी रेट (17 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (17 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-17-july-2026/",
+      "important": false
+    },
+    {
+      "id": "4b17827a",
+      "title": "90-130 दिन में तैयार होंगी धान की ये वैरायटी, कम बारिश में भी देंगी अच्छा उत्पादन; कृषि विभाग ने दी बुवाई की सलाह",
+      "summary": "90-130 दिन में तैयार होंगी धान की ये वैरायटी, कम बारिश में भी देंगी अच्छा उत्पादन; कृषि विभाग ने दी बुवाई की सलाह",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/these-paddy-varieties-will-be-ready-in-90-130-days-and-yield-good-produce-even-with-low-rainfall-the-agriculture-department-has-advised-sowing-them/",
+      "important": false
+    },
+    {
+      "id": "ab97be45",
+      "title": "एसडीएम सिवनी मालवा ने किसान संगठनों के साथ की बैठक",
+      "summary": "एसडीएम सिवनी मालवा ने किसान संगठनों के साथ की बैठक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sdm-seoni-malwa-held-a-meeting-with-farmers-organizations/",
+      "important": false
+    },
+    {
+      "id": "4b959a8a",
+      "title": "आज का सोयाबीन मंडी रेट (17 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (17 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-17-july-2026/",
+      "important": false
+    },
+    {
+      "id": "ff26ec6e",
+      "title": "एक ही खेत में उगा रहे 10 से ज्यादा फसलें, इंटीग्रेटेड फार्मिंग ने बदली पांढुर्ना के किसान की किस्मत; अब सालभर हो रही अच्",
+      "summary": "एक ही खेत में उगा रहे 10 से ज्यादा फसलें, इंटीग्रेटेड फार्मिंग ने बदली पांढुर्ना के किसान की किस्मत; अब सालभर हो रही अच्छी कमाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/growing-over-10-crops-in-a-single-field-integrated-farming-has-transformed-the-fortunes-of-a-pandhurna-farmer-he-now-earns-a-good-income-all-year-round/",
+      "important": false
+    },
     {
       "id": "f6226642",
       "title": "राजस्थान में किसानों को बड़ी सौगात! अब किराए पर मिलेंगे ट्रैक्टर और कृषि यंत्र, कृषि विभाग ने टैफे-जेफार्म सर्विसेज से क",
@@ -462,94 +550,6 @@
       "date": "2026-07-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/imd-weather-update-low-pressure-system-active-in-the-bay-of-bengal-heavy-rain-expected-in-the-eastern-and-northeastern-regions-over-the-next-7-days-temporary-relief-for-north-india-including-delhi/",
-      "important": false
-    },
-    {
-      "id": "cbc6abba",
-      "title": "अब मजदूरों की टेंशन खत्म! 500ml पेट्रोल में 2 बीघा खेत की होगी निराई-गुड़ाई, जानिए पावर वीडर के फायदे",
-      "summary": "अब मजदूरों की टेंशन खत्म! 500ml पेट्रोल में 2 बीघा खेत की होगी निराई-गुड़ाई, जानिए पावर वीडर के फायदे",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/no-more-worries-for-farmers-weed-and-till-2-bighas-of-land-with-just-500ml-of-petrol-discover-the-benefits-of-a-power-weeder/",
-      "important": false
-    },
-    {
-      "id": "e88d945a",
-      "title": "भूमिहीन कृषि मजदूर कल्याण योजना बनी सहारा, सालाना ₹10,000 की मदद से आसान हुआ जीवन; बदली परिवार की जिंदगी",
-      "summary": "भूमिहीन कृषि मजदूर कल्याण योजना बनी सहारा, सालाना ₹10,000 की मदद से आसान हुआ जीवन; बदली परिवार की जिंदगी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-landless-agricultural-labourers-welfare-scheme-has-become-a-lifeline-annual-assistance-of-%e2%82%b910000-has-made-life-easier-and-transformed-the-familys-life/",
-      "important": false
-    },
-    {
-      "id": "bc4a47cf",
-      "title": "खेती का गजब फॉर्मूला! किसान ने एक ही खेत में उगा दिए अमरूद, अदरक और अरहर, अब तीन फसलों से हो रही तगड़ी कमाई",
-      "summary": "खेती का गजब फॉर्मूला! किसान ने एक ही खेत में उगा दिए अमरूद, अदरक और अरहर, अब तीन फसलों से हो रही तगड़ी कमाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/an-amazing-farming-formula-a-farmer-grew-guavas-ginger-and-pigeon-peas-arhar-in-the-same-field-now-he-is-earning-handsome-profits-from-all-three-crops/",
-      "important": false
-    },
-    {
-      "id": "28dc609c",
-      "title": "प्रदेश के 2 लाख कर्मचारियों को मिलेगा प्रमोशन का लाभ",
-      "summary": "प्रदेश के 2 लाख कर्मचारियों को मिलेगा प्रमोशन का लाभ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/200000-state-employees-to-receive-promotion-benefits/",
-      "important": false
-    },
-    {
-      "id": "bd3041a7",
-      "title": "सोयाबीन आयात में जबरदस्त बढ़ोतरी, 9 महीने में 7.77 लाख टन तक पहुंचा आंकड़ा; जानें क्या है वजह",
-      "summary": "सोयाबीन आयात में जबरदस्त बढ़ोतरी, 9 महीने में 7.77 लाख टन तक पहुंचा आंकड़ा; जानें क्या है वजह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/massive-surge-in-soybean-imports-figure-reaches-7-77-lakh-tonnes-in-9-months-find-out-the-reason/",
-      "important": false
-    },
-    {
-      "id": "7c9d7359",
-      "title": "प्रदेश में प्राकृतिक खेती के साथ-साथ पशुपालन को बढ़ावा मुख्यमंत्री यादव",
-      "summary": "प्रदेश में प्राकृतिक खेती के साथ-साथ पशुपालन को बढ़ावा मुख्यमंत्री यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chief-minister-yadav-promotes-animal-husbandry-alongside-natural-farming-in-the-state/",
-      "important": false
-    },
-    {
-      "id": "b3a5b79f",
-      "title": "प्रदेश में खरीफ बुवाई की गति धीमी",
-      "summary": "प्रदेश में खरीफ बुवाई की गति धीमी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/kharif-sowing-pace-slow-in-the-state/",
-      "important": false
-    },
-    {
-      "id": "5aff5b36",
-      "title": "धान छोड़ अपनाई उड़द की खेती, 70 दिन में मिला 15 क्विंटल उत्पादन; किसान ने कमाए 1.10 लाख रुपए",
-      "summary": "धान छोड़ अपनाई उड़द की खेती, 70 दिन में मिला 15 क्विंटल उत्पादन; किसान ने कमाए 1.10 लाख रुपए",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/switched-from-paddy-to-black-gram-cultivation-yielding-15-quintals-in-70-days-farmer-earned-%e2%82%b91-10-lakh/",
       "important": false
     }
   ]
