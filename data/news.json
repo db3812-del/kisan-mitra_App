@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-17T03:17:12Z",
-  "new_count": 0,
+  "updated": "2026-07-17T08:19:12Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "f6226642",
+      "title": "राजस्थान में किसानों को बड़ी सौगात! अब किराए पर मिलेंगे ट्रैक्टर और कृषि यंत्र, कृषि विभाग ने टैफे-जेफार्म सर्विसेज से क",
+      "summary": "राजस्थान में किसानों को बड़ी सौगात! अब किराए पर मिलेंगे ट्रैक्टर और कृषि यंत्र, कृषि विभाग ने टैफे-जेफार्म सर्विसेज से किया एमओयू",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-major-boon-for-farmers-in-rajasthan-tractors-and-agricultural-machinery-will-now-be-available-on-rent-the-agriculture-department-has-signed-an-mou-with-tafe-jfarm-services/",
+      "important": false
+    },
+    {
+      "id": "573338e4",
+      "title": "NIPU-2026 से यूरिया उत्पादन क्षमता बढ़ाने में मिलेगी मदद: FAI",
+      "summary": "NIPU-2026 से यूरिया उत्पादन क्षमता बढ़ाने में मिलेगी मदद: FAI",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/nipu-2026-to-help-boost-urea-production-capacity-fai/",
+      "important": false
+    },
+    {
+      "id": "3698ccab",
+      "title": "उज्जैन: एकीकृत बागवानी मिशन योजना अंतर्गत ऑनलाइन आवेदन आमंत्रित",
+      "summary": "उज्जैन: एकीकृत बागवानी मिशन योजना अंतर्गत ऑनलाइन आवेदन आमंत्रित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ujjain-online-applications-invited-under-the-mission-for-integrated-development-of-horticulture-scheme/",
+      "important": false
+    },
+    {
+      "id": "7beb3b97",
+      "title": "सूखा व अल्प वर्षा की आशंका को देखते हुए फसलों का बीमा कराएं",
+      "summary": "सूखा व अल्प वर्षा की आशंका को देखते हुए फसलों का बीमा कराएं",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/get-your-crops-insured-in-view-of-the-possibility-of-drought-and-scanty-rainfall/",
+      "important": false
+    },
+    {
+      "id": "ad86295b",
+      "title": "13 नवंबर तक प्रदेश के सभी 55 जिलों में होंगे कृषि महोत्सव और किसान हितैषी आयोजन",
+      "summary": "13 नवंबर तक प्रदेश के सभी 55 जिलों में होंगे कृषि महोत्सव और किसान हितैषी आयोजन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agricultural-festivals-and-farmer-friendly-events-will-be-held-across-all-55-districts-of-the-state-until-november-13/",
+      "important": false
+    },
+    {
+      "id": "5f2733b4",
+      "title": "किसान कल्याण वर्ष 2026: उज्जैन में प्राकृतिक खेती, फसल विविधीकरण और सूक्ष्म सिंचाई पर जोर",
+      "summary": "किसान कल्याण वर्ष 2026: उज्जैन में प्राकृतिक खेती, फसल विविधीकरण और सूक्ष्म सिंचाई पर जोर",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-welfare-year-2026-focus-on-natural-farming-crop-diversification-and-micro-irrigation-in-ujjain/",
+      "important": false
+    },
+    {
+      "id": "f2c4667c",
+      "title": "मध्य प्रदेश के किसानों के लिए खुशखबरी: ड्रिप, स्प्रिंकलर और मिनी स्प्रिंकलर पर मिलेगी सब्सिडी, आवेदन शुरू",
+      "summary": "मध्य प्रदेश के किसानों के लिए खुशखबरी: ड्रिप, स्प्रिंकलर और मिनी स्प्रिंकलर पर मिलेगी सब्सिडी, आवेदन शुरू",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/good-news-for-farmers-in-madhya-pradesh-subsidy-available-for-drip-sprinkler-and-mini-sprinkler-systems-applications-are-now-open/",
+      "important": false
+    },
+    {
+      "id": "10331a93",
+      "title": "खरीफ में बाजरा की खेती: कम पानी में अधिक मुनाफा देने वाली फसल, जानें सफल उत्पादन के आसान उपाय",
+      "summary": "खरीफ में बाजरा की खेती: कम पानी में अधिक मुनाफा देने वाली फसल, जानें सफल उत्पादन के आसान उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/cultivating-pearl-millet-bajra-during-kharif-a-high-profit-crop-requiring-less-water-learn-easy-tips-for-successful-production/",
+      "important": false
+    },
     {
       "id": "c93d6dd1",
       "title": "MP-राजस्थान में मानसून की रफ्तार धीमी: जगन्नाथ रथ यात्रा से पहले ओडिशा में अति भारी बारिश; यूपी-बिहार भी भीगेंगे बंगाल क",
@@ -462,94 +550,6 @@
       "date": "2026-07-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/switched-from-paddy-to-black-gram-cultivation-yielding-15-quintals-in-70-days-farmer-earned-%e2%82%b91-10-lakh/",
-      "important": false
-    },
-    {
-      "id": "2d1bc02a",
-      "title": "आज का मक्का मंडी रेट (13 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (13 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-13-july-2026/",
-      "important": false
-    },
-    {
-      "id": "8b78a483",
-      "title": "आज का धान मंडी रेट (13 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (13 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-13-july-2026/",
-      "important": false
-    },
-    {
-      "id": "3dcfdd8f",
-      "title": "मध्य प्रदेश में लॉन्च हुआ स्मार्ट तकनीक से लैस शक्तिशाली स्वराज 855 प्रोटेक ट्रैक्टर",
-      "summary": "मध्य प्रदेश में लॉन्च हुआ स्मार्ट तकनीक से लैस शक्तिशाली स्वराज 855 प्रोटेक ट्रैक्टर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/powerful-swaraj-855-pro-tek-tractor-equipped-with-smart-technology-launched-in-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "8c3099be",
-      "title": "आज का सोयाबीन मंडी रेट (13 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (13 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-13-july-2026/",
-      "important": false
-    },
-    {
-      "id": "fdcc67c3",
-      "title": "पश्चिम बंगाल दौरे पर शिवराज सिंह चौहान, CM के साथ करेंगे अहम बैठक; जूट किसानों से भी करेंगे संवाद",
-      "summary": "पश्चिम बंगाल दौरे पर शिवराज सिंह चौहान, CM के साथ करेंगे अहम बैठक; जूट किसानों से भी करेंगे संवाद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/shivraj-singh-chouhan-is-on-a-visit-to-west-bengal-he-will-hold-a-key-meeting-with-the-chief-minister-and-also-interact-with-jute-farmers/",
-      "important": false
-    },
-    {
-      "id": "ca963fd7",
-      "title": "रायसेन: खरीदे गए गेहूं में कमी, पहचान के लिए जिला उपार्जन समितियों दिये निर्देश",
-      "summary": "रायसेन: खरीदे गए गेहूं में कमी, पहचान के लिए जिला उपार्जन समितियों दिये निर्देश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raisen-shortage-in-procured-wheat-instructions-issued-to-district-procurement-committees-for-identification/",
-      "important": false
-    },
-    {
-      "id": "893794b3",
-      "title": "रायसेन: 31 जुलाई तक मनाया जा रहा फसल बीमा माह",
-      "summary": "रायसेन: 31 जुलाई तक मनाया जा रहा फसल बीमा माह",
-      "level": "state",
-      "category": "insurance",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raisen-crop-insurance-month-being-observed-until-july-31/",
-      "important": false
-    },
-    {
-      "id": "c011f667",
-      "title": "ट्रैक्टर बाजार 2026 : कृषि यंत्रीकरण के दम पर नई रफ्तार, मध्य प्रदेश बना विकास का नया इंजन",
-      "summary": "ट्रैक्टर बाजार 2026 : कृषि यंत्रीकरण के दम पर नई रफ्तार, मध्य प्रदेश बना विकास का नया इंजन",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/tractor-market-2026-gaining-new-momentum-driven-by-farm-mechanization-madhya-pradesh-emerges-as-a-new-engine-of-growth/",
       "important": false
     }
   ]
