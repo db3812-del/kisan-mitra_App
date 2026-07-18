@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-18T02:54:05Z",
-  "new_count": 0,
+  "updated": "2026-07-18T08:00:55Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "5d6c35fa",
+      "title": "ICAR CSR कॉन्क्लेव 2026: किसानों तक पहुंचेंगी आधुनिक कृषि तकनीकें, 75 कंपनियां आईं साथ",
+      "summary": "ICAR CSR कॉन्क्लेव 2026: किसानों तक पहुंचेंगी आधुनिक कृषि तकनीकें, 75 कंपनियां आईं साथ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/icar-csr-conclave-2026-modern-agricultural-technologies-to-reach-farmers-75-companies-join-hands/",
+      "important": false
+    },
+    {
+      "id": "6d37f774",
+      "title": "नरसिंहपुर और छिंदवाड़ा जिलों में भारी वर्षा एवं कई जिलों में सामान्य वर्षा संभावित",
+      "summary": "नरसिंहपुर और छिंदवाड़ा जिलों में भारी वर्षा एवं कई जिलों में सामान्य वर्षा संभावित",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/heavy-rainfall-is-likely-in-narsinghpur-and-chhindwara-districts-and-normal-rainfall-in-several-other-districts/",
+      "important": false
+    },
+    {
+      "id": "20bdb30c",
+      "title": "छत्तीसगढ़ में फसल विविधीकरण को रफ्तार, 6,139 हेक्टेयर में धान की जगह बोई गईं दूसरी फसलें",
+      "summary": "छत्तीसगढ़ में फसल विविधीकरण को रफ्तार, 6,139 हेक्टेयर में धान की जगह बोई गईं दूसरी फसलें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/crop-diversification-gains-momentum-in-chhattisgarh-alternative-crops-sown-on-6139-hectares-instead-of-paddy/",
+      "important": false
+    },
+    {
+      "id": "898a7965",
+      "title": "किसानों की शिकायत पर डबल लॉक केंद्रों का औचक निरीक्षण, अनियमितताओं की जांच शुरू",
+      "summary": "किसानों की शिकायत पर डबल लॉक केंद्रों का औचक निरीक्षण, अनियमितताओं की जांच शुरू",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/surprise-inspection-of-double-lock-centers-conducted-following-farmers-complaints-investigation-into-irregularities-initiated/",
+      "important": false
+    },
+    {
+      "id": "03d7fc5b",
+      "title": "यूपी के गन्ना किसानों के लिए बड़ी पहल: कम समय में अधिक उपज देने वाली नई किस्मों के विकास पर जोर",
+      "summary": "यूपी के गन्ना किसानों के लिए बड़ी पहल: कम समय में अधिक उपज देने वाली नई किस्मों के विकास पर जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-initiative-for-up-sugarcane-farmers-focus-on-developing-new-varieties-that-offer-higher-yields-in-less-time/",
+      "important": false
+    },
+    {
+      "id": "5081a34c",
+      "title": "किसानों के लिए मुख्यमंत्री की बड़ी घोषणाएं: 40 लाख की डेयरी यूनिट पर 10 लाख अनुदान, दिन में मिलेगी कृषि बिजली",
+      "summary": "किसानों के लिए मुख्यमंत्री की बड़ी घोषणाएं: 40 लाख की डेयरी यूनिट पर 10 लाख अनुदान, दिन में मिलेगी कृषि बिजली",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chief-ministers-major-announcements-for-farmers-%e2%82%b910-lakh-subsidy-on-a-%e2%82%b940-lakh-dairy-unit-agricultural-electricity-to-be-supplied-during-the-day/",
+      "important": false
+    },
+    {
+      "id": "f2c108a1",
+      "title": "राजस्थान में बीज कंपनियों के पंजीकरण में डिजिटल क्रांति: ब्लॉकचेन तकनीक से होगी ऑनलाइन और फेसलेस प्रक्रिया",
+      "summary": "राजस्थान में बीज कंपनियों के पंजीकरण में डिजिटल क्रांति: ब्लॉकचेन तकनीक से होगी ऑनलाइन और फेसलेस प्रक्रिया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/digital-revolution-in-seed-company-registration-in-rajasthan-online-and-faceless-process-via-blockchain-technology/",
+      "important": false
+    },
+    {
+      "id": "60c18921",
+      "title": "बलराम कृषि महोत्सव में वर्चुअली शामिल हुए CM मोहन यादव, बोले- आधुनिक खेती अपनाएं, वैल्यू एडिशन से बढ़ाएं आय",
+      "summary": "बलराम कृषि महोत्सव में वर्चुअली शामिल हुए CM मोहन यादव, बोले- आधुनिक खेती अपनाएं, वैल्यू एडिशन से बढ़ाएं आय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/cm-mohan-yadav-virtually-attended-the-balaram-agriculture-festival-urged-farmers-to-adopt-modern-farming-practices-and-boost-income-through-value-addition/",
+      "important": false
+    },
     {
       "id": "badd9559",
       "title": "कम बारिश में फसल कैसे बचाएं? कृषि विभाग ने किसानों को दिए नमी बचाने के जरूरी सुझाव",
@@ -462,94 +550,6 @@
       "date": "2026-07-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/preparations-underway-for-a-complete-ban-on-the-herbicide-paraquat-central-government-issues-draft-order/",
-      "important": false
-    },
-    {
-      "id": "1dc963ee",
-      "title": "खरीफ 2026: क्रिस्टल क्रॉप प्रोटेक्शन ने छह नए उत्पाद लॉन्च किए",
-      "summary": "खरीफ 2026: क्रिस्टल क्रॉप प्रोटेक्शन ने छह नए उत्पाद लॉन्च किए",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/kharif-2026-crystal-crop-protection-launches-six-new-products/",
-      "important": false
-    },
-    {
-      "id": "2eb14c4a",
-      "title": "क्या आप मछली पालन करते हैं? तो तुरंत करें यह काम; नहीं तो छूट सकता है सरकारी योजनाओं का लाभ",
-      "summary": "क्या आप मछली पालन करते हैं? तो तुरंत करें यह काम; नहीं तो छूट सकता है सरकारी योजनाओं का लाभ",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/do-you-engage-in-fish-farming-if-so-take-this-step-immediately-otherwise-you-could-miss-out-on-the-benefits-of-government-schemes/",
-      "important": false
-    },
-    {
-      "id": "46fb20fd",
-      "title": "PM फसल बीमा योजना: 31 जुलाई तक कराएं पंजीयन, धान, सोयाबीन समेत 11 फसलों को मिलेगा लाभ",
-      "summary": "PM फसल बीमा योजना: 31 जुलाई तक कराएं पंजीयन, धान, सोयाबीन समेत 11 फसलों को मिलेगा लाभ",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pm-crop-insurance-scheme-register-by-july-31-11-crops-including-paddy-and-soybean-will-be-covered/",
-      "important": false
-    },
-    {
-      "id": "b2256542",
-      "title": "किसान कल्याण वर्ष में ग्वालियर बना कृषि नवाचार का मॉडल, हजारों किसानों को मिल रहा योजनाओं का लाभ",
-      "summary": "किसान कल्याण वर्ष में ग्वालियर बना कृषि नवाचार का मॉडल, हजारों किसानों को मिल रहा योजनाओं का लाभ",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/gwalior-emerges-as-a-model-of-agricultural-innovation-during-the-year-of-farmers-welfare-thousands-of-farmers-are-reaping-the-benefits-of-various-schemes/",
-      "important": false
-    },
-    {
-      "id": "7d5b88bd",
-      "title": "सोयाबीन किसानों के लिए एडवाइजरी: बुआई के 20-30 दिन बाद करें डोरा या कुल्पा, बढ़ेगा उत्पादन",
-      "summary": "सोयाबीन किसानों के लिए एडवाइजरी: बुआई के 20-30 दिन बाद करें डोरा या कुल्पा, बढ़ेगा उत्पादन",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/advisory-for-soybean-farmers-use-a-dora-or-kulpa-inter-row-weeder-20-30-days-after-sowing-to-boost-yield/",
-      "important": false
-    },
-    {
-      "id": "615a6f01",
-      "title": "दलहन किसानों के लिए बड़ा ऐलान: सरकार देगी ₹10,000 प्रति हेक्टेयर सहायता, मुफ्त मिलेंगे बीज; 100% MSP पर खरीद की गारंटी",
-      "summary": "दलहन किसानों के लिए बड़ा ऐलान: सरकार देगी ₹10,000 प्रति हेक्टेयर सहायता, मुफ्त मिलेंगे बीज; 100% MSP पर खरीद की गारंटी",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/major-announcement-for-pulse-farmers-government-to-provide-assistance-of-%e2%82%b910000-per-hectare-and-free-seeds-guaranteed-procurement-at-100-msp/",
-      "important": true
-    },
-    {
-      "id": "2a9f6884",
-      "title": "किसान रहें सतर्क! आलू की फसल में लेट ब्लाइट का बढ़ा खतरा, जानें पहचान और नियंत्रण के तरीके",
-      "summary": "किसान रहें सतर्क! आलू की फसल में लेट ब्लाइट का बढ़ा खतरा, जानें पहचान और नियंत्रण के तरीके",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/farmers-stay-alert-increased-risk-of-late-blight-in-potato-crops-learn-how-to-identify-and-control-it/",
-      "important": false
-    },
-    {
-      "id": "52cbd7a5",
-      "title": "IMD Weather Update: बंगाल की खाड़ी में लो प्रेशर सिस्टम एक्टिव, अगले 7 दिन पूर्वी-पूर्वोत्तर क्षेत्र में होगी भारी बारिश",
-      "summary": "IMD Weather Update: बंगाल की खाड़ी में लो प्रेशर सिस्टम एक्टिव, अगले 7 दिन पूर्वी-पूर्वोत्तर क्षेत्र में होगी भारी बारिश; दिल्ली समेत उत्तर भारत में फिलहाल राहत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-low-pressure-system-active-in-the-bay-of-bengal-heavy-rain-expected-in-the-eastern-and-northeastern-regions-over-the-next-7-days-temporary-relief-for-north-india-including-delhi/",
       "important": false
     }
   ]
