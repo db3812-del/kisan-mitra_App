@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-18T08:00:55Z",
+  "updated": "2026-07-18T13:27:00Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "94ecb6bc",
+      "title": "आज का सोयाबीन मंडी रेट (18 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (18 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-18-july-2026/",
+      "important": false
+    },
+    {
+      "id": "3ca3c1e6",
+      "title": "एल-नीनो की आशंका के बीच किसानों के लिए एडवाइजरी, धान से लेकर उड़द तक इन अनुशंसित किस्मों की करें बुवाई",
+      "summary": "एल-नीनो की आशंका के बीच किसानों के लिए एडवाइजरी, धान से लेकर उड़द तक इन अनुशंसित किस्मों की करें बुवाई",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/advisory-for-farmers-amidst-el-nino-concerns-sow-these-recommended-varieties-of-crops-ranging-from-paddy-to-urad/",
+      "important": false
+    },
+    {
+      "id": "312bdadb",
+      "title": "पन्ना कलेक्टर ने ड्रैगन फ्रूट की खेती का किया अवलोकन",
+      "summary": "पन्ना कलेक्टर ने ड्रैगन फ्रूट की खेती का किया अवलोकन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/panna-collector-inspected-dragon-fruit-cultivation/",
+      "important": false
+    },
+    {
+      "id": "4069b47c",
+      "title": "सागर कमिश्नर ने उद्यानिकी, मत्स्य, पशुपालन विभागों की समीक्षा की",
+      "summary": "सागर कमिश्नर ने उद्यानिकी, मत्स्य, पशुपालन विभागों की समीक्षा की",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-sagar-commissioner-reviewed-the-horticulture-fisheries-and-animal-husbandry-departments/",
+      "important": false
+    },
+    {
+      "id": "18539b28",
+      "title": "सागर: उद्यानिकी विभाग की विभिन्न योजनाओं पर मिल रहा अनुदान",
+      "summary": "सागर: उद्यानिकी विभाग की विभिन्न योजनाओं पर मिल रहा अनुदान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sagar-subsidies-being-received-under-various-schemes-of-the-horticulture-department/",
+      "important": false
+    },
+    {
+      "id": "61ff411c",
+      "title": "सागर: अल्ट्रा लो-कॉस्ट शेडनेट हाउस से बदल रही खेती की तस्वीर",
+      "summary": "सागर: अल्ट्रा लो-कॉस्ट शेडनेट हाउस से बदल रही खेती की तस्वीर",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sagar-ultra-low-cost-shade-net-houses-are-transforming-the-face-of-farming/",
+      "important": false
+    },
+    {
+      "id": "a2a772d1",
+      "title": "निवाड़ी: 31 जुलाई तक कराएं फसलों का बीमा",
+      "summary": "निवाड़ी: 31 जुलाई तक कराएं फसलों का बीमा",
+      "level": "state",
+      "category": "insurance",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/niwari-get-crops-insured-by-july-31/",
+      "important": false
+    },
+    {
+      "id": "4d9b163a",
+      "title": "सीधी में कृषि धन-धान्य योजना की समीक्षा बैठक संपन्न",
+      "summary": "सीधी में कृषि धन-धान्य योजना की समीक्षा बैठक संपन्न",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/review-meeting-of-the-krishi-dhan-dhanya-yojana-concludes-in-sidhi/",
+      "important": false
+    },
     {
       "id": "5d6c35fa",
       "title": "ICAR CSR कॉन्क्लेव 2026: किसानों तक पहुंचेंगी आधुनिक कृषि तकनीकें, 75 कंपनियां आईं साथ",
@@ -463,94 +551,6 @@
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/deadline-approaching-farmers-must-avail-the-benefits-of-the-pradhan-mantri-fasal-bima-yojana-by-july-31/",
       "important": true
-    },
-    {
-      "id": "da689615",
-      "title": "छत्तीसगढ़ के किसान ने अपनाई नई तकनीक, नैनो उर्वरकों से बढ़ी पैदावार और घटी लागत",
-      "summary": "छत्तीसगढ़ के किसान ने अपनाई नई तकनीक, नैनो उर्वरकों से बढ़ी पैदावार और घटी लागत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhattisgarh-farmer-adopts-new-technique-nano-fertilizers-boost-yield-and-reduce-costs/",
-      "important": false
-    },
-    {
-      "id": "95c9c1a2",
-      "title": "छत्तीसगढ़: रायगढ़ में कृषि मंत्रालय की टीम ने किया मृदा स्वास्थ्य कार्ड योजना का मूल्यांकन, किसानों से लिया फीडबैक",
-      "summary": "छत्तीसगढ़: रायगढ़ में कृषि मंत्रालय की टीम ने किया मृदा स्वास्थ्य कार्ड योजना का मूल्यांकन, किसानों से लिया फीडबैक",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhattisgarh-ministry-of-agriculture-team-evaluates-soil-health-card-scheme-in-raigarh-gathers-feedback-from-farmers/",
-      "important": false
-    },
-    {
-      "id": "e8a2c503",
-      "title": "कृषि उपज मण्डी लक्ष्मीबाई नगर इंदौर में बलराम कृषि महोत्सव आज",
-      "summary": "कृषि उपज मण्डी लक्ष्मीबाई नगर इंदौर में बलराम कृषि महोत्सव आज",
-      "level": "state",
-      "category": "market",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-at-the-agricultural-produce-market-lakshmibai-nagar-indore-today/",
-      "important": false
-    },
-    {
-      "id": "25f6ba0b",
-      "title": "पशुओं के इलाज में लापरवाही बर्दाश्त नहीं, देर से आने वाले डॉक्टरों पर हो तुरंत कार्रवाई; CM भजनलाल शर्मा ने दिए कड़े निर",
-      "summary": "पशुओं के इलाज में लापरवाही बर्दाश्त नहीं, देर से आने वाले डॉक्टरों पर हो तुरंत कार्रवाई; CM भजनलाल शर्मा ने दिए कड़े निर्देश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/negligence-in-the-treatment-of-animals-will-not-be-tolerated-immediate-action-must-be-taken-against-doctors-who-arrive-late-cm-bhajanlal-sharma-issues-strict-directives/",
-      "important": false
-    },
-    {
-      "id": "d1f71c94",
-      "title": "पैराक्वाट डाइक्लोराइड पर पूर्ण प्रतिबंध की तैयारी",
-      "summary": "पैराक्वाट डाइक्लोराइड पर पूर्ण प्रतिबंध की तैयारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/preparations-for-a-complete-ban-on-paraquat-dichloride/",
-      "important": false
-    },
-    {
-      "id": "c2db8a49",
-      "title": "बीएएसएफ ने मध्य प्रदेश में ‘सुरक्षा हमेशा – कृषक जागरूकता यात्रा’ का किया शुभारंभ",
-      "summary": "बीएएसएफ ने मध्य प्रदेश में ‘सुरक्षा हमेशा – कृषक जागरूकता यात्रा’ का किया शुभारंभ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/basf-launches-suraksha-hamesha-farmer-awareness-yatra-in-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "c838b81d",
-      "title": "खरीफ बुवाई पिछले वर्ष से 101.44 लाख हेक्टेयर पीछे, सोयाबीन, धान और कपास की रफ्तार धीमी",
-      "summary": "खरीफ बुवाई पिछले वर्ष से 101.44 लाख हेक्टेयर पीछे, सोयाबीन, धान और कपास की रफ्तार धीमी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/kharif-sowing-lags-101-44-lakh-hectares-behind-last-year-pace-of-soybean-paddy-and-cotton-sowing-remains-slow/",
-      "important": false
-    },
-    {
-      "id": "e20d6364",
-      "title": "पैराक्वॉट खरपतवारनाशक पर पूर्ण प्रतिबंध की तैयारी, केंद्र सरकार ने जारी किया मसौदा आदेश",
-      "summary": "पैराक्वॉट खरपतवारनाशक पर पूर्ण प्रतिबंध की तैयारी, केंद्र सरकार ने जारी किया मसौदा आदेश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/preparations-underway-for-a-complete-ban-on-the-herbicide-paraquat-central-government-issues-draft-order/",
-      "important": false
     }
   ]
 }
