@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-20T03:39:52Z",
-  "new_count": 0,
+  "updated": "2026-07-20T09:25:26Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "a3be3f3c",
+      "title": "बिहार की कृषि व्यवस्था होगी डिजिटल, गूगल के साथ मिलकर बनेगा स्मार्ट कृषि सिस्टम",
+      "summary": "बिहार की कृषि व्यवस्था होगी डिजिटल, गूगल के साथ मिलकर बनेगा स्मार्ट कृषि सिस्टम",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bihars-agricultural-system-to-go-digital-smart-agriculture-system-to-be-developed-in-collaboration-with-google/",
+      "important": false
+    },
+    {
+      "id": "cc68b339",
+      "title": "स्लीमनाबाद टनल बनेगी विंध्य-बुंदेलखंड की अमृतधारा",
+      "summary": "स्लीमनाबाद टनल बनेगी विंध्य-बुंदेलखंड की अमृतधारा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sleemanabad-tunnel-to-become-a-lifeline-for-the-vindhya-bundelkhand-region/",
+      "important": false
+    },
+    {
+      "id": "1bf3d5e1",
+      "title": "मुख्यमंत्री डॉ. यादव ने किसानों के खातों में जारी की 1460 करोड़ 25 लाख रुपए की राशि",
+      "summary": "मुख्यमंत्री डॉ. यादव ने किसानों के खातों में जारी की 1460 करोड़ 25 लाख रुपए की राशि",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chief-minister-dr-yadav-released-a-sum-of-%e2%82%b91460-25-crore-into-farmers-accounts/",
+      "important": false
+    },
+    {
+      "id": "e276e8b8",
+      "title": "कृषि महोत्सव झाबुआ में मुख्यमंत्री डॉ. यादव ने ऑनलाइन किसानों से की चर्चा",
+      "summary": "कृषि महोत्सव झाबुआ में मुख्यमंत्री डॉ. यादव ने ऑनलाइन किसानों से की चर्चा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chief-minister-dr-yadav-interacted-with-farmers-online-during-the-agriculture-festival-in-jhabua/",
+      "important": false
+    },
+    {
+      "id": "a2dcb07d",
+      "title": "विभिन्न कृषि यंत्रों हेतु 28 जुलाई तक आवेदन आमंत्रित",
+      "summary": "विभिन्न कृषि यंत्रों हेतु 28 जुलाई तक आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/applications-invited-for-various-agricultural-implements-until-july-28/",
+      "important": false
+    },
+    {
+      "id": "2ab16a58",
+      "title": "सीहोर: समर्थन मूल्य पर उपार्जन के लिए किसान पंजीयन में एग्रीस्टेक आईडी अनिवार्य",
+      "summary": "सीहोर: समर्थन मूल्य पर उपार्जन के लिए किसान पंजीयन में एग्रीस्टेक आईडी अनिवार्य",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-agristack-id-mandatory-for-farmer-registration-for-procurement-at-minimum-support-price/",
+      "important": false
+    },
+    {
+      "id": "ed54c5e0",
+      "title": "सीहोर: मत्स्य पालन के लिए दो जलाशयों के पट्टे हेतु आवेदन आमंत्रित",
+      "summary": "सीहोर: मत्स्य पालन के लिए दो जलाशयों के पट्टे हेतु आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-applications-invited-for-the-lease-of-two-water-bodies-for-fish-farming/",
+      "important": false
+    },
+    {
+      "id": "acc14e4a",
+      "title": "ग्वालियर: बांस के सहारे खुल गए तरक्की के नए रास्ते",
+      "summary": "ग्वालियर: बांस के सहारे खुल गए तरक्की के नए रास्ते",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gwalior-new-avenues-for-progress-opened-up-through-bamboo/",
+      "important": false
+    },
     {
       "id": "94ecb6bc",
       "title": "आज का सोयाबीन मंडी रेट (18 जुलाई 2026)",
@@ -463,94 +551,6 @@
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-market-rate-15-july-2026/",
       "important": false
-    },
-    {
-      "id": "70eec02a",
-      "title": "पश्चिम-मध्य व दक्षिण भारत में अगले 7 दिन कम होगी बारिश: UP-बिहार-ओडिशा में भारी बारिश; बंगाल की खाड़ी में बने लो प्रेशर ",
-      "summary": "पश्चिम-मध्य व दक्षिण भारत में अगले 7 दिन कम होगी बारिश: UP-बिहार-ओडिशा में भारी बारिश; बंगाल की खाड़ी में बने लो प्रेशर सिस्टम का असर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/rainfall-to-decrease-in-west-central-and-south-india-over-the-next-7-days-heavy-rain-expected-in-up-bihar-and-odisha-due-to-a-low-pressure-system-formed-in-the-bay-of-bengal/",
-      "important": false
-    },
-    {
-      "id": "582c0c1b",
-      "title": "आज का मक्का मंडी रेट (15 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (15 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-15-july-2026/",
-      "important": false
-    },
-    {
-      "id": "558b506e",
-      "title": "आज का सोयाबीन मंडी रेट (15 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (15 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-15-july-2026/",
-      "important": false
-    },
-    {
-      "id": "01da9886",
-      "title": "धार कलेक्टर ने की सहकारिता विभाग के कार्यों की समीक्षा",
-      "summary": "धार कलेक्टर ने की सहकारिता विभाग के कार्यों की समीक्षा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dhar-collector-reviews-the-functioning-of-the-cooperative-department/",
-      "important": false
-    },
-    {
-      "id": "f3cf51f1",
-      "title": "धार: प्रभावित किसानों को 7.22 करोड़ की  मुआवजा राशि वितरित",
-      "summary": "धार: प्रभावित किसानों को 7.22 करोड़ की  मुआवजा राशि वितरित",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dhar-compensation-amount-of-%e2%82%b97-22-crore-distributed-to-affected-farmers/",
-      "important": false
-    },
-    {
-      "id": "f190c1e2",
-      "title": "धार जिले में रबी फसल चिया सीड के विस्तार पर विशेष जोर",
-      "summary": "धार जिले में रबी फसल चिया सीड के विस्तार पर विशेष जोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/special-emphasis-on-the-expansion-of-the-rabi-crop-chia-seed-in-dhar-district/",
-      "important": false
-    },
-    {
-      "id": "bdd6fa87",
-      "title": "मध्य प्रदेश के 7 जिलों में खरीफ 2026 के लिए प्रधानमंत्री फसल बीमा योजना लागू",
-      "summary": "मध्य प्रदेश के 7 जिलों में खरीफ 2026 के लिए प्रधानमंत्री फसल बीमा योजना लागू",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pradhan-mantri-fasal-bima-yojana-implemented-in-7-districts-of-madhya-pradesh-for-kharif-2026-2/",
-      "important": false
-    },
-    {
-      "id": "3835ee53",
-      "title": "अंतिम तिथि नजदीक! किसान 31 जुलाई तक प्रधानमंत्री फसल बीमा योजना का जरूर उठाएं लाभ",
-      "summary": "अंतिम तिथि नजदीक! किसान 31 जुलाई तक प्रधानमंत्री फसल बीमा योजना का जरूर उठाएं लाभ",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/deadline-approaching-farmers-must-avail-the-benefits-of-the-pradhan-mantri-fasal-bima-yojana-by-july-31/",
-      "important": true
     }
   ]
 }
