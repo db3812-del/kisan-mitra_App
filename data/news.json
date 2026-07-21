@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-21T08:37:10Z",
+  "updated": "2026-07-21T14:06:21Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "fe51e54c",
+      "title": "आज का गेहूं मंडी रेट (21 जुलाई 2026)",
+      "summary": "आज का गेहूं मंडी रेट (21 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-21-july-2026/",
+      "important": false
+    },
+    {
+      "id": "994787ec",
+      "title": "मप्र विधानसभा में ‘समान नागरिक संहिता विधेयक-2026 पारित’",
+      "summary": "मप्र विधानसभा में ‘समान नागरिक संहिता विधेयक-2026 पारित’",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/uniform-civil-code-bill-2026-passed-in-mp-assembly/",
+      "important": false
+    },
+    {
+      "id": "2db81090",
+      "title": "आज का धान मंडी रेट (21 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (21 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-21-july-2026/",
+      "important": false
+    },
+    {
+      "id": "c46f4315",
+      "title": "आज का मक्का मंडी रेट (21 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (21 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/todays-maize-mandi-rate-21-july-2026/",
+      "important": false
+    },
+    {
+      "id": "260763dc",
+      "title": "गुरु पूर्णिमा 2026: पूरे मध्यप्रदेश में होगा ‘महर्षि सांदीपनि श्रद्धा पर्व’, सभी सांदीपनि विद्यालयों का होगा लोकार्पण",
+      "summary": "गुरु पूर्णिमा 2026: पूरे मध्यप्रदेश में होगा ‘महर्षि सांदीपनि श्रद्धा पर्व’, सभी सांदीपनि विद्यालयों का होगा लोकार्पण",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/guru-purnima-2026-maharshi-sandipani-shraddha-parv-to-be-held-across-madhya-pradesh-all-sandipani-schools-to-be-inaugurated/",
+      "important": false
+    },
+    {
+      "id": "77ba7925",
+      "title": "आज का सोयाबीन मंडी रेट (21 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (21 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-21-july-2026/",
+      "important": false
+    },
+    {
+      "id": "6a338608",
+      "title": "मध्य प्रदेश में खाद और बीज की कोई कमी नहीं: सहकारिता मंत्री श्री सारंग",
+      "summary": "मध्य प्रदेश में खाद और बीज की कोई कमी नहीं: सहकारिता मंत्री श्री सारंग",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/no-shortage-of-fertilizers-and-seeds-in-madhya-pradesh-cooperative-minister-mr-sarang/",
+      "important": false
+    },
+    {
+      "id": "046c7cf0",
+      "title": "बालाघाट : दलहन प्रसंस्करण इकाई स्थापना के लिए 30 अगस्त तक आवेदन आमंत्रित",
+      "summary": "बालाघाट : दलहन प्रसंस्करण इकाई स्थापना के लिए 30 अगस्त तक आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-applications-invited-until-august-30-for-setting-up-a-pulse-processing-unit/",
+      "important": false
+    },
     {
       "id": "7d8da5fc",
       "title": "किसानों के लिए खुशखबरी! खजूर का बगीचा लगाने पर मिलेगा 75% तक अनुदान, जानिए कैसे मिलेगा योजना का लाभ",
@@ -462,94 +550,6 @@
       "date": "2026-07-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-17-july-2026/",
-      "important": false
-    },
-    {
-      "id": "5593ed74",
-      "title": "आज का मक्का मंडी रेट (17 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (17 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-17-july-2026/",
-      "important": false
-    },
-    {
-      "id": "1290705e",
-      "title": "आज का धान मंडी रेट (17 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (17 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-17-july-2026/",
-      "important": false
-    },
-    {
-      "id": "4b17827a",
-      "title": "90-130 दिन में तैयार होंगी धान की ये वैरायटी, कम बारिश में भी देंगी अच्छा उत्पादन; कृषि विभाग ने दी बुवाई की सलाह",
-      "summary": "90-130 दिन में तैयार होंगी धान की ये वैरायटी, कम बारिश में भी देंगी अच्छा उत्पादन; कृषि विभाग ने दी बुवाई की सलाह",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/these-paddy-varieties-will-be-ready-in-90-130-days-and-yield-good-produce-even-with-low-rainfall-the-agriculture-department-has-advised-sowing-them/",
-      "important": false
-    },
-    {
-      "id": "ab97be45",
-      "title": "एसडीएम सिवनी मालवा ने किसान संगठनों के साथ की बैठक",
-      "summary": "एसडीएम सिवनी मालवा ने किसान संगठनों के साथ की बैठक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sdm-seoni-malwa-held-a-meeting-with-farmers-organizations/",
-      "important": false
-    },
-    {
-      "id": "4b959a8a",
-      "title": "आज का सोयाबीन मंडी रेट (17 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (17 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-17-july-2026/",
-      "important": false
-    },
-    {
-      "id": "ff26ec6e",
-      "title": "एक ही खेत में उगा रहे 10 से ज्यादा फसलें, इंटीग्रेटेड फार्मिंग ने बदली पांढुर्ना के किसान की किस्मत; अब सालभर हो रही अच्",
-      "summary": "एक ही खेत में उगा रहे 10 से ज्यादा फसलें, इंटीग्रेटेड फार्मिंग ने बदली पांढुर्ना के किसान की किस्मत; अब सालभर हो रही अच्छी कमाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/growing-over-10-crops-in-a-single-field-integrated-farming-has-transformed-the-fortunes-of-a-pandhurna-farmer-he-now-earns-a-good-income-all-year-round/",
-      "important": false
-    },
-    {
-      "id": "f6226642",
-      "title": "राजस्थान में किसानों को बड़ी सौगात! अब किराए पर मिलेंगे ट्रैक्टर और कृषि यंत्र, कृषि विभाग ने टैफे-जेफार्म सर्विसेज से क",
-      "summary": "राजस्थान में किसानों को बड़ी सौगात! अब किराए पर मिलेंगे ट्रैक्टर और कृषि यंत्र, कृषि विभाग ने टैफे-जेफार्म सर्विसेज से किया एमओयू",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-major-boon-for-farmers-in-rajasthan-tractors-and-agricultural-machinery-will-now-be-available-on-rent-the-agriculture-department-has-signed-an-mou-with-tafe-jfarm-services/",
-      "important": false
-    },
-    {
-      "id": "573338e4",
-      "title": "NIPU-2026 से यूरिया उत्पादन क्षमता बढ़ाने में मिलेगी मदद: FAI",
-      "summary": "NIPU-2026 से यूरिया उत्पादन क्षमता बढ़ाने में मिलेगी मदद: FAI",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/nipu-2026-to-help-boost-urea-production-capacity-fai/",
       "important": false
     }
   ]
