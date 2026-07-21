@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-21T03:19:55Z",
-  "new_count": 0,
+  "updated": "2026-07-21T08:37:10Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "7d8da5fc",
+      "title": "किसानों के लिए खुशखबरी! खजूर का बगीचा लगाने पर मिलेगा 75% तक अनुदान, जानिए कैसे मिलेगा योजना का लाभ",
+      "summary": "किसानों के लिए खुशखबरी! खजूर का बगीचा लगाने पर मिलेगा 75% तक अनुदान, जानिए कैसे मिलेगा योजना का लाभ",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/good-news-for-farmers-get-a-subsidy-of-up-to-75-for-setting-up-a-date-palm-orchard-find-out-how-to-avail-the-benefits-of-the-scheme/",
+      "important": false
+    },
+    {
+      "id": "33dbadb4",
+      "title": "राजस्थान: डूंगरपुर की 50महिला किसान गुजरात दौरे पर रवाना, आधुनिक कृषि तकनीकों का करेंगी अध्ययन",
+      "summary": "राजस्थान: डूंगरपुर की 50महिला किसान गुजरात दौरे पर रवाना, आधुनिक कृषि तकनीकों का करेंगी अध्ययन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-50-women-farmers-from-dungarpur-set-off-on-a-tour-of-gujarat-will-study-modern-agricultural-techniques/",
+      "important": false
+    },
+    {
+      "id": "e968e0c2",
+      "title": "सहजन की खेती से बढ़ेगी किसानों की आय, बीकानेर में शुरू हुआ तीन दिवसीय प्रशिक्षण; किसानों को मिलेंगे 1,000 मुफ्त पौधे",
+      "summary": "सहजन की खेती से बढ़ेगी किसानों की आय, बीकानेर में शुरू हुआ तीन दिवसीय प्रशिक्षण; किसानों को मिलेंगे 1,000 मुफ्त पौधे",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/drumstick-cultivation-to-boost-farmers-income-three-day-training-begins-in-bikaner-farmers-to-receive-1000-free-saplings/",
+      "important": false
+    },
+    {
+      "id": "38f0fe14",
+      "title": "मटर की खेती में किसान ने अपनाई स्टेकिंग तकनीक, उत्पादन 40 से बढ़कर 55 क्विंटल/एकड़ पहुंचा; मंडी में भी मिले 20% ज्यादा द",
+      "summary": "मटर की खेती में किसान ने अपनाई स्टेकिंग तकनीक, उत्पादन 40 से बढ़कर 55 क्विंटल/एकड़ पहुंचा; मंडी में भी मिले 20% ज्यादा दाम",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmer-adopts-staking-technique-for-pea-cultivation-yield-rises-from-40-to-55-quintals-per-acre-and-prices-fetched-in-the-market-are-20-higher/",
+      "important": false
+    },
+    {
+      "id": "1289bf6e",
+      "title": "किसान दिवस पर किसानों को बड़ी सौगात, बैंक ऑफ इंडिया ने किसानों को दिए ₹35 करोड़ के कृषि ऋण",
+      "summary": "किसान दिवस पर किसानों को बड़ी सौगात, बैंक ऑफ इंडिया ने किसानों को दिए ₹35 करोड़ के कृषि ऋण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-major-gift-for-farmers-on-farmers-day-bank-of-india-disbursed-agricultural-loans-worth-%e2%82%b935-crore-to-farmers/",
+      "important": false
+    },
+    {
+      "id": "367fb4c5",
+      "title": "DAP की जगह अपनाएं यह तरीका, किसानों की उर्वरक लागत में होगी ₹800 तक की बचत",
+      "summary": "DAP की जगह अपनाएं यह तरीका, किसानों की उर्वरक लागत में होगी ₹800 तक की बचत",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/adopt-this-method-instead-of-dap-farmers-can-save-up-to-%e2%82%b9800-on-fertilizer-costs/",
+      "important": false
+    },
+    {
+      "id": "f06b9038",
+      "title": "छिंदवाड़ा : प्रधानमंत्री फसल बीमा योजना में अधिसूचित फसलें एवं फसल क्षति का बीमा कवरेज",
+      "summary": "छिंदवाड़ा : प्रधानमंत्री फसल बीमा योजना में अधिसूचित फसलें एवं फसल क्षति का बीमा कवरेज",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-insurance-coverage-for-notified-crops-and-crop-loss-under-the-pradhan-mantri-fasal-bima-yojana/",
+      "important": false
+    },
+    {
+      "id": "a85c661d",
+      "title": "स्मार्ट और सतत खेती ही कृषि का भविष्य: दिव्यांश अग्रवाल",
+      "summary": "स्मार्ट और सतत खेती ही कृषि का भविष्य: दिव्यांश अग्रवाल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/smart-and-sustainable-farming-is-the-future-of-agriculture-divyansh-agarwal/",
+      "important": false
+    },
     {
       "id": "2ee6350d",
       "title": "श्री जैन के मरणोपरांत नेत्रदान से दो दृष्टिबाधितों को मिलेगी दृष्टि",
@@ -462,94 +550,6 @@
       "date": "2026-07-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/nipu-2026-to-help-boost-urea-production-capacity-fai/",
-      "important": false
-    },
-    {
-      "id": "3698ccab",
-      "title": "उज्जैन: एकीकृत बागवानी मिशन योजना अंतर्गत ऑनलाइन आवेदन आमंत्रित",
-      "summary": "उज्जैन: एकीकृत बागवानी मिशन योजना अंतर्गत ऑनलाइन आवेदन आमंत्रित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ujjain-online-applications-invited-under-the-mission-for-integrated-development-of-horticulture-scheme/",
-      "important": false
-    },
-    {
-      "id": "7beb3b97",
-      "title": "सूखा व अल्प वर्षा की आशंका को देखते हुए फसलों का बीमा कराएं",
-      "summary": "सूखा व अल्प वर्षा की आशंका को देखते हुए फसलों का बीमा कराएं",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/get-your-crops-insured-in-view-of-the-possibility-of-drought-and-scanty-rainfall/",
-      "important": false
-    },
-    {
-      "id": "ad86295b",
-      "title": "13 नवंबर तक प्रदेश के सभी 55 जिलों में होंगे कृषि महोत्सव और किसान हितैषी आयोजन",
-      "summary": "13 नवंबर तक प्रदेश के सभी 55 जिलों में होंगे कृषि महोत्सव और किसान हितैषी आयोजन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agricultural-festivals-and-farmer-friendly-events-will-be-held-across-all-55-districts-of-the-state-until-november-13/",
-      "important": false
-    },
-    {
-      "id": "5f2733b4",
-      "title": "किसान कल्याण वर्ष 2026: उज्जैन में प्राकृतिक खेती, फसल विविधीकरण और सूक्ष्म सिंचाई पर जोर",
-      "summary": "किसान कल्याण वर्ष 2026: उज्जैन में प्राकृतिक खेती, फसल विविधीकरण और सूक्ष्म सिंचाई पर जोर",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-welfare-year-2026-focus-on-natural-farming-crop-diversification-and-micro-irrigation-in-ujjain/",
-      "important": false
-    },
-    {
-      "id": "f2c4667c",
-      "title": "मध्य प्रदेश के किसानों के लिए खुशखबरी: ड्रिप, स्प्रिंकलर और मिनी स्प्रिंकलर पर मिलेगी सब्सिडी, आवेदन शुरू",
-      "summary": "मध्य प्रदेश के किसानों के लिए खुशखबरी: ड्रिप, स्प्रिंकलर और मिनी स्प्रिंकलर पर मिलेगी सब्सिडी, आवेदन शुरू",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/good-news-for-farmers-in-madhya-pradesh-subsidy-available-for-drip-sprinkler-and-mini-sprinkler-systems-applications-are-now-open/",
-      "important": false
-    },
-    {
-      "id": "10331a93",
-      "title": "खरीफ में बाजरा की खेती: कम पानी में अधिक मुनाफा देने वाली फसल, जानें सफल उत्पादन के आसान उपाय",
-      "summary": "खरीफ में बाजरा की खेती: कम पानी में अधिक मुनाफा देने वाली फसल, जानें सफल उत्पादन के आसान उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/cultivating-pearl-millet-bajra-during-kharif-a-high-profit-crop-requiring-less-water-learn-easy-tips-for-successful-production/",
-      "important": false
-    },
-    {
-      "id": "c93d6dd1",
-      "title": "MP-राजस्थान में मानसून की रफ्तार धीमी: जगन्नाथ रथ यात्रा से पहले ओडिशा में अति भारी बारिश; यूपी-बिहार भी भीगेंगे बंगाल क",
-      "summary": "MP-राजस्थान में मानसून की रफ्तार धीमी: जगन्नाथ रथ यात्रा से पहले ओडिशा में अति भारी बारिश; यूपी-बिहार भी भीगेंगे बंगाल की खाड़ी में मजबूत लो प्रेशर का असर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/monsoon-slows-down-in-mp-and-rajasthan-extremely-heavy-rainfall-in-odisha-ahead-of-the-jagannath-rath-yatra-up-and-bihar-also-set-for-rain-due-to-the-impact-of-a-strong-low-pressure-system-in-the-ba/",
-      "important": false
-    },
-    {
-      "id": "bdc7c1b9",
-      "title": "30 जुलाई को खंडवा में होगा बलराम कृषि महोत्सव, ड्रोन तकनीक से जैविक खेती तक मिलेगा मार्गदर्शन",
-      "summary": "30 जुलाई को खंडवा में होगा बलराम कृषि महोत्सव, ड्रोन तकनीक से जैविक खेती तक मिलेगा मार्गदर्शन",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-to-be-held-in-khandwa-on-july-30-guidance-ranging-from-drone-technology-to-organic-farming-will-be-provided/",
       "important": false
     }
   ]
