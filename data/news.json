@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-22T03:18:24Z",
-  "new_count": 0,
+  "updated": "2026-07-22T08:36:34Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "350ea1eb",
+      "title": "कृषि मंत्रालय की साप्ताहिक समीक्षा बैठक: शिवराज सिंह बोले- बारिश की कमी के बावजूद खरीफ बुवाई जारी, कई राज्यों में बने अन",
+      "summary": "कृषि मंत्रालय की साप्ताहिक समीक्षा बैठक: शिवराज सिंह बोले- बारिश की कमी के बावजूद खरीफ बुवाई जारी, कई राज्यों में बने अनुकूल हालात",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/ministry-of-agricultures-weekly-review-meeting-shivraj-singh-says-kharif-sowing-continues-despite-rainfall-deficit-favorable-conditions-have-emerged-in-several-states/",
+      "important": false
+    },
+    {
+      "id": "e88da45a",
+      "title": "एनडीवीआई से खरीफ फसलों की स्थिति का आकलन, कृषि मंत्रालय ने की मानसून और एल नीनो की समीक्षा",
+      "summary": "एनडीवीआई से खरीफ फसलों की स्थिति का आकलन, कृषि मंत्रालय ने की मानसून और एल नीनो की समीक्षा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/assessment-of-kharif-crop-conditions-using-ndvi-ministry-of-agriculture-reviews-monsoon-and-el-nino/",
+      "important": false
+    },
+    {
+      "id": "35a28e58",
+      "title": "अब 2-3 घंटे में होगी 1 एकड़ धान की रोपाई, पैडी ट्रांसप्लांटर बना किसानों के लिए वरदान; समय और लागत दोनों में बड़ी बचत",
+      "summary": "अब 2-3 घंटे में होगी 1 एकड़ धान की रोपाई, पैडी ट्रांसप्लांटर बना किसानों के लिए वरदान; समय और लागत दोनों में बड़ी बचत",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/transplanting-one-acre-of-paddy-will-now-take-just-2-3-hours-the-paddy-transplanter-has-become-a-boon-for-farmers-offering-significant-savings-in-both-time-and-cost/",
+      "important": false
+    },
+    {
+      "id": "5982b828",
+      "title": "बड़वानी जिले में मनाया गया बलराम कृषि महोत्सव",
+      "summary": "बड़वानी जिले में मनाया गया बलराम कृषि महोत्सव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-celebrated-in-barwani-district/",
+      "important": false
+    },
+    {
+      "id": "8371a708",
+      "title": "रायगढ़ का ‘जवांफूल’ धान बना किसानों की कमाई का जरिया, ₹180 किलो तक बिक रहा सुगंधित चावल",
+      "summary": "रायगढ़ का ‘जवांफूल’ धान बना किसानों की कमाई का जरिया, ₹180 किलो तक बिक रहा सुगंधित चावल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raigarhs-jawanphool-paddy-becomes-a-source-of-income-for-farmers-aromatic-rice-selling-for-up-to-%e2%82%b9180-per-kg/",
+      "important": false
+    },
+    {
+      "id": "fffc6a41",
+      "title": "छत्तीसगढ़ के किसानों को बड़ी सौगात: अब ड्रोन से होगा खाद और कीटनाशकों का छिड़काव, 5 समितियों में शुरू हुई सुविधा",
+      "summary": "छत्तीसगढ़ के किसानों को बड़ी सौगात: अब ड्रोन से होगा खाद और कीटनाशकों का छिड़काव, 5 समितियों में शुरू हुई सुविधा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-major-boost-for-chhattisgarh-farmers-fertilizers-and-pesticides-will-now-be-sprayed-using-drones-the-facility-has-been-launched-across-five-societies/",
+      "important": false
+    },
+    {
+      "id": "30a42bcb",
+      "title": "छत्तीसगढ़ की महिलाएं लिख रहीं सफलता की नई कहानी, औषधीय खेती से बन रहीं ‘लखपति दीदी’",
+      "summary": "छत्तीसगढ़ की महिलाएं लिख रहीं सफलता की नई कहानी, औषधीय खेती से बन रहीं ‘लखपति दीदी’",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/women-in-chhattisgarh-are-scripting-a-new-success-story-becoming-lakhpati-didis-through-medicinal-farming/",
+      "important": false
+    },
+    {
+      "id": "e56fa274",
+      "title": "बलराम कृषि महोत्सव: सीएम मोहन यादव बोले- बड़वानी की लाल मिर्च को दिलाएंगे GI टैग, किसानों को मिलेगा बड़ा लाभ",
+      "summary": "बलराम कृषि महोत्सव: सीएम मोहन यादव बोले- बड़वानी की लाल मिर्च को दिलाएंगे GI टैग, किसानों को मिलेगा बड़ा लाभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-cm-mohan-yadav-says-barwanis-red-chili-will-get-the-gi-tag-farmers-to-reap-major-benefits/",
+      "important": false
+    },
     {
       "id": "fe51e54c",
       "title": "आज का गेहूं मंडी रेट (21 जुलाई 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-07-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/heavy-rainfall-is-likely-in-narsinghpur-and-chhindwara-districts-and-normal-rainfall-in-several-other-districts/",
-      "important": false
-    },
-    {
-      "id": "20bdb30c",
-      "title": "छत्तीसगढ़ में फसल विविधीकरण को रफ्तार, 6,139 हेक्टेयर में धान की जगह बोई गईं दूसरी फसलें",
-      "summary": "छत्तीसगढ़ में फसल विविधीकरण को रफ्तार, 6,139 हेक्टेयर में धान की जगह बोई गईं दूसरी फसलें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/crop-diversification-gains-momentum-in-chhattisgarh-alternative-crops-sown-on-6139-hectares-instead-of-paddy/",
-      "important": false
-    },
-    {
-      "id": "898a7965",
-      "title": "किसानों की शिकायत पर डबल लॉक केंद्रों का औचक निरीक्षण, अनियमितताओं की जांच शुरू",
-      "summary": "किसानों की शिकायत पर डबल लॉक केंद्रों का औचक निरीक्षण, अनियमितताओं की जांच शुरू",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/surprise-inspection-of-double-lock-centers-conducted-following-farmers-complaints-investigation-into-irregularities-initiated/",
-      "important": false
-    },
-    {
-      "id": "03d7fc5b",
-      "title": "यूपी के गन्ना किसानों के लिए बड़ी पहल: कम समय में अधिक उपज देने वाली नई किस्मों के विकास पर जोर",
-      "summary": "यूपी के गन्ना किसानों के लिए बड़ी पहल: कम समय में अधिक उपज देने वाली नई किस्मों के विकास पर जोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-initiative-for-up-sugarcane-farmers-focus-on-developing-new-varieties-that-offer-higher-yields-in-less-time/",
-      "important": false
-    },
-    {
-      "id": "5081a34c",
-      "title": "किसानों के लिए मुख्यमंत्री की बड़ी घोषणाएं: 40 लाख की डेयरी यूनिट पर 10 लाख अनुदान, दिन में मिलेगी कृषि बिजली",
-      "summary": "किसानों के लिए मुख्यमंत्री की बड़ी घोषणाएं: 40 लाख की डेयरी यूनिट पर 10 लाख अनुदान, दिन में मिलेगी कृषि बिजली",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chief-ministers-major-announcements-for-farmers-%e2%82%b910-lakh-subsidy-on-a-%e2%82%b940-lakh-dairy-unit-agricultural-electricity-to-be-supplied-during-the-day/",
-      "important": false
-    },
-    {
-      "id": "f2c108a1",
-      "title": "राजस्थान में बीज कंपनियों के पंजीकरण में डिजिटल क्रांति: ब्लॉकचेन तकनीक से होगी ऑनलाइन और फेसलेस प्रक्रिया",
-      "summary": "राजस्थान में बीज कंपनियों के पंजीकरण में डिजिटल क्रांति: ब्लॉकचेन तकनीक से होगी ऑनलाइन और फेसलेस प्रक्रिया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/digital-revolution-in-seed-company-registration-in-rajasthan-online-and-faceless-process-via-blockchain-technology/",
-      "important": false
-    },
-    {
-      "id": "60c18921",
-      "title": "बलराम कृषि महोत्सव में वर्चुअली शामिल हुए CM मोहन यादव, बोले- आधुनिक खेती अपनाएं, वैल्यू एडिशन से बढ़ाएं आय",
-      "summary": "बलराम कृषि महोत्सव में वर्चुअली शामिल हुए CM मोहन यादव, बोले- आधुनिक खेती अपनाएं, वैल्यू एडिशन से बढ़ाएं आय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/cm-mohan-yadav-virtually-attended-the-balaram-agriculture-festival-urged-farmers-to-adopt-modern-farming-practices-and-boost-income-through-value-addition/",
-      "important": false
-    },
-    {
-      "id": "badd9559",
-      "title": "कम बारिश में फसल कैसे बचाएं? कृषि विभाग ने किसानों को दिए नमी बचाने के जरूरी सुझाव",
-      "summary": "कम बारिश में फसल कैसे बचाएं? कृषि विभाग ने किसानों को दिए नमी बचाने के जरूरी सुझाव",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/how-to-save-crops-during-scanty-rainfall-the-agriculture-department-has-offered-farmers-essential-tips-for-conserving-soil-moisture/",
-      "important": false
-    },
-    {
-      "id": "46e7a991",
-      "title": "आज का गेहूँ मंडी रेट (17 जुलाई 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (17 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-17-july-2026/",
       "important": false
     }
   ]
