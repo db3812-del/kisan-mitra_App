@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-22T08:36:34Z",
+  "updated": "2026-07-22T14:08:37Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "f009ee5b",
+      "title": "IMD का बड़ा अलर्ट: उत्तर, मध्य और पूर्वोत्तर भारत में आज मानसून रहेगा सक्रिय; जम्मू-कश्मीर, राजस्थान-गुजरात समेत कई राज्",
+      "summary": "IMD का बड़ा अलर्ट: उत्तर, मध्य और पूर्वोत्तर भारत में आज मानसून रहेगा सक्रिय; जम्मू-कश्मीर, राजस्थान-गुजरात समेत कई राज्यों में मूसलाधार बारिश की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/major-imd-alert-monsoon-to-remain-active-across-north-central-and-northeast-india-today-warning-of-torrential-rain-in-several-states-including-jammu-kashmir-rajasthan-and-gujarat/",
+      "important": false
+    },
+    {
+      "id": "1a8320b4",
+      "title": "तोतापुरी आम किसानों को मिलेगी राहत, ICAR की रिपोर्ट पर शिवराज सिंह ने दिए अहम निर्देश; खेती से बाजार तक होंगे बड़े बदलाव",
+      "summary": "तोतापुरी आम किसानों को मिलेगी राहत, ICAR की रिपोर्ट पर शिवराज सिंह ने दिए अहम निर्देश; खेती से बाजार तक होंगे बड़े बदलाव",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/relief-for-totapuri-mango-farmers-shivraj-singh-issues-key-directives-based-on-the-icar-report-major-changes-in-store-from-farm-to-market/",
+      "important": false
+    },
+    {
+      "id": "de5b325c",
+      "title": "गेहूं छोड़ शुरू की भिंडी की खेती, किसान की आय 16 हजार से बढ़कर 59 हजार रुपये पहुंची",
+      "summary": "गेहूं छोड़ शुरू की भिंडी की खेती, किसान की आय 16 हजार से बढ़कर 59 हजार रुपये पहुंची",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmer-switches-from-wheat-to-okra-cultivation-income-rises-from-%e2%82%b916000-to-%e2%82%b959000/",
+      "important": false
+    },
+    {
+      "id": "27a329e2",
+      "title": "छत्तीसगढ़ में खरीफ बुवाई ने पकड़ी रफ्तार, 33.50 लाख हेक्टेयर में हुई बोनी; किसानों को मिला 9.22 लाख मीट्रिक टन खाद",
+      "summary": "छत्तीसगढ़ में खरीफ बुवाई ने पकड़ी रफ्तार, 33.50 लाख हेक्टेयर में हुई बोनी; किसानों को मिला 9.22 लाख मीट्रिक टन खाद",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kharif-sowing-gains-momentum-in-chhattisgarh-planting-completed-across-3-35-million-hectares-farmers-receive-0-922-million-metric-tonnes-of-fertilizer/",
+      "important": false
+    },
+    {
+      "id": "0cbd2113",
+      "title": "किसानों के लिए बड़ी खबर! प्राकृतिक खेती करने पर मिलेगा 4,000 रुपये प्रति एकड़, ऐसे मिलेगा योजना का लाभ",
+      "summary": "किसानों के लिए बड़ी खबर! प्राकृतिक खेती करने पर मिलेगा 4,000 रुपये प्रति एकड़, ऐसे मिलेगा योजना का लाभ",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/big-news-for-farmers-receive-%e2%82%b94000-per-acre-for-practicing-natural-farming-here-is-how-to-avail-the-schemes-benefits/",
+      "important": false
+    },
+    {
+      "id": "203dc6fa",
+      "title": "सीहोर: वर्षा कालीन सब्जियों की बुवाई करने का यह उपयुक्त समय",
+      "summary": "सीहोर: वर्षा कालीन सब्जियों की बुवाई करने का यह उपयुक्त समय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-this-is-the-right-time-for-sowing-monsoon-vegetables/",
+      "important": false
+    },
+    {
+      "id": "3273b89c",
+      "title": "सीहोर: मत्स्य पालन के लिए दो जलाशयों के पट्टे हेतु आवेदन आमंत्रित",
+      "summary": "सीहोर: मत्स्य पालन के लिए दो जलाशयों के पट्टे हेतु आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-applications-invited-for-leasing-two-water-bodies-for-fisheries/",
+      "important": false
+    },
+    {
+      "id": "bf347a89",
+      "title": "आज का सोयाबीन मंडी रेट (22 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (22 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-22-july-2026/",
+      "important": false
+    },
     {
       "id": "350ea1eb",
       "title": "कृषि मंत्रालय की साप्ताहिक समीक्षा बैठक: शिवराज सिंह बोले- बारिश की कमी के बावजूद खरीफ बुवाई जारी, कई राज्यों में बने अन",
@@ -462,94 +550,6 @@
       "date": "2026-07-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/advisory-for-farmers-amidst-el-nino-concerns-sow-these-recommended-varieties-of-crops-ranging-from-paddy-to-urad/",
-      "important": false
-    },
-    {
-      "id": "312bdadb",
-      "title": "पन्ना कलेक्टर ने ड्रैगन फ्रूट की खेती का किया अवलोकन",
-      "summary": "पन्ना कलेक्टर ने ड्रैगन फ्रूट की खेती का किया अवलोकन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/panna-collector-inspected-dragon-fruit-cultivation/",
-      "important": false
-    },
-    {
-      "id": "4069b47c",
-      "title": "सागर कमिश्नर ने उद्यानिकी, मत्स्य, पशुपालन विभागों की समीक्षा की",
-      "summary": "सागर कमिश्नर ने उद्यानिकी, मत्स्य, पशुपालन विभागों की समीक्षा की",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-sagar-commissioner-reviewed-the-horticulture-fisheries-and-animal-husbandry-departments/",
-      "important": false
-    },
-    {
-      "id": "18539b28",
-      "title": "सागर: उद्यानिकी विभाग की विभिन्न योजनाओं पर मिल रहा अनुदान",
-      "summary": "सागर: उद्यानिकी विभाग की विभिन्न योजनाओं पर मिल रहा अनुदान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sagar-subsidies-being-received-under-various-schemes-of-the-horticulture-department/",
-      "important": false
-    },
-    {
-      "id": "61ff411c",
-      "title": "सागर: अल्ट्रा लो-कॉस्ट शेडनेट हाउस से बदल रही खेती की तस्वीर",
-      "summary": "सागर: अल्ट्रा लो-कॉस्ट शेडनेट हाउस से बदल रही खेती की तस्वीर",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sagar-ultra-low-cost-shade-net-houses-are-transforming-the-face-of-farming/",
-      "important": false
-    },
-    {
-      "id": "a2a772d1",
-      "title": "निवाड़ी: 31 जुलाई तक कराएं फसलों का बीमा",
-      "summary": "निवाड़ी: 31 जुलाई तक कराएं फसलों का बीमा",
-      "level": "state",
-      "category": "insurance",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/niwari-get-crops-insured-by-july-31/",
-      "important": false
-    },
-    {
-      "id": "4d9b163a",
-      "title": "सीधी में कृषि धन-धान्य योजना की समीक्षा बैठक संपन्न",
-      "summary": "सीधी में कृषि धन-धान्य योजना की समीक्षा बैठक संपन्न",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/review-meeting-of-the-krishi-dhan-dhanya-yojana-concludes-in-sidhi/",
-      "important": false
-    },
-    {
-      "id": "5d6c35fa",
-      "title": "ICAR CSR कॉन्क्लेव 2026: किसानों तक पहुंचेंगी आधुनिक कृषि तकनीकें, 75 कंपनियां आईं साथ",
-      "summary": "ICAR CSR कॉन्क्लेव 2026: किसानों तक पहुंचेंगी आधुनिक कृषि तकनीकें, 75 कंपनियां आईं साथ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/icar-csr-conclave-2026-modern-agricultural-technologies-to-reach-farmers-75-companies-join-hands/",
-      "important": false
-    },
-    {
-      "id": "6d37f774",
-      "title": "नरसिंहपुर और छिंदवाड़ा जिलों में भारी वर्षा एवं कई जिलों में सामान्य वर्षा संभावित",
-      "summary": "नरसिंहपुर और छिंदवाड़ा जिलों में भारी वर्षा एवं कई जिलों में सामान्य वर्षा संभावित",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/heavy-rainfall-is-likely-in-narsinghpur-and-chhindwara-districts-and-normal-rainfall-in-several-other-districts/",
       "important": false
     }
   ]
