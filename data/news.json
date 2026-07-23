@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-23T08:38:31Z",
-  "new_count": 0,
+  "updated": "2026-07-23T14:19:26Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "0736eae8",
+      "title": "MP ई-कृषि यंत्र अनुदान योजना: रिजर और शुगरकेन रेटून मैनेजर पर मिलेगी 50% तक सब्सिडी, किसान ऐसे करें आवेदन",
+      "summary": "MP ई-कृषि यंत्र अनुदान योजना: रिजर और शुगरकेन रेटून मैनेजर पर मिलेगी 50% तक सब्सिडी, किसान ऐसे करें आवेदन",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-07-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mp-e-farm-machinery-subsidy-scheme-up-to-50-subsidy-available-on-ridgers-and-sugarcane-ratoon-managers-here-is-how-farmers-can-apply/",
+      "important": false
+    },
+    {
+      "id": "74ec797f",
+      "title": "बड़वानी और धार जिलों में अति भारी वर्षा की संभावना",
+      "summary": "बड़वानी और धार जिलों में अति भारी वर्षा की संभावना",
+      "level": "state",
+      "category": "price",
+      "date": "2026-07-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/possibility-of-extremely-heavy-rainfall-in-barwani-and-dhar-districts/",
+      "important": false
+    },
+    {
+      "id": "a3ce543b",
+      "title": "आज का गेहूं मंडी रेट (23 जुलाई 2026)",
+      "summary": "आज का गेहूं मंडी रेट (23 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-23-july-2026/",
+      "important": false
+    },
+    {
+      "id": "2a2b869b",
+      "title": "आज का धान मंडी रेट (23 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (23 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-23-july-2026/",
+      "important": false
+    },
+    {
+      "id": "42840318",
+      "title": "आज का मक्का मंडी रेट (23 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (23 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-23-july-2026/",
+      "important": false
+    },
+    {
+      "id": "08dcd475",
+      "title": "आज का सोयाबीन मंडी रेट (23 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (23 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-23-july-2026/",
+      "important": false
+    },
+    {
+      "id": "4eba1868",
+      "title": "MP Onion Mandi Rate: मध्य प्रदेश की मंडियों में प्याज के दामों में बड़ा अंतर, कहीं ₹2,611 तो कहीं सिर्फ ₹100 प्रति क्विं",
+      "summary": "MP Onion Mandi Rate: मध्य प्रदेश की मंडियों में प्याज के दामों में बड़ा अंतर, कहीं ₹2,611 तो कहीं सिर्फ ₹100 प्रति क्विंटल मिलें भाव",
+      "level": "state",
+      "category": "price",
+      "date": "2026-07-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mp-onion-mandi-rates-significant-disparity-in-onion-prices-across-madhya-pradesh-markets-rates-range-from-%e2%82%b92611-per-quintal-in-some-places-to-as-low-as-%e2%82%b9100-in-others/",
+      "important": false
+    },
+    {
+      "id": "c4b9afb3",
+      "title": "IMD Alert: अगले 4 दिनों तक नहीं थमेगी बारिश, राजस्थान, MP, गुजरात, बिहार  और पूर्वोत्तर राज्यों में भारी बारिश की चेतावन",
+      "summary": "IMD Alert: अगले 4 दिनों तक नहीं थमेगी बारिश, राजस्थान, MP, गुजरात, बिहार  और पूर्वोत्तर राज्यों में भारी बारिश की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-alert-rain-to-continue-for-the-next-4-days-heavy-rainfall-warning-issued-for-rajasthan-mp-gujarat-bihar-and-the-northeastern-states/",
+      "important": false
+    },
     {
       "id": "f009ee5b",
       "title": "IMD का बड़ा अलर्ट: उत्तर, मध्य और पूर्वोत्तर भारत में आज मानसून रहेगा सक्रिय; जम्मू-कश्मीर, राजस्थान-गुजरात समेत कई राज्",
@@ -462,94 +550,6 @@
       "date": "2026-07-20",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/sleemanabad-tunnel-to-become-a-lifeline-for-the-vindhya-bundelkhand-region/",
-      "important": false
-    },
-    {
-      "id": "1bf3d5e1",
-      "title": "मुख्यमंत्री डॉ. यादव ने किसानों के खातों में जारी की 1460 करोड़ 25 लाख रुपए की राशि",
-      "summary": "मुख्यमंत्री डॉ. यादव ने किसानों के खातों में जारी की 1460 करोड़ 25 लाख रुपए की राशि",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chief-minister-dr-yadav-released-a-sum-of-%e2%82%b91460-25-crore-into-farmers-accounts/",
-      "important": false
-    },
-    {
-      "id": "e276e8b8",
-      "title": "कृषि महोत्सव झाबुआ में मुख्यमंत्री डॉ. यादव ने ऑनलाइन किसानों से की चर्चा",
-      "summary": "कृषि महोत्सव झाबुआ में मुख्यमंत्री डॉ. यादव ने ऑनलाइन किसानों से की चर्चा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chief-minister-dr-yadav-interacted-with-farmers-online-during-the-agriculture-festival-in-jhabua/",
-      "important": false
-    },
-    {
-      "id": "a2dcb07d",
-      "title": "विभिन्न कृषि यंत्रों हेतु 28 जुलाई तक आवेदन आमंत्रित",
-      "summary": "विभिन्न कृषि यंत्रों हेतु 28 जुलाई तक आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/applications-invited-for-various-agricultural-implements-until-july-28/",
-      "important": false
-    },
-    {
-      "id": "2ab16a58",
-      "title": "सीहोर: समर्थन मूल्य पर उपार्जन के लिए किसान पंजीयन में एग्रीस्टेक आईडी अनिवार्य",
-      "summary": "सीहोर: समर्थन मूल्य पर उपार्जन के लिए किसान पंजीयन में एग्रीस्टेक आईडी अनिवार्य",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-agristack-id-mandatory-for-farmer-registration-for-procurement-at-minimum-support-price/",
-      "important": false
-    },
-    {
-      "id": "ed54c5e0",
-      "title": "सीहोर: मत्स्य पालन के लिए दो जलाशयों के पट्टे हेतु आवेदन आमंत्रित",
-      "summary": "सीहोर: मत्स्य पालन के लिए दो जलाशयों के पट्टे हेतु आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-applications-invited-for-the-lease-of-two-water-bodies-for-fish-farming/",
-      "important": false
-    },
-    {
-      "id": "acc14e4a",
-      "title": "ग्वालियर: बांस के सहारे खुल गए तरक्की के नए रास्ते",
-      "summary": "ग्वालियर: बांस के सहारे खुल गए तरक्की के नए रास्ते",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/gwalior-new-avenues-for-progress-opened-up-through-bamboo/",
-      "important": false
-    },
-    {
-      "id": "94ecb6bc",
-      "title": "आज का सोयाबीन मंडी रेट (18 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (18 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-18-july-2026/",
-      "important": false
-    },
-    {
-      "id": "3ca3c1e6",
-      "title": "एल-नीनो की आशंका के बीच किसानों के लिए एडवाइजरी, धान से लेकर उड़द तक इन अनुशंसित किस्मों की करें बुवाई",
-      "summary": "एल-नीनो की आशंका के बीच किसानों के लिए एडवाइजरी, धान से लेकर उड़द तक इन अनुशंसित किस्मों की करें बुवाई",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/advisory-for-farmers-amidst-el-nino-concerns-sow-these-recommended-varieties-of-crops-ranging-from-paddy-to-urad/",
       "important": false
     }
   ]
