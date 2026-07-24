@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-24T08:34:31Z",
-  "new_count": 0,
+  "updated": "2026-07-24T13:55:52Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "6f02fe5a",
+      "title": "आज का गेहूं मंडी रेट (24 जुलाई 2026)",
+      "summary": "आज का गेहूं मंडी रेट (24 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-24-july-2026/",
+      "important": false
+    },
+    {
+      "id": "8e174cef",
+      "title": "आज का धान मंडी रेट (24 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (24 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-24-july-2026/",
+      "important": false
+    },
+    {
+      "id": "396f673d",
+      "title": "आज का मक्का मंडी रेट (24 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (24 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-24-july-2026/",
+      "important": false
+    },
+    {
+      "id": "8d3b680e",
+      "title": "आज का सोयाबीन मंडी रेट (24 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (24 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-24-july-2026/",
+      "important": false
+    },
+    {
+      "id": "2bbe2b7b",
+      "title": "IMD Weather Update: राजस्थान में बना लो-प्रेशर सिस्टम, गुजरात में अति भारी बारिश का अलर्ट; कई राज्यों में 30 जुलाई तक बर",
+      "summary": "IMD Weather Update: राजस्थान में बना लो-प्रेशर सिस्टम, गुजरात में अति भारी बारिश का अलर्ट; कई राज्यों में 30 जुलाई तक बरसेंगे बादल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-low-pressure-system-forms-over-rajasthan-alert-issued-for-extremely-heavy-rainfall-in-gujarat-rains-expected-in-several-states-until-july-30/",
+      "important": false
+    },
+    {
+      "id": "5ec269a3",
+      "title": "भूली बिसरी फसलें: क्या पोषण की खोई दौलत वापस लौटेगी?",
+      "summary": "भूली बिसरी फसलें: क्या पोषण की खोई दौलत वापस लौटेगी?",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/forgotten-crops-will-the-lost-wealth-of-nutrition-return/",
+      "important": false
+    },
+    {
+      "id": "9fa620aa",
+      "title": "एमपी में धान की रोपाई लक्ष्य से पीछे, क्या मानसून बदलेगा तस्वीर?",
+      "summary": "एमपी में धान की रोपाई लक्ष्य से पीछे, क्या मानसून बदलेगा तस्वीर?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/paddy-transplantation-in-mp-lags-behind-target-will-the-monsoon-change-the-picture/",
+      "important": false
+    },
+    {
+      "id": "89d0f3be",
+      "title": "मध्य प्रदेश खरीफ बुवाई 2026: सोयाबीन का दबदबा कायम, मक्का बनी किसानों की नई पसंद",
+      "summary": "मध्य प्रदेश खरीफ बुवाई 2026: सोयाबीन का दबदबा कायम, मक्का बनी किसानों की नई पसंद",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-kharif-sowing-2026-soybean-dominance-continues-maize-emerges-as-farmers-new-choice/",
+      "important": true
+    },
     {
       "id": "0736eae8",
       "title": "MP ई-कृषि यंत्र अनुदान योजना: रिजर और शुगरकेन रेटून मैनेजर पर मिलेगी 50% तक सब्सिडी, किसान ऐसे करें आवेदन",
@@ -462,94 +550,6 @@
       "date": "2026-07-20",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-20-july-2026/",
-      "important": false
-    },
-    {
-      "id": "29e22f6f",
-      "title": "धार: बैंक ऑफ इंडिया ने वितरित किए 35 करोड़ के कृषि ऋण",
-      "summary": "धार: बैंक ऑफ इंडिया ने वितरित किए 35 करोड़ के कृषि ऋण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dhar-bank-of-india-disbursed-agricultural-loans-worth-%e2%82%b935-crore/",
-      "important": false
-    },
-    {
-      "id": "ec2991f9",
-      "title": "आज का धान मंडी रेट (20 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (20 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-20-july-2026/",
-      "important": false
-    },
-    {
-      "id": "4e15175f",
-      "title": "आज का मक्का मंडी रेट (20 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (20 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-20-july-2026/",
-      "important": false
-    },
-    {
-      "id": "3906d43f",
-      "title": "आज का सोयाबीन मंडी रेट (20 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (20 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-20-july-2026/",
-      "important": false
-    },
-    {
-      "id": "d1e8bc95",
-      "title": "खरगोन: मप्र प्रशासनिक इकाई पुनर्गठन आयोग ने लिया आधुनिक कृषि तकनीकों का जायजा",
-      "summary": "खरगोन: मप्र प्रशासनिक इकाई पुनर्गठन आयोग ने लिया आधुनिक कृषि तकनीकों का जायजा",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/khargone-mp-administrative-unit-reorganization-commission-reviews-modern-agricultural-techniques/",
-      "important": false
-    },
-    {
-      "id": "b38358f7",
-      "title": "आलीराजपुर में नाबार्ड जिला विकास कार्यालय का हुआ शुभारम्भ",
-      "summary": "आलीराजपुर में नाबार्ड जिला विकास कार्यालय का हुआ शुभारम्भ",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/nabard-district-development-office-inaugurated-in-alirajpur/",
-      "important": false
-    },
-    {
-      "id": "a3be3f3c",
-      "title": "बिहार की कृषि व्यवस्था होगी डिजिटल, गूगल के साथ मिलकर बनेगा स्मार्ट कृषि सिस्टम",
-      "summary": "बिहार की कृषि व्यवस्था होगी डिजिटल, गूगल के साथ मिलकर बनेगा स्मार्ट कृषि सिस्टम",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bihars-agricultural-system-to-go-digital-smart-agriculture-system-to-be-developed-in-collaboration-with-google/",
-      "important": false
-    },
-    {
-      "id": "cc68b339",
-      "title": "स्लीमनाबाद टनल बनेगी विंध्य-बुंदेलखंड की अमृतधारा",
-      "summary": "स्लीमनाबाद टनल बनेगी विंध्य-बुंदेलखंड की अमृतधारा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sleemanabad-tunnel-to-become-a-lifeline-for-the-vindhya-bundelkhand-region/",
       "important": false
     }
   ]
