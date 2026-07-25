@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-25T08:14:46Z",
-  "new_count": 0,
+  "updated": "2026-07-25T13:46:55Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "0431624f",
+      "title": "मुरैना: जिला विपणन अधिकारी निलंबित",
+      "summary": "मुरैना: जिला विपणन अधिकारी निलंबित",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/morena-district-marketing-officer-suspended/",
+      "important": false
+    },
+    {
+      "id": "65c0d174",
+      "title": "आज का गेहूं मंडी रेट (25 जुलाई 2026)",
+      "summary": "आज का गेहूं मंडी रेट (25 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-25-july-2026/",
+      "important": false
+    },
+    {
+      "id": "f3a05c0c",
+      "title": "आज का धान मंडी रेट (25 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (25 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-25-july-2026/",
+      "important": false
+    },
+    {
+      "id": "38c57831",
+      "title": "आज का मक्का मंडी रेट (25 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (25 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-25-july-2026/",
+      "important": false
+    },
+    {
+      "id": "3f8b85b0",
+      "title": "आज का सोयाबीन मंडी रेट (25 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (25 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-25-july-2026/",
+      "important": false
+    },
+    {
+      "id": "f1215d76",
+      "title": "Farmer ID: 10.18 करोड़ किसानों को मिली डिजिटल पहचान, सरकारी योजनाओं का लाभ होगा और आसान",
+      "summary": "Farmer ID: 10.18 करोड़ किसानों को मिली डिजिटल पहचान, सरकारी योजनाओं का लाभ होगा और आसान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/farmer-id-10-18-crore-farmers-receive-digital-identity-accessing-benefits-of-government-schemes-will-become-easier/",
+      "important": false
+    },
+    {
+      "id": "dcd4524a",
+      "title": "मुरैना: निजी उर्वरक विक्रेताओं को सुबह 8:30 बजे से दुकानें खोलने के निर्देश",
+      "summary": "मुरैना: निजी उर्वरक विक्रेताओं को सुबह 8:30 बजे से दुकानें खोलने के निर्देश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/morena-instructions-issued-to-private-fertilizer-dealers-to-open-shops-from-830-am/",
+      "important": false
+    },
+    {
+      "id": "0e40815c",
+      "title": "नर्मदापुरम : मखाना उत्पादन से किसानों की आय बढ़ाने के प्रयास",
+      "summary": "नर्मदापुरम : मखाना उत्पादन से किसानों की आय बढ़ाने के प्रयास",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/narmadapuram-efforts-to-boost-farmers-income-through-makhana-production/",
+      "important": false
+    },
     {
       "id": "6f02fe5a",
       "title": "आज का गेहूं मंडी रेट (24 जुलाई 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-07-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/rajasthan-50-women-farmers-from-dungarpur-set-off-on-a-tour-of-gujarat-will-study-modern-agricultural-techniques/",
-      "important": false
-    },
-    {
-      "id": "e968e0c2",
-      "title": "सहजन की खेती से बढ़ेगी किसानों की आय, बीकानेर में शुरू हुआ तीन दिवसीय प्रशिक्षण; किसानों को मिलेंगे 1,000 मुफ्त पौधे",
-      "summary": "सहजन की खेती से बढ़ेगी किसानों की आय, बीकानेर में शुरू हुआ तीन दिवसीय प्रशिक्षण; किसानों को मिलेंगे 1,000 मुफ्त पौधे",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/drumstick-cultivation-to-boost-farmers-income-three-day-training-begins-in-bikaner-farmers-to-receive-1000-free-saplings/",
-      "important": false
-    },
-    {
-      "id": "38f0fe14",
-      "title": "मटर की खेती में किसान ने अपनाई स्टेकिंग तकनीक, उत्पादन 40 से बढ़कर 55 क्विंटल/एकड़ पहुंचा; मंडी में भी मिले 20% ज्यादा द",
-      "summary": "मटर की खेती में किसान ने अपनाई स्टेकिंग तकनीक, उत्पादन 40 से बढ़कर 55 क्विंटल/एकड़ पहुंचा; मंडी में भी मिले 20% ज्यादा दाम",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmer-adopts-staking-technique-for-pea-cultivation-yield-rises-from-40-to-55-quintals-per-acre-and-prices-fetched-in-the-market-are-20-higher/",
-      "important": false
-    },
-    {
-      "id": "1289bf6e",
-      "title": "किसान दिवस पर किसानों को बड़ी सौगात, बैंक ऑफ इंडिया ने किसानों को दिए ₹35 करोड़ के कृषि ऋण",
-      "summary": "किसान दिवस पर किसानों को बड़ी सौगात, बैंक ऑफ इंडिया ने किसानों को दिए ₹35 करोड़ के कृषि ऋण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-major-gift-for-farmers-on-farmers-day-bank-of-india-disbursed-agricultural-loans-worth-%e2%82%b935-crore-to-farmers/",
-      "important": false
-    },
-    {
-      "id": "367fb4c5",
-      "title": "DAP की जगह अपनाएं यह तरीका, किसानों की उर्वरक लागत में होगी ₹800 तक की बचत",
-      "summary": "DAP की जगह अपनाएं यह तरीका, किसानों की उर्वरक लागत में होगी ₹800 तक की बचत",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/adopt-this-method-instead-of-dap-farmers-can-save-up-to-%e2%82%b9800-on-fertilizer-costs/",
-      "important": false
-    },
-    {
-      "id": "f06b9038",
-      "title": "छिंदवाड़ा : प्रधानमंत्री फसल बीमा योजना में अधिसूचित फसलें एवं फसल क्षति का बीमा कवरेज",
-      "summary": "छिंदवाड़ा : प्रधानमंत्री फसल बीमा योजना में अधिसूचित फसलें एवं फसल क्षति का बीमा कवरेज",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-insurance-coverage-for-notified-crops-and-crop-loss-under-the-pradhan-mantri-fasal-bima-yojana/",
-      "important": false
-    },
-    {
-      "id": "a85c661d",
-      "title": "स्मार्ट और सतत खेती ही कृषि का भविष्य: दिव्यांश अग्रवाल",
-      "summary": "स्मार्ट और सतत खेती ही कृषि का भविष्य: दिव्यांश अग्रवाल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/smart-and-sustainable-farming-is-the-future-of-agriculture-divyansh-agarwal/",
-      "important": false
-    },
-    {
-      "id": "2ee6350d",
-      "title": "श्री जैन के मरणोपरांत नेत्रदान से दो दृष्टिबाधितों को मिलेगी दृष्टि",
-      "summary": "श्री जैन के मरणोपरांत नेत्रदान से दो दृष्टिबाधितों को मिलेगी दृष्टि",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/two-visually-impaired-individuals-will-regain-their-sight-through-the-posthumous-eye-donation-of-mr-jain/",
-      "important": false
-    },
-    {
-      "id": "c928a1e2",
-      "title": "आज का गेहूं मंडी रेट (20 जुलाई 2026)",
-      "summary": "आज का गेहूं मंडी रेट (20 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-20-july-2026/",
       "important": false
     }
   ]
