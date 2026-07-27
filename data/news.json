@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-27T03:39:42Z",
-  "new_count": 0,
+  "updated": "2026-07-27T10:01:00Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "523cae9a",
+      "title": "नर्मदापुरम : फसल बीमा पाठशाला आयोजित",
+      "summary": "नर्मदापुरम : फसल बीमा पाठशाला आयोजित",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/narmadapuram-crop-insurance-workshop-organized/",
+      "important": false
+    },
+    {
+      "id": "9c7a6f43",
+      "title": "कृषि विज्ञान केंद्र बैतूल में संस्थागत प्रशिक्षण संपन्न",
+      "summary": "कृषि विज्ञान केंद्र बैतूल में संस्थागत प्रशिक्षण संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/institutional-training-concludes-at-krishi-vigyan-kendra-betul/",
+      "important": false
+    },
+    {
+      "id": "c915fc45",
+      "title": "संसद में कृषि : पर्यावरण और बीजों की स्वायत्तता",
+      "summary": "संसद में कृषि : पर्यावरण और बीजों की स्वायत्तता",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/agriculture-in-parliament-environment-and-seed-sovereignty/",
+      "important": false
+    },
+    {
+      "id": "f5f26c9f",
+      "title": "डीसीएम श्रीराम ने आईसीएआर-आईआईवीआर के साथ किया समझौता",
+      "summary": "डीसीएम श्रीराम ने आईसीएआर-आईआईवीआर के साथ किया समझौता",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/dcm-shriram-signs-agreement-with-icar-iivr/",
+      "important": false
+    },
+    {
+      "id": "94e42dab",
+      "title": "विभिन्न कृषि यंत्रों हेतु आवेदन आमंत्रित",
+      "summary": "विभिन्न कृषि यंत्रों हेतु आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/applications-invited-for-various-agricultural-implements/",
+      "important": false
+    },
+    {
+      "id": "7f7c5092",
+      "title": "खंडवा में ‘बलराम कृषि महोत्सव’ का आयोजन आज",
+      "summary": "खंडवा में ‘बलराम कृषि महोत्सव’ का आयोजन आज",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balram-krishi-mahotsav-being-organized-in-khandwa-today/",
+      "important": false
+    },
+    {
+      "id": "ce1c2ca3",
+      "title": "किसानों का कल्याण सर्वोपरि : मुख्यमंत्री डॉ. यादव",
+      "summary": "किसानों का कल्याण सर्वोपरि : मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-welfare-is-paramount-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "9c3d28ef",
+      "title": "जलवायु स्मार्ट खेती से महके अंगूर के बाग, प्राकृतिक मल्चिंग बनी किसानों की ताकत",
+      "summary": "जलवायु स्मार्ट खेती से महके अंगूर के बाग, प्राकृतिक मल्चिंग बनी किसानों की ताकत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/vineyards-flourish-with-climate-smart-farming-natural-mulching-becomes-farmers-strength/",
+      "important": false
+    },
     {
       "id": "0431624f",
       "title": "मुरैना: जिला विपणन अधिकारी निलंबित",
@@ -462,94 +550,6 @@
       "date": "2026-07-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/uniform-civil-code-bill-2026-passed-in-mp-assembly/",
-      "important": false
-    },
-    {
-      "id": "2db81090",
-      "title": "आज का धान मंडी रेट (21 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (21 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-21-july-2026/",
-      "important": false
-    },
-    {
-      "id": "c46f4315",
-      "title": "आज का मक्का मंडी रेट (21 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (21 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/todays-maize-mandi-rate-21-july-2026/",
-      "important": false
-    },
-    {
-      "id": "260763dc",
-      "title": "गुरु पूर्णिमा 2026: पूरे मध्यप्रदेश में होगा ‘महर्षि सांदीपनि श्रद्धा पर्व’, सभी सांदीपनि विद्यालयों का होगा लोकार्पण",
-      "summary": "गुरु पूर्णिमा 2026: पूरे मध्यप्रदेश में होगा ‘महर्षि सांदीपनि श्रद्धा पर्व’, सभी सांदीपनि विद्यालयों का होगा लोकार्पण",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guru-purnima-2026-maharshi-sandipani-shraddha-parv-to-be-held-across-madhya-pradesh-all-sandipani-schools-to-be-inaugurated/",
-      "important": false
-    },
-    {
-      "id": "77ba7925",
-      "title": "आज का सोयाबीन मंडी रेट (21 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (21 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-21-july-2026/",
-      "important": false
-    },
-    {
-      "id": "6a338608",
-      "title": "मध्य प्रदेश में खाद और बीज की कोई कमी नहीं: सहकारिता मंत्री श्री सारंग",
-      "summary": "मध्य प्रदेश में खाद और बीज की कोई कमी नहीं: सहकारिता मंत्री श्री सारंग",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/no-shortage-of-fertilizers-and-seeds-in-madhya-pradesh-cooperative-minister-mr-sarang/",
-      "important": false
-    },
-    {
-      "id": "046c7cf0",
-      "title": "बालाघाट : दलहन प्रसंस्करण इकाई स्थापना के लिए 30 अगस्त तक आवेदन आमंत्रित",
-      "summary": "बालाघाट : दलहन प्रसंस्करण इकाई स्थापना के लिए 30 अगस्त तक आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balaghat-applications-invited-until-august-30-for-setting-up-a-pulse-processing-unit/",
-      "important": false
-    },
-    {
-      "id": "7d8da5fc",
-      "title": "किसानों के लिए खुशखबरी! खजूर का बगीचा लगाने पर मिलेगा 75% तक अनुदान, जानिए कैसे मिलेगा योजना का लाभ",
-      "summary": "किसानों के लिए खुशखबरी! खजूर का बगीचा लगाने पर मिलेगा 75% तक अनुदान, जानिए कैसे मिलेगा योजना का लाभ",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/good-news-for-farmers-get-a-subsidy-of-up-to-75-for-setting-up-a-date-palm-orchard-find-out-how-to-avail-the-benefits-of-the-scheme/",
-      "important": false
-    },
-    {
-      "id": "33dbadb4",
-      "title": "राजस्थान: डूंगरपुर की 50महिला किसान गुजरात दौरे पर रवाना, आधुनिक कृषि तकनीकों का करेंगी अध्ययन",
-      "summary": "राजस्थान: डूंगरपुर की 50महिला किसान गुजरात दौरे पर रवाना, आधुनिक कृषि तकनीकों का करेंगी अध्ययन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-50-women-farmers-from-dungarpur-set-off-on-a-tour-of-gujarat-will-study-modern-agricultural-techniques/",
       "important": false
     }
   ]
