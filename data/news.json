@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-27T10:01:00Z",
-  "new_count": 8,
+  "updated": "2026-07-27T14:48:06Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "3cae2988",
+      "title": "उद्यानिकी फसलों के निर्यात को बढ़ावा देने खरगोन में कार्यशाला आयोजित",
+      "summary": "उद्यानिकी फसलों के निर्यात को बढ़ावा देने खरगोन में कार्यशाला आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/horticulture/workshop-organized-in-khargone-to-boost-exports-of-horticultural-crops/",
+      "important": false
+    },
+    {
+      "id": "d7c5c9d6",
+      "title": "मध्यप्रदेश के पांच जिलों में भारी वर्षा होने की संभावना",
+      "summary": "मध्यप्रदेश के पांच जिलों में भारी वर्षा होने की संभावना",
+      "level": "state",
+      "category": "price",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/heavy-rainfall-likely-in-five-districts-of-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "81cb8ccd",
+      "title": "सोयाबीन की नई तकनीकों से बुवाई के प्रदर्शन",
+      "summary": "सोयाबीन की नई तकनीकों से बुवाई के प्रदर्शन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/demonstrations-of-soybean-sowing-using-new-techniques/",
+      "important": false
+    },
+    {
+      "id": "0059bd59",
+      "title": "आज का गेहूं मंडी रेट (27 जुलाई 2026)",
+      "summary": "आज का गेहूं मंडी रेट (27 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-27-july-2026/",
+      "important": false
+    },
+    {
+      "id": "52ca9e8c",
+      "title": "आज का धान मंडी रेट (27 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (27 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-27-july-2026/",
+      "important": false
+    },
+    {
+      "id": "76b58896",
+      "title": "आज का मक्का मंडी रेट (27 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (27 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-27-july-2026/",
+      "important": false
+    },
+    {
+      "id": "3f16b136",
+      "title": "आज का सोयाबीन मंडी रेट (27 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (27 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-27-july-2026/",
+      "important": false
+    },
     {
       "id": "523cae9a",
       "title": "नर्मदापुरम : फसल बीमा पाठशाला आयोजित",
@@ -473,83 +550,6 @@
       "date": "2026-07-22",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/transplanting-one-acre-of-paddy-will-now-take-just-2-3-hours-the-paddy-transplanter-has-become-a-boon-for-farmers-offering-significant-savings-in-both-time-and-cost/",
-      "important": false
-    },
-    {
-      "id": "5982b828",
-      "title": "बड़वानी जिले में मनाया गया बलराम कृषि महोत्सव",
-      "summary": "बड़वानी जिले में मनाया गया बलराम कृषि महोत्सव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-celebrated-in-barwani-district/",
-      "important": false
-    },
-    {
-      "id": "8371a708",
-      "title": "रायगढ़ का ‘जवांफूल’ धान बना किसानों की कमाई का जरिया, ₹180 किलो तक बिक रहा सुगंधित चावल",
-      "summary": "रायगढ़ का ‘जवांफूल’ धान बना किसानों की कमाई का जरिया, ₹180 किलो तक बिक रहा सुगंधित चावल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raigarhs-jawanphool-paddy-becomes-a-source-of-income-for-farmers-aromatic-rice-selling-for-up-to-%e2%82%b9180-per-kg/",
-      "important": false
-    },
-    {
-      "id": "fffc6a41",
-      "title": "छत्तीसगढ़ के किसानों को बड़ी सौगात: अब ड्रोन से होगा खाद और कीटनाशकों का छिड़काव, 5 समितियों में शुरू हुई सुविधा",
-      "summary": "छत्तीसगढ़ के किसानों को बड़ी सौगात: अब ड्रोन से होगा खाद और कीटनाशकों का छिड़काव, 5 समितियों में शुरू हुई सुविधा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-major-boost-for-chhattisgarh-farmers-fertilizers-and-pesticides-will-now-be-sprayed-using-drones-the-facility-has-been-launched-across-five-societies/",
-      "important": false
-    },
-    {
-      "id": "30a42bcb",
-      "title": "छत्तीसगढ़ की महिलाएं लिख रहीं सफलता की नई कहानी, औषधीय खेती से बन रहीं ‘लखपति दीदी’",
-      "summary": "छत्तीसगढ़ की महिलाएं लिख रहीं सफलता की नई कहानी, औषधीय खेती से बन रहीं ‘लखपति दीदी’",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/women-in-chhattisgarh-are-scripting-a-new-success-story-becoming-lakhpati-didis-through-medicinal-farming/",
-      "important": false
-    },
-    {
-      "id": "e56fa274",
-      "title": "बलराम कृषि महोत्सव: सीएम मोहन यादव बोले- बड़वानी की लाल मिर्च को दिलाएंगे GI टैग, किसानों को मिलेगा बड़ा लाभ",
-      "summary": "बलराम कृषि महोत्सव: सीएम मोहन यादव बोले- बड़वानी की लाल मिर्च को दिलाएंगे GI टैग, किसानों को मिलेगा बड़ा लाभ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-cm-mohan-yadav-says-barwanis-red-chili-will-get-the-gi-tag-farmers-to-reap-major-benefits/",
-      "important": false
-    },
-    {
-      "id": "fe51e54c",
-      "title": "आज का गेहूं मंडी रेट (21 जुलाई 2026)",
-      "summary": "आज का गेहूं मंडी रेट (21 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-21-july-2026/",
-      "important": false
-    },
-    {
-      "id": "994787ec",
-      "title": "मप्र विधानसभा में ‘समान नागरिक संहिता विधेयक-2026 पारित’",
-      "summary": "मप्र विधानसभा में ‘समान नागरिक संहिता विधेयक-2026 पारित’",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/uniform-civil-code-bill-2026-passed-in-mp-assembly/",
       "important": false
     }
   ]
