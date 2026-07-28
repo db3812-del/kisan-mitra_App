@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-28T08:43:43Z",
+  "updated": "2026-07-28T14:22:41Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "6bbf3a3e",
+      "title": "MP किसान आंदोलन: 100% मूंग खरीदी की मांग को लेकर किसानों का भोपाल कूच, पुलिस ने बैरिकेडिंग कर राजधानी से पहले मार्च रोका",
+      "summary": "MP किसान आंदोलन: 100% मूंग खरीदी की मांग को लेकर किसानों का भोपाल कूच, पुलिस ने बैरिकेडिंग कर राजधानी से पहले मार्च रोका",
+      "level": "state",
+      "category": "market",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mp-farmers-protest-farmers-march-towards-bhopal-demanding-100-procurement-of-moong-police-halt-the-march-with-barricades-before-it-reaches-the-capital/",
+      "important": false
+    },
+    {
+      "id": "ccd20307",
+      "title": "IMD Weather Update: 28 जुलाई को कई राज्यों में मूसलाधार बारिश का अलर्ट, MP-छत्तीसगढ़-ओडिशा में अति भारी वर्षा की चेतावनी",
+      "summary": "IMD Weather Update: 28 जुलाई को कई राज्यों में मूसलाधार बारिश का अलर्ट, MP-छत्तीसगढ़-ओडिशा में अति भारी वर्षा की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-alert-for-torrential-rain-in-several-states-on-july-28-warning-of-extremely-heavy-rainfall-in-mp-chhattisgarh-and-odisha/",
+      "important": false
+    },
+    {
+      "id": "dd9637e9",
+      "title": "आज का गेहूं मंडी रेट (28 जुलाई 2026)",
+      "summary": "आज का गेहूं मंडी रेट (28 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-28-july-2026/",
+      "important": false
+    },
+    {
+      "id": "929722ab",
+      "title": "आज का धान मंडी रेट (28 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (28 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-28-july-2026/",
+      "important": false
+    },
+    {
+      "id": "678f6a92",
+      "title": "आज का मक्का मंडी रेट (28 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (28 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-28-july-2026/",
+      "important": false
+    },
+    {
+      "id": "f687b183",
+      "title": "आज का सोयाबीन मंडी रेट (28 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (28 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-28-july-2026-2/",
+      "important": false
+    },
+    {
+      "id": "d95a21c2",
+      "title": "सॉफ्टवेयर इंजीनियर बने गौ-सेवक",
+      "summary": "सॉफ्टवेयर इंजीनियर बने गौ-सेवक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/software-engineer-becomes-a-cow-caretaker/",
+      "important": false
+    },
+    {
+      "id": "fca0ced9",
+      "title": "ICAR की नई ‘कुफरी रूबी’ किस्म अपनाएं किसान, 90 दिन में तैयार होंगे बेबी पोटैटो; 25 टन प्रति हेक्टेयर तक मिलेगा उत्पादन",
+      "summary": "ICAR की नई ‘कुफरी रूबी’ किस्म अपनाएं किसान, 90 दिन में तैयार होंगे बेबी पोटैटो; 25 टन प्रति हेक्टेयर तक मिलेगा उत्पादन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/farmers-should-adopt-icars-new-kufri-ruby-variety-baby-potatoes-will-be-ready-in-90-days-with-a-yield-of-up-to-25-tonnes-per-hectare/",
+      "important": false
+    },
     {
       "id": "5691733a",
       "title": "उर्वरक बिक्री में अनियमितता पर बिहार सरकार सख्त, 24 घंटे में होगी किसानों की शिकायतों पर कार्रवाई",
@@ -462,94 +550,6 @@
       "date": "2026-07-23",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-23-july-2026/",
-      "important": false
-    },
-    {
-      "id": "2a2b869b",
-      "title": "आज का धान मंडी रेट (23 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (23 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-23-july-2026/",
-      "important": false
-    },
-    {
-      "id": "42840318",
-      "title": "आज का मक्का मंडी रेट (23 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (23 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-23-july-2026/",
-      "important": false
-    },
-    {
-      "id": "08dcd475",
-      "title": "आज का सोयाबीन मंडी रेट (23 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (23 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-23-july-2026/",
-      "important": false
-    },
-    {
-      "id": "4eba1868",
-      "title": "MP Onion Mandi Rate: मध्य प्रदेश की मंडियों में प्याज के दामों में बड़ा अंतर, कहीं ₹2,611 तो कहीं सिर्फ ₹100 प्रति क्विं",
-      "summary": "MP Onion Mandi Rate: मध्य प्रदेश की मंडियों में प्याज के दामों में बड़ा अंतर, कहीं ₹2,611 तो कहीं सिर्फ ₹100 प्रति क्विंटल मिलें भाव",
-      "level": "state",
-      "category": "price",
-      "date": "2026-07-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mp-onion-mandi-rates-significant-disparity-in-onion-prices-across-madhya-pradesh-markets-rates-range-from-%e2%82%b92611-per-quintal-in-some-places-to-as-low-as-%e2%82%b9100-in-others/",
-      "important": false
-    },
-    {
-      "id": "c4b9afb3",
-      "title": "IMD Alert: अगले 4 दिनों तक नहीं थमेगी बारिश, राजस्थान, MP, गुजरात, बिहार  और पूर्वोत्तर राज्यों में भारी बारिश की चेतावन",
-      "summary": "IMD Alert: अगले 4 दिनों तक नहीं थमेगी बारिश, राजस्थान, MP, गुजरात, बिहार  और पूर्वोत्तर राज्यों में भारी बारिश की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/imd-alert-rain-to-continue-for-the-next-4-days-heavy-rainfall-warning-issued-for-rajasthan-mp-gujarat-bihar-and-the-northeastern-states/",
-      "important": false
-    },
-    {
-      "id": "f009ee5b",
-      "title": "IMD का बड़ा अलर्ट: उत्तर, मध्य और पूर्वोत्तर भारत में आज मानसून रहेगा सक्रिय; जम्मू-कश्मीर, राजस्थान-गुजरात समेत कई राज्",
-      "summary": "IMD का बड़ा अलर्ट: उत्तर, मध्य और पूर्वोत्तर भारत में आज मानसून रहेगा सक्रिय; जम्मू-कश्मीर, राजस्थान-गुजरात समेत कई राज्यों में मूसलाधार बारिश की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/major-imd-alert-monsoon-to-remain-active-across-north-central-and-northeast-india-today-warning-of-torrential-rain-in-several-states-including-jammu-kashmir-rajasthan-and-gujarat/",
-      "important": false
-    },
-    {
-      "id": "1a8320b4",
-      "title": "तोतापुरी आम किसानों को मिलेगी राहत, ICAR की रिपोर्ट पर शिवराज सिंह ने दिए अहम निर्देश; खेती से बाजार तक होंगे बड़े बदलाव",
-      "summary": "तोतापुरी आम किसानों को मिलेगी राहत, ICAR की रिपोर्ट पर शिवराज सिंह ने दिए अहम निर्देश; खेती से बाजार तक होंगे बड़े बदलाव",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/relief-for-totapuri-mango-farmers-shivraj-singh-issues-key-directives-based-on-the-icar-report-major-changes-in-store-from-farm-to-market/",
-      "important": false
-    },
-    {
-      "id": "de5b325c",
-      "title": "गेहूं छोड़ शुरू की भिंडी की खेती, किसान की आय 16 हजार से बढ़कर 59 हजार रुपये पहुंची",
-      "summary": "गेहूं छोड़ शुरू की भिंडी की खेती, किसान की आय 16 हजार से बढ़कर 59 हजार रुपये पहुंची",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmer-switches-from-wheat-to-okra-cultivation-income-rises-from-%e2%82%b916000-to-%e2%82%b959000/",
       "important": false
     }
   ]
