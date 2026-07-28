@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-28T02:56:08Z",
-  "new_count": 0,
+  "updated": "2026-07-28T08:43:43Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "5691733a",
+      "title": "उर्वरक बिक्री में अनियमितता पर बिहार सरकार सख्त, 24 घंटे में होगी किसानों की शिकायतों पर कार्रवाई",
+      "summary": "उर्वरक बिक्री में अनियमितता पर बिहार सरकार सख्त, 24 घंटे में होगी किसानों की शिकायतों पर कार्रवाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bihar-government-cracks-down-on-irregularities-in-fertilizer-sales-action-on-farmers-complaints-to-be-taken-within-24-hours/",
+      "important": false
+    },
+    {
+      "id": "5514a670",
+      "title": "प्रदेश की मंडियों में जल्द शुरू होगी ग्रेडिंग-सोर्सिंग इकाइयां",
+      "summary": "प्रदेश की मंडियों में जल्द शुरू होगी ग्रेडिंग-सोर्सिंग इकाइयां",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/grading-and-sourcing-units-will-soon-be-set-up-in-the-states-mandis/",
+      "important": false
+    },
+    {
+      "id": "06eaaf14",
+      "title": "MP के किसानों को बड़ी सौगात! सीएम मोहन यादव ने 82.70 लाख किसानों के खातों में भेजे ₹3308 करोड़ रुपए",
+      "summary": "MP के किसानों को बड़ी सौगात! सीएम मोहन यादव ने 82.70 लाख किसानों के खातों में भेजे ₹3308 करोड़ रुपए",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-major-gift-for-mp-farmers-cm-mohan-yadav-transferred-%e2%82%b93308-crore-to-the-accounts-of-82-70-lakh-farmers/",
+      "important": false
+    },
+    {
+      "id": "46434c53",
+      "title": "मध्यप्रदेश ने रचा इतिहास, अंतर्राष्ट्रीय कृषि एवं उद्यानिकी एक्सपो-2026 में जीता प्रथम पुरस्कार",
+      "summary": "मध्यप्रदेश ने रचा इतिहास, अंतर्राष्ट्रीय कृषि एवं उद्यानिकी एक्सपो-2026 में जीता प्रथम पुरस्कार",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-makes-history-wins-first-prize-at-the-international-agriculture-and-horticulture-expo-2026/",
+      "important": false
+    },
+    {
+      "id": "9003fcf5",
+      "title": "जैविक खेती का कमाल! महिला किसान ने जीवामृत-वर्मी कम्पोस्ट से घटाई खेती की लागत, बढ़ाया मुनाफा",
+      "summary": "जैविक खेती का कमाल! महिला किसान ने जीवामृत-वर्मी कम्पोस्ट से घटाई खेती की लागत, बढ़ाया मुनाफा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-magic-of-organic-farming-a-woman-farmer-reduced-cultivation-costs-and-increased-profits-using-jeevamrit-and-vermicompost/",
+      "important": false
+    },
+    {
+      "id": "a1cd18f3",
+      "title": "महाराष्ट्र के किसानों को बड़ी सौगात, शिवराज सिंह चौहान ने PM-RKVY के तहत जारी किए ₹335 करोड़",
+      "summary": "महाराष्ट्र के किसानों को बड़ी सौगात, शिवराज सिंह चौहान ने PM-RKVY के तहत जारी किए ₹335 करोड़",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/major-boost-for-maharashtra-farmers-shivraj-singh-chouhan-releases-%e2%82%b9335-crore-under-pm-rkvy/",
+      "important": false
+    },
+    {
+      "id": "10e340d3",
+      "title": "छत्तीसगढ़: बलरामपुर में DAP खाद की कालाबाजारी पर बड़ा एक्शन, 60 बोरी खाद और पिकअप जब्त",
+      "summary": "छत्तीसगढ़: बलरामपुर में DAP खाद की कालाबाजारी पर बड़ा एक्शन, 60 बोरी खाद और पिकअप जब्त",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-major-crackdown-on-black-marketing-of-dap-fertilizer-in-balrampur-60-bags-of-fertilizer-and-a-pickup-truck-seized/",
+      "important": false
+    },
+    {
+      "id": "2e9fc352",
+      "title": "जशपुर में तसर रेशम उद्योग को मिलेगी नई रफ्तार, MRMA 2.0 के तहत बनेगी 5 वर्षीय योजना; उत्पादन बढ़ाने पर रहेगा फोकस",
+      "summary": "जशपुर में तसर रेशम उद्योग को मिलेगी नई रफ्तार, MRMA 2.0 के तहत बनेगी 5 वर्षीय योजना; उत्पादन बढ़ाने पर रहेगा फोकस",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/tasar-silk-industry-in-jashpur-to-get-a-new-boost-5-year-plan-to-be-formulated-under-mrma-2-0-with-a-focus-on-increasing-production/",
+      "important": false
+    },
     {
       "id": "3cae2988",
       "title": "उद्यानिकी फसलों के निर्यात को बढ़ावा देने खरगोन में कार्यशाला आयोजित",
@@ -462,94 +550,6 @@
       "date": "2026-07-22",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/farmer-switches-from-wheat-to-okra-cultivation-income-rises-from-%e2%82%b916000-to-%e2%82%b959000/",
-      "important": false
-    },
-    {
-      "id": "27a329e2",
-      "title": "छत्तीसगढ़ में खरीफ बुवाई ने पकड़ी रफ्तार, 33.50 लाख हेक्टेयर में हुई बोनी; किसानों को मिला 9.22 लाख मीट्रिक टन खाद",
-      "summary": "छत्तीसगढ़ में खरीफ बुवाई ने पकड़ी रफ्तार, 33.50 लाख हेक्टेयर में हुई बोनी; किसानों को मिला 9.22 लाख मीट्रिक टन खाद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/kharif-sowing-gains-momentum-in-chhattisgarh-planting-completed-across-3-35-million-hectares-farmers-receive-0-922-million-metric-tonnes-of-fertilizer/",
-      "important": false
-    },
-    {
-      "id": "0cbd2113",
-      "title": "किसानों के लिए बड़ी खबर! प्राकृतिक खेती करने पर मिलेगा 4,000 रुपये प्रति एकड़, ऐसे मिलेगा योजना का लाभ",
-      "summary": "किसानों के लिए बड़ी खबर! प्राकृतिक खेती करने पर मिलेगा 4,000 रुपये प्रति एकड़, ऐसे मिलेगा योजना का लाभ",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/big-news-for-farmers-receive-%e2%82%b94000-per-acre-for-practicing-natural-farming-here-is-how-to-avail-the-schemes-benefits/",
-      "important": false
-    },
-    {
-      "id": "203dc6fa",
-      "title": "सीहोर: वर्षा कालीन सब्जियों की बुवाई करने का यह उपयुक्त समय",
-      "summary": "सीहोर: वर्षा कालीन सब्जियों की बुवाई करने का यह उपयुक्त समय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-this-is-the-right-time-for-sowing-monsoon-vegetables/",
-      "important": false
-    },
-    {
-      "id": "3273b89c",
-      "title": "सीहोर: मत्स्य पालन के लिए दो जलाशयों के पट्टे हेतु आवेदन आमंत्रित",
-      "summary": "सीहोर: मत्स्य पालन के लिए दो जलाशयों के पट्टे हेतु आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-applications-invited-for-leasing-two-water-bodies-for-fisheries/",
-      "important": false
-    },
-    {
-      "id": "bf347a89",
-      "title": "आज का सोयाबीन मंडी रेट (22 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (22 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-22-july-2026/",
-      "important": false
-    },
-    {
-      "id": "350ea1eb",
-      "title": "कृषि मंत्रालय की साप्ताहिक समीक्षा बैठक: शिवराज सिंह बोले- बारिश की कमी के बावजूद खरीफ बुवाई जारी, कई राज्यों में बने अन",
-      "summary": "कृषि मंत्रालय की साप्ताहिक समीक्षा बैठक: शिवराज सिंह बोले- बारिश की कमी के बावजूद खरीफ बुवाई जारी, कई राज्यों में बने अनुकूल हालात",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/ministry-of-agricultures-weekly-review-meeting-shivraj-singh-says-kharif-sowing-continues-despite-rainfall-deficit-favorable-conditions-have-emerged-in-several-states/",
-      "important": false
-    },
-    {
-      "id": "e88da45a",
-      "title": "एनडीवीआई से खरीफ फसलों की स्थिति का आकलन, कृषि मंत्रालय ने की मानसून और एल नीनो की समीक्षा",
-      "summary": "एनडीवीआई से खरीफ फसलों की स्थिति का आकलन, कृषि मंत्रालय ने की मानसून और एल नीनो की समीक्षा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/assessment-of-kharif-crop-conditions-using-ndvi-ministry-of-agriculture-reviews-monsoon-and-el-nino/",
-      "important": false
-    },
-    {
-      "id": "35a28e58",
-      "title": "अब 2-3 घंटे में होगी 1 एकड़ धान की रोपाई, पैडी ट्रांसप्लांटर बना किसानों के लिए वरदान; समय और लागत दोनों में बड़ी बचत",
-      "summary": "अब 2-3 घंटे में होगी 1 एकड़ धान की रोपाई, पैडी ट्रांसप्लांटर बना किसानों के लिए वरदान; समय और लागत दोनों में बड़ी बचत",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/transplanting-one-acre-of-paddy-will-now-take-just-2-3-hours-the-paddy-transplanter-has-become-a-boon-for-farmers-offering-significant-savings-in-both-time-and-cost/",
       "important": false
     }
   ]
