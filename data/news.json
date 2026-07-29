@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-29T03:14:39Z",
-  "new_count": 0,
+  "updated": "2026-07-29T08:48:24Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "64ba9cf1",
+      "title": "किसान पदयात्रा  : सरकार से हुई चर्चा के बाद भी आंदोलन रहेगा जारी",
+      "summary": "किसान पदयात्रा  : सरकार से हुई चर्चा के बाद भी आंदोलन रहेगा जारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-march-protest-to-continue-despite-talks-with-the-government/",
+      "important": false
+    },
+    {
+      "id": "50c2e771",
+      "title": "किसानों के आंदोलन के बीच कृषि मंत्री कंषाना का आश्वासन, मूंग खरीदी का लक्ष्य 8.06 लाख टन करने के लिए केंद्र को लिखा पत्र",
+      "summary": "किसानों के आंदोलन के बीच कृषि मंत्री कंषाना का आश्वासन, मूंग खरीदी का लक्ष्य 8.06 लाख टन करने के लिए केंद्र को लिखा पत्र",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/amidst-the-farmers-protest-agriculture-minister-kanshana-offers-assurance-writes-to-the-centre-to-set-the-moong-procurement-target-at-8-06-lakh-tonnes/",
+      "important": false
+    },
+    {
+      "id": "8f37774b",
+      "title": "छत्तीसगढ़ में खरीफ बुवाई 80% पूरी, किसानों को 9.95 लाख टन खाद और 4.38 लाख क्विंटल बीज वितरित",
+      "summary": "छत्तीसगढ़ में खरीफ बुवाई 80% पूरी, किसानों को 9.95 लाख टन खाद और 4.38 लाख क्विंटल बीज वितरित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kharif-sowing-80-complete-in-chhattisgarh-9-95-lakh-tonnes-of-fertilizer-and-4-38-lakh-quintals-of-seeds-distributed-to-farmers/",
+      "important": false
+    },
+    {
+      "id": "d64f151a",
+      "title": "राजस्थान: PM फसल बीमा योजना के तहत 31 जुलाई तक कराएं खरीफ फसलों का बीमा, प्राकृतिक आपदाओं से मिलेगा सुरक्षा कवच",
+      "summary": "राजस्थान: PM फसल बीमा योजना के तहत 31 जुलाई तक कराएं खरीफ फसलों का बीमा, प्राकृतिक आपदाओं से मिलेगा सुरक्षा कवच",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-insure-kharif-crops-under-the-pm-fasal-bima-yojana-by-july-31-get-a-protective-shield-against-natural-disasters/",
+      "important": false
+    },
+    {
+      "id": "4614e650",
+      "title": "सूखे जैसी स्थिति में सोयाबीन की कैसे करें देखभाल? कृषि विभाग ने जारी की पूरी गाइडलाइन",
+      "summary": "सूखे जैसी स्थिति में सोयाबीन की कैसे करें देखभाल? कृषि विभाग ने जारी की पूरी गाइडलाइन",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/how-to-care-for-soybeans-during-drought-like-conditions-the-agriculture-department-has-issued-comprehensive-guidelines/",
+      "important": false
+    },
+    {
+      "id": "22e80f22",
+      "title": "पांढुर्ना कलेक्टर ने कृषि अनुसंधान केंद्र, मोहगांव का किया औचक निरीक्षण",
+      "summary": "पांढुर्ना कलेक्टर ने कृषि अनुसंधान केंद्र, मोहगांव का किया औचक निरीक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pandhurna-collector-conducts-surprise-inspection-of-the-agricultural-research-centre-mohgaon/",
+      "important": false
+    },
+    {
+      "id": "56c9151d",
+      "title": "शाजापुर: राष्ट्रीय खाद्य तेल मिशन-तिलहन के तहत दो दिवसीय कृषक प्रशिक्षण आयोजित",
+      "summary": "शाजापुर: राष्ट्रीय खाद्य तेल मिशन-तिलहन के तहत दो दिवसीय कृषक प्रशिक्षण आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shajapur-two-day-farmer-training-organized-under-the-national-mission-on-edible-oils-oilseeds/",
+      "important": false
+    },
+    {
+      "id": "bc623467",
+      "title": "शाजापुर जिले में अमानक स्तर के मक्का के बीज पर प्रतिबंध",
+      "summary": "शाजापुर जिले में अमानक स्तर के मक्का के बीज पर प्रतिबंध",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ban-on-substandard-maize-seeds-in-shajapur-district/",
+      "important": false
+    },
     {
       "id": "6bbf3a3e",
       "title": "MP किसान आंदोलन: 100% मूंग खरीदी की मांग को लेकर किसानों का भोपाल कूच, पुलिस ने बैरिकेडिंग कर राजधानी से पहले मार्च रोका",
@@ -462,94 +550,6 @@
       "date": "2026-07-24",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-24-july-2026/",
-      "important": false
-    },
-    {
-      "id": "8d3b680e",
-      "title": "आज का सोयाबीन मंडी रेट (24 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (24 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-24-july-2026/",
-      "important": false
-    },
-    {
-      "id": "2bbe2b7b",
-      "title": "IMD Weather Update: राजस्थान में बना लो-प्रेशर सिस्टम, गुजरात में अति भारी बारिश का अलर्ट; कई राज्यों में 30 जुलाई तक बर",
-      "summary": "IMD Weather Update: राजस्थान में बना लो-प्रेशर सिस्टम, गुजरात में अति भारी बारिश का अलर्ट; कई राज्यों में 30 जुलाई तक बरसेंगे बादल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-low-pressure-system-forms-over-rajasthan-alert-issued-for-extremely-heavy-rainfall-in-gujarat-rains-expected-in-several-states-until-july-30/",
-      "important": false
-    },
-    {
-      "id": "5ec269a3",
-      "title": "भूली बिसरी फसलें: क्या पोषण की खोई दौलत वापस लौटेगी?",
-      "summary": "भूली बिसरी फसलें: क्या पोषण की खोई दौलत वापस लौटेगी?",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/forgotten-crops-will-the-lost-wealth-of-nutrition-return/",
-      "important": false
-    },
-    {
-      "id": "9fa620aa",
-      "title": "एमपी में धान की रोपाई लक्ष्य से पीछे, क्या मानसून बदलेगा तस्वीर?",
-      "summary": "एमपी में धान की रोपाई लक्ष्य से पीछे, क्या मानसून बदलेगा तस्वीर?",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/paddy-transplantation-in-mp-lags-behind-target-will-the-monsoon-change-the-picture/",
-      "important": false
-    },
-    {
-      "id": "89d0f3be",
-      "title": "मध्य प्रदेश खरीफ बुवाई 2026: सोयाबीन का दबदबा कायम, मक्का बनी किसानों की नई पसंद",
-      "summary": "मध्य प्रदेश खरीफ बुवाई 2026: सोयाबीन का दबदबा कायम, मक्का बनी किसानों की नई पसंद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-kharif-sowing-2026-soybean-dominance-continues-maize-emerges-as-farmers-new-choice/",
-      "important": true
-    },
-    {
-      "id": "0736eae8",
-      "title": "MP ई-कृषि यंत्र अनुदान योजना: रिजर और शुगरकेन रेटून मैनेजर पर मिलेगी 50% तक सब्सिडी, किसान ऐसे करें आवेदन",
-      "summary": "MP ई-कृषि यंत्र अनुदान योजना: रिजर और शुगरकेन रेटून मैनेजर पर मिलेगी 50% तक सब्सिडी, किसान ऐसे करें आवेदन",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-07-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mp-e-farm-machinery-subsidy-scheme-up-to-50-subsidy-available-on-ridgers-and-sugarcane-ratoon-managers-here-is-how-farmers-can-apply/",
-      "important": false
-    },
-    {
-      "id": "74ec797f",
-      "title": "बड़वानी और धार जिलों में अति भारी वर्षा की संभावना",
-      "summary": "बड़वानी और धार जिलों में अति भारी वर्षा की संभावना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-07-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/possibility-of-extremely-heavy-rainfall-in-barwani-and-dhar-districts/",
-      "important": false
-    },
-    {
-      "id": "a3ce543b",
-      "title": "आज का गेहूं मंडी रेट (23 जुलाई 2026)",
-      "summary": "आज का गेहूं मंडी रेट (23 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-23-july-2026/",
       "important": false
     }
   ]
