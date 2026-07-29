@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-29T08:48:24Z",
+  "updated": "2026-07-29T14:21:48Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "b7f7bd49",
+      "title": "ICAR ने जारी की क्षेत्रवार सोयाबीन की उन्नत किस्मों की सूची, जानें आपके राज्य के लिए कौन-सी वैरायटी है सही",
+      "summary": "ICAR ने जारी की क्षेत्रवार सोयाबीन की उन्नत किस्मों की सूची, जानें आपके राज्य के लिए कौन-सी वैरायटी है सही",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/icar-releases-region-wise-list-of-improved-soybean-varieties-find-out-which-variety-is-best-for-your-state/",
+      "important": false
+    },
+    {
+      "id": "9fdbff22",
+      "title": "आज का गेहूं मंडी रेट (29 जुलाई 2026)",
+      "summary": "आज का गेहूं मंडी रेट (29 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-29-july-2026/",
+      "important": false
+    },
+    {
+      "id": "7ff5220d",
+      "title": "रायपुर : 31 जुलाई तक कराएं बागवानी फसलों का बीमा, प्राकृतिक जोखिमों से मिलेगी आर्थिक सुरक्षा",
+      "summary": "रायपुर : 31 जुलाई तक कराएं बागवानी फसलों का बीमा, प्राकृतिक जोखिमों से मिलेगी आर्थिक सुरक्षा",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-insure-horticultural-crops-by-july-31-gain-financial-protection-against-natural-risks/",
+      "important": false
+    },
+    {
+      "id": "853b070f",
+      "title": "आज का मक्का मंडी रेट (29 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (29 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-29-july-2026/",
+      "important": false
+    },
+    {
+      "id": "bd277005",
+      "title": "आज का धान मंडी रेट (29 जुलाई 2026)",
+      "summary": "आज का धान मंडी रेट (29 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-29-july-2026/",
+      "important": false
+    },
+    {
+      "id": "059b2ed4",
+      "title": "आज का सोयाबीन मंडी रेट (29 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (29 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-29-july-2026/",
+      "important": false
+    },
+    {
+      "id": "7c9009eb",
+      "title": "पारादीप फॉस्फेट्स ने पहली तिमाही के नतीजे जारी किए",
+      "summary": "पारादीप फॉस्फेट्स ने पहली तिमाही के नतीजे जारी किए",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/paradeep-phosphates-released-its-first-quarter-results/",
+      "important": false
+    },
+    {
+      "id": "bed13958",
+      "title": "ICAR की दो नई आलू किस्में अधिसूचित, ‘कुफरी अभेद्य’ और ‘कुफरी रूबी’ से किसानों को मिलेगा बड़ा फायदा",
+      "summary": "ICAR की दो नई आलू किस्में अधिसूचित, ‘कुफरी अभेद्य’ और ‘कुफरी रूबी’ से किसानों को मिलेगा बड़ा फायदा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/two-new-icar-potato-varieties-notified-farmers-set-to-benefit-significantly-from-kufri-abhedya-and-kufri-ruby/",
+      "important": false
+    },
     {
       "id": "64ba9cf1",
       "title": "किसान पदयात्रा  : सरकार से हुई चर्चा के बाद भी आंदोलन रहेगा जारी",
@@ -462,94 +550,6 @@
       "date": "2026-07-25",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-25-july-2026/",
-      "important": false
-    },
-    {
-      "id": "38c57831",
-      "title": "आज का मक्का मंडी रेट (25 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (25 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-25-july-2026/",
-      "important": false
-    },
-    {
-      "id": "3f8b85b0",
-      "title": "आज का सोयाबीन मंडी रेट (25 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (25 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-25-july-2026/",
-      "important": false
-    },
-    {
-      "id": "f1215d76",
-      "title": "Farmer ID: 10.18 करोड़ किसानों को मिली डिजिटल पहचान, सरकारी योजनाओं का लाभ होगा और आसान",
-      "summary": "Farmer ID: 10.18 करोड़ किसानों को मिली डिजिटल पहचान, सरकारी योजनाओं का लाभ होगा और आसान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/farmer-id-10-18-crore-farmers-receive-digital-identity-accessing-benefits-of-government-schemes-will-become-easier/",
-      "important": false
-    },
-    {
-      "id": "dcd4524a",
-      "title": "मुरैना: निजी उर्वरक विक्रेताओं को सुबह 8:30 बजे से दुकानें खोलने के निर्देश",
-      "summary": "मुरैना: निजी उर्वरक विक्रेताओं को सुबह 8:30 बजे से दुकानें खोलने के निर्देश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/morena-instructions-issued-to-private-fertilizer-dealers-to-open-shops-from-830-am/",
-      "important": false
-    },
-    {
-      "id": "0e40815c",
-      "title": "नर्मदापुरम : मखाना उत्पादन से किसानों की आय बढ़ाने के प्रयास",
-      "summary": "नर्मदापुरम : मखाना उत्पादन से किसानों की आय बढ़ाने के प्रयास",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/narmadapuram-efforts-to-boost-farmers-income-through-makhana-production/",
-      "important": false
-    },
-    {
-      "id": "6f02fe5a",
-      "title": "आज का गेहूं मंडी रेट (24 जुलाई 2026)",
-      "summary": "आज का गेहूं मंडी रेट (24 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-24-july-2026/",
-      "important": false
-    },
-    {
-      "id": "8e174cef",
-      "title": "आज का धान मंडी रेट (24 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (24 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-24-july-2026/",
-      "important": false
-    },
-    {
-      "id": "396f673d",
-      "title": "आज का मक्का मंडी रेट (24 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (24 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-24-july-2026/",
       "important": false
     }
   ]
