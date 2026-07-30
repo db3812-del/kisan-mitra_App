@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-30T08:36:36Z",
+  "updated": "2026-07-30T14:16:15Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "1f1f8fc7",
+      "title": "मध्यप्रदेश के पांच जिलों में अति भारी वर्षा का ऑरेंज अलर्ट जारी",
+      "summary": "मध्यप्रदेश के पांच जिलों में अति भारी वर्षा का ऑरेंज अलर्ट जारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/orange-alert-issued-for-extremely-heavy-rainfall-in-five-districts-of-madhya-pradesh-2/",
+      "important": false
+    },
+    {
+      "id": "2438a4fa",
+      "title": "श्योपुर: एक जिला एक उत्पाद के संबंध में बैठक आयोजित",
+      "summary": "श्योपुर: एक जिला एक उत्पाद के संबंध में बैठक आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sheopur-meeting-held-regarding-one-district-one-product/",
+      "important": false
+    },
+    {
+      "id": "64c71322",
+      "title": "सोयाबीन में कॉलर रॉट, पीला मोजेक और एन्थ्रेक्नोज का खतरा, ICAR-NSRI ने किसानों के लिए जारी की एडवाइजरी",
+      "summary": "सोयाबीन में कॉलर रॉट, पीला मोजेक और एन्थ्रेक्नोज का खतरा, ICAR-NSRI ने किसानों के लिए जारी की एडवाइजरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/risk-of-collar-rot-yellow-mosaic-and-anthracnose-in-soybeans-icar-nsri-issues-advisory-for-farmers/",
+      "important": false
+    },
+    {
+      "id": "1e2645da",
+      "title": "नर्मदापुरम: राज्य सरकार किसानों के सकारात्मक सुझावों के साथ है : मुख्यमंत्री डॉ. यादव",
+      "summary": "नर्मदापुरम: राज्य सरकार किसानों के सकारात्मक सुझावों के साथ है : मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/narmadapuram-the-state-government-stands-with-the-farmers-constructive-suggestions-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "a293c0e1",
+      "title": "हरदा: सोयाबीन कृषकों को उपयोगी सलाह",
+      "summary": "हरदा: सोयाबीन कृषकों को उपयोगी सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/harda-useful-advice-for-soybean-farmers/",
+      "important": false
+    },
+    {
+      "id": "ce4e2f8b",
+      "title": "हरदा: फसल का बीमा 31 जुलाई तक अवश्य कराएं",
+      "summary": "हरदा: फसल का बीमा 31 जुलाई तक अवश्य कराएं",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/harda-ensure-crop-insurance-is-obtained-by-july-31/",
+      "important": false
+    },
+    {
+      "id": "4864081b",
+      "title": "सोयाबीन में पत्तियां पड़ रही हैं पीली? जानिए कारण और बचाव के उपाय",
+      "summary": "सोयाबीन में पत्तियां पड़ रही हैं पीली? जानिए कारण और बचाव के उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/are-soybean-leaves-turning-yellow-find-out-the-causes-and-preventive-measures/",
+      "important": false
+    },
+    {
+      "id": "5ad5a747",
+      "title": "खरपतवार से घट सकती है सोयाबीन की पैदावार, जानिए नियंत्रण के असरदार उपाय",
+      "summary": "खरपतवार से घट सकती है सोयाबीन की पैदावार, जानिए नियंत्रण के असरदार उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/weeds-can-reduce-soybean-yields-learn-about-effective-control-measures/",
+      "important": false
+    },
     {
       "id": "8785b4a7",
       "title": "मजदूरी छोड़ अपनाया बकरी पालन, सरकारी योजना से बीजापुर की महिलाओं ने लिखी आत्मनिर्भरता की नई कहानी",
@@ -462,94 +550,6 @@
       "date": "2026-07-27",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/heavy-rainfall-likely-in-five-districts-of-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "81cb8ccd",
-      "title": "सोयाबीन की नई तकनीकों से बुवाई के प्रदर्शन",
-      "summary": "सोयाबीन की नई तकनीकों से बुवाई के प्रदर्शन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/demonstrations-of-soybean-sowing-using-new-techniques/",
-      "important": false
-    },
-    {
-      "id": "0059bd59",
-      "title": "आज का गेहूं मंडी रेट (27 जुलाई 2026)",
-      "summary": "आज का गेहूं मंडी रेट (27 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-27-july-2026/",
-      "important": false
-    },
-    {
-      "id": "52ca9e8c",
-      "title": "आज का धान मंडी रेट (27 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (27 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-27-july-2026/",
-      "important": false
-    },
-    {
-      "id": "76b58896",
-      "title": "आज का मक्का मंडी रेट (27 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (27 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-27-july-2026/",
-      "important": false
-    },
-    {
-      "id": "3f16b136",
-      "title": "आज का सोयाबीन मंडी रेट (27 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (27 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-27-july-2026/",
-      "important": false
-    },
-    {
-      "id": "523cae9a",
-      "title": "नर्मदापुरम : फसल बीमा पाठशाला आयोजित",
-      "summary": "नर्मदापुरम : फसल बीमा पाठशाला आयोजित",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/narmadapuram-crop-insurance-workshop-organized/",
-      "important": false
-    },
-    {
-      "id": "9c7a6f43",
-      "title": "कृषि विज्ञान केंद्र बैतूल में संस्थागत प्रशिक्षण संपन्न",
-      "summary": "कृषि विज्ञान केंद्र बैतूल में संस्थागत प्रशिक्षण संपन्न",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/institutional-training-concludes-at-krishi-vigyan-kendra-betul/",
-      "important": false
-    },
-    {
-      "id": "c915fc45",
-      "title": "संसद में कृषि : पर्यावरण और बीजों की स्वायत्तता",
-      "summary": "संसद में कृषि : पर्यावरण और बीजों की स्वायत्तता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/agriculture-in-parliament-environment-and-seed-sovereignty/",
       "important": false
     }
   ]
