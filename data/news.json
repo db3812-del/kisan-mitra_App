@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-30T02:47:44Z",
-  "new_count": 0,
+  "updated": "2026-07-30T08:36:36Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "8785b4a7",
+      "title": "मजदूरी छोड़ अपनाया बकरी पालन, सरकारी योजना से बीजापुर की महिलाओं ने लिखी आत्मनिर्भरता की नई कहानी",
+      "summary": "मजदूरी छोड़ अपनाया बकरी पालन, सरकारी योजना से बीजापुर की महिलाओं ने लिखी आत्मनिर्भरता की नई कहानी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/animal-husbandry/leaving-wage-labor-for-goat-rearing-women-of-bijapur-script-a-new-story-of-self-reliance-through-a-government-scheme/",
+      "important": false
+    },
+    {
+      "id": "d22bac0a",
+      "title": "वैज्ञानिक तकनीक का कमाल! 5 दुधारू गायों से हर महीने 25 हजार रुपये कमा रहीं प्रेम कुमारी, जानिए कैसे",
+      "summary": "वैज्ञानिक तकनीक का कमाल! 5 दुधारू गायों से हर महीने 25 हजार रुपये कमा रहीं प्रेम कुमारी, जानिए कैसे",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-marvel-of-scientific-technology-prem-kumari-is-earning-%e2%82%b925000-per-month-from-five-milch-cows-find-out-how/",
+      "important": false
+    },
+    {
+      "id": "0c7ad3d0",
+      "title": "कस्टम हायरिंग सेंटर से बदली युवा किसान अमन की तकदीर, 215 किसान परिवारों को भी मिल रहा फायदा",
+      "summary": "कस्टम हायरिंग सेंटर से बदली युवा किसान अमन की तकदीर, 215 किसान परिवारों को भी मिल रहा फायदा",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/custom-hiring-center-transforms-the-fortunes-of-young-farmer-aman-215-farming-families-also-benefiting/",
+      "important": false
+    },
+    {
+      "id": "b0d71cad",
+      "title": "किस क्षेत्र में कब करें सोयाबीन की बुवाई? ICAR ने बताई बीज दर और खाद की पूरी जानकारी",
+      "summary": "किस क्षेत्र में कब करें सोयाबीन की बुवाई? ICAR ने बताई बीज दर और खाद की पूरी जानकारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/when-and-where-should-soybean-be-sown-icar-provides-complete-details-on-seed-rates-and-fertilizers/",
+      "important": false
+    },
+    {
+      "id": "fbf99455",
+      "title": "डायरेक्ट सीडेड राइस (DSR) में खरपतवार नियंत्रण के लिए बिसपाइरिबैक सोडियम का उपयोग कैसे करें?",
+      "summary": "डायरेक्ट सीडेड राइस (DSR) में खरपतवार नियंत्रण के लिए बिसपाइरिबैक सोडियम का उपयोग कैसे करें?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/how-to-use-bispyribac-sodium-for-weed-control-in-direct-seeded-rice-dsr/",
+      "important": false
+    },
+    {
+      "id": "38a7fadd",
+      "title": "छत्तीसगढ़ के धमतरी में किसानों को बड़ी राहत: 22 नई सहकारी समितियां शुरू, खाद-बीज और ऋण मिलेगा आसान",
+      "summary": "छत्तीसगढ़ के धमतरी में किसानों को बड़ी राहत: 22 नई सहकारी समितियां शुरू, खाद-बीज और ऋण मिलेगा आसान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-relief-for-farmers-in-dhamtari-chhattisgarh-22-new-cooperative-societies-launched-easy-access-to-fertilizers-seeds-and-loans/",
+      "important": false
+    },
+    {
+      "id": "588cc1ae",
+      "title": "ICAR की तकनीक से परती जमीन पर उगाया ‘असम नींबू’, सिर्फ 0.2 हेक्टेयर से किसान ने कमाए ₹36,000; अब करेंगे खेती का विस्तार",
+      "summary": "ICAR की तकनीक से परती जमीन पर उगाया ‘असम नींबू’, सिर्फ 0.2 हेक्टेयर से किसान ने कमाए ₹36,000; अब करेंगे खेती का विस्तार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/farmer-earns-%e2%82%b936000-from-just-0-2-hectares-by-growing-assam-lemon-on-fallow-land-using-icar-technology-plans-to-expand-cultivation/",
+      "important": false
+    },
+    {
+      "id": "46b2a2cf",
+      "title": "धान में ग्रीन लीफहॉपर (GLH) दिखे तो क्या करें? जाने कब करें दवा का छिड़काव",
+      "summary": "धान में ग्रीन लीफहॉपर (GLH) दिखे तो क्या करें? जाने कब करें दवा का छिड़काव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/what-to-do-if-green-leafhoppers-glh-are-spotted-in-the-paddy-crop-find-out-when-to-spray-pesticides/",
+      "important": false
+    },
     {
       "id": "b7f7bd49",
       "title": "ICAR ने जारी की क्षेत्रवार सोयाबीन की उन्नत किस्मों की सूची, जानें आपके राज्य के लिए कौन-सी वैरायटी है सही",
@@ -462,94 +550,6 @@
       "date": "2026-07-27",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/agriculture-in-parliament-environment-and-seed-sovereignty/",
-      "important": false
-    },
-    {
-      "id": "f5f26c9f",
-      "title": "डीसीएम श्रीराम ने आईसीएआर-आईआईवीआर के साथ किया समझौता",
-      "summary": "डीसीएम श्रीराम ने आईसीएआर-आईआईवीआर के साथ किया समझौता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/dcm-shriram-signs-agreement-with-icar-iivr/",
-      "important": false
-    },
-    {
-      "id": "94e42dab",
-      "title": "विभिन्न कृषि यंत्रों हेतु आवेदन आमंत्रित",
-      "summary": "विभिन्न कृषि यंत्रों हेतु आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/applications-invited-for-various-agricultural-implements/",
-      "important": false
-    },
-    {
-      "id": "7f7c5092",
-      "title": "खंडवा में ‘बलराम कृषि महोत्सव’ का आयोजन आज",
-      "summary": "खंडवा में ‘बलराम कृषि महोत्सव’ का आयोजन आज",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balram-krishi-mahotsav-being-organized-in-khandwa-today/",
-      "important": false
-    },
-    {
-      "id": "ce1c2ca3",
-      "title": "किसानों का कल्याण सर्वोपरि : मुख्यमंत्री डॉ. यादव",
-      "summary": "किसानों का कल्याण सर्वोपरि : मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-welfare-is-paramount-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "9c3d28ef",
-      "title": "जलवायु स्मार्ट खेती से महके अंगूर के बाग, प्राकृतिक मल्चिंग बनी किसानों की ताकत",
-      "summary": "जलवायु स्मार्ट खेती से महके अंगूर के बाग, प्राकृतिक मल्चिंग बनी किसानों की ताकत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vineyards-flourish-with-climate-smart-farming-natural-mulching-becomes-farmers-strength/",
-      "important": false
-    },
-    {
-      "id": "0431624f",
-      "title": "मुरैना: जिला विपणन अधिकारी निलंबित",
-      "summary": "मुरैना: जिला विपणन अधिकारी निलंबित",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/morena-district-marketing-officer-suspended/",
-      "important": false
-    },
-    {
-      "id": "65c0d174",
-      "title": "आज का गेहूं मंडी रेट (25 जुलाई 2026)",
-      "summary": "आज का गेहूं मंडी रेट (25 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-25-july-2026/",
-      "important": false
-    },
-    {
-      "id": "f3a05c0c",
-      "title": "आज का धान मंडी रेट (25 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (25 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-25-july-2026/",
       "important": false
     }
   ]
