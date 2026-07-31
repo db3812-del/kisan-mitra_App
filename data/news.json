@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-31T14:21:33Z",
-  "new_count": 0,
+  "updated": "2026-07-31T19:42:24Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "94c4fd1b",
+      "title": "पशुपालकों से रखें जीवंत संपर्क- अपर कलेक्टर मऊगंज",
+      "summary": "पशुपालकों से रखें जीवंत संपर्क- अपर कलेक्टर मऊगंज",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-07-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/animal-husbandry/maintain-active-contact-with-livestock-owners-additional-collector-mauganj/",
+      "important": false
+    },
+    {
+      "id": "e9d5cace",
+      "title": "धान की फसल में BPH, लीफ फोल्डर और येलो स्टेम बोरर का खतरा, ICAR ने बताए बचाव के उपाय",
+      "summary": "धान की फसल में BPH, लीफ फोल्डर और येलो स्टेम बोरर का खतरा, ICAR ने बताए बचाव के उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/risk-of-bph-leaf-folder-and-yellow-stem-borer-in-paddy-crops-icar-outlines-preventive-measures/",
+      "important": false
+    },
+    {
+      "id": "ba0e886e",
+      "title": "सिंगरौली: खाद-बीज की निजी दुकानों का सघन निरीक्षण किया",
+      "summary": "सिंगरौली: खाद-बीज की निजी दुकानों का सघन निरीक्षण किया",
+      "level": "central",
+      "category": "price",
+      "date": "2026-07-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/singrauli-intensive-inspection-of-private-fertilizer-and-seed-shops-conducted/",
+      "important": false
+    },
+    {
+      "id": "55cdfb31",
+      "title": "धान की फसल पर मंडरा रहा गॉल मिज और ब्राउन स्पॉट का खतरा, एक्सपर्ट से जानें रोकथाम के उपाय",
+      "summary": "धान की फसल पर मंडरा रहा गॉल मिज और ब्राउन स्पॉट का खतरा, एक्सपर्ट से जानें रोकथाम के उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/threat-of-gall-midge-and-brown-spot-looms-over-paddy-crops-learn-prevention-measures-from-experts/",
+      "important": false
+    },
+    {
+      "id": "73550353",
+      "title": "आज का गेहूं मंडी रेट (31 जुलाई 2026)",
+      "summary": "आज का गेहूं मंडी रेट (31 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-31-july-2026/",
+      "important": false
+    },
+    {
+      "id": "5dab0dd1",
+      "title": "आज का मक्का मंडी रेट (31 जुलाई 2026)",
+      "summary": "आज का मक्का मंडी रेट (31 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-31-july-2026/",
+      "important": false
+    },
+    {
+      "id": "08be1f82",
+      "title": "आज का सोयाबीन मंडी रेट (31 जुलाई 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (31 जुलाई 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-07-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-31-july-2026/",
+      "important": false
+    },
+    {
+      "id": "65ec9664",
+      "title": "देशभर में मानसून एक्टिव: गुजरात में रेड अलर्ट, आज उत्तर से दक्षिण तक इन राज्यों में होगी भारी से अति भारी बारिश",
+      "summary": "देशभर में मानसून एक्टिव: गुजरात में रेड अलर्ट, आज उत्तर से दक्षिण तक इन राज्यों में होगी भारी से अति भारी बारिश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-07-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/monsoon-active-across-the-country-red-alert-in-gujarat-heavy-to-extremely-heavy-rainfall-expected-today-in-states-stretching-from-north-to-south/",
+      "important": false
+    },
     {
       "id": "8800a2aa",
       "title": "बीकानेर के किसानों को बड़ी सौगात! बागवानी योजनाओं के लिए 171.75 लाख रुपए की कार्ययोजना मंजूर",
@@ -462,94 +550,6 @@
       "date": "2026-07-28",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/imd-weather-update-alert-for-torrential-rain-in-several-states-on-july-28-warning-of-extremely-heavy-rainfall-in-mp-chhattisgarh-and-odisha/",
-      "important": false
-    },
-    {
-      "id": "dd9637e9",
-      "title": "आज का गेहूं मंडी रेट (28 जुलाई 2026)",
-      "summary": "आज का गेहूं मंडी रेट (28 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-28-july-2026/",
-      "important": false
-    },
-    {
-      "id": "929722ab",
-      "title": "आज का धान मंडी रेट (28 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (28 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-28-july-2026/",
-      "important": false
-    },
-    {
-      "id": "678f6a92",
-      "title": "आज का मक्का मंडी रेट (28 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (28 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-28-july-2026/",
-      "important": false
-    },
-    {
-      "id": "f687b183",
-      "title": "आज का सोयाबीन मंडी रेट (28 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (28 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-28-july-2026-2/",
-      "important": false
-    },
-    {
-      "id": "d95a21c2",
-      "title": "सॉफ्टवेयर इंजीनियर बने गौ-सेवक",
-      "summary": "सॉफ्टवेयर इंजीनियर बने गौ-सेवक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/software-engineer-becomes-a-cow-caretaker/",
-      "important": false
-    },
-    {
-      "id": "fca0ced9",
-      "title": "ICAR की नई ‘कुफरी रूबी’ किस्म अपनाएं किसान, 90 दिन में तैयार होंगे बेबी पोटैटो; 25 टन प्रति हेक्टेयर तक मिलेगा उत्पादन",
-      "summary": "ICAR की नई ‘कुफरी रूबी’ किस्म अपनाएं किसान, 90 दिन में तैयार होंगे बेबी पोटैटो; 25 टन प्रति हेक्टेयर तक मिलेगा उत्पादन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/farmers-should-adopt-icars-new-kufri-ruby-variety-baby-potatoes-will-be-ready-in-90-days-with-a-yield-of-up-to-25-tonnes-per-hectare/",
-      "important": false
-    },
-    {
-      "id": "5691733a",
-      "title": "उर्वरक बिक्री में अनियमितता पर बिहार सरकार सख्त, 24 घंटे में होगी किसानों की शिकायतों पर कार्रवाई",
-      "summary": "उर्वरक बिक्री में अनियमितता पर बिहार सरकार सख्त, 24 घंटे में होगी किसानों की शिकायतों पर कार्रवाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bihar-government-cracks-down-on-irregularities-in-fertilizer-sales-action-on-farmers-complaints-to-be-taken-within-24-hours/",
-      "important": false
-    },
-    {
-      "id": "5514a670",
-      "title": "प्रदेश की मंडियों में जल्द शुरू होगी ग्रेडिंग-सोर्सिंग इकाइयां",
-      "summary": "प्रदेश की मंडियों में जल्द शुरू होगी ग्रेडिंग-सोर्सिंग इकाइयां",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/grading-and-sourcing-units-will-soon-be-set-up-in-the-states-mandis/",
       "important": false
     }
   ]
