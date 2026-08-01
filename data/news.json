@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-01T03:29:39Z",
-  "new_count": 0,
+  "updated": "2026-08-01T08:28:09Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "abc8ffab",
+      "title": "बेमौसम बारिश से प्रभावित केले की फसल का मिला सहारा, 8,115 किसानों के खातों में पहुंचे 107.72 करोड़ रुपये",
+      "summary": "बेमौसम बारिश से प्रभावित केले की फसल का मिला सहारा, 8,115 किसानों के खातों में पहुंचे 107.72 करोड़ रुपये",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/relief-for-unseasonal-rain-hit-banana-crops-%e2%82%b9107-72-crore-credited-to-the-accounts-of-8115-farmers/",
+      "important": false
+    },
+    {
+      "id": "16121821",
+      "title": "राजस्थान में दाल मिल लगाने पर बंपर सब्सिडी: 25 लाख रुपये तक मिलेगा अनुदान",
+      "summary": "राजस्थान में दाल मिल लगाने पर बंपर सब्सिडी: 25 लाख रुपये तक मिलेगा अनुदान",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bumper-subsidy-for-setting-up-a-pulse-mill-in-rajasthan-grant-of-up-to-%e2%82%b925-lakh-available/",
+      "important": false
+    },
+    {
+      "id": "5176202e",
+      "title": "मूंग उत्पादक किसानों को बड़ी राहत: अब उपज का 60 प्रतिशत खरीदेगी सरकार",
+      "summary": "मूंग उत्पादक किसानों को बड़ी राहत: अब उपज का 60 प्रतिशत खरीदेगी सरकार",
+      "level": "state",
+      "category": "price",
+      "date": "2026-08-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-relief-for-moong-growing-farmers-government-to-now-procure-60-percent-of-the-produce/",
+      "important": true
+    },
+    {
+      "id": "726f165a",
+      "title": "यूपी में डेयरी व्यवसाय को बढ़ावा: 10 उन्नत देशी गायों की यूनिट पर मिलेगा 11 लाख रुपये तक अनुदान",
+      "summary": "यूपी में डेयरी व्यवसाय को बढ़ावा: 10 उन्नत देशी गायों की यूनिट पर मिलेगा 11 लाख रुपये तक अनुदान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/boosting-the-dairy-business-in-up-subsidy-of-up-to-%e2%82%b911-lakh-available-for-a-unit-of-10-high-quality-indigenous-cows/",
+      "important": false
+    },
+    {
+      "id": "9c65e6c0",
+      "title": "बिहार में कृषि यंत्रीकरण को नई रफ्तार: 236.58 करोड़ की योजना से किसानों तक पहुंचेंगे आधुनिक यंत्र",
+      "summary": "बिहार में कृषि यंत्रीकरण को नई रफ्तार: 236.58 करोड़ की योजना से किसानों तक पहुंचेंगे आधुनिक यंत्र",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/new-momentum-for-agricultural-mechanization-in-bihar-modern-machinery-to-reach-farmers-through-a-%e2%82%b9236-58-crore-scheme/",
+      "important": false
+    },
+    {
+      "id": "fc780100",
+      "title": "ट्यूबवेल के पानी की जांच कराएं किसान, बेहतर फसल उत्पादन और मिट्टी की उर्वरता बनाए रखें",
+      "summary": "ट्यूबवेल के पानी की जांच कराएं किसान, बेहतर फसल उत्पादन और मिट्टी की उर्वरता बनाए रखें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-should-get-tube-well-water-tested-to-ensure-better-crop-production-and-maintain-soil-fertility/",
+      "important": false
+    },
+    {
+      "id": "ab080d47",
+      "title": "बिहार के मखाने ने समुद्र पार बनाई नई पहचान, कनाडा रवाना हुई फ्लेवर मखाने की पहली खेप",
+      "summary": "बिहार के मखाने ने समुद्र पार बनाई नई पहचान, कनाडा रवाना हुई फ्लेवर मखाने की पहली खेप",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bihars-makhana-carves-a-new-identity-overseas-first-consignment-of-flavoured-makhana-shipped-to-canada/",
+      "important": false
+    },
+    {
+      "id": "9274b968",
+      "title": "रामसाइड्स क्रॉप साइंस ने किया वैन अभियान का शुभारम्भ",
+      "summary": "रामसाइड्स क्रॉप साइंस ने किया वैन अभियान का शुभारम्भ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ramsides-crop-science-launches-van-campaign/",
+      "important": false
+    },
     {
       "id": "94c4fd1b",
       "title": "पशुपालकों से रखें जीवंत संपर्क- अपर कलेक्टर मऊगंज",
@@ -462,94 +550,6 @@
       "date": "2026-07-29",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/amidst-the-farmers-protest-agriculture-minister-kanshana-offers-assurance-writes-to-the-centre-to-set-the-moong-procurement-target-at-8-06-lakh-tonnes/",
-      "important": false
-    },
-    {
-      "id": "8f37774b",
-      "title": "छत्तीसगढ़ में खरीफ बुवाई 80% पूरी, किसानों को 9.95 लाख टन खाद और 4.38 लाख क्विंटल बीज वितरित",
-      "summary": "छत्तीसगढ़ में खरीफ बुवाई 80% पूरी, किसानों को 9.95 लाख टन खाद और 4.38 लाख क्विंटल बीज वितरित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/kharif-sowing-80-complete-in-chhattisgarh-9-95-lakh-tonnes-of-fertilizer-and-4-38-lakh-quintals-of-seeds-distributed-to-farmers/",
-      "important": false
-    },
-    {
-      "id": "d64f151a",
-      "title": "राजस्थान: PM फसल बीमा योजना के तहत 31 जुलाई तक कराएं खरीफ फसलों का बीमा, प्राकृतिक आपदाओं से मिलेगा सुरक्षा कवच",
-      "summary": "राजस्थान: PM फसल बीमा योजना के तहत 31 जुलाई तक कराएं खरीफ फसलों का बीमा, प्राकृतिक आपदाओं से मिलेगा सुरक्षा कवच",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-insure-kharif-crops-under-the-pm-fasal-bima-yojana-by-july-31-get-a-protective-shield-against-natural-disasters/",
-      "important": false
-    },
-    {
-      "id": "4614e650",
-      "title": "सूखे जैसी स्थिति में सोयाबीन की कैसे करें देखभाल? कृषि विभाग ने जारी की पूरी गाइडलाइन",
-      "summary": "सूखे जैसी स्थिति में सोयाबीन की कैसे करें देखभाल? कृषि विभाग ने जारी की पूरी गाइडलाइन",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/how-to-care-for-soybeans-during-drought-like-conditions-the-agriculture-department-has-issued-comprehensive-guidelines/",
-      "important": false
-    },
-    {
-      "id": "22e80f22",
-      "title": "पांढुर्ना कलेक्टर ने कृषि अनुसंधान केंद्र, मोहगांव का किया औचक निरीक्षण",
-      "summary": "पांढुर्ना कलेक्टर ने कृषि अनुसंधान केंद्र, मोहगांव का किया औचक निरीक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pandhurna-collector-conducts-surprise-inspection-of-the-agricultural-research-centre-mohgaon/",
-      "important": false
-    },
-    {
-      "id": "56c9151d",
-      "title": "शाजापुर: राष्ट्रीय खाद्य तेल मिशन-तिलहन के तहत दो दिवसीय कृषक प्रशिक्षण आयोजित",
-      "summary": "शाजापुर: राष्ट्रीय खाद्य तेल मिशन-तिलहन के तहत दो दिवसीय कृषक प्रशिक्षण आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shajapur-two-day-farmer-training-organized-under-the-national-mission-on-edible-oils-oilseeds/",
-      "important": false
-    },
-    {
-      "id": "bc623467",
-      "title": "शाजापुर जिले में अमानक स्तर के मक्का के बीज पर प्रतिबंध",
-      "summary": "शाजापुर जिले में अमानक स्तर के मक्का के बीज पर प्रतिबंध",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ban-on-substandard-maize-seeds-in-shajapur-district/",
-      "important": false
-    },
-    {
-      "id": "6bbf3a3e",
-      "title": "MP किसान आंदोलन: 100% मूंग खरीदी की मांग को लेकर किसानों का भोपाल कूच, पुलिस ने बैरिकेडिंग कर राजधानी से पहले मार्च रोका",
-      "summary": "MP किसान आंदोलन: 100% मूंग खरीदी की मांग को लेकर किसानों का भोपाल कूच, पुलिस ने बैरिकेडिंग कर राजधानी से पहले मार्च रोका",
-      "level": "state",
-      "category": "market",
-      "date": "2026-07-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mp-farmers-protest-farmers-march-towards-bhopal-demanding-100-procurement-of-moong-police-halt-the-march-with-barricades-before-it-reaches-the-capital/",
-      "important": false
-    },
-    {
-      "id": "ccd20307",
-      "title": "IMD Weather Update: 28 जुलाई को कई राज्यों में मूसलाधार बारिश का अलर्ट, MP-छत्तीसगढ़-ओडिशा में अति भारी वर्षा की चेतावनी",
-      "summary": "IMD Weather Update: 28 जुलाई को कई राज्यों में मूसलाधार बारिश का अलर्ट, MP-छत्तीसगढ़-ओडिशा में अति भारी वर्षा की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-alert-for-torrential-rain-in-several-states-on-july-28-warning-of-extremely-heavy-rainfall-in-mp-chhattisgarh-and-odisha/",
       "important": false
     }
   ]
