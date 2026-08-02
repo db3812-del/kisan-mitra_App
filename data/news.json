@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-02T03:29:27Z",
-  "new_count": 0,
+  "updated": "2026-08-02T08:30:48Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "a536188d",
+      "title": "लखपति गोपालक दीदी योजना: कृत्रिम गर्भाधान से तैयार होंगी उन्नत नस्ल की बछियां, ग्रामीण महिलाओं को मिलेगा बड़ा लाभ",
+      "summary": "लखपति गोपालक दीदी योजना: कृत्रिम गर्भाधान से तैयार होंगी उन्नत नस्ल की बछियां, ग्रामीण महिलाओं को मिलेगा बड़ा लाभ",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/lakhpati-gaupalak-didi-yojana-high-breed-female-calves-to-be-produced-via-artificial-insemination-rural-women-to-reap-significant-benefits/",
+      "important": false
+    },
+    {
+      "id": "7ca324e5",
+      "title": "औषधीय फसल ईरानी अकरकरा बनी किसानों की नई पसंद, 6-8 महीने में तैयार होकर देती है बेहतर मुनाफा",
+      "summary": "औषधीय फसल ईरानी अकरकरा बनी किसानों की नई पसंद, 6-8 महीने में तैयार होकर देती है बेहतर मुनाफा",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/iranian-akarkara-a-medicinal-crop-has-become-a-new-favorite-among-farmers-it-matures-in-6-8-months-and-yields-excellent-profits/",
+      "important": false
+    },
+    {
+      "id": "52038b32",
+      "title": "IMD Weather Update: गुजरात-केरल में आज भीषण बारिश का अलर्ट, उत्तराखंड-हिमाचल समेत कई राज्यों में अगले 7 दिन बरसेंगे बादल",
+      "summary": "IMD Weather Update: गुजरात-केरल में आज भीषण बारिश का अलर्ट, उत्तराखंड-हिमाचल समेत कई राज्यों में अगले 7 दिन बरसेंगे बादल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-alert-for-heavy-rainfall-in-gujarat-and-kerala-today-rain-expected-over-the-next-7-days-in-several-states-including-uttarakhand-and-himachal-pradesh/",
+      "important": false
+    },
+    {
+      "id": "dcc1c924",
+      "title": "डिंडोरी: अमानक मक्का बीज के विक्रय एवं भंडारण पर प्रतिबंध लगाया",
+      "summary": "डिंडोरी: अमानक मक्का बीज के विक्रय एवं भंडारण पर प्रतिबंध लगाया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-sale-and-storage-of-substandard-maize-seeds-banned/",
+      "important": false
+    },
+    {
+      "id": "ddba73ab",
+      "title": "सिवनी: मुख्यमंत्री मछुआ समृद्धि योजना अंतर्गत आवेदन आमंत्रित",
+      "summary": "सिवनी: मुख्यमंत्री मछुआ समृद्धि योजना अंतर्गत आवेदन आमंत्रित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/seoni-applications-invited-under-the-chief-ministers-fishermen-prosperity-scheme/",
+      "important": false
+    },
+    {
+      "id": "6d0a448e",
+      "title": "डिंडोरी: उद्यानिकी विभाग की समीक्षा बैठक आयोजित",
+      "summary": "डिंडोरी: उद्यानिकी विभाग की समीक्षा बैठक आयोजित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-horticulture-department-review-meeting-held/",
+      "important": false
+    },
+    {
+      "id": "8be4d7e6",
+      "title": "नरसिंहपुर : प्राकृतिक खेती के विस्तार पर विशेष फोकस",
+      "summary": "नरसिंहपुर : प्राकृतिक खेती के विस्तार पर विशेष फोकस",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/narsinghpur-special-focus-on-the-expansion-of-natural-farming/",
+      "important": false
+    },
+    {
+      "id": "ba0cb13f",
+      "title": "सिवनी : फसल बीमा की अंतिम तिथि 15 अगस्त तक बढ़ाई",
+      "summary": "सिवनी : फसल बीमा की अंतिम तिथि 15 अगस्त तक बढ़ाई",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-08-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/seoni-crop-insurance-deadline-extended-to-august-15/",
+      "important": true
+    },
     {
       "id": "abc8ffab",
       "title": "बेमौसम बारिश से प्रभावित केले की फसल का मिला सहारा, 8,115 किसानों के खातों में पहुंचे 107.72 करोड़ रुपये",
@@ -462,94 +550,6 @@
       "date": "2026-07-29",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-29-july-2026/",
-      "important": false
-    },
-    {
-      "id": "7ff5220d",
-      "title": "रायपुर : 31 जुलाई तक कराएं बागवानी फसलों का बीमा, प्राकृतिक जोखिमों से मिलेगी आर्थिक सुरक्षा",
-      "summary": "रायपुर : 31 जुलाई तक कराएं बागवानी फसलों का बीमा, प्राकृतिक जोखिमों से मिलेगी आर्थिक सुरक्षा",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-insure-horticultural-crops-by-july-31-gain-financial-protection-against-natural-risks/",
-      "important": false
-    },
-    {
-      "id": "853b070f",
-      "title": "आज का मक्का मंडी रेट (29 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (29 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-29-july-2026/",
-      "important": false
-    },
-    {
-      "id": "bd277005",
-      "title": "आज का धान मंडी रेट (29 जुलाई 2026)",
-      "summary": "आज का धान मंडी रेट (29 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-29-july-2026/",
-      "important": false
-    },
-    {
-      "id": "059b2ed4",
-      "title": "आज का सोयाबीन मंडी रेट (29 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (29 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-29-july-2026/",
-      "important": false
-    },
-    {
-      "id": "7c9009eb",
-      "title": "पारादीप फॉस्फेट्स ने पहली तिमाही के नतीजे जारी किए",
-      "summary": "पारादीप फॉस्फेट्स ने पहली तिमाही के नतीजे जारी किए",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/paradeep-phosphates-released-its-first-quarter-results/",
-      "important": false
-    },
-    {
-      "id": "bed13958",
-      "title": "ICAR की दो नई आलू किस्में अधिसूचित, ‘कुफरी अभेद्य’ और ‘कुफरी रूबी’ से किसानों को मिलेगा बड़ा फायदा",
-      "summary": "ICAR की दो नई आलू किस्में अधिसूचित, ‘कुफरी अभेद्य’ और ‘कुफरी रूबी’ से किसानों को मिलेगा बड़ा फायदा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/two-new-icar-potato-varieties-notified-farmers-set-to-benefit-significantly-from-kufri-abhedya-and-kufri-ruby/",
-      "important": false
-    },
-    {
-      "id": "64ba9cf1",
-      "title": "किसान पदयात्रा  : सरकार से हुई चर्चा के बाद भी आंदोलन रहेगा जारी",
-      "summary": "किसान पदयात्रा  : सरकार से हुई चर्चा के बाद भी आंदोलन रहेगा जारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-march-protest-to-continue-despite-talks-with-the-government/",
-      "important": false
-    },
-    {
-      "id": "50c2e771",
-      "title": "किसानों के आंदोलन के बीच कृषि मंत्री कंषाना का आश्वासन, मूंग खरीदी का लक्ष्य 8.06 लाख टन करने के लिए केंद्र को लिखा पत्र",
-      "summary": "किसानों के आंदोलन के बीच कृषि मंत्री कंषाना का आश्वासन, मूंग खरीदी का लक्ष्य 8.06 लाख टन करने के लिए केंद्र को लिखा पत्र",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/amidst-the-farmers-protest-agriculture-minister-kanshana-offers-assurance-writes-to-the-centre-to-set-the-moong-procurement-target-at-8-06-lakh-tonnes/",
       "important": false
     }
   ]
