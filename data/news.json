@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-03T09:56:11Z",
+  "updated": "2026-08-03T14:51:45Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "1912aa99",
+      "title": "देपालपुर: चंबल नदी प्रदूषण मामले में प्रशासन सक्रिय",
+      "summary": "देपालपुर: चंबल नदी प्रदूषण मामले में प्रशासन सक्रिय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/depalpur-administration-active-in-chambal-river-pollution-case/",
+      "important": false
+    },
+    {
+      "id": "5fbc4193",
+      "title": "Weather Today: IMD ने जारी किया ताजा पूर्वानुमान, पूर्वोत्तर, उत्तराखंड, बिहार समेत कई राज्यों में भारी बारिश का खतरा",
+      "summary": "Weather Today: IMD ने जारी किया ताजा पूर्वानुमान, पूर्वोत्तर, उत्तराखंड, बिहार समेत कई राज्यों में भारी बारिश का खतरा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-imd-issues-fresh-forecast-risk-of-heavy-rain-in-several-states-including-the-northeast-uttarakhand-and-bihar/",
+      "important": false
+    },
+    {
+      "id": "bab284f9",
+      "title": "आज का गेहूं मंडी रेट (03 अगस्त2026)",
+      "summary": "आज का गेहूं मंडी रेट (03 अगस्त2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-03-august-2026/",
+      "important": false
+    },
+    {
+      "id": "74fef9ca",
+      "title": "आज का मक्का मंडी रेट (03 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (03 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-03-august-2026/",
+      "important": false
+    },
+    {
+      "id": "eabaf215",
+      "title": "आज का धान मंडी रेट (03 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (03 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-03-august-2026/",
+      "important": false
+    },
+    {
+      "id": "09013c4c",
+      "title": "आज का सोयाबीन मंडी रेट (03 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (03 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-03-august-2026/",
+      "important": false
+    },
+    {
+      "id": "e9091468",
+      "title": "MP Onion Rate: मध्यप्रदेश में ₹200 से ₹2,626 प्रति क्विंटल बिकी प्याज, देखें आज का ताजा मंडी रेट",
+      "summary": "MP Onion Rate: मध्यप्रदेश में ₹200 से ₹2,626 प्रति क्विंटल बिकी प्याज, देखें आज का ताजा मंडी रेट",
+      "level": "state",
+      "category": "price",
+      "date": "2026-08-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/mp-onion-rates-onions-sold-at-%e2%82%b9200-to-%e2%82%b92626-per-quintal-in-madhya-pradesh-check-todays-latest-market-rates/",
+      "important": false
+    },
+    {
+      "id": "7b691f87",
+      "title": "ग्वालियर, दतिया और निवाड़ी जिलों में भारी वर्षा की संभावना",
+      "summary": "ग्वालियर, दतिया और निवाड़ी जिलों में भारी वर्षा की संभावना",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/possibility-of-heavy-rainfall-in-gwalior-datia-and-niwari-districts/",
+      "important": false
+    },
     {
       "id": "bdcaaf1f",
       "title": "शिवराज सिंह चौहान का बड़ा ऐलान, देवास में बनेगी आदर्श कृषि व्यवस्था; 37 हजार नई लखपति दीदियां तैयार होंगी",
@@ -462,94 +550,6 @@
       "date": "2026-07-30",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/sheopur-meeting-held-regarding-one-district-one-product/",
-      "important": false
-    },
-    {
-      "id": "64c71322",
-      "title": "सोयाबीन में कॉलर रॉट, पीला मोजेक और एन्थ्रेक्नोज का खतरा, ICAR-NSRI ने किसानों के लिए जारी की एडवाइजरी",
-      "summary": "सोयाबीन में कॉलर रॉट, पीला मोजेक और एन्थ्रेक्नोज का खतरा, ICAR-NSRI ने किसानों के लिए जारी की एडवाइजरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/risk-of-collar-rot-yellow-mosaic-and-anthracnose-in-soybeans-icar-nsri-issues-advisory-for-farmers/",
-      "important": false
-    },
-    {
-      "id": "1e2645da",
-      "title": "नर्मदापुरम: राज्य सरकार किसानों के सकारात्मक सुझावों के साथ है : मुख्यमंत्री डॉ. यादव",
-      "summary": "नर्मदापुरम: राज्य सरकार किसानों के सकारात्मक सुझावों के साथ है : मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/narmadapuram-the-state-government-stands-with-the-farmers-constructive-suggestions-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "a293c0e1",
-      "title": "हरदा: सोयाबीन कृषकों को उपयोगी सलाह",
-      "summary": "हरदा: सोयाबीन कृषकों को उपयोगी सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/harda-useful-advice-for-soybean-farmers/",
-      "important": false
-    },
-    {
-      "id": "ce4e2f8b",
-      "title": "हरदा: फसल का बीमा 31 जुलाई तक अवश्य कराएं",
-      "summary": "हरदा: फसल का बीमा 31 जुलाई तक अवश्य कराएं",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/harda-ensure-crop-insurance-is-obtained-by-july-31/",
-      "important": false
-    },
-    {
-      "id": "4864081b",
-      "title": "सोयाबीन में पत्तियां पड़ रही हैं पीली? जानिए कारण और बचाव के उपाय",
-      "summary": "सोयाबीन में पत्तियां पड़ रही हैं पीली? जानिए कारण और बचाव के उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/are-soybean-leaves-turning-yellow-find-out-the-causes-and-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "5ad5a747",
-      "title": "खरपतवार से घट सकती है सोयाबीन की पैदावार, जानिए नियंत्रण के असरदार उपाय",
-      "summary": "खरपतवार से घट सकती है सोयाबीन की पैदावार, जानिए नियंत्रण के असरदार उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/weeds-can-reduce-soybean-yields-learn-about-effective-control-measures/",
-      "important": false
-    },
-    {
-      "id": "8785b4a7",
-      "title": "मजदूरी छोड़ अपनाया बकरी पालन, सरकारी योजना से बीजापुर की महिलाओं ने लिखी आत्मनिर्भरता की नई कहानी",
-      "summary": "मजदूरी छोड़ अपनाया बकरी पालन, सरकारी योजना से बीजापुर की महिलाओं ने लिखी आत्मनिर्भरता की नई कहानी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/animal-husbandry/leaving-wage-labor-for-goat-rearing-women-of-bijapur-script-a-new-story-of-self-reliance-through-a-government-scheme/",
-      "important": false
-    },
-    {
-      "id": "d22bac0a",
-      "title": "वैज्ञानिक तकनीक का कमाल! 5 दुधारू गायों से हर महीने 25 हजार रुपये कमा रहीं प्रेम कुमारी, जानिए कैसे",
-      "summary": "वैज्ञानिक तकनीक का कमाल! 5 दुधारू गायों से हर महीने 25 हजार रुपये कमा रहीं प्रेम कुमारी, जानिए कैसे",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-marvel-of-scientific-technology-prem-kumari-is-earning-%e2%82%b925000-per-month-from-five-milch-cows-find-out-how/",
       "important": false
     }
   ]
