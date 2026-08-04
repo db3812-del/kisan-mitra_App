@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-04T03:14:21Z",
-  "new_count": 0,
+  "updated": "2026-08-04T08:46:45Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "dbf15963",
+      "title": "सोयाबीन की पत्तियां हो रही हैं गायब? हो सकता है डिफोलिएटर्स का प्रकोप, जानें बचाव के उपाय",
+      "summary": "सोयाबीन की पत्तियां हो रही हैं गायब? हो सकता है डिफोलिएटर्स का प्रकोप, जानें बचाव के उपाय",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/are-soybean-leaves-disappearing-it-could-be-an-outbreak-of-defoliators-learn-about-control-measures/",
+      "important": false
+    },
+    {
+      "id": "9e47c405",
+      "title": "सीहोर: मूंग उपार्जन केंद्रों, मंडी एवं वेयरहाउस का निरीक्षण जारी",
+      "summary": "सीहोर: मूंग उपार्जन केंद्रों, मंडी एवं वेयरहाउस का निरीक्षण जारी",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-inspections-of-moong-procurement-centers-the-mandi-and-warehouses-continue/",
+      "important": false
+    },
+    {
+      "id": "fdb42d1f",
+      "title": "केंद्रीय कृषि अभियांत्रिकी संस्थान की नवीन तकनीकों को किसानों तक पहुंचाए – कलेक्टर भोपाल",
+      "summary": "केंद्रीय कृषि अभियांत्रिकी संस्थान की नवीन तकनीकों को किसानों तक पहुंचाए – कलेक्टर भोपाल",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/take-the-new-technologies-of-the-central-institute-of-agricultural-engineering-to-the-farmers-bhopal-collector/",
+      "important": false
+    },
+    {
+      "id": "c33b8d82",
+      "title": "विदिशा: ग्रीष्मकालीन मूंग में अब उत्पादन का 60 प्रतिशत तक होगा समर्थन मूल्य पर उपार्जन",
+      "summary": "विदिशा: ग्रीष्मकालीन मूंग में अब उत्पादन का 60 प्रतिशत तक होगा समर्थन मूल्य पर उपार्जन",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/vidisha-up-to-60-percent-of-summer-moong-production-will-now-be-procured-at-the-support-price/",
+      "important": false
+    },
+    {
+      "id": "e260ea36",
+      "title": "धान में ग्रीन लीफहॉपर प्रबंधन: ETL के आधार पर नियंत्रण की सलाह",
+      "summary": "धान में ग्रीन लीफहॉपर प्रबंधन: ETL के आधार पर नियंत्रण की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/green-leafhopper-management-in-paddy-control-recommended-based-on-etl/",
+      "important": false
+    },
+    {
+      "id": "77d827bf",
+      "title": "धान में तना छेदक प्रबंधन",
+      "summary": "धान में तना छेदक प्रबंधन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/stem-borer-management-in-paddy/",
+      "important": false
+    },
+    {
+      "id": "9492f6f5",
+      "title": "धान में लीफ फोल्डर प्रबंधन: समय पर निगरानी से बचाई जा सकती है उपज",
+      "summary": "धान में लीफ फोल्डर प्रबंधन: समय पर निगरानी से बचाई जा सकती है उपज",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/leaf-folder-management-in-paddy-timely-monitoring-can-save-the-crop/",
+      "important": false
+    },
+    {
+      "id": "106122ba",
+      "title": "बैतूल में हुए बलराम कृषि महोत्सव में सीएम मोहन यादव ने किसानों से किया संवाद, बोले- आधुनिक खेती ही समृद्धि का रास्ता",
+      "summary": "बैतूल में हुए बलराम कृषि महोत्सव में सीएम मोहन यादव ने किसानों से किया संवाद, बोले- आधुनिक खेती ही समृद्धि का रास्ता",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/cm-mohan-yadav-interacted-with-farmers-at-the-balram-agriculture-festival-in-betul-stating-that-modern-farming-is-the-path-to-prosperity/",
+      "important": false
+    },
     {
       "id": "1912aa99",
       "title": "देपालपुर: चंबल नदी प्रदूषण मामले में प्रशासन सक्रिय",
@@ -462,94 +550,6 @@
       "date": "2026-07-31",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/women-farmers-have-achieved-a-remarkable-feat-jeeraphool-paddy-is-flourishing-across-10-acres-with-a-100-germination-rate-it-will-now-be-marketed-under-the-hasdeo-brand/",
-      "important": false
-    },
-    {
-      "id": "a4037e55",
-      "title": "किसानों की हर समस्या का समाधान सर्वोच्च प्राथमिकता : मुख्यमंत्री डॉ. यादव",
-      "summary": "किसानों की हर समस्या का समाधान सर्वोच्च प्राथमिकता : मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/resolving-every-problem-faced-by-farmers-is-the-top-priority-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "afd535eb",
-      "title": "किसानों के लिए बड़ी सौगात! धमतरी में खुला माइक्रो फूड प्रोसेसिंग सेंटर, मिलेगा प्रोसेसिंग से पैकेजिंग तक का प्रशिक्षण",
-      "summary": "किसानों के लिए बड़ी सौगात! धमतरी में खुला माइक्रो फूड प्रोसेसिंग सेंटर, मिलेगा प्रोसेसिंग से पैकेजिंग तक का प्रशिक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-major-boon-for-farmers-micro-food-processing-center-opens-in-dhamtari-training-to-be-provided-on-everything-from-processing-to-packaging/",
-      "important": false
-    },
-    {
-      "id": "dba0d9c2",
-      "title": "प्राकृतिक खेती की तकनीकों को अपनाएं: कलेक्टर टीकमगढ़",
-      "summary": "प्राकृतिक खेती की तकनीकों को अपनाएं: कलेक्टर टीकमगढ़",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/adopt-natural-farming-techniques-tikamgarh-collector/",
-      "important": false
-    },
-    {
-      "id": "cfac4759",
-      "title": "देवास: ग्रीष्मकालीन मूंग उपार्जन 10 अगस्त तक",
-      "summary": "देवास: ग्रीष्मकालीन मूंग उपार्जन 10 अगस्त तक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dewas-summer-moong-procurement-until-august-10/",
-      "important": false
-    },
-    {
-      "id": "278a226c",
-      "title": "मुख्यमंत्री डेयरी प्लस योजना से डेयरी व्यवसाय का सुनहरा अवसर",
-      "summary": "मुख्यमंत्री डेयरी प्लस योजना से डेयरी व्यवसाय का सुनहरा अवसर",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-golden-opportunity-for-the-dairy-business-through-the-chief-ministers-dairy-plus-scheme/",
-      "important": false
-    },
-    {
-      "id": "03e5c15c",
-      "title": "ICAR Advisory: डायरेक्ट सीडेड धान में कब और कैसे करें खरपतवार नियंत्रण? जानिए पूरी गाइड",
-      "summary": "ICAR Advisory: डायरेक्ट सीडेड धान में कब और कैसे करें खरपतवार नियंत्रण? जानिए पूरी गाइड",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/icar-advisory-when-and-how-to-control-weeds-in-direct-seeded-paddy-read-the-complete-guide/",
-      "important": false
-    },
-    {
-      "id": "1f1f8fc7",
-      "title": "मध्यप्रदेश के पांच जिलों में अति भारी वर्षा का ऑरेंज अलर्ट जारी",
-      "summary": "मध्यप्रदेश के पांच जिलों में अति भारी वर्षा का ऑरेंज अलर्ट जारी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-07-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/orange-alert-issued-for-extremely-heavy-rainfall-in-five-districts-of-madhya-pradesh-2/",
-      "important": false
-    },
-    {
-      "id": "2438a4fa",
-      "title": "श्योपुर: एक जिला एक उत्पाद के संबंध में बैठक आयोजित",
-      "summary": "श्योपुर: एक जिला एक उत्पाद के संबंध में बैठक आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sheopur-meeting-held-regarding-one-district-one-product/",
       "important": false
     }
   ]
