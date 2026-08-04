@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-04T08:46:45Z",
+  "updated": "2026-08-04T14:28:24Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "b1461be0",
+      "title": "यूपीएल लिमिटेड के Q1 एवं FY27 के वित्तीय नतीजे घोषित",
+      "summary": "यूपीएल लिमिटेड के Q1 एवं FY27 के वित्तीय नतीजे घोषित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/upl-limited-announces-q1-and-fy27-financial-results/",
+      "important": false
+    },
+    {
+      "id": "26888e07",
+      "title": "खेती की नई तकनीकें हैं किसानों की समृद्धि का नया द्वार: मुख्यमंत्री डॉ. यादव",
+      "summary": "खेती की नई तकनीकें हैं किसानों की समृद्धि का नया द्वार: मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/new-farming-techniques-are-a-new-gateway-to-farmers-prosperity-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "671ab90d",
+      "title": "पंजाब में महिंद्रा ट्रैक्टर्स का नया अभियान ‘दुनिया विच इक्को ललकार’ लॉन्च, सुखबीर सिंह और परमिश वर्मा बने चेहरा",
+      "summary": "पंजाब में महिंद्रा ट्रैक्टर्स का नया अभियान ‘दुनिया विच इक्को ललकार’ लॉन्च, सुखबीर सिंह और परमिश वर्मा बने चेहरा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-tractors-launches-new-campaign-duniya-vich-ikko-lalkaar-in-punjab-sukhbir-singh-and-parmish-verma-become-the-faces-of-the-campaign/",
+      "important": false
+    },
+    {
+      "id": "9632b95c",
+      "title": "आज का गेहूं मंडी रेट (04 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (04 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-04-august-2026/",
+      "important": false
+    },
+    {
+      "id": "4a4f9883",
+      "title": "आज का मक्का मंडी रेट (04 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (04 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-04-august-2026/",
+      "important": false
+    },
+    {
+      "id": "53b850a9",
+      "title": "आज का सोयाबीन मंडी रेट (04 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (04 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-04-august-2026/",
+      "important": false
+    },
+    {
+      "id": "38fc8376",
+      "title": "आज का धान मंडी रेट (04 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (04 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-04-august-2026/",
+      "important": false
+    },
+    {
+      "id": "e4bce9b1",
+      "title": "आकांक्षी जिला कार्यक्रम: विकसित भारत 2047 की दिशा में डेटा-संचालित, जलवायु-सहिष्णु एवं समावेशी विकास का राष्ट्रीय मॉडल",
+      "summary": "आकांक्षी जिला कार्यक्रम: विकसित भारत 2047 की दिशा में डेटा-संचालित, जलवायु-सहिष्णु एवं समावेशी विकास का राष्ट्रीय मॉडल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/aspirational-districts-programme-a-national-model-of-data-driven-climate-resilient-and-inclusive-development-towards-viksit-bharat-2047/",
+      "important": false
+    },
     {
       "id": "dbf15963",
       "title": "सोयाबीन की पत्तियां हो रही हैं गायब? हो सकता है डिफोलिएटर्स का प्रकोप, जानें बचाव के उपाय",
@@ -462,94 +550,6 @@
       "date": "2026-07-31",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/crop-cultivation/risk-of-bph-leaf-folder-and-yellow-stem-borer-in-paddy-crops-icar-outlines-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "ba0e886e",
-      "title": "सिंगरौली: खाद-बीज की निजी दुकानों का सघन निरीक्षण किया",
-      "summary": "सिंगरौली: खाद-बीज की निजी दुकानों का सघन निरीक्षण किया",
-      "level": "central",
-      "category": "price",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/singrauli-intensive-inspection-of-private-fertilizer-and-seed-shops-conducted/",
-      "important": false
-    },
-    {
-      "id": "55cdfb31",
-      "title": "धान की फसल पर मंडरा रहा गॉल मिज और ब्राउन स्पॉट का खतरा, एक्सपर्ट से जानें रोकथाम के उपाय",
-      "summary": "धान की फसल पर मंडरा रहा गॉल मिज और ब्राउन स्पॉट का खतरा, एक्सपर्ट से जानें रोकथाम के उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/threat-of-gall-midge-and-brown-spot-looms-over-paddy-crops-learn-prevention-measures-from-experts/",
-      "important": false
-    },
-    {
-      "id": "73550353",
-      "title": "आज का गेहूं मंडी रेट (31 जुलाई 2026)",
-      "summary": "आज का गेहूं मंडी रेट (31 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-31-july-2026/",
-      "important": false
-    },
-    {
-      "id": "5dab0dd1",
-      "title": "आज का मक्का मंडी रेट (31 जुलाई 2026)",
-      "summary": "आज का मक्का मंडी रेट (31 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-31-july-2026/",
-      "important": false
-    },
-    {
-      "id": "08be1f82",
-      "title": "आज का सोयाबीन मंडी रेट (31 जुलाई 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (31 जुलाई 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-31-july-2026/",
-      "important": false
-    },
-    {
-      "id": "65ec9664",
-      "title": "देशभर में मानसून एक्टिव: गुजरात में रेड अलर्ट, आज उत्तर से दक्षिण तक इन राज्यों में होगी भारी से अति भारी बारिश",
-      "summary": "देशभर में मानसून एक्टिव: गुजरात में रेड अलर्ट, आज उत्तर से दक्षिण तक इन राज्यों में होगी भारी से अति भारी बारिश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/monsoon-active-across-the-country-red-alert-in-gujarat-heavy-to-extremely-heavy-rainfall-expected-today-in-states-stretching-from-north-to-south/",
-      "important": false
-    },
-    {
-      "id": "8800a2aa",
-      "title": "बीकानेर के किसानों को बड़ी सौगात! बागवानी योजनाओं के लिए 171.75 लाख रुपए की कार्ययोजना मंजूर",
-      "summary": "बीकानेर के किसानों को बड़ी सौगात! बागवानी योजनाओं के लिए 171.75 लाख रुपए की कार्ययोजना मंजूर",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-major-boon-for-bikaner-farmers-an-action-plan-worth-%e2%82%b9171-75-lakh-approved-for-horticulture-schemes/",
-      "important": false
-    },
-    {
-      "id": "3ca8e0ab",
-      "title": "महिला किसानों ने कर दिखाया कमाल! 100% अंकुरण से 10 एकड़ में लहलहाई जीराफूल धान, अब बनेगा ‘हसदेव ब्रांड’",
-      "summary": "महिला किसानों ने कर दिखाया कमाल! 100% अंकुरण से 10 एकड़ में लहलहाई जीराफूल धान, अब बनेगा ‘हसदेव ब्रांड’",
-      "level": "central",
-      "category": "market",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/women-farmers-have-achieved-a-remarkable-feat-jeeraphool-paddy-is-flourishing-across-10-acres-with-a-100-germination-rate-it-will-now-be-marketed-under-the-hasdeo-brand/",
       "important": false
     }
   ]
