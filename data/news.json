@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-05T02:55:15Z",
-  "new_count": 0,
+  "updated": "2026-08-05T08:43:59Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "6b038f34",
+      "title": "विभिन्न कृषि यंत्रों हेतु आवेदन के लिए आज 4 अगस्त तक अंतिम तिथि",
+      "summary": "विभिन्न कृषि यंत्रों हेतु आवेदन के लिए आज 4 अगस्त तक अंतिम तिथि",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/today-august-4-is-the-last-date-to-apply-for-various-agricultural-implements/",
+      "important": true
+    },
+    {
+      "id": "1a5f9249",
+      "title": "मोहन कैबिनेट का बड़ा फैसला: मध्यप्रदेश में ‘कवच योजना’ को मिली मंजूरी, हजारों डिफॉल्टर किसानों को मिलेगा लाभ",
+      "summary": "मोहन कैबिनेट का बड़ा फैसला: मध्यप्रदेश में ‘कवच योजना’ को मिली मंजूरी, हजारों डिफॉल्टर किसानों को मिलेगा लाभ",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-decision-by-the-mohan-cabinet-kavach-yojana-approved-in-madhya-pradesh-thousands-of-defaulting-farmers-to-benefit/",
+      "important": false
+    },
+    {
+      "id": "13d26b8c",
+      "title": "खेती का रकबा बढ़ाने और किसानों की आय में वृद्धि के लिए विशेष कार्ययोजना बनायी  जाए- इंदौर संभागायुक्त",
+      "summary": "खेती का रकबा बढ़ाने और किसानों की आय में वृद्धि के लिए विशेष कार्ययोजना बनायी  जाए- इंदौर संभागायुक्त",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-special-action-plan-should-be-formulated-to-increase-the-cultivated-area-and-boost-farmers-income-indore-divisional-commissioner/",
+      "important": false
+    },
+    {
+      "id": "3b40fa41",
+      "title": "छिंदवाड़ा: सर्वोत्तम कृषक पुरस्कार हेतु 20 अगस्त तक आवेदन आमंत्रित",
+      "summary": "छिंदवाड़ा: सर्वोत्तम कृषक पुरस्कार हेतु 20 अगस्त तक आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-applications-invited-for-the-best-farmer-award-until-august-20/",
+      "important": false
+    },
+    {
+      "id": "6151c592",
+      "title": "इथेनॉल नीति पर किसान नेताओं ने शिवराज सिंह चौहान से की मुलाकात, बोले- लाभ सीधे किसानों तक पहुंचे, सरकार ने दिया भरोसा",
+      "summary": "इथेनॉल नीति पर किसान नेताओं ने शिवराज सिंह चौहान से की मुलाकात, बोले- लाभ सीधे किसानों तक पहुंचे, सरकार ने दिया भरोसा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/farmer-leaders-met-shivraj-singh-chouhan-regarding-the-ethanol-policy-urging-that-benefits-reach-farmers-directly-the-government-gave-assurances/",
+      "important": false
+    },
+    {
+      "id": "7f82c549",
+      "title": "सिंचाई सुविधाओं के विस्तार, फसल विविधिकरण और आधुनिक तकनीक से खेती बनेगी अधिक लाभकारी -सीएम साय",
+      "summary": "सिंचाई सुविधाओं के विस्तार, फसल विविधिकरण और आधुनिक तकनीक से खेती बनेगी अधिक लाभकारी -सीएम साय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/expansion-of-irrigation-facilities-crop-diversification-and-modern-technology-will-make-farming-more-profitable-cm-sai/",
+      "important": false
+    },
+    {
+      "id": "c2b3d501",
+      "title": "IGKV UG Admission 2026: सेकेंड राउंड ऑनलाइन रजिस्ट्रेशन शुरू, 14 अगस्त को जारी होगी मेरिट लिस्ट",
+      "summary": "IGKV UG Admission 2026: सेकेंड राउंड ऑनलाइन रजिस्ट्रेशन शुरू, 14 अगस्त को जारी होगी मेरिट लिस्ट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/igkv-ug-admission-2026-online-registration-for-the-second-round-has-begun-merit-list-to-be-released-on-august-14/",
+      "important": false
+    },
+    {
+      "id": "0f775f31",
+      "title": "धान में ब्लास्ट रोग प्रबंधन: नर्सरी में शुरुआती नियंत्रण से बचाएं पौध",
+      "summary": "धान में ब्लास्ट रोग प्रबंधन: नर्सरी में शुरुआती नियंत्रण से बचाएं पौध",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/blast-disease-management-in-paddy-protect-seedlings-with-early-control-in-the-nursery/",
+      "important": false
+    },
     {
       "id": "b1461be0",
       "title": "यूपीएल लिमिटेड के Q1 एवं FY27 के वित्तीय नतीजे घोषित",
@@ -462,94 +550,6 @@
       "date": "2026-08-01",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/bumper-subsidy-for-setting-up-a-pulse-mill-in-rajasthan-grant-of-up-to-%e2%82%b925-lakh-available/",
-      "important": false
-    },
-    {
-      "id": "5176202e",
-      "title": "मूंग उत्पादक किसानों को बड़ी राहत: अब उपज का 60 प्रतिशत खरीदेगी सरकार",
-      "summary": "मूंग उत्पादक किसानों को बड़ी राहत: अब उपज का 60 प्रतिशत खरीदेगी सरकार",
-      "level": "state",
-      "category": "price",
-      "date": "2026-08-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-relief-for-moong-growing-farmers-government-to-now-procure-60-percent-of-the-produce/",
-      "important": true
-    },
-    {
-      "id": "726f165a",
-      "title": "यूपी में डेयरी व्यवसाय को बढ़ावा: 10 उन्नत देशी गायों की यूनिट पर मिलेगा 11 लाख रुपये तक अनुदान",
-      "summary": "यूपी में डेयरी व्यवसाय को बढ़ावा: 10 उन्नत देशी गायों की यूनिट पर मिलेगा 11 लाख रुपये तक अनुदान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/boosting-the-dairy-business-in-up-subsidy-of-up-to-%e2%82%b911-lakh-available-for-a-unit-of-10-high-quality-indigenous-cows/",
-      "important": false
-    },
-    {
-      "id": "9c65e6c0",
-      "title": "बिहार में कृषि यंत्रीकरण को नई रफ्तार: 236.58 करोड़ की योजना से किसानों तक पहुंचेंगे आधुनिक यंत्र",
-      "summary": "बिहार में कृषि यंत्रीकरण को नई रफ्तार: 236.58 करोड़ की योजना से किसानों तक पहुंचेंगे आधुनिक यंत्र",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/new-momentum-for-agricultural-mechanization-in-bihar-modern-machinery-to-reach-farmers-through-a-%e2%82%b9236-58-crore-scheme/",
-      "important": false
-    },
-    {
-      "id": "fc780100",
-      "title": "ट्यूबवेल के पानी की जांच कराएं किसान, बेहतर फसल उत्पादन और मिट्टी की उर्वरता बनाए रखें",
-      "summary": "ट्यूबवेल के पानी की जांच कराएं किसान, बेहतर फसल उत्पादन और मिट्टी की उर्वरता बनाए रखें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-should-get-tube-well-water-tested-to-ensure-better-crop-production-and-maintain-soil-fertility/",
-      "important": false
-    },
-    {
-      "id": "ab080d47",
-      "title": "बिहार के मखाने ने समुद्र पार बनाई नई पहचान, कनाडा रवाना हुई फ्लेवर मखाने की पहली खेप",
-      "summary": "बिहार के मखाने ने समुद्र पार बनाई नई पहचान, कनाडा रवाना हुई फ्लेवर मखाने की पहली खेप",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bihars-makhana-carves-a-new-identity-overseas-first-consignment-of-flavoured-makhana-shipped-to-canada/",
-      "important": false
-    },
-    {
-      "id": "9274b968",
-      "title": "रामसाइड्स क्रॉप साइंस ने किया वैन अभियान का शुभारम्भ",
-      "summary": "रामसाइड्स क्रॉप साइंस ने किया वैन अभियान का शुभारम्भ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ramsides-crop-science-launches-van-campaign/",
-      "important": false
-    },
-    {
-      "id": "94c4fd1b",
-      "title": "पशुपालकों से रखें जीवंत संपर्क- अपर कलेक्टर मऊगंज",
-      "summary": "पशुपालकों से रखें जीवंत संपर्क- अपर कलेक्टर मऊगंज",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/animal-husbandry/maintain-active-contact-with-livestock-owners-additional-collector-mauganj/",
-      "important": false
-    },
-    {
-      "id": "e9d5cace",
-      "title": "धान की फसल में BPH, लीफ फोल्डर और येलो स्टेम बोरर का खतरा, ICAR ने बताए बचाव के उपाय",
-      "summary": "धान की फसल में BPH, लीफ फोल्डर और येलो स्टेम बोरर का खतरा, ICAR ने बताए बचाव के उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-07-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/risk-of-bph-leaf-folder-and-yellow-stem-borer-in-paddy-crops-icar-outlines-preventive-measures/",
       "important": false
     }
   ]
