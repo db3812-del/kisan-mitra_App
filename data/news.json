@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-05T08:43:59Z",
+  "updated": "2026-08-05T14:21:15Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "752d2cbb",
+      "title": "आज का गेहूं मंडी रेट (05 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (05 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-05-august-2026/",
+      "important": false
+    },
+    {
+      "id": "3a1caa44",
+      "title": "आज का धान मंडी रेट (05 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (05 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-05-august-2026/",
+      "important": false
+    },
+    {
+      "id": "dd3f122f",
+      "title": "आज का मक्का मंडी रेट (05 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (05 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-05-august-2026/",
+      "important": false
+    },
+    {
+      "id": "6424df09",
+      "title": "आज का सोयाबीन मंडी रेट (05 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (05 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-05-august-2026/",
+      "important": false
+    },
+    {
+      "id": "862612f3",
+      "title": "खरीफ फसलों में कीट नियंत्रण पर सलाह",
+      "summary": "खरीफ फसलों में कीट नियंत्रण पर सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/advice-on-pest-control-in-kharif-crops/",
+      "important": false
+    },
+    {
+      "id": "8cc38722",
+      "title": "फसल बीमा के प्रति जागरूकता अभियान तेज",
+      "summary": "फसल बीमा के प्रति जागरूकता अभियान तेज",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/awareness-campaign-on-crop-insurance-intensified/",
+      "important": false
+    },
+    {
+      "id": "b02d6675",
+      "title": "परम्परागत कृषि विकास से होग शुद्ध खाद्य उत्पादन",
+      "summary": "परम्परागत कृषि विकास से होग शुद्ध खाद्य उत्पादन",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pure-food-production-will-be-achieved-through-traditional-agricultural-development/",
+      "important": false
+    },
+    {
+      "id": "c65505d3",
+      "title": "PM फसल बीमा योजना में राजस्थान ने बनाया रिकॉर्ड, 62.58 लाख किसान जुड़े; 18,189 करोड़ रुपये के दावों का हुआ भुगतान",
+      "summary": "PM फसल बीमा योजना में राजस्थान ने बनाया रिकॉर्ड, 62.58 लाख किसान जुड़े; 18,189 करोड़ रुपये के दावों का हुआ भुगतान",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-08-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-sets-a-record-under-the-pm-crop-insurance-scheme-62-58-lakh-farmers-enrolled-and-claims-worth-%e2%82%b918189-crore-paid-out/",
+      "important": false
+    },
     {
       "id": "6b038f34",
       "title": "विभिन्न कृषि यंत्रों हेतु आवेदन के लिए आज 4 अगस्त तक अंतिम तिथि",
@@ -462,94 +550,6 @@
       "date": "2026-08-02",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/iranian-akarkara-a-medicinal-crop-has-become-a-new-favorite-among-farmers-it-matures-in-6-8-months-and-yields-excellent-profits/",
-      "important": false
-    },
-    {
-      "id": "52038b32",
-      "title": "IMD Weather Update: गुजरात-केरल में आज भीषण बारिश का अलर्ट, उत्तराखंड-हिमाचल समेत कई राज्यों में अगले 7 दिन बरसेंगे बादल",
-      "summary": "IMD Weather Update: गुजरात-केरल में आज भीषण बारिश का अलर्ट, उत्तराखंड-हिमाचल समेत कई राज्यों में अगले 7 दिन बरसेंगे बादल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/imd-weather-update-alert-for-heavy-rainfall-in-gujarat-and-kerala-today-rain-expected-over-the-next-7-days-in-several-states-including-uttarakhand-and-himachal-pradesh/",
-      "important": false
-    },
-    {
-      "id": "dcc1c924",
-      "title": "डिंडोरी: अमानक मक्का बीज के विक्रय एवं भंडारण पर प्रतिबंध लगाया",
-      "summary": "डिंडोरी: अमानक मक्का बीज के विक्रय एवं भंडारण पर प्रतिबंध लगाया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-sale-and-storage-of-substandard-maize-seeds-banned/",
-      "important": false
-    },
-    {
-      "id": "ddba73ab",
-      "title": "सिवनी: मुख्यमंत्री मछुआ समृद्धि योजना अंतर्गत आवेदन आमंत्रित",
-      "summary": "सिवनी: मुख्यमंत्री मछुआ समृद्धि योजना अंतर्गत आवेदन आमंत्रित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seoni-applications-invited-under-the-chief-ministers-fishermen-prosperity-scheme/",
-      "important": false
-    },
-    {
-      "id": "6d0a448e",
-      "title": "डिंडोरी: उद्यानिकी विभाग की समीक्षा बैठक आयोजित",
-      "summary": "डिंडोरी: उद्यानिकी विभाग की समीक्षा बैठक आयोजित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-horticulture-department-review-meeting-held/",
-      "important": false
-    },
-    {
-      "id": "8be4d7e6",
-      "title": "नरसिंहपुर : प्राकृतिक खेती के विस्तार पर विशेष फोकस",
-      "summary": "नरसिंहपुर : प्राकृतिक खेती के विस्तार पर विशेष फोकस",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/narsinghpur-special-focus-on-the-expansion-of-natural-farming/",
-      "important": false
-    },
-    {
-      "id": "ba0cb13f",
-      "title": "सिवनी : फसल बीमा की अंतिम तिथि 15 अगस्त तक बढ़ाई",
-      "summary": "सिवनी : फसल बीमा की अंतिम तिथि 15 अगस्त तक बढ़ाई",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-08-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seoni-crop-insurance-deadline-extended-to-august-15/",
-      "important": true
-    },
-    {
-      "id": "abc8ffab",
-      "title": "बेमौसम बारिश से प्रभावित केले की फसल का मिला सहारा, 8,115 किसानों के खातों में पहुंचे 107.72 करोड़ रुपये",
-      "summary": "बेमौसम बारिश से प्रभावित केले की फसल का मिला सहारा, 8,115 किसानों के खातों में पहुंचे 107.72 करोड़ रुपये",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/relief-for-unseasonal-rain-hit-banana-crops-%e2%82%b9107-72-crore-credited-to-the-accounts-of-8115-farmers/",
-      "important": false
-    },
-    {
-      "id": "16121821",
-      "title": "राजस्थान में दाल मिल लगाने पर बंपर सब्सिडी: 25 लाख रुपये तक मिलेगा अनुदान",
-      "summary": "राजस्थान में दाल मिल लगाने पर बंपर सब्सिडी: 25 लाख रुपये तक मिलेगा अनुदान",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bumper-subsidy-for-setting-up-a-pulse-mill-in-rajasthan-grant-of-up-to-%e2%82%b925-lakh-available/",
       "important": false
     }
   ]
