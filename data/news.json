@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-06T08:45:37Z",
-  "new_count": 0,
+  "updated": "2026-08-06T14:24:56Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "b857112f",
+      "title": "परम्परागत तरीके से कपास उत्पादन को सशक्त बनाएं – श्री चौरसिया",
+      "summary": "परम्परागत तरीके से कपास उत्पादन को सशक्त बनाएं – श्री चौरसिया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/strengthen-cotton-production-through-traditional-methods-shri-chaurasia/",
+      "important": false
+    },
+    {
+      "id": "fb5251d0",
+      "title": "आज का सोयाबीन मंडी रेट (06 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (06 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-06-august-2026/",
+      "important": false
+    },
+    {
+      "id": "8b1ed7c2",
+      "title": "धान में सीडलिंग ब्लाइट प्रबंधन: नर्सरी में समय पर पहचान है जरूरी",
+      "summary": "धान में सीडलिंग ब्लाइट प्रबंधन: नर्सरी में समय पर पहचान है जरूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/seedling-blight-management-in-paddy-timely-detection-in-the-nursery-is-crucial/",
+      "important": false
+    },
+    {
+      "id": "14615545",
+      "title": "धान में गॉल मिज प्रबंधन: समय पर नियंत्रण से बचाएं कल्ले",
+      "summary": "धान में गॉल मिज प्रबंधन: समय पर नियंत्रण से बचाएं कल्ले",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/gall-midge-management-in-paddy-save-tillers-with-timely-control/",
+      "important": false
+    },
+    {
+      "id": "ca59a0ff",
+      "title": "धान में हिस्पा, केसवर्म और स्वार्मिंग कैटरपिलर का प्रबंधन: फसल की नियमित निगरानी रखें",
+      "summary": "धान में हिस्पा, केसवर्म और स्वार्मिंग कैटरपिलर का प्रबंधन: फसल की नियमित निगरानी रखें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/management-of-hispa-caseworm-and-swarming-caterpillar-in-paddy-monitor-the-crop-regularly/",
+      "important": false
+    },
+    {
+      "id": "2f6cb022",
+      "title": "धान में पोषक तत्व प्रबंधन: अधिक उत्पादन के लिए संतुलित उर्वरक प्रबंधन अपनाने की सलाह",
+      "summary": "धान में पोषक तत्व प्रबंधन: अधिक उत्पादन के लिए संतुलित उर्वरक प्रबंधन अपनाने की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/nutrient-management-in-paddy-recommendation-to-adopt-balanced-fertilizer-management-for-higher-yields/",
+      "important": false
+    },
+    {
+      "id": "f7db307c",
+      "title": "धान की नर्सरी प्रबंधन: स्वस्थ पौध तैयार करने के लिए ICAR-CRRI की सलाह",
+      "summary": "धान की नर्सरी प्रबंधन: स्वस्थ पौध तैयार करने के लिए ICAR-CRRI की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/paddy-nursery-management-icar-crris-advice-for-raising-healthy-seedlings/",
+      "important": false
+    },
+    {
+      "id": "0c0e33fb",
+      "title": "मुरैना जिले में अति भारी वर्षा का ऑरेंज अलर्ट जारी",
+      "summary": "मुरैना जिले में अति भारी वर्षा का ऑरेंज अलर्ट जारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/orange-alert-issued-for-extremely-heavy-rainfall-in-morena-district/",
+      "important": false
+    },
     {
       "id": "752d2cbb",
       "title": "आज का गेहूं मंडी रेट (05 अगस्त 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-08-03",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/fertilizer-sellers-in-balaghat-trained-in-hybrid-mode-distribution/",
-      "important": false
-    },
-    {
-      "id": "efc1ece1",
-      "title": "मध्यप्रदेश में खरीफ फसलों की बुआई 134.31 लाख हेक्टेयर पहुंची",
-      "summary": "मध्यप्रदेश में खरीफ फसलों की बुआई 134.31 लाख हेक्टेयर पहुंची",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/kharif-crop-sowing-in-madhya-pradesh-has-reached-134-31-lakh-hectares/",
-      "important": false
-    },
-    {
-      "id": "7bafd484",
-      "title": "सिवनी: अमानक उर्वरक पर कृषि विभाग द्वारा एफआईआर दर्ज़",
-      "summary": "सिवनी: अमानक उर्वरक पर कृषि विभाग द्वारा एफआईआर दर्ज़",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seoni-agriculture-department-files-fir-on-substandard-fertilizer/",
-      "important": false
-    },
-    {
-      "id": "a487d193",
-      "title": "धार का रूपाखेड़ा बना ‘मध्यप्रदेश का मिनी हॉलैंड’, पॉलीहाउस में विदेशी फूलों की खेती से बदल रही किसानों की तकदीर",
-      "summary": "धार का रूपाखेड़ा बना ‘मध्यप्रदेश का मिनी हॉलैंड’, पॉलीहाउस में विदेशी फूलों की खेती से बदल रही किसानों की तकदीर",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rupakheda-in-dhar-becomes-madhya-pradeshs-mini-holland-farmers-fortunes-are-transforming-through-the-cultivation-of-exotic-flowers-in-polyhouses/",
-      "important": false
-    },
-    {
-      "id": "1963ddbe",
-      "title": "धान बीज उपचार: स्वस्थ पौध तैयार करने के लिए ICAR-CRRI की सिफारिश",
-      "summary": "धान बीज उपचार: स्वस्थ पौध तैयार करने के लिए ICAR-CRRI की सिफारिश",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/paddy-seed-treatment-icar-crri-recommendation-for-preparing-healthy-seedlings/",
-      "important": false
-    },
-    {
-      "id": "019352ed",
-      "title": "धान में थ्रिप्स प्रबंधन: नर्सरी की सुरक्षा के लिए ICAR-CRRI की सलाह",
-      "summary": "धान में थ्रिप्स प्रबंधन: नर्सरी की सुरक्षा के लिए ICAR-CRRI की सलाह",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/thrips-management-in-paddy-icar-crri-advisory-for-nursery-protection/",
-      "important": false
-    },
-    {
-      "id": "57354ebc",
-      "title": "धान में ब्राउन प्लांटहॉपर (BPH) प्रबंधन",
-      "summary": "धान में ब्राउन प्लांटहॉपर (BPH) प्रबंधन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/brown-planthopper-bph-management-in-paddy/",
-      "important": false
-    },
-    {
-      "id": "a536188d",
-      "title": "लखपति गोपालक दीदी योजना: कृत्रिम गर्भाधान से तैयार होंगी उन्नत नस्ल की बछियां, ग्रामीण महिलाओं को मिलेगा बड़ा लाभ",
-      "summary": "लखपति गोपालक दीदी योजना: कृत्रिम गर्भाधान से तैयार होंगी उन्नत नस्ल की बछियां, ग्रामीण महिलाओं को मिलेगा बड़ा लाभ",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/lakhpati-gaupalak-didi-yojana-high-breed-female-calves-to-be-produced-via-artificial-insemination-rural-women-to-reap-significant-benefits/",
-      "important": false
-    },
-    {
-      "id": "7ca324e5",
-      "title": "औषधीय फसल ईरानी अकरकरा बनी किसानों की नई पसंद, 6-8 महीने में तैयार होकर देती है बेहतर मुनाफा",
-      "summary": "औषधीय फसल ईरानी अकरकरा बनी किसानों की नई पसंद, 6-8 महीने में तैयार होकर देती है बेहतर मुनाफा",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/iranian-akarkara-a-medicinal-crop-has-become-a-new-favorite-among-farmers-it-matures-in-6-8-months-and-yields-excellent-profits/",
       "important": false
     }
   ]
