@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-07T00:06:56Z",
-  "new_count": 0,
+  "updated": "2026-08-07T07:24:20Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "11becee7",
+      "title": "शाजापुर: दो दिवसीय कृषक प्रशिक्षण का आयोजन",
+      "summary": "शाजापुर: दो दिवसीय कृषक प्रशिक्षण का आयोजन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shajapur-two-day-farmers-training-organized/",
+      "important": false
+    },
+    {
+      "id": "35ffef62",
+      "title": "नस्ल सुधार के लिए सॉर्टेड सेक्स्ड सीमेन तकनीक अपनाने के लिए पशुपालकों को करें जागरूक: डॉ. सुदाम पी. खाड़े",
+      "summary": "नस्ल सुधार के लिए सॉर्टेड सेक्स्ड सीमेन तकनीक अपनाने के लिए पशुपालकों को करें जागरूक: डॉ. सुदाम पी. खाड़े",
+      "level": "state",
+      "category": "price",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/create-awareness-among-livestock-farmers-about-adopting-sorted-sexed-semen-technology-for-breed-improvement-dr-sudam-p-khade/",
+      "important": false
+    },
+    {
+      "id": "2f8d5e55",
+      "title": "धान की मशीन से रोपाई: मैट नर्सरी तैयार करने की वैज्ञानिक विधि",
+      "summary": "धान की मशीन से रोपाई: मैट नर्सरी तैयार करने की वैज्ञानिक विधि",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/mechanical-paddy-transplanting-scientific-method-for-preparing-mat-nurseries/",
+      "important": false
+    },
+    {
+      "id": "6a4f0bf9",
+      "title": "धान की वर्षा आधारित खेती प्रबंधन: कमजोर मानसून में ICAR-CRRI ने किसानों को दी ये सलाह",
+      "summary": "धान की वर्षा आधारित खेती प्रबंधन: कमजोर मानसून में ICAR-CRRI ने किसानों को दी ये सलाह",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/rainfed-paddy-cultivation-management-icar-crri-advises-farmers-for-a-weak-monsoon/",
+      "important": false
+    },
+    {
+      "id": "bde1dda4",
+      "title": "देवास: फार्मगेट पैक हाउस आदि के लिए आवेदन करें",
+      "summary": "देवास: फार्मगेट पैक हाउस आदि के लिए आवेदन करें",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dewas-apply-for-farm-gate-pack-houses-etc/",
+      "important": false
+    },
+    {
+      "id": "229e1f24",
+      "title": "धान की नर्सरी में खरपतवार प्रबंधन: शुरुआती नियंत्रण से मिलेगी स्वस्थ पौध",
+      "summary": "धान की नर्सरी में खरपतवार प्रबंधन: शुरुआती नियंत्रण से मिलेगी स्वस्थ पौध",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/weed-management-in-paddy-nurseries-early-control-ensures-healthy-seedlings/",
+      "important": false
+    },
+    {
+      "id": "a254bbc3",
+      "title": "भारतीय कृषि में सुधार क्यों अटके हुए हैं? आखिर रास्ता रोक कौन रहा है?",
+      "summary": "भारतीय कृषि में सुधार क्यों अटके हुए हैं? आखिर रास्ता रोक कौन रहा है?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/why-are-reforms-in-indian-agriculture-stalled-who-after-all-is-blocking-the-way/",
+      "important": false
+    },
+    {
+      "id": "2b69e9ea",
+      "title": "मक्का की फसल पर फॉल आर्मीवर्म का खतरा, कृषि विभाग ने बताए बचाव और नियंत्रण के उपाय",
+      "summary": "मक्का की फसल पर फॉल आर्मीवर्म का खतरा, कृषि विभाग ने बताए बचाव और नियंत्रण के उपाय",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/threat-of-fall-armyworm-to-maize-crops-agriculture-department-outlines-prevention-and-control-measures/",
+      "important": false
+    },
     {
       "id": "b857112f",
       "title": "परम्परागत तरीके से कपास उत्पादन को सशक्त बनाएं – श्री चौरसिया",
@@ -462,94 +550,6 @@
       "date": "2026-08-03",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/weather-today-imd-issues-fresh-forecast-risk-of-heavy-rain-in-several-states-including-the-northeast-uttarakhand-and-bihar/",
-      "important": false
-    },
-    {
-      "id": "bab284f9",
-      "title": "आज का गेहूं मंडी रेट (03 अगस्त2026)",
-      "summary": "आज का गेहूं मंडी रेट (03 अगस्त2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-03-august-2026/",
-      "important": false
-    },
-    {
-      "id": "74fef9ca",
-      "title": "आज का मक्का मंडी रेट (03 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (03 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-03-august-2026/",
-      "important": false
-    },
-    {
-      "id": "eabaf215",
-      "title": "आज का धान मंडी रेट (03 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (03 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-03-august-2026/",
-      "important": false
-    },
-    {
-      "id": "09013c4c",
-      "title": "आज का सोयाबीन मंडी रेट (03 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (03 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-03-august-2026/",
-      "important": false
-    },
-    {
-      "id": "e9091468",
-      "title": "MP Onion Rate: मध्यप्रदेश में ₹200 से ₹2,626 प्रति क्विंटल बिकी प्याज, देखें आज का ताजा मंडी रेट",
-      "summary": "MP Onion Rate: मध्यप्रदेश में ₹200 से ₹2,626 प्रति क्विंटल बिकी प्याज, देखें आज का ताजा मंडी रेट",
-      "level": "state",
-      "category": "price",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/mp-onion-rates-onions-sold-at-%e2%82%b9200-to-%e2%82%b92626-per-quintal-in-madhya-pradesh-check-todays-latest-market-rates/",
-      "important": false
-    },
-    {
-      "id": "7b691f87",
-      "title": "ग्वालियर, दतिया और निवाड़ी जिलों में भारी वर्षा की संभावना",
-      "summary": "ग्वालियर, दतिया और निवाड़ी जिलों में भारी वर्षा की संभावना",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/possibility-of-heavy-rainfall-in-gwalior-datia-and-niwari-districts/",
-      "important": false
-    },
-    {
-      "id": "bdcaaf1f",
-      "title": "शिवराज सिंह चौहान का बड़ा ऐलान, देवास में बनेगी आदर्श कृषि व्यवस्था; 37 हजार नई लखपति दीदियां तैयार होंगी",
-      "summary": "शिवराज सिंह चौहान का बड़ा ऐलान, देवास में बनेगी आदर्श कृषि व्यवस्था; 37 हजार नई लखपति दीदियां तैयार होंगी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/shivraj-singh-chouhans-major-announcement-a-model-agricultural-system-to-be-established-in-dewas-37000-new-lakhpati-didis-to-be-created/",
-      "important": false
-    },
-    {
-      "id": "162dbd16",
-      "title": "बालाघाट में उर्वरक विक्रेताओं को दिया हाइब्रिड मोड से वितरण का प्रशिक्षण",
-      "summary": "बालाघाट में उर्वरक विक्रेताओं को दिया हाइब्रिड मोड से वितरण का प्रशिक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/fertilizer-sellers-in-balaghat-trained-in-hybrid-mode-distribution/",
       "important": false
     }
   ]
