@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-07T07:24:20Z",
+  "updated": "2026-08-07T13:15:30Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "08f75674",
+      "title": "इफको ने आयोजित की नैनो उर्वरक जागरूकता संगोष्ठी",
+      "summary": "इफको ने आयोजित की नैनो उर्वरक जागरूकता संगोष्ठी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/iffco-organized-a-nano-fertilizer-awareness-seminar/",
+      "important": false
+    },
+    {
+      "id": "0337f58e",
+      "title": "चित्तौड़गढ़ में कृषि पुरस्कारों के लिए आवेदन शुरू, उत्कृष्ट किसानों को मिलेगा ₹50 हजार तक पुरस्कार",
+      "summary": "चित्तौड़गढ़ में कृषि पुरस्कारों के लिए आवेदन शुरू, उत्कृष्ट किसानों को मिलेगा ₹50 हजार तक पुरस्कार",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/applications-for-agricultural-awards-have-opened-in-chittorgarh-outstanding-farmers-will-receive-prizes-of-up-to-%e2%82%b950000/",
+      "important": false
+    },
+    {
+      "id": "526d23a6",
+      "title": "IMD Weather Alert: बंगाल की खाड़ी में बन रहा लो प्रेशर, UP-ओडिशा-केरल और दिल्ली समेत इन राज्यों में मूसलाधार बारिश का अल",
+      "summary": "IMD Weather Alert: बंगाल की खाड़ी में बन रहा लो प्रेशर, UP-ओडिशा-केरल और दिल्ली समेत इन राज्यों में मूसलाधार बारिश का अलर्ट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-weather-alert-low-pressure-area-forming-over-the-bay-of-bengal-heavy-rainfall-alert-for-several-states-including-up-odisha-kerala-and-delhi/",
+      "important": false
+    },
+    {
+      "id": "dbb838f3",
+      "title": "आज का गेहूं मंडी रेट (07 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (07 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-07-august-2026/",
+      "important": false
+    },
+    {
+      "id": "aa05428e",
+      "title": "आज का धान मंडी रेट (07 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (07 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-07-august-2026/",
+      "important": false
+    },
+    {
+      "id": "1d051883",
+      "title": "आज का मक्का मंडी रेट (07 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (07 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-07-august-2026/",
+      "important": false
+    },
+    {
+      "id": "20d50c28",
+      "title": "आज का सोयाबीन मंडी रेट (07 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (07 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-07-august-2026/",
+      "important": false
+    },
+    {
+      "id": "d3de8c85",
+      "title": "किसानों के लिए अंतिम अवसर: सहजन आधारित कृषि प्रशिक्षण के लिए पंजीयन शुरू, प्रतिभागियों को मिलेंगे 1000 निःशुल्क पौधे",
+      "summary": "किसानों के लिए अंतिम अवसर: सहजन आधारित कृषि प्रशिक्षण के लिए पंजीयन शुरू, प्रतिभागियों को मिलेंगे 1000 निःशुल्क पौधे",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/last-opportunity-for-farmers-registration-open-for-drumstick-based-farming-training-participants-to-receive-1000-free-saplings/",
+      "important": true
+    },
     {
       "id": "11becee7",
       "title": "शाजापुर: दो दिवसीय कृषक प्रशिक्षण का आयोजन",
@@ -462,94 +550,6 @@
       "date": "2026-08-04",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/sehore-inspections-of-moong-procurement-centers-the-mandi-and-warehouses-continue/",
-      "important": false
-    },
-    {
-      "id": "fdb42d1f",
-      "title": "केंद्रीय कृषि अभियांत्रिकी संस्थान की नवीन तकनीकों को किसानों तक पहुंचाए – कलेक्टर भोपाल",
-      "summary": "केंद्रीय कृषि अभियांत्रिकी संस्थान की नवीन तकनीकों को किसानों तक पहुंचाए – कलेक्टर भोपाल",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/take-the-new-technologies-of-the-central-institute-of-agricultural-engineering-to-the-farmers-bhopal-collector/",
-      "important": false
-    },
-    {
-      "id": "c33b8d82",
-      "title": "विदिशा: ग्रीष्मकालीन मूंग में अब उत्पादन का 60 प्रतिशत तक होगा समर्थन मूल्य पर उपार्जन",
-      "summary": "विदिशा: ग्रीष्मकालीन मूंग में अब उत्पादन का 60 प्रतिशत तक होगा समर्थन मूल्य पर उपार्जन",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-up-to-60-percent-of-summer-moong-production-will-now-be-procured-at-the-support-price/",
-      "important": false
-    },
-    {
-      "id": "e260ea36",
-      "title": "धान में ग्रीन लीफहॉपर प्रबंधन: ETL के आधार पर नियंत्रण की सलाह",
-      "summary": "धान में ग्रीन लीफहॉपर प्रबंधन: ETL के आधार पर नियंत्रण की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/green-leafhopper-management-in-paddy-control-recommended-based-on-etl/",
-      "important": false
-    },
-    {
-      "id": "77d827bf",
-      "title": "धान में तना छेदक प्रबंधन",
-      "summary": "धान में तना छेदक प्रबंधन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/stem-borer-management-in-paddy/",
-      "important": false
-    },
-    {
-      "id": "9492f6f5",
-      "title": "धान में लीफ फोल्डर प्रबंधन: समय पर निगरानी से बचाई जा सकती है उपज",
-      "summary": "धान में लीफ फोल्डर प्रबंधन: समय पर निगरानी से बचाई जा सकती है उपज",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/leaf-folder-management-in-paddy-timely-monitoring-can-save-the-crop/",
-      "important": false
-    },
-    {
-      "id": "106122ba",
-      "title": "बैतूल में हुए बलराम कृषि महोत्सव में सीएम मोहन यादव ने किसानों से किया संवाद, बोले- आधुनिक खेती ही समृद्धि का रास्ता",
-      "summary": "बैतूल में हुए बलराम कृषि महोत्सव में सीएम मोहन यादव ने किसानों से किया संवाद, बोले- आधुनिक खेती ही समृद्धि का रास्ता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/cm-mohan-yadav-interacted-with-farmers-at-the-balram-agriculture-festival-in-betul-stating-that-modern-farming-is-the-path-to-prosperity/",
-      "important": false
-    },
-    {
-      "id": "1912aa99",
-      "title": "देपालपुर: चंबल नदी प्रदूषण मामले में प्रशासन सक्रिय",
-      "summary": "देपालपुर: चंबल नदी प्रदूषण मामले में प्रशासन सक्रिय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/depalpur-administration-active-in-chambal-river-pollution-case/",
-      "important": false
-    },
-    {
-      "id": "5fbc4193",
-      "title": "Weather Today: IMD ने जारी किया ताजा पूर्वानुमान, पूर्वोत्तर, उत्तराखंड, बिहार समेत कई राज्यों में भारी बारिश का खतरा",
-      "summary": "Weather Today: IMD ने जारी किया ताजा पूर्वानुमान, पूर्वोत्तर, उत्तराखंड, बिहार समेत कई राज्यों में भारी बारिश का खतरा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-imd-issues-fresh-forecast-risk-of-heavy-rain-in-several-states-including-the-northeast-uttarakhand-and-bihar/",
       "important": false
     }
   ]
