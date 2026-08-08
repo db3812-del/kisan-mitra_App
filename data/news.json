@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-08T01:59:12Z",
-  "new_count": 0,
+  "updated": "2026-08-08T07:01:42Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "ada525a9",
+      "title": "पन्ना: मत्स्य बाजार में की छापामार कार्रवाई",
+      "summary": "पन्ना: मत्स्य बाजार में की छापामार कार्रवाई",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/panna-raid-conducted-at-the-fish-market/",
+      "important": false
+    },
+    {
+      "id": "4c44d6df",
+      "title": "गुना में मक्के के स्टार्च से तैयार हो रहे इको-फ्रेंडली कैरी बैग, 180 दिन में हो जाते हैं पूरी तरह नष्ट",
+      "summary": "गुना में मक्के के स्टार्च से तैयार हो रहे इको-फ्रेंडली कैरी बैग, 180 दिन में हो जाते हैं पूरी तरह नष्ट",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/eco-friendly-carry-bags-made-from-maize-starch-are-being-produced-in-guna-they-decompose-completely-within-180-days/",
+      "important": false
+    },
+    {
+      "id": "a89702a7",
+      "title": "सागर: जैविक खेती की दिशा में नई पहल – विवेक की वर्मी कम्पोस्ट यूनिट इकाई",
+      "summary": "सागर: जैविक खेती की दिशा में नई पहल – विवेक की वर्मी कम्पोस्ट यूनिट इकाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sagar-a-new-initiative-towards-organic-farming-viveks-vermicompost-unit/",
+      "important": false
+    },
+    {
+      "id": "f11bd007",
+      "title": "सागर कलेक्टर ने खाद वितरण व्यवस्था सुचारू रखने के दिए निर्देश",
+      "summary": "सागर कलेक्टर ने खाद वितरण व्यवस्था सुचारू रखने के दिए निर्देश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sagar-collector-issues-instructions-to-ensure-smooth-fertilizer-distribution/",
+      "important": false
+    },
+    {
+      "id": "860ef5b3",
+      "title": "धान में AWD तकनीक: ब्राउन प्लांटहॉपर प्रबंधन के लिए प्रभावी जल प्रबंधन की सलाह",
+      "summary": "धान में AWD तकनीक: ब्राउन प्लांटहॉपर प्रबंधन के लिए प्रभावी जल प्रबंधन की सलाह",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/awd-technique-in-paddy-recommendation-for-effective-water-management-to-control-brown-planthopper/",
+      "important": false
+    },
+    {
+      "id": "6f0fad42",
+      "title": "धान DSR (डायरेक्ट सीडेड राइस) प्रबंधन: बेहतर फसल स्थापना के लिए ICAR-CRRI की सलाह",
+      "summary": "धान DSR (डायरेक्ट सीडेड राइस) प्रबंधन: बेहतर फसल स्थापना के लिए ICAR-CRRI की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/dsr-direct-seeded-rice-management-icar-crris-advice-for-better-crop-establishment/",
+      "important": false
+    },
+    {
+      "id": "ea7276cf",
+      "title": "धान में टॉप ड्रेसिंग प्रबंधन: सही समय पर उर्वरक देने से बढ़ेगी फसल की बढ़वार",
+      "summary": "धान में टॉप ड्रेसिंग प्रबंधन: सही समय पर उर्वरक देने से बढ़ेगी फसल की बढ़वार",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/top-dressing-management-in-rice-applying-fertilizer-at-the-right-time-will-increase-crop-growth/",
+      "important": false
+    },
+    {
+      "id": "5457f58a",
+      "title": "मध्यप्रदेश: ‘बोहनी से बाजार तक किसानों के साथ खड़ी है सरकार’, सीहोर में बोले CM मोहन यादव",
+      "summary": "मध्यप्रदेश: ‘बोहनी से बाजार तक किसानों के साथ खड़ी है सरकार’, सीहोर में बोले CM मोहन यादव",
+      "level": "state",
+      "category": "market",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-government-stands-with-farmers-from-the-first-sale-to-the-market-says-cm-mohan-yadav-in-sehore/",
+      "important": false
+    },
     {
       "id": "08f75674",
       "title": "इफको ने आयोजित की नैनो उर्वरक जागरूकता संगोष्ठी",
@@ -462,94 +550,6 @@
       "date": "2026-08-04",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/new-farming-techniques-are-a-new-gateway-to-farmers-prosperity-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "671ab90d",
-      "title": "पंजाब में महिंद्रा ट्रैक्टर्स का नया अभियान ‘दुनिया विच इक्को ललकार’ लॉन्च, सुखबीर सिंह और परमिश वर्मा बने चेहरा",
-      "summary": "पंजाब में महिंद्रा ट्रैक्टर्स का नया अभियान ‘दुनिया विच इक्को ललकार’ लॉन्च, सुखबीर सिंह और परमिश वर्मा बने चेहरा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-tractors-launches-new-campaign-duniya-vich-ikko-lalkaar-in-punjab-sukhbir-singh-and-parmish-verma-become-the-faces-of-the-campaign/",
-      "important": false
-    },
-    {
-      "id": "9632b95c",
-      "title": "आज का गेहूं मंडी रेट (04 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (04 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-04-august-2026/",
-      "important": false
-    },
-    {
-      "id": "4a4f9883",
-      "title": "आज का मक्का मंडी रेट (04 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (04 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-04-august-2026/",
-      "important": false
-    },
-    {
-      "id": "53b850a9",
-      "title": "आज का सोयाबीन मंडी रेट (04 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (04 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-04-august-2026/",
-      "important": false
-    },
-    {
-      "id": "38fc8376",
-      "title": "आज का धान मंडी रेट (04 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (04 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-04-august-2026/",
-      "important": false
-    },
-    {
-      "id": "e4bce9b1",
-      "title": "आकांक्षी जिला कार्यक्रम: विकसित भारत 2047 की दिशा में डेटा-संचालित, जलवायु-सहिष्णु एवं समावेशी विकास का राष्ट्रीय मॉडल",
-      "summary": "आकांक्षी जिला कार्यक्रम: विकसित भारत 2047 की दिशा में डेटा-संचालित, जलवायु-सहिष्णु एवं समावेशी विकास का राष्ट्रीय मॉडल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/aspirational-districts-programme-a-national-model-of-data-driven-climate-resilient-and-inclusive-development-towards-viksit-bharat-2047/",
-      "important": false
-    },
-    {
-      "id": "dbf15963",
-      "title": "सोयाबीन की पत्तियां हो रही हैं गायब? हो सकता है डिफोलिएटर्स का प्रकोप, जानें बचाव के उपाय",
-      "summary": "सोयाबीन की पत्तियां हो रही हैं गायब? हो सकता है डिफोलिएटर्स का प्रकोप, जानें बचाव के उपाय",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/are-soybean-leaves-disappearing-it-could-be-an-outbreak-of-defoliators-learn-about-control-measures/",
-      "important": false
-    },
-    {
-      "id": "9e47c405",
-      "title": "सीहोर: मूंग उपार्जन केंद्रों, मंडी एवं वेयरहाउस का निरीक्षण जारी",
-      "summary": "सीहोर: मूंग उपार्जन केंद्रों, मंडी एवं वेयरहाउस का निरीक्षण जारी",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-inspections-of-moong-procurement-centers-the-mandi-and-warehouses-continue/",
       "important": false
     }
   ]
