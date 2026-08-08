@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-08T07:01:42Z",
+  "updated": "2026-08-08T12:58:51Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "3ed32b86",
+      "title": "राजस्थान में खाद बिक्री का लाइसेंस लेना हुआ आसान, उर्वरक विक्रय प्रशिक्षण से हटाई अधिकतम आयु सीमा",
+      "summary": "राजस्थान में खाद बिक्री का लाइसेंस लेना हुआ आसान, उर्वरक विक्रय प्रशिक्षण से हटाई अधिकतम आयु सीमा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/obtaining-a-fertilizer-sales-license-in-rajasthan-has-become-easier-the-maximum-age-limit-for-fertilizer-sales-training-has-been-removed/",
+      "important": false
+    },
+    {
+      "id": "ba85a434",
+      "title": "रीवा, सतना, अनूपपुर, शहडोल एवं पन्ना जिलों में भारी वर्षा की चेतावनी",
+      "summary": "रीवा, सतना, अनूपपुर, शहडोल एवं पन्ना जिलों में भारी वर्षा की चेतावनी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/heavy-rainfall-warning-for-rewa-satna-anuppur-shahdol-and-panna-districts/",
+      "important": false
+    },
+    {
+      "id": "b443c03a",
+      "title": "आज का गेहूं मंडी रेट (08 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (08 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-08-august-2026/",
+      "important": false
+    },
+    {
+      "id": "029820a1",
+      "title": "आज का धान मंडी रेट (08 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (08 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-08-august-2026/",
+      "important": false
+    },
+    {
+      "id": "464f6cc9",
+      "title": "आज का मक्का मंडी रेट (08 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (08 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-08-august-2026/",
+      "important": false
+    },
+    {
+      "id": "21f66bf6",
+      "title": "आज का सोयाबीन मंडी रेट (08 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (08 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-08-august-2026/",
+      "important": false
+    },
+    {
+      "id": "c67196cc",
+      "title": "Weather Update: देश के कई हिस्सों में झमाझम बारिश का दौर, MP-राजस्थान-छत्तीसगढ़ में बहुत भारी बारिश की चेतावनी",
+      "summary": "Weather Update: देश के कई हिस्सों में झमाझम बारिश का दौर, MP-राजस्थान-छत्तीसगढ़ में बहुत भारी बारिश की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-update-heavy-rainfall-across-several-parts-of-the-country-warning-issued-for-very-heavy-rain-in-mp-rajasthan-and-chhattisgarh/",
+      "important": false
+    },
+    {
+      "id": "da3e683e",
+      "title": "सोयाबीन में दवा छिड़कने से पहले जान लें ये जरूरी बातें, ICAR-NSRI ने जारी की एडवाइजरी",
+      "summary": "सोयाबीन में दवा छिड़कने से पहले जान लें ये जरूरी बातें, ICAR-NSRI ने जारी की एडवाइजरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/know-these-important-points-before-spraying-pesticides-on-soybeans-icar-nsri-issues-advisory/",
+      "important": false
+    },
     {
       "id": "ada525a9",
       "title": "पन्ना: मत्स्य बाजार में की छापामार कार्रवाई",
@@ -462,94 +550,6 @@
       "date": "2026-08-05",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/major-decision-by-the-mohan-cabinet-kavach-yojana-approved-in-madhya-pradesh-thousands-of-defaulting-farmers-to-benefit/",
-      "important": false
-    },
-    {
-      "id": "13d26b8c",
-      "title": "खेती का रकबा बढ़ाने और किसानों की आय में वृद्धि के लिए विशेष कार्ययोजना बनायी  जाए- इंदौर संभागायुक्त",
-      "summary": "खेती का रकबा बढ़ाने और किसानों की आय में वृद्धि के लिए विशेष कार्ययोजना बनायी  जाए- इंदौर संभागायुक्त",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-special-action-plan-should-be-formulated-to-increase-the-cultivated-area-and-boost-farmers-income-indore-divisional-commissioner/",
-      "important": false
-    },
-    {
-      "id": "3b40fa41",
-      "title": "छिंदवाड़ा: सर्वोत्तम कृषक पुरस्कार हेतु 20 अगस्त तक आवेदन आमंत्रित",
-      "summary": "छिंदवाड़ा: सर्वोत्तम कृषक पुरस्कार हेतु 20 अगस्त तक आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-applications-invited-for-the-best-farmer-award-until-august-20/",
-      "important": false
-    },
-    {
-      "id": "6151c592",
-      "title": "इथेनॉल नीति पर किसान नेताओं ने शिवराज सिंह चौहान से की मुलाकात, बोले- लाभ सीधे किसानों तक पहुंचे, सरकार ने दिया भरोसा",
-      "summary": "इथेनॉल नीति पर किसान नेताओं ने शिवराज सिंह चौहान से की मुलाकात, बोले- लाभ सीधे किसानों तक पहुंचे, सरकार ने दिया भरोसा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/farmer-leaders-met-shivraj-singh-chouhan-regarding-the-ethanol-policy-urging-that-benefits-reach-farmers-directly-the-government-gave-assurances/",
-      "important": false
-    },
-    {
-      "id": "7f82c549",
-      "title": "सिंचाई सुविधाओं के विस्तार, फसल विविधिकरण और आधुनिक तकनीक से खेती बनेगी अधिक लाभकारी -सीएम साय",
-      "summary": "सिंचाई सुविधाओं के विस्तार, फसल विविधिकरण और आधुनिक तकनीक से खेती बनेगी अधिक लाभकारी -सीएम साय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/expansion-of-irrigation-facilities-crop-diversification-and-modern-technology-will-make-farming-more-profitable-cm-sai/",
-      "important": false
-    },
-    {
-      "id": "c2b3d501",
-      "title": "IGKV UG Admission 2026: सेकेंड राउंड ऑनलाइन रजिस्ट्रेशन शुरू, 14 अगस्त को जारी होगी मेरिट लिस्ट",
-      "summary": "IGKV UG Admission 2026: सेकेंड राउंड ऑनलाइन रजिस्ट्रेशन शुरू, 14 अगस्त को जारी होगी मेरिट लिस्ट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/igkv-ug-admission-2026-online-registration-for-the-second-round-has-begun-merit-list-to-be-released-on-august-14/",
-      "important": false
-    },
-    {
-      "id": "0f775f31",
-      "title": "धान में ब्लास्ट रोग प्रबंधन: नर्सरी में शुरुआती नियंत्रण से बचाएं पौध",
-      "summary": "धान में ब्लास्ट रोग प्रबंधन: नर्सरी में शुरुआती नियंत्रण से बचाएं पौध",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/blast-disease-management-in-paddy-protect-seedlings-with-early-control-in-the-nursery/",
-      "important": false
-    },
-    {
-      "id": "b1461be0",
-      "title": "यूपीएल लिमिटेड के Q1 एवं FY27 के वित्तीय नतीजे घोषित",
-      "summary": "यूपीएल लिमिटेड के Q1 एवं FY27 के वित्तीय नतीजे घोषित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/upl-limited-announces-q1-and-fy27-financial-results/",
-      "important": false
-    },
-    {
-      "id": "26888e07",
-      "title": "खेती की नई तकनीकें हैं किसानों की समृद्धि का नया द्वार: मुख्यमंत्री डॉ. यादव",
-      "summary": "खेती की नई तकनीकें हैं किसानों की समृद्धि का नया द्वार: मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/new-farming-techniques-are-a-new-gateway-to-farmers-prosperity-chief-minister-dr-yadav/",
       "important": false
     }
   ]
