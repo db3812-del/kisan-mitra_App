@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-09T02:06:57Z",
-  "new_count": 0,
+  "updated": "2026-08-09T07:03:45Z",
+  "new_count": 5,
   "articles": [
+    {
+      "id": "b118aed9",
+      "title": "धान में लवणीय मिट्टी प्रबंधन: स्वस्थ नर्सरी तैयार करने के लिए ICAR-CRRI की सलाह",
+      "summary": "धान में लवणीय मिट्टी प्रबंधन: स्वस्थ नर्सरी तैयार करने के लिए ICAR-CRRI की सलाह",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/saline-soil-management-in-paddy-icar-crris-advice-for-raising-a-healthy-nursery/",
+      "important": false
+    },
+    {
+      "id": "eefb3f3b",
+      "title": "धान का जैविक कीट प्रबंधन: ट्राइकोग्रामा कार्ड से तना छेदक और लीफ फोल्डर पर नियंत्रण",
+      "summary": "धान का जैविक कीट प्रबंधन: ट्राइकोग्रामा कार्ड से तना छेदक और लीफ फोल्डर पर नियंत्रण",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/organic-pest-management-in-paddy-controlling-stem-borer-and-leaf-folder-using-trichogramma-cards/",
+      "important": false
+    },
+    {
+      "id": "30e0dbdc",
+      "title": "सोयाबीन में सूखा पड़ा तो क्या करें? ICAR-NSRI ने मल्चिंग से सिंचाई तक बताए जरूरी उपाय",
+      "summary": "सोयाबीन में सूखा पड़ा तो क्या करें? ICAR-NSRI ने मल्चिंग से सिंचाई तक बताए जरूरी उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/what-to-do-if-the-soybean-crop-faces-drought-icar-nsri-outlines-essential-measures-ranging-from-mulching-to-irrigation/",
+      "important": false
+    },
+    {
+      "id": "742cfe1b",
+      "title": "सोयाबीन में कीट-खरपतवार दोनों से मिलेगी राहत, ICAR-NSRI ने बताया कौन-सी दवाएं साथ मिलाकर करें छिड़काव",
+      "summary": "सोयाबीन में कीट-खरपतवार दोनों से मिलेगी राहत, ICAR-NSRI ने बताया कौन-सी दवाएं साथ मिलाकर करें छिड़काव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/get-relief-from-both-pests-and-weeds-in-soybean-crops-icar-nsri-specifies-which-chemicals-can-be-mixed-and-sprayed-together/",
+      "important": false
+    },
+    {
+      "id": "7f5babca",
+      "title": "पचौली की खेती से किसानों की बढ़ेगी कमाई, एक एकड़ से 1.5 लाख तक मुनाफे का मौका; जानिए फायदे",
+      "summary": "पचौली की खेती से किसानों की बढ़ेगी कमाई, एक एकड़ से 1.5 लाख तक मुनाफे का मौका; जानिए फायदे",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/patchouli-cultivation-to-boost-farmers-income-opportunity-to-earn-up-to-%e2%82%b91-5-lakh-profit-per-acre-learn-about-the-benefits/",
+      "important": false
+    },
     {
       "id": "3ed32b86",
       "title": "राजस्थान में खाद बिक्री का लाइसेंस लेना हुआ आसान, उर्वरक विक्रय प्रशिक्षण से हटाई अधिकतम आयु सीमा",
@@ -495,61 +550,6 @@
       "date": "2026-08-05",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/advice-on-pest-control-in-kharif-crops/",
-      "important": false
-    },
-    {
-      "id": "8cc38722",
-      "title": "फसल बीमा के प्रति जागरूकता अभियान तेज",
-      "summary": "फसल बीमा के प्रति जागरूकता अभियान तेज",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/awareness-campaign-on-crop-insurance-intensified/",
-      "important": false
-    },
-    {
-      "id": "b02d6675",
-      "title": "परम्परागत कृषि विकास से होग शुद्ध खाद्य उत्पादन",
-      "summary": "परम्परागत कृषि विकास से होग शुद्ध खाद्य उत्पादन",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pure-food-production-will-be-achieved-through-traditional-agricultural-development/",
-      "important": false
-    },
-    {
-      "id": "c65505d3",
-      "title": "PM फसल बीमा योजना में राजस्थान ने बनाया रिकॉर्ड, 62.58 लाख किसान जुड़े; 18,189 करोड़ रुपये के दावों का हुआ भुगतान",
-      "summary": "PM फसल बीमा योजना में राजस्थान ने बनाया रिकॉर्ड, 62.58 लाख किसान जुड़े; 18,189 करोड़ रुपये के दावों का हुआ भुगतान",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-sets-a-record-under-the-pm-crop-insurance-scheme-62-58-lakh-farmers-enrolled-and-claims-worth-%e2%82%b918189-crore-paid-out/",
-      "important": false
-    },
-    {
-      "id": "6b038f34",
-      "title": "विभिन्न कृषि यंत्रों हेतु आवेदन के लिए आज 4 अगस्त तक अंतिम तिथि",
-      "summary": "विभिन्न कृषि यंत्रों हेतु आवेदन के लिए आज 4 अगस्त तक अंतिम तिथि",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/today-august-4-is-the-last-date-to-apply-for-various-agricultural-implements/",
-      "important": true
-    },
-    {
-      "id": "1a5f9249",
-      "title": "मोहन कैबिनेट का बड़ा फैसला: मध्यप्रदेश में ‘कवच योजना’ को मिली मंजूरी, हजारों डिफॉल्टर किसानों को मिलेगा लाभ",
-      "summary": "मोहन कैबिनेट का बड़ा फैसला: मध्यप्रदेश में ‘कवच योजना’ को मिली मंजूरी, हजारों डिफॉल्टर किसानों को मिलेगा लाभ",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-decision-by-the-mohan-cabinet-kavach-yojana-approved-in-madhya-pradesh-thousands-of-defaulting-farmers-to-benefit/",
       "important": false
     }
   ]
