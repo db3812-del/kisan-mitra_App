@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-10T07:51:07Z",
-  "new_count": 0,
+  "updated": "2026-08-10T13:20:28Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "4a35b8dd",
+      "title": "एग्रीस्टैक क्या है? जानिए भारत के डिजिटल कृषि मंच के बारे में",
+      "summary": "एग्रीस्टैक क्या है? जानिए भारत के डिजिटल कृषि मंच के बारे में",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/what-is-agristack-learn-about-indias-digital-agriculture-platform/",
+      "important": false
+    },
+    {
+      "id": "574f85f7",
+      "title": "श्री गणेश फास्फेट के संचालक के विरुद्ध एफआईआर दर्ज़",
+      "summary": "श्री गणेश फास्फेट के संचालक के विरुद्ध एफआईआर दर्ज़",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/fir-registered-against-the-operator-of-shree-ganesh-phosphate/",
+      "important": false
+    },
+    {
+      "id": "bf7e641c",
+      "title": "आज का धान मंडी रेट (10 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (10 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-10-august-2026/",
+      "important": false
+    },
+    {
+      "id": "e9c44da1",
+      "title": "आज का मक्का मंडी रेट (10 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (10 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-10-august-2026/",
+      "important": false
+    },
+    {
+      "id": "7f94caff",
+      "title": "आज का गेहूं मंडी रेट (10 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (10 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-10-august-2026/",
+      "important": false
+    },
+    {
+      "id": "eb215445",
+      "title": "आज का सोयाबीन मंडी रेट (10 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (10 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-10-august-2026/",
+      "important": false
+    },
+    {
+      "id": "98abef3a",
+      "title": "अशोकनगर: यूरिया वितरण में अनियमितता पर दुकान सील",
+      "summary": "अशोकनगर: यूरिया वितरण में अनियमितता पर दुकान सील",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ashoknagar-shop-sealed-over-irregularities-in-urea-distribution/",
+      "important": false
+    },
+    {
+      "id": "f3a8be48",
+      "title": "प्रचार रथ को कलेक्टर दतिया ने हरी झंडी दिखाकर रवाना किया",
+      "summary": "प्रचार रथ को कलेक्टर दतिया ने हरी झंडी दिखाकर रवाना किया",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-08-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-datia-collector-flagged-off-the-publicity-vehicle/",
+      "important": true
+    },
     {
       "id": "b118aed9",
       "title": "धान में लवणीय मिट्टी प्रबंधन: स्वस्थ नर्सरी तैयार करने के लिए ICAR-CRRI की सलाह",
@@ -462,94 +550,6 @@
       "date": "2026-08-06",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/crop-cultivation/management-of-hispa-caseworm-and-swarming-caterpillar-in-paddy-monitor-the-crop-regularly/",
-      "important": false
-    },
-    {
-      "id": "2f6cb022",
-      "title": "धान में पोषक तत्व प्रबंधन: अधिक उत्पादन के लिए संतुलित उर्वरक प्रबंधन अपनाने की सलाह",
-      "summary": "धान में पोषक तत्व प्रबंधन: अधिक उत्पादन के लिए संतुलित उर्वरक प्रबंधन अपनाने की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/nutrient-management-in-paddy-recommendation-to-adopt-balanced-fertilizer-management-for-higher-yields/",
-      "important": false
-    },
-    {
-      "id": "f7db307c",
-      "title": "धान की नर्सरी प्रबंधन: स्वस्थ पौध तैयार करने के लिए ICAR-CRRI की सलाह",
-      "summary": "धान की नर्सरी प्रबंधन: स्वस्थ पौध तैयार करने के लिए ICAR-CRRI की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/paddy-nursery-management-icar-crris-advice-for-raising-healthy-seedlings/",
-      "important": false
-    },
-    {
-      "id": "0c0e33fb",
-      "title": "मुरैना जिले में अति भारी वर्षा का ऑरेंज अलर्ट जारी",
-      "summary": "मुरैना जिले में अति भारी वर्षा का ऑरेंज अलर्ट जारी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/orange-alert-issued-for-extremely-heavy-rainfall-in-morena-district/",
-      "important": false
-    },
-    {
-      "id": "752d2cbb",
-      "title": "आज का गेहूं मंडी रेट (05 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (05 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-05-august-2026/",
-      "important": false
-    },
-    {
-      "id": "3a1caa44",
-      "title": "आज का धान मंडी रेट (05 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (05 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-05-august-2026/",
-      "important": false
-    },
-    {
-      "id": "dd3f122f",
-      "title": "आज का मक्का मंडी रेट (05 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (05 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-05-august-2026/",
-      "important": false
-    },
-    {
-      "id": "6424df09",
-      "title": "आज का सोयाबीन मंडी रेट (05 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (05 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-05-august-2026/",
-      "important": false
-    },
-    {
-      "id": "862612f3",
-      "title": "खरीफ फसलों में कीट नियंत्रण पर सलाह",
-      "summary": "खरीफ फसलों में कीट नियंत्रण पर सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/advice-on-pest-control-in-kharif-crops/",
       "important": false
     }
   ]
