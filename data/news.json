@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-11T07:16:14Z",
+  "updated": "2026-08-11T13:17:26Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "d119319b",
+      "title": "Weather Alert: कम दबाव के क्षेत्र से बदला मौसम, राजस्थान-MP-ओडिशा समेत इन राज्यों में भारी बारिश का अलर्ट",
+      "summary": "Weather Alert: कम दबाव के क्षेत्र से बदला मौसम, राजस्थान-MP-ओडिशा समेत इन राज्यों में भारी बारिश का अलर्ट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-alert-weather-shifts-due-to-a-low-pressure-area-heavy-rain-alert-issued-for-several-states-including-rajasthan-mp-and-odisha/",
+      "important": false
+    },
+    {
+      "id": "c9d0f463",
+      "title": "छिंदवाड़ा: निजी क्षेत्र में कृषि यंत्र किराए की दुकान स्थापित करने के लिये आवेदन आमंत्रित",
+      "summary": "छिंदवाड़ा: निजी क्षेत्र में कृषि यंत्र किराए की दुकान स्थापित करने के लिये आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/chhindwara-applications-invited-for-setting-up-a-private-sector-shop-for-renting-out-agricultural-machinery/",
+      "important": false
+    },
+    {
+      "id": "2e49cc11",
+      "title": "नर्मदापुरम : किसानों के लिए सहायक आय की व्यवस्था करना हमारा लक्ष्य : मुख्यमंत्री डॉ. यादव",
+      "summary": "नर्मदापुरम : किसानों के लिए सहायक आय की व्यवस्था करना हमारा लक्ष्य : मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/narmadapuram-our-goal-is-to-arrange-supplementary-income-for-farmers-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "cbab4d0f",
+      "title": "आज का गेहूं मंडी रेट (11 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (11 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-11-august-2026/",
+      "important": false
+    },
+    {
+      "id": "e4ab4703",
+      "title": "आज का धान मंडी रेट (11 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (11 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-11-august-2026/",
+      "important": false
+    },
+    {
+      "id": "aea63c43",
+      "title": "आज का मक्का मंडी रेट (11 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (11 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-11-august-2026/",
+      "important": false
+    },
+    {
+      "id": "eec2b4f1",
+      "title": "आज का सोयाबीन मंडी रेट (11 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (11 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-11-august-2026/",
+      "important": false
+    },
+    {
+      "id": "bef4dced",
+      "title": "भिंड: सर्वोत्तम कृषकों के चयन के लिए आवेदन आमंत्रित",
+      "summary": "भिंड: सर्वोत्तम कृषकों के चयन के लिए आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bhind-applications-invited-for-the-selection-of-best-farmers/",
+      "important": false
+    },
     {
       "id": "5f75c7fd",
       "title": "एग्रीस्टैक से जुड़ चुके 10.31 करोड़ किसान, अब AI से होगा फसल उपज का सटीक आकलन",
@@ -462,94 +550,6 @@
       "date": "2026-08-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-07-august-2026/",
-      "important": false
-    },
-    {
-      "id": "1d051883",
-      "title": "आज का मक्का मंडी रेट (07 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (07 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-07-august-2026/",
-      "important": false
-    },
-    {
-      "id": "20d50c28",
-      "title": "आज का सोयाबीन मंडी रेट (07 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (07 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-07-august-2026/",
-      "important": false
-    },
-    {
-      "id": "d3de8c85",
-      "title": "किसानों के लिए अंतिम अवसर: सहजन आधारित कृषि प्रशिक्षण के लिए पंजीयन शुरू, प्रतिभागियों को मिलेंगे 1000 निःशुल्क पौधे",
-      "summary": "किसानों के लिए अंतिम अवसर: सहजन आधारित कृषि प्रशिक्षण के लिए पंजीयन शुरू, प्रतिभागियों को मिलेंगे 1000 निःशुल्क पौधे",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/last-opportunity-for-farmers-registration-open-for-drumstick-based-farming-training-participants-to-receive-1000-free-saplings/",
-      "important": true
-    },
-    {
-      "id": "11becee7",
-      "title": "शाजापुर: दो दिवसीय कृषक प्रशिक्षण का आयोजन",
-      "summary": "शाजापुर: दो दिवसीय कृषक प्रशिक्षण का आयोजन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shajapur-two-day-farmers-training-organized/",
-      "important": false
-    },
-    {
-      "id": "35ffef62",
-      "title": "नस्ल सुधार के लिए सॉर्टेड सेक्स्ड सीमेन तकनीक अपनाने के लिए पशुपालकों को करें जागरूक: डॉ. सुदाम पी. खाड़े",
-      "summary": "नस्ल सुधार के लिए सॉर्टेड सेक्स्ड सीमेन तकनीक अपनाने के लिए पशुपालकों को करें जागरूक: डॉ. सुदाम पी. खाड़े",
-      "level": "state",
-      "category": "price",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/create-awareness-among-livestock-farmers-about-adopting-sorted-sexed-semen-technology-for-breed-improvement-dr-sudam-p-khade/",
-      "important": false
-    },
-    {
-      "id": "2f8d5e55",
-      "title": "धान की मशीन से रोपाई: मैट नर्सरी तैयार करने की वैज्ञानिक विधि",
-      "summary": "धान की मशीन से रोपाई: मैट नर्सरी तैयार करने की वैज्ञानिक विधि",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/mechanical-paddy-transplanting-scientific-method-for-preparing-mat-nurseries/",
-      "important": false
-    },
-    {
-      "id": "6a4f0bf9",
-      "title": "धान की वर्षा आधारित खेती प्रबंधन: कमजोर मानसून में ICAR-CRRI ने किसानों को दी ये सलाह",
-      "summary": "धान की वर्षा आधारित खेती प्रबंधन: कमजोर मानसून में ICAR-CRRI ने किसानों को दी ये सलाह",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/rainfed-paddy-cultivation-management-icar-crri-advises-farmers-for-a-weak-monsoon/",
-      "important": false
-    },
-    {
-      "id": "bde1dda4",
-      "title": "देवास: फार्मगेट पैक हाउस आदि के लिए आवेदन करें",
-      "summary": "देवास: फार्मगेट पैक हाउस आदि के लिए आवेदन करें",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dewas-apply-for-farm-gate-pack-houses-etc/",
       "important": false
     }
   ]
