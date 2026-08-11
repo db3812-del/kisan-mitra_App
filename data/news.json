@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-11T02:05:51Z",
-  "new_count": 0,
+  "updated": "2026-08-11T07:16:14Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "5f75c7fd",
+      "title": "एग्रीस्टैक से जुड़ चुके 10.31 करोड़ किसान, अब AI से होगा फसल उपज का सटीक आकलन",
+      "summary": "एग्रीस्टैक से जुड़ चुके 10.31 करोड़ किसान, अब AI से होगा फसल उपज का सटीक आकलन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/10-31-crore-farmers-have-joined-agristack-ai-will-now-enable-accurate-assessment-of-crop-yields/",
+      "important": false
+    },
+    {
+      "id": "1cfc0a96",
+      "title": "प्रदेश में औसत से 15 प्रतिशत कम बारिश, हर जिले में रखें जरूरी तैयारी : मुख्यमंत्री डॉ. मोहन यादव",
+      "summary": "प्रदेश में औसत से 15 प्रतिशत कम बारिश, हर जिले में रखें जरूरी तैयारी : मुख्यमंत्री डॉ. मोहन यादव",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rainfall-in-the-state-is-15-percent-below-average-ensure-necessary-preparations-in-every-district-chief-minister-dr-mohan-yadav/",
+      "important": false
+    },
+    {
+      "id": "5d962341",
+      "title": "उज्जैन में जल्द शुरू होगा यूनिटी मॉल, देशभर के कुटीर एवं ग्रामोद्योग उत्पाद होंगे उपलब्ध",
+      "summary": "उज्जैन में जल्द शुरू होगा यूनिटी मॉल, देशभर के कुटीर एवं ग्रामोद्योग उत्पाद होंगे उपलब्ध",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-unity-mall-will-soon-open-in-ujjain-offering-cottage-and-village-industry-products-from-across-the-country/",
+      "important": false
+    },
+    {
+      "id": "24991c68",
+      "title": "प्रदेश में साढ़े 3 लाख मीट्रिक टन मूंग की खरीदी, मुख्यमंत्री ने दिए सख्त कार्रवाई के निर्देश",
+      "summary": "प्रदेश में साढ़े 3 लाख मीट्रिक टन मूंग की खरीदी, मुख्यमंत्री ने दिए सख्त कार्रवाई के निर्देश",
+      "level": "state",
+      "category": "price",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/3-5-lakh-metric-tonnes-of-moong-procured-in-the-state-chief-minister-issues-directives-for-strict-action/",
+      "important": false
+    },
+    {
+      "id": "7ca14cfd",
+      "title": "राजस्थान में पशु नस्ल सुधार की दिशा में बड़ा कदम",
+      "summary": "राजस्थान में पशु नस्ल सुधार की दिशा में बड़ा कदम",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-major-step-towards-livestock-breed-improvement-in-rajasthan/",
+      "important": false
+    },
+    {
+      "id": "dd642dd9",
+      "title": "IARI की सोयाबीन की उन्नत किस्में किसानों को देंगी बेहतर उत्पादन, जानिए टॉप 3 वैरायटी",
+      "summary": "IARI की सोयाबीन की उन्नत किस्में किसानों को देंगी बेहतर उत्पादन, जानिए टॉप 3 वैरायटी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/iaris-improved-soybean-varieties-to-offer-farmers-higher-yields-here-are-the-top-3-varieties/",
+      "important": false
+    },
+    {
+      "id": "5e166a08",
+      "title": "MP में औसत से 15% कम बारिश, CM मोहन यादव ने किसानों को कम सिंचाई वाली फसलें अपनाने की दी सलाह",
+      "summary": "MP में औसत से 15% कम बारिश, CM मोहन यादव ने किसानों को कम सिंचाई वाली फसलें अपनाने की दी सलाह",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rainfall-in-mp-is-15-below-average-cm-mohan-yadav-advises-farmers-to-cultivate-crops-requiring-less-irrigation/",
+      "important": false
+    },
+    {
+      "id": "c36f2aa1",
+      "title": "कृषि छात्रों को अब सीधे बैंक खाते में मिलेगी स्कालरशिप",
+      "summary": "कृषि छात्रों को अब सीधे बैंक खाते में मिलेगी स्कालरशिप",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/agriculture-students-will-now-receive-scholarships-directly-into-their-bank-accounts/",
+      "important": false
+    },
     {
       "id": "4a35b8dd",
       "title": "एग्रीस्टैक क्या है? जानिए भारत के डिजिटल कृषि मंच के बारे में",
@@ -462,94 +550,6 @@
       "date": "2026-08-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/dewas-apply-for-farm-gate-pack-houses-etc/",
-      "important": false
-    },
-    {
-      "id": "229e1f24",
-      "title": "धान की नर्सरी में खरपतवार प्रबंधन: शुरुआती नियंत्रण से मिलेगी स्वस्थ पौध",
-      "summary": "धान की नर्सरी में खरपतवार प्रबंधन: शुरुआती नियंत्रण से मिलेगी स्वस्थ पौध",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/weed-management-in-paddy-nurseries-early-control-ensures-healthy-seedlings/",
-      "important": false
-    },
-    {
-      "id": "a254bbc3",
-      "title": "भारतीय कृषि में सुधार क्यों अटके हुए हैं? आखिर रास्ता रोक कौन रहा है?",
-      "summary": "भारतीय कृषि में सुधार क्यों अटके हुए हैं? आखिर रास्ता रोक कौन रहा है?",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/why-are-reforms-in-indian-agriculture-stalled-who-after-all-is-blocking-the-way/",
-      "important": false
-    },
-    {
-      "id": "2b69e9ea",
-      "title": "मक्का की फसल पर फॉल आर्मीवर्म का खतरा, कृषि विभाग ने बताए बचाव और नियंत्रण के उपाय",
-      "summary": "मक्का की फसल पर फॉल आर्मीवर्म का खतरा, कृषि विभाग ने बताए बचाव और नियंत्रण के उपाय",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/threat-of-fall-armyworm-to-maize-crops-agriculture-department-outlines-prevention-and-control-measures/",
-      "important": false
-    },
-    {
-      "id": "b857112f",
-      "title": "परम्परागत तरीके से कपास उत्पादन को सशक्त बनाएं – श्री चौरसिया",
-      "summary": "परम्परागत तरीके से कपास उत्पादन को सशक्त बनाएं – श्री चौरसिया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/strengthen-cotton-production-through-traditional-methods-shri-chaurasia/",
-      "important": false
-    },
-    {
-      "id": "fb5251d0",
-      "title": "आज का सोयाबीन मंडी रेट (06 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (06 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-06-august-2026/",
-      "important": false
-    },
-    {
-      "id": "8b1ed7c2",
-      "title": "धान में सीडलिंग ब्लाइट प्रबंधन: नर्सरी में समय पर पहचान है जरूरी",
-      "summary": "धान में सीडलिंग ब्लाइट प्रबंधन: नर्सरी में समय पर पहचान है जरूरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/seedling-blight-management-in-paddy-timely-detection-in-the-nursery-is-crucial/",
-      "important": false
-    },
-    {
-      "id": "14615545",
-      "title": "धान में गॉल मिज प्रबंधन: समय पर नियंत्रण से बचाएं कल्ले",
-      "summary": "धान में गॉल मिज प्रबंधन: समय पर नियंत्रण से बचाएं कल्ले",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/gall-midge-management-in-paddy-save-tillers-with-timely-control/",
-      "important": false
-    },
-    {
-      "id": "ca59a0ff",
-      "title": "धान में हिस्पा, केसवर्म और स्वार्मिंग कैटरपिलर का प्रबंधन: फसल की नियमित निगरानी रखें",
-      "summary": "धान में हिस्पा, केसवर्म और स्वार्मिंग कैटरपिलर का प्रबंधन: फसल की नियमित निगरानी रखें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/management-of-hispa-caseworm-and-swarming-caterpillar-in-paddy-monitor-the-crop-regularly/",
       "important": false
     }
   ]
