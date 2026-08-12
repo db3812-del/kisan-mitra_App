@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-12T02:23:16Z",
-  "new_count": 0,
+  "updated": "2026-08-12T07:40:11Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "368439e2",
+      "title": "श्योपुर: दो विद्यालयों में कृषि संकाय संचालन की स्वीकृति",
+      "summary": "श्योपुर: दो विद्यालयों में कृषि संकाय संचालन की स्वीकृति",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sheopur-approval-granted-to-run-agriculture-streams-in-two-schools/",
+      "important": false
+    },
+    {
+      "id": "a9c0923a",
+      "title": "हरियाणा में गन्ना किसानों के लिए बड़ा फैसला",
+      "summary": "हरियाणा में गन्ना किसानों के लिए बड़ा फैसला",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-decision-for-sugarcane-farmers-in-haryana/",
+      "important": false
+    },
+    {
+      "id": "1cccda6e",
+      "title": "पीएम किसान की 24वीं किस्त को लेकर बड़ा अपडेट, कुछ किसानों को मिल सकते हैं 4 हजार",
+      "summary": "पीएम किसान की 24वीं किस्त को लेकर बड़ा अपडेट, कुछ किसानों को मिल सकते हैं 4 हजार",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/major-update-regarding-the-24th-installment-of-pm-kisan-some-farmers-may-receive-%e2%82%b94000/",
+      "important": false
+    },
+    {
+      "id": "08d7f043",
+      "title": "मध्यप्रदेश में किसानों को मिनी ट्रैक्टर पर मिलेगा 2.45 लाख रुपए तक अनुदान, जानिए पूरी योजना",
+      "summary": "मध्यप्रदेश में किसानों को मिनी ट्रैक्टर पर मिलेगा 2.45 लाख रुपए तक अनुदान, जानिए पूरी योजना",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-madhya-pradesh-to-receive-a-subsidy-of-up-to-%e2%82%b92-45-lakh-on-mini-tractors-know-the-full-scheme-details/",
+      "important": false
+    },
+    {
+      "id": "02adfa9c",
+      "title": "बिहार के किसानों के लिए बड़ी पहल, सोलर क्रॉप ड्रायर पर मिलेगा 1.40 लाख रुपए तक अनुदान",
+      "summary": "बिहार के किसानों के लिए बड़ी पहल, सोलर क्रॉप ड्रायर पर मिलेगा 1.40 लाख रुपए तक अनुदान",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-initiative-for-bihar-farmers-subsidy-of-up-to-%e2%82%b91-40-lakh-available-for-solar-crop-dryers/",
+      "important": false
+    },
+    {
+      "id": "f77683ee",
+      "title": "यूपी में मशरूम की खेती पर 50% तक अनुदान, 200 वर्ग फुट यूनिट पर मिल सकती है 1 लाख रुपए तक सहायता",
+      "summary": "यूपी में मशरूम की खेती पर 50% तक अनुदान, 200 वर्ग फुट यूनिट पर मिल सकती है 1 लाख रुपए तक सहायता",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/subsidy-of-up-to-50-on-mushroom-farming-in-up-assistance-of-up-to-%e2%82%b91-lakh-available-for-a-200-square-foot-unit/",
+      "important": false
+    },
+    {
+      "id": "e378b7a5",
+      "title": "हरदा कृषि विज्ञान केन्द्र की सोयाबीन उत्पादक कृषकों हेतु सलाह",
+      "summary": "हरदा कृषि विज्ञान केन्द्र की सोयाबीन उत्पादक कृषकों हेतु सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/advisory-for-soybean-growing-farmers-from-the-harda-krishi-vigyan-kendra/",
+      "important": false
+    },
+    {
+      "id": "b78b86af",
+      "title": "मानसून में भोजन की स्वच्छता एवं सुरक्षा: बीमारी से बचाव के 10 आसान उपाय",
+      "summary": "मानसून में भोजन की स्वच्छता एवं सुरक्षा: बीमारी से बचाव के 10 आसान उपाय",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/food-hygiene-and-safety-during-the-monsoon-10-simple-ways-to-prevent-illness/",
+      "important": false
+    },
     {
       "id": "d119319b",
       "title": "Weather Alert: कम दबाव के क्षेत्र से बदला मौसम, राजस्थान-MP-ओडिशा समेत इन राज्यों में भारी बारिश का अलर्ट",
@@ -462,94 +550,6 @@
       "date": "2026-08-08",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/crop-cultivation/awd-technique-in-paddy-recommendation-for-effective-water-management-to-control-brown-planthopper/",
-      "important": false
-    },
-    {
-      "id": "6f0fad42",
-      "title": "धान DSR (डायरेक्ट सीडेड राइस) प्रबंधन: बेहतर फसल स्थापना के लिए ICAR-CRRI की सलाह",
-      "summary": "धान DSR (डायरेक्ट सीडेड राइस) प्रबंधन: बेहतर फसल स्थापना के लिए ICAR-CRRI की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/dsr-direct-seeded-rice-management-icar-crris-advice-for-better-crop-establishment/",
-      "important": false
-    },
-    {
-      "id": "ea7276cf",
-      "title": "धान में टॉप ड्रेसिंग प्रबंधन: सही समय पर उर्वरक देने से बढ़ेगी फसल की बढ़वार",
-      "summary": "धान में टॉप ड्रेसिंग प्रबंधन: सही समय पर उर्वरक देने से बढ़ेगी फसल की बढ़वार",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/top-dressing-management-in-rice-applying-fertilizer-at-the-right-time-will-increase-crop-growth/",
-      "important": false
-    },
-    {
-      "id": "5457f58a",
-      "title": "मध्यप्रदेश: ‘बोहनी से बाजार तक किसानों के साथ खड़ी है सरकार’, सीहोर में बोले CM मोहन यादव",
-      "summary": "मध्यप्रदेश: ‘बोहनी से बाजार तक किसानों के साथ खड़ी है सरकार’, सीहोर में बोले CM मोहन यादव",
-      "level": "state",
-      "category": "market",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-government-stands-with-farmers-from-the-first-sale-to-the-market-says-cm-mohan-yadav-in-sehore/",
-      "important": false
-    },
-    {
-      "id": "08f75674",
-      "title": "इफको ने आयोजित की नैनो उर्वरक जागरूकता संगोष्ठी",
-      "summary": "इफको ने आयोजित की नैनो उर्वरक जागरूकता संगोष्ठी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/iffco-organized-a-nano-fertilizer-awareness-seminar/",
-      "important": false
-    },
-    {
-      "id": "0337f58e",
-      "title": "चित्तौड़गढ़ में कृषि पुरस्कारों के लिए आवेदन शुरू, उत्कृष्ट किसानों को मिलेगा ₹50 हजार तक पुरस्कार",
-      "summary": "चित्तौड़गढ़ में कृषि पुरस्कारों के लिए आवेदन शुरू, उत्कृष्ट किसानों को मिलेगा ₹50 हजार तक पुरस्कार",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/applications-for-agricultural-awards-have-opened-in-chittorgarh-outstanding-farmers-will-receive-prizes-of-up-to-%e2%82%b950000/",
-      "important": false
-    },
-    {
-      "id": "526d23a6",
-      "title": "IMD Weather Alert: बंगाल की खाड़ी में बन रहा लो प्रेशर, UP-ओडिशा-केरल और दिल्ली समेत इन राज्यों में मूसलाधार बारिश का अल",
-      "summary": "IMD Weather Alert: बंगाल की खाड़ी में बन रहा लो प्रेशर, UP-ओडिशा-केरल और दिल्ली समेत इन राज्यों में मूसलाधार बारिश का अलर्ट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/imd-weather-alert-low-pressure-area-forming-over-the-bay-of-bengal-heavy-rainfall-alert-for-several-states-including-up-odisha-kerala-and-delhi/",
-      "important": false
-    },
-    {
-      "id": "dbb838f3",
-      "title": "आज का गेहूं मंडी रेट (07 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (07 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-07-august-2026/",
-      "important": false
-    },
-    {
-      "id": "aa05428e",
-      "title": "आज का धान मंडी रेट (07 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (07 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-07-august-2026/",
       "important": false
     }
   ]
