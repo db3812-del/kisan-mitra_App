@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-12T07:40:11Z",
+  "updated": "2026-08-12T13:21:29Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "73f94d2c",
+      "title": "विजिलेंस पब्लिसिटी के नाम हुआ बिजनेस क्लास अवॉर्ड",
+      "summary": "विजिलेंस पब्लिसिटी के नाम हुआ बिजनेस क्लास अवॉर्ड",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/business-class-award-goes-to-vigilance-publicity/",
+      "important": false
+    },
+    {
+      "id": "7203e360",
+      "title": "छत्तीसगढ़ में खरीफ सीजन ने पकड़ी रफ्तार, 45.62 लाख हेक्टेयर में बोनी पूरी; लक्ष्य का 94% हासिल",
+      "summary": "छत्तीसगढ़ में खरीफ सीजन ने पकड़ी रफ्तार, 45.62 लाख हेक्टेयर में बोनी पूरी; लक्ष्य का 94% हासिल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kharif-season-gains-momentum-in-chhattisgarh-sowing-completed-across-45-62-lakh-hectares-achieving-94-of-the-target/",
+      "important": false
+    },
+    {
+      "id": "e794fb1e",
+      "title": "आज का गेहूं मंडी रेट (12 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (12 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-12-august-2026/",
+      "important": false
+    },
+    {
+      "id": "3c737e24",
+      "title": "क्रॉपलाइफ इंडिया ने 13 राज्यों में अवैध कीटनाशकों के खिलाफ डिजिटल जागरूकता अभियान शुरू किया",
+      "summary": "क्रॉपलाइफ इंडिया ने 13 राज्यों में अवैध कीटनाशकों के खिलाफ डिजिटल जागरूकता अभियान शुरू किया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/croplife-india-has-launched-a-digital-awareness-campaign-against-illegal-pesticides-across-13-states/",
+      "important": false
+    },
+    {
+      "id": "137de30e",
+      "title": "आज का धान मंडी रेट (12 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (12 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-12-august-2026/",
+      "important": false
+    },
+    {
+      "id": "a7a16cee",
+      "title": "आज का मक्का मंडी रेट (12 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (12 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-12-august-2026/",
+      "important": false
+    },
+    {
+      "id": "74d54f28",
+      "title": "आज का सोयाबीन मंडी रेट (12 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (12 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-12-august-2026/",
+      "important": false
+    },
+    {
+      "id": "4c6e7da7",
+      "title": "टमाटर-मिर्च की संरक्षित खेती सीखेंगे नीमच के किसान, 17 अगस्त से शुरू होगी 7 दिन की खास ट्रेनिंग",
+      "summary": "टमाटर-मिर्च की संरक्षित खेती सीखेंगे नीमच के किसान, 17 अगस्त से शुरू होगी 7 दिन की खास ट्रेनिंग",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-neemuch-to-learn-protected-cultivation-of-tomatoes-and-chillies-a-special-7-day-training-program-begins-on-august-17/",
+      "important": false
+    },
     {
       "id": "368439e2",
       "title": "श्योपुर: दो विद्यालयों में कृषि संकाय संचालन की स्वीकृति",
@@ -462,94 +550,6 @@
       "date": "2026-08-08",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-08-august-2026/",
-      "important": false
-    },
-    {
-      "id": "21f66bf6",
-      "title": "आज का सोयाबीन मंडी रेट (08 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (08 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-08-august-2026/",
-      "important": false
-    },
-    {
-      "id": "c67196cc",
-      "title": "Weather Update: देश के कई हिस्सों में झमाझम बारिश का दौर, MP-राजस्थान-छत्तीसगढ़ में बहुत भारी बारिश की चेतावनी",
-      "summary": "Weather Update: देश के कई हिस्सों में झमाझम बारिश का दौर, MP-राजस्थान-छत्तीसगढ़ में बहुत भारी बारिश की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-update-heavy-rainfall-across-several-parts-of-the-country-warning-issued-for-very-heavy-rain-in-mp-rajasthan-and-chhattisgarh/",
-      "important": false
-    },
-    {
-      "id": "da3e683e",
-      "title": "सोयाबीन में दवा छिड़कने से पहले जान लें ये जरूरी बातें, ICAR-NSRI ने जारी की एडवाइजरी",
-      "summary": "सोयाबीन में दवा छिड़कने से पहले जान लें ये जरूरी बातें, ICAR-NSRI ने जारी की एडवाइजरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/know-these-important-points-before-spraying-pesticides-on-soybeans-icar-nsri-issues-advisory/",
-      "important": false
-    },
-    {
-      "id": "ada525a9",
-      "title": "पन्ना: मत्स्य बाजार में की छापामार कार्रवाई",
-      "summary": "पन्ना: मत्स्य बाजार में की छापामार कार्रवाई",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/panna-raid-conducted-at-the-fish-market/",
-      "important": false
-    },
-    {
-      "id": "4c44d6df",
-      "title": "गुना में मक्के के स्टार्च से तैयार हो रहे इको-फ्रेंडली कैरी बैग, 180 दिन में हो जाते हैं पूरी तरह नष्ट",
-      "summary": "गुना में मक्के के स्टार्च से तैयार हो रहे इको-फ्रेंडली कैरी बैग, 180 दिन में हो जाते हैं पूरी तरह नष्ट",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/eco-friendly-carry-bags-made-from-maize-starch-are-being-produced-in-guna-they-decompose-completely-within-180-days/",
-      "important": false
-    },
-    {
-      "id": "a89702a7",
-      "title": "सागर: जैविक खेती की दिशा में नई पहल – विवेक की वर्मी कम्पोस्ट यूनिट इकाई",
-      "summary": "सागर: जैविक खेती की दिशा में नई पहल – विवेक की वर्मी कम्पोस्ट यूनिट इकाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sagar-a-new-initiative-towards-organic-farming-viveks-vermicompost-unit/",
-      "important": false
-    },
-    {
-      "id": "f11bd007",
-      "title": "सागर कलेक्टर ने खाद वितरण व्यवस्था सुचारू रखने के दिए निर्देश",
-      "summary": "सागर कलेक्टर ने खाद वितरण व्यवस्था सुचारू रखने के दिए निर्देश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sagar-collector-issues-instructions-to-ensure-smooth-fertilizer-distribution/",
-      "important": false
-    },
-    {
-      "id": "860ef5b3",
-      "title": "धान में AWD तकनीक: ब्राउन प्लांटहॉपर प्रबंधन के लिए प्रभावी जल प्रबंधन की सलाह",
-      "summary": "धान में AWD तकनीक: ब्राउन प्लांटहॉपर प्रबंधन के लिए प्रभावी जल प्रबंधन की सलाह",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/awd-technique-in-paddy-recommendation-for-effective-water-management-to-control-brown-planthopper/",
       "important": false
     }
   ]
