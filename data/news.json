@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-13T13:23:01Z",
+  "updated": "2026-08-13T19:08:25Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "ae4bfd61",
+      "title": "474वीं पंजीकरण समिति बैठक में 3 नए कृषि-रसायन फॉर्मुलेशन को मंजूरी",
+      "summary": "474वीं पंजीकरण समिति बैठक में 3 नए कृषि-रसायन फॉर्मुलेशन को मंजूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/approval-granted-for-3-new-agrochemical-formulations-at-the-474th-registration-committee-meeting/",
+      "important": false
+    },
+    {
+      "id": "9f264bba",
+      "title": "कृषि एसोसिएशन ने निकाली तिरंगा यात्रा",
+      "summary": "कृषि एसोसिएशन ने निकाली तिरंगा यात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agriculture-association-took-out-a-tiranga-yatra/",
+      "important": false
+    },
+    {
+      "id": "80d4f86b",
+      "title": "तिरंगा यात्रा में कृषि विभाग की भागीदारी",
+      "summary": "तिरंगा यात्रा में कृषि विभाग की भागीदारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/participation-of-the-agriculture-department-in-the-tiranga-yatra/",
+      "important": false
+    },
+    {
+      "id": "570335dc",
+      "title": "बालाघाट: आईआरआरआई वैज्ञानिकों ने परखी धान की सीधी बुवाई तकनीक",
+      "summary": "बालाघाट: आईआरआरआई वैज्ञानिकों ने परखी धान की सीधी बुवाई तकनीक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-irri-scientists-evaluated-the-direct-seeding-technique-for-paddy/",
+      "important": false
+    },
+    {
+      "id": "9085366f",
+      "title": "आज का गेहूं मंडी रेट (13 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (13 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-13-august-2026/",
+      "important": false
+    },
+    {
+      "id": "0c3136d1",
+      "title": "आज का धान मंडी रेट (13 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (13 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-13-august-2026/",
+      "important": false
+    },
+    {
+      "id": "d252b703",
+      "title": "आज का मक्का मंडी रेट (13 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (13 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-13-august-2026/",
+      "important": false
+    },
+    {
+      "id": "63935d0e",
+      "title": "आज का सोयाबीन मंडी रेट (13 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (13 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-13-august-2026/",
+      "important": false
+    },
     {
       "id": "2d6ef4a8",
       "title": "मुख्यमंत्री डॉ. यादव ने प्रदेश में अतिवृष्टि, जलभराव और बाढ़ की स्थिति का लिया जायज़ा",
@@ -462,94 +550,6 @@
       "date": "2026-08-10",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/fir-registered-against-the-operator-of-shree-ganesh-phosphate/",
-      "important": false
-    },
-    {
-      "id": "bf7e641c",
-      "title": "आज का धान मंडी रेट (10 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (10 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-10-august-2026/",
-      "important": false
-    },
-    {
-      "id": "e9c44da1",
-      "title": "आज का मक्का मंडी रेट (10 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (10 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-10-august-2026/",
-      "important": false
-    },
-    {
-      "id": "7f94caff",
-      "title": "आज का गेहूं मंडी रेट (10 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (10 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-10-august-2026/",
-      "important": false
-    },
-    {
-      "id": "eb215445",
-      "title": "आज का सोयाबीन मंडी रेट (10 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (10 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-10-august-2026/",
-      "important": false
-    },
-    {
-      "id": "98abef3a",
-      "title": "अशोकनगर: यूरिया वितरण में अनियमितता पर दुकान सील",
-      "summary": "अशोकनगर: यूरिया वितरण में अनियमितता पर दुकान सील",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ashoknagar-shop-sealed-over-irregularities-in-urea-distribution/",
-      "important": false
-    },
-    {
-      "id": "f3a8be48",
-      "title": "प्रचार रथ को कलेक्टर दतिया ने हरी झंडी दिखाकर रवाना किया",
-      "summary": "प्रचार रथ को कलेक्टर दतिया ने हरी झंडी दिखाकर रवाना किया",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-08-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-datia-collector-flagged-off-the-publicity-vehicle/",
-      "important": true
-    },
-    {
-      "id": "b118aed9",
-      "title": "धान में लवणीय मिट्टी प्रबंधन: स्वस्थ नर्सरी तैयार करने के लिए ICAR-CRRI की सलाह",
-      "summary": "धान में लवणीय मिट्टी प्रबंधन: स्वस्थ नर्सरी तैयार करने के लिए ICAR-CRRI की सलाह",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/saline-soil-management-in-paddy-icar-crris-advice-for-raising-a-healthy-nursery/",
-      "important": false
-    },
-    {
-      "id": "eefb3f3b",
-      "title": "धान का जैविक कीट प्रबंधन: ट्राइकोग्रामा कार्ड से तना छेदक और लीफ फोल्डर पर नियंत्रण",
-      "summary": "धान का जैविक कीट प्रबंधन: ट्राइकोग्रामा कार्ड से तना छेदक और लीफ फोल्डर पर नियंत्रण",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/organic-pest-management-in-paddy-controlling-stem-borer-and-leaf-folder-using-trichogramma-cards/",
       "important": false
     }
   ]
