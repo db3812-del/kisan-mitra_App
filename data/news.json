@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-13T07:41:39Z",
-  "new_count": 0,
+  "updated": "2026-08-13T13:23:01Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "2d6ef4a8",
+      "title": "मुख्यमंत्री डॉ. यादव ने प्रदेश में अतिवृष्टि, जलभराव और बाढ़ की स्थिति का लिया जायज़ा",
+      "summary": "मुख्यमंत्री डॉ. यादव ने प्रदेश में अतिवृष्टि, जलभराव और बाढ़ की स्थिति का लिया जायज़ा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chief-minister-dr-yadav-took-stock-of-the-situation-regarding-excessive-rainfall-waterlogging-and-floods-in-the-state/",
+      "important": false
+    },
+    {
+      "id": "b5d6cb57",
+      "title": "सतत कृषि को बढ़ावा देने की केंद्र की मुहिम के सकारात्मक परिणाम, 26.18 करोड़ मृदा स्वास्थ्य कार्ड जारी",
+      "summary": "सतत कृषि को बढ़ावा देने की केंद्र की मुहिम के सकारात्मक परिणाम, 26.18 करोड़ मृदा स्वास्थ्य कार्ड जारी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/positive-results-of-the-centres-initiative-to-promote-sustainable-agriculture-26-18-crore-soil-health-cards-issued/",
+      "important": false
+    },
+    {
+      "id": "c9d4ab73",
+      "title": "राजस्थान में तेजी से लागू हो रहा एग्रीस्टैक, 87.44 लाख किसानों की Farmer Registry पूरी",
+      "summary": "राजस्थान में तेजी से लागू हो रहा एग्रीस्टैक, 87.44 लाख किसानों की Farmer Registry पूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agristack-is-rapidly-being-implemented-in-rajasthan-with-farmer-registry-for-87-44-lakh-farmers-completed/",
+      "important": false
+    },
+    {
+      "id": "86f9b0fc",
+      "title": "बिहार में रोजाना 1 करोड़ लीटर दूध उत्पादन का लक्ष्य, ‘सुधा’ को अंतरराष्ट्रीय ब्रांड बनाने की तैयारी",
+      "summary": "बिहार में रोजाना 1 करोड़ लीटर दूध उत्पादन का लक्ष्य, ‘सुधा’ को अंतरराष्ट्रीय ब्रांड बनाने की तैयारी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/target-set-for-daily-milk-production-of-10-million-liters-in-bihar-preparations-underway-to-make-sudha-an-international-brand/",
+      "important": false
+    },
+    {
+      "id": "11c39f08",
+      "title": "मूंग-उड़द किसानों को राहत: सरकारी खरीदी की अंतिम तिथि 20 अगस्त तक बढ़ी, उड़द पर मिलेगा 600 रुपए बोनस",
+      "summary": "मूंग-उड़द किसानों को राहत: सरकारी खरीदी की अंतिम तिथि 20 अगस्त तक बढ़ी, उड़द पर मिलेगा 600 रुपए बोनस",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/relief-for-moong-and-urad-farmers-deadline-for-government-procurement-extended-to-august-20-%e2%82%b9600-bonus-to-be-provided-on-urad/",
+      "important": true
+    },
+    {
+      "id": "aa8ad805",
+      "title": "आम, अमरूद और लीची उत्पादक किसानों को 75% तक अनुदान, बिहार में शुरू हुई बगीचों में कीट प्रबंधन योजना",
+      "summary": "आम, अमरूद और लीची उत्पादक किसानों को 75% तक अनुदान, बिहार में शुरू हुई बगीचों में कीट प्रबंधन योजना",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/subsidy-of-up-to-75-for-mango-guava-and-litchi-growers-pest-management-scheme-for-orchards-launched-in-bihar/",
+      "important": false
+    },
+    {
+      "id": "8333c30d",
+      "title": "सोयाबीन में बढ़ा तंबाकू की इल्ली का प्रकोप, ICAR-NSRI ने बताए बचाव के उपाय",
+      "summary": "सोयाबीन में बढ़ा तंबाकू की इल्ली का प्रकोप, ICAR-NSRI ने बताए बचाव के उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/infestation-of-tobacco-caterpillar-in-soybean-crops-rises-icar-nsri-suggests-preventive-measures/",
+      "important": false
+    },
+    {
+      "id": "35f574a0",
+      "title": "गोबर और जैविक कचरे से होगी कमाई",
+      "summary": "गोबर और जैविक कचरे से होगी कमाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/earnings-to-be-generated-from-cow-dung-and-organic-waste/",
+      "important": false
+    },
     {
       "id": "73f94d2c",
       "title": "विजिलेंस पब्लिसिटी के नाम हुआ बिजनेस क्लास अवॉर्ड",
@@ -462,94 +550,6 @@
       "date": "2026-08-09",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/crop-cultivation/organic-pest-management-in-paddy-controlling-stem-borer-and-leaf-folder-using-trichogramma-cards/",
-      "important": false
-    },
-    {
-      "id": "30e0dbdc",
-      "title": "सोयाबीन में सूखा पड़ा तो क्या करें? ICAR-NSRI ने मल्चिंग से सिंचाई तक बताए जरूरी उपाय",
-      "summary": "सोयाबीन में सूखा पड़ा तो क्या करें? ICAR-NSRI ने मल्चिंग से सिंचाई तक बताए जरूरी उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/what-to-do-if-the-soybean-crop-faces-drought-icar-nsri-outlines-essential-measures-ranging-from-mulching-to-irrigation/",
-      "important": false
-    },
-    {
-      "id": "742cfe1b",
-      "title": "सोयाबीन में कीट-खरपतवार दोनों से मिलेगी राहत, ICAR-NSRI ने बताया कौन-सी दवाएं साथ मिलाकर करें छिड़काव",
-      "summary": "सोयाबीन में कीट-खरपतवार दोनों से मिलेगी राहत, ICAR-NSRI ने बताया कौन-सी दवाएं साथ मिलाकर करें छिड़काव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/get-relief-from-both-pests-and-weeds-in-soybean-crops-icar-nsri-specifies-which-chemicals-can-be-mixed-and-sprayed-together/",
-      "important": false
-    },
-    {
-      "id": "7f5babca",
-      "title": "पचौली की खेती से किसानों की बढ़ेगी कमाई, एक एकड़ से 1.5 लाख तक मुनाफे का मौका; जानिए फायदे",
-      "summary": "पचौली की खेती से किसानों की बढ़ेगी कमाई, एक एकड़ से 1.5 लाख तक मुनाफे का मौका; जानिए फायदे",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/patchouli-cultivation-to-boost-farmers-income-opportunity-to-earn-up-to-%e2%82%b91-5-lakh-profit-per-acre-learn-about-the-benefits/",
-      "important": false
-    },
-    {
-      "id": "3ed32b86",
-      "title": "राजस्थान में खाद बिक्री का लाइसेंस लेना हुआ आसान, उर्वरक विक्रय प्रशिक्षण से हटाई अधिकतम आयु सीमा",
-      "summary": "राजस्थान में खाद बिक्री का लाइसेंस लेना हुआ आसान, उर्वरक विक्रय प्रशिक्षण से हटाई अधिकतम आयु सीमा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/obtaining-a-fertilizer-sales-license-in-rajasthan-has-become-easier-the-maximum-age-limit-for-fertilizer-sales-training-has-been-removed/",
-      "important": false
-    },
-    {
-      "id": "ba85a434",
-      "title": "रीवा, सतना, अनूपपुर, शहडोल एवं पन्ना जिलों में भारी वर्षा की चेतावनी",
-      "summary": "रीवा, सतना, अनूपपुर, शहडोल एवं पन्ना जिलों में भारी वर्षा की चेतावनी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/heavy-rainfall-warning-for-rewa-satna-anuppur-shahdol-and-panna-districts/",
-      "important": false
-    },
-    {
-      "id": "b443c03a",
-      "title": "आज का गेहूं मंडी रेट (08 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (08 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-08-august-2026/",
-      "important": false
-    },
-    {
-      "id": "029820a1",
-      "title": "आज का धान मंडी रेट (08 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (08 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-08-august-2026/",
-      "important": false
-    },
-    {
-      "id": "464f6cc9",
-      "title": "आज का मक्का मंडी रेट (08 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (08 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-08-august-2026/",
       "important": false
     }
   ]
