@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-14T07:39:19Z",
+  "updated": "2026-08-14T13:17:57Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "cede4ac3",
+      "title": "आज का मक्का मंडी रेट (14 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (14 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-14-august-2026/",
+      "important": false
+    },
+    {
+      "id": "ce9d6a0a",
+      "title": "Weather Today: झारखंड-ओडिशा में भारी बारिश का अलर्ट, MP-छत्तीसगढ़ समेत कई राज्यों में बरसेंगे बादल; IMD ने जारी की चेताव",
+      "summary": "Weather Today: झारखंड-ओडिशा में भारी बारिश का अलर्ट, MP-छत्तीसगढ़ समेत कई राज्यों में बरसेंगे बादल; IMD ने जारी की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-alert-for-jharkhand-and-odisha-rain-expected-in-several-states-including-mp-and-chhattisgarh-imd-issues-warning/",
+      "important": false
+    },
+    {
+      "id": "0e2d6bc0",
+      "title": "आज का सोयाबीन मंडी रेट (14 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (14 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-14-august-2026/",
+      "important": false
+    },
+    {
+      "id": "ebae5c32",
+      "title": "आम-अमरूद-लीची के पेड़ों पर कीटनाशक छिड़काव के लिए सरकार देगी 75% सब्सिडी, ऐसे करें आवेदन",
+      "summary": "आम-अमरूद-लीची के पेड़ों पर कीटनाशक छिड़काव के लिए सरकार देगी 75% सब्सिडी, ऐसे करें आवेदन",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/government-to-provide-75-subsidy-for-spraying-pesticides-on-mango-guava-and-litchi-trees-heres-how-to-apply/",
+      "important": false
+    },
+    {
+      "id": "53946e6b",
+      "title": "गाजर की खेती का पूरा गणित समझें, कब करें बुवाई, कौन-सी किस्म चुनें और कितनी खाद डालें; यहां जानें सबकुछ",
+      "summary": "गाजर की खेती का पूरा गणित समझें, कब करें बुवाई, कौन-सी किस्म चुनें और कितनी खाद डालें; यहां जानें सबकुछ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/understand-the-complete-economics-of-carrot-farming-when-to-sow-which-variety-to-choose-and-how-much-fertilizer-to-apply-find-out-everything-here/",
+      "important": false
+    },
+    {
+      "id": "001a3697",
+      "title": "बिजली बिल और पावर कट से राहत, सोलर पंप से बढ़ी किसानों की आमदनी; अब धान के साथ उगा रहे सब्जियां",
+      "summary": "बिजली बिल और पावर कट से राहत, सोलर पंप से बढ़ी किसानों की आमदनी; अब धान के साथ उगा रहे सब्जियां",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/relief-from-electricity-bills-and-power-cuts-farmers-income-boosted-by-solar-pumps-now-growing-vegetables-alongside-paddy/",
+      "important": false
+    },
+    {
+      "id": "9d7b2cfe",
+      "title": "आलू की खेती कब करें? सही समय से लेकर खाद-बीज तक जानें सबकुछ",
+      "summary": "आलू की खेती कब करें? सही समय से लेकर खाद-बीज तक जानें सबकुछ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/when-should-you-cultivate-potatoes-learn-everything-from-the-right-timing-to-fertilizers-and-seeds/",
+      "important": false
+    },
+    {
+      "id": "44b1e595",
+      "title": "कुफरी पुखराज से चिप्सोना-3 तक! आलू की इन 5 उन्नत किस्मों की करें खेती, 400 क्विंटल तक पैदावार",
+      "summary": "कुफरी पुखराज से चिप्सोना-3 तक! आलू की इन 5 उन्नत किस्मों की करें खेती, 400 क्विंटल तक पैदावार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/from-kufri-pukhraj-to-chipsona-3-cultivate-these-5-improved-potato-varieties-for-yields-of-up-to-400-quintals/",
+      "important": false
+    },
     {
       "id": "21b3de34",
       "title": "अधिक वर्षा से प्रभावित फसलों का कराएं सर्वे- डिंडोरी कलेक्टर",
@@ -462,94 +550,6 @@
       "date": "2026-08-11",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/agriculture-machinery/chhindwara-applications-invited-for-setting-up-a-private-sector-shop-for-renting-out-agricultural-machinery/",
-      "important": false
-    },
-    {
-      "id": "2e49cc11",
-      "title": "नर्मदापुरम : किसानों के लिए सहायक आय की व्यवस्था करना हमारा लक्ष्य : मुख्यमंत्री डॉ. यादव",
-      "summary": "नर्मदापुरम : किसानों के लिए सहायक आय की व्यवस्था करना हमारा लक्ष्य : मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/narmadapuram-our-goal-is-to-arrange-supplementary-income-for-farmers-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "cbab4d0f",
-      "title": "आज का गेहूं मंडी रेट (11 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (11 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-11-august-2026/",
-      "important": false
-    },
-    {
-      "id": "e4ab4703",
-      "title": "आज का धान मंडी रेट (11 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (11 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-11-august-2026/",
-      "important": false
-    },
-    {
-      "id": "aea63c43",
-      "title": "आज का मक्का मंडी रेट (11 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (11 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-11-august-2026/",
-      "important": false
-    },
-    {
-      "id": "eec2b4f1",
-      "title": "आज का सोयाबीन मंडी रेट (11 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (11 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-11-august-2026/",
-      "important": false
-    },
-    {
-      "id": "bef4dced",
-      "title": "भिंड: सर्वोत्तम कृषकों के चयन के लिए आवेदन आमंत्रित",
-      "summary": "भिंड: सर्वोत्तम कृषकों के चयन के लिए आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bhind-applications-invited-for-the-selection-of-best-farmers/",
-      "important": false
-    },
-    {
-      "id": "5f75c7fd",
-      "title": "एग्रीस्टैक से जुड़ चुके 10.31 करोड़ किसान, अब AI से होगा फसल उपज का सटीक आकलन",
-      "summary": "एग्रीस्टैक से जुड़ चुके 10.31 करोड़ किसान, अब AI से होगा फसल उपज का सटीक आकलन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/10-31-crore-farmers-have-joined-agristack-ai-will-now-enable-accurate-assessment-of-crop-yields/",
-      "important": false
-    },
-    {
-      "id": "1cfc0a96",
-      "title": "प्रदेश में औसत से 15 प्रतिशत कम बारिश, हर जिले में रखें जरूरी तैयारी : मुख्यमंत्री डॉ. मोहन यादव",
-      "summary": "प्रदेश में औसत से 15 प्रतिशत कम बारिश, हर जिले में रखें जरूरी तैयारी : मुख्यमंत्री डॉ. मोहन यादव",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rainfall-in-the-state-is-15-percent-below-average-ensure-necessary-preparations-in-every-district-chief-minister-dr-mohan-yadav/",
       "important": false
     }
   ]
