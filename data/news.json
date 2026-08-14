@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-14T02:23:23Z",
-  "new_count": 0,
+  "updated": "2026-08-14T07:39:19Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "21b3de34",
+      "title": "अधिक वर्षा से प्रभावित फसलों का कराएं सर्वे- डिंडोरी कलेक्टर",
+      "summary": "अधिक वर्षा से प्रभावित फसलों का कराएं सर्वे- डिंडोरी कलेक्टर",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/conduct-a-survey-of-crops-affected-by-heavy-rainfall-dindori-collector/",
+      "important": false
+    },
+    {
+      "id": "d42c5ea4",
+      "title": "नरसिंहपुर : खेत-तालाब ने लौटाई खेतों की हरियाली",
+      "summary": "नरसिंहपुर : खेत-तालाब ने लौटाई खेतों की हरियाली",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/narsinghpur-farm-ponds-restore-greenery-to-the-fields/",
+      "important": false
+    },
+    {
+      "id": "c9f94dd2",
+      "title": "जबलपुर : प्रीति ने प्राकृतिक खेती से घटाई लागत, उपज का मिल रहा बेहतर दाम",
+      "summary": "जबलपुर : प्रीति ने प्राकृतिक खेती से घटाई लागत, उपज का मिल रहा बेहतर दाम",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-preeti-reduces-costs-through-natural-farming-getting-better-prices-for-produce/",
+      "important": false
+    },
+    {
+      "id": "50905009",
+      "title": "शिवराज सिंह चौहान आज पंजाब दौरे पर, CBDC आधारित DBT व्यवस्था की करेंगे शुरुआत; किसानों से भी करेंगे संवाद",
+      "summary": "शिवराज सिंह चौहान आज पंजाब दौरे पर, CBDC आधारित DBT व्यवस्था की करेंगे शुरुआत; किसानों से भी करेंगे संवाद",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/shivraj-singh-chouhan-is-visiting-punjab-today-he-will-launch-a-cbdc-based-dbt-system-and-also-interact-with-farmers/",
+      "important": false
+    },
+    {
+      "id": "f49b6bff",
+      "title": "मंडला : उर्वरक के चार नमूने अमानक पाए गए, विक्रय प्रतिबंधित",
+      "summary": "मंडला : उर्वरक के चार नमूने अमानक पाए गए, विक्रय प्रतिबंधित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mandla-four-fertilizer-samples-found-substandard-sale-prohibited/",
+      "important": false
+    },
+    {
+      "id": "62f22533",
+      "title": "डिंडोरी: निजी क्षेत्र में कृषि यंत्र किराए की दुकान के लिए 21 अगस्त तक आवेदन करें",
+      "summary": "डिंडोरी: निजी क्षेत्र में कृषि यंत्र किराए की दुकान के लिए 21 अगस्त तक आवेदन करें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-apply-by-august-21-for-a-private-sector-agricultural-machinery-rental-shop/",
+      "important": false
+    },
+    {
+      "id": "8c660050",
+      "title": "क्या पौधों का उपचार भी होम्योपैथी से किया जा सकता है?",
+      "summary": "क्या पौधों का उपचार भी होम्योपैथी से किया जा सकता है?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/can-plants-also-be-treated-with-homeopathy/",
+      "important": false
+    },
+    {
+      "id": "b0f95899",
+      "title": "खेती होगी आसान, लागत घटेगी: छोटे किसानों तक पहुंच रही आधुनिक कृषि मशीनरी",
+      "summary": "खेती होगी आसान, लागत घटेगी: छोटे किसानों तक पहुंच रही आधुनिक कृषि मशीनरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farming-will-become-easier-costs-will-decrease-modern-agricultural-machinery-is-reaching-small-farmers/",
+      "important": false
+    },
     {
       "id": "ae4bfd61",
       "title": "474वीं पंजीकरण समिति बैठक में 3 नए कृषि-रसायन फॉर्मुलेशन को मंजूरी",
@@ -462,94 +550,6 @@
       "date": "2026-08-11",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/rainfall-in-the-state-is-15-percent-below-average-ensure-necessary-preparations-in-every-district-chief-minister-dr-mohan-yadav/",
-      "important": false
-    },
-    {
-      "id": "5d962341",
-      "title": "उज्जैन में जल्द शुरू होगा यूनिटी मॉल, देशभर के कुटीर एवं ग्रामोद्योग उत्पाद होंगे उपलब्ध",
-      "summary": "उज्जैन में जल्द शुरू होगा यूनिटी मॉल, देशभर के कुटीर एवं ग्रामोद्योग उत्पाद होंगे उपलब्ध",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-unity-mall-will-soon-open-in-ujjain-offering-cottage-and-village-industry-products-from-across-the-country/",
-      "important": false
-    },
-    {
-      "id": "24991c68",
-      "title": "प्रदेश में साढ़े 3 लाख मीट्रिक टन मूंग की खरीदी, मुख्यमंत्री ने दिए सख्त कार्रवाई के निर्देश",
-      "summary": "प्रदेश में साढ़े 3 लाख मीट्रिक टन मूंग की खरीदी, मुख्यमंत्री ने दिए सख्त कार्रवाई के निर्देश",
-      "level": "state",
-      "category": "price",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/3-5-lakh-metric-tonnes-of-moong-procured-in-the-state-chief-minister-issues-directives-for-strict-action/",
-      "important": false
-    },
-    {
-      "id": "7ca14cfd",
-      "title": "राजस्थान में पशु नस्ल सुधार की दिशा में बड़ा कदम",
-      "summary": "राजस्थान में पशु नस्ल सुधार की दिशा में बड़ा कदम",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-major-step-towards-livestock-breed-improvement-in-rajasthan/",
-      "important": false
-    },
-    {
-      "id": "dd642dd9",
-      "title": "IARI की सोयाबीन की उन्नत किस्में किसानों को देंगी बेहतर उत्पादन, जानिए टॉप 3 वैरायटी",
-      "summary": "IARI की सोयाबीन की उन्नत किस्में किसानों को देंगी बेहतर उत्पादन, जानिए टॉप 3 वैरायटी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/iaris-improved-soybean-varieties-to-offer-farmers-higher-yields-here-are-the-top-3-varieties/",
-      "important": false
-    },
-    {
-      "id": "5e166a08",
-      "title": "MP में औसत से 15% कम बारिश, CM मोहन यादव ने किसानों को कम सिंचाई वाली फसलें अपनाने की दी सलाह",
-      "summary": "MP में औसत से 15% कम बारिश, CM मोहन यादव ने किसानों को कम सिंचाई वाली फसलें अपनाने की दी सलाह",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rainfall-in-mp-is-15-below-average-cm-mohan-yadav-advises-farmers-to-cultivate-crops-requiring-less-irrigation/",
-      "important": false
-    },
-    {
-      "id": "c36f2aa1",
-      "title": "कृषि छात्रों को अब सीधे बैंक खाते में मिलेगी स्कालरशिप",
-      "summary": "कृषि छात्रों को अब सीधे बैंक खाते में मिलेगी स्कालरशिप",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/agriculture-students-will-now-receive-scholarships-directly-into-their-bank-accounts/",
-      "important": false
-    },
-    {
-      "id": "4a35b8dd",
-      "title": "एग्रीस्टैक क्या है? जानिए भारत के डिजिटल कृषि मंच के बारे में",
-      "summary": "एग्रीस्टैक क्या है? जानिए भारत के डिजिटल कृषि मंच के बारे में",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/what-is-agristack-learn-about-indias-digital-agriculture-platform/",
-      "important": false
-    },
-    {
-      "id": "574f85f7",
-      "title": "श्री गणेश फास्फेट के संचालक के विरुद्ध एफआईआर दर्ज़",
-      "summary": "श्री गणेश फास्फेट के संचालक के विरुद्ध एफआईआर दर्ज़",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/fir-registered-against-the-operator-of-shree-ganesh-phosphate/",
       "important": false
     }
   ]
