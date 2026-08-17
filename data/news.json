@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-17T01:39:47Z",
-  "new_count": 0,
+  "updated": "2026-08-17T07:04:57Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "08a7eec1",
+      "title": "वर्ष 2029-30 तक के कृषि और ग्रीन बजट की तैयारी शुरू",
+      "summary": "वर्ष 2029-30 तक के कृषि और ग्रीन बजट की तैयारी शुरू",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/preparations-for-the-agriculture-and-green-budget-up-to-the-year-2029-30-have-begun/",
+      "important": false
+    },
+    {
+      "id": "c01a790a",
+      "title": "ICAR वैज्ञानिकों की बड़ी उपलब्धि, रोग प्रतिरोधी और जलवायु अनुकूल अरहर की किस्में विकसित करने में मिलेगी मदद",
+      "summary": "ICAR वैज्ञानिकों की बड़ी उपलब्धि, रोग प्रतिरोधी और जलवायु अनुकूल अरहर की किस्में विकसित करने में मिलेगी मदद",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/major-achievement-by-icar-scientists-will-aid-in-developing-disease-resistant-and-climate-resilient-varieties-of-arhar-pigeon-pea/",
+      "important": false
+    },
+    {
+      "id": "95baff93",
+      "title": "10,000 FPO योजना से किसानों को मिल रहा सामूहिक ताकत का लाभ",
+      "summary": "10,000 FPO योजना से किसानों को मिल रहा सामूहिक ताकत का लाभ",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/government-schemes/farmers-are-reaping-the-benefits-of-collective-strength-through-the-10000-fpo-scheme/",
+      "important": false
+    },
+    {
+      "id": "2d7f6533",
+      "title": "बीकानेर में सहजन की खेती को मिलेगा बढ़ावा, किसानों को मुफ्त पौधे और प्रशिक्षण",
+      "summary": "बीकानेर में सहजन की खेती को मिलेगा बढ़ावा, किसानों को मुफ्त पौधे और प्रशिक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/drumstick-cultivation-will-get-a-boost-in-bikaner-free-plants-and-training-to-farmers/",
+      "important": false
+    },
+    {
+      "id": "983c410d",
+      "title": "पांढुर्ना में किसानों के साथ फिर धोखाधड़ी",
+      "summary": "पांढुर्ना में किसानों के साथ फिर धोखाधड़ी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-cheated-again-in-pandhurna/",
+      "important": false
+    },
+    {
+      "id": "9e902d65",
+      "title": "सोयाबीन में फूल एवं कैनोपी विकास के लिए क्रीकल मैक्स और पोषक सुपरस्टार का उपयोग लाभकारी",
+      "summary": "सोयाबीन में फूल एवं कैनोपी विकास के लिए क्रीकल मैक्स और पोषक सुपरस्टार का उपयोग लाभकारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/use-of-creekal-max-and-poshak-superstar-is-beneficial-for-flowering-and-canopy-development-in-soybeans/",
+      "important": false
+    },
+    {
+      "id": "acf0350e",
+      "title": "राजस्थान और तेलंगाना के किसानों के लिए 605 करोड़ से अधिक की सौगात",
+      "summary": "राजस्थान और तेलंगाना के किसानों के लिए 605 करोड़ से अधिक की सौगात",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-gift-worth-over-%e2%82%b9605-crore-for-farmers-in-rajasthan-and-telangana/",
+      "important": false
+    },
+    {
+      "id": "e2aa8d11",
+      "title": "एस्कॉर्ट्स कुबोटा ने दो नए ट्रैक्टर MU4502 और MU5002 किए लॉन्च",
+      "summary": "एस्कॉर्ट्स कुबोटा ने दो नए ट्रैक्टर MU4502 और MU5002 किए लॉन्च",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/escorts-kubota-has-launched-two-new-tractors-the-mu4502-and-mu5002/",
+      "important": false
+    },
     {
       "id": "33071442",
       "title": "किसान हित सर्वोपरि : मंडी बोर्ड आयुक्त ने बरेली मंडी का किया औचक निरीक्षण",
@@ -462,94 +550,6 @@
       "date": "2026-08-12",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/sheopur-approval-granted-to-run-agriculture-streams-in-two-schools/",
-      "important": false
-    },
-    {
-      "id": "a9c0923a",
-      "title": "हरियाणा में गन्ना किसानों के लिए बड़ा फैसला",
-      "summary": "हरियाणा में गन्ना किसानों के लिए बड़ा फैसला",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-decision-for-sugarcane-farmers-in-haryana/",
-      "important": false
-    },
-    {
-      "id": "1cccda6e",
-      "title": "पीएम किसान की 24वीं किस्त को लेकर बड़ा अपडेट, कुछ किसानों को मिल सकते हैं 4 हजार",
-      "summary": "पीएम किसान की 24वीं किस्त को लेकर बड़ा अपडेट, कुछ किसानों को मिल सकते हैं 4 हजार",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/major-update-regarding-the-24th-installment-of-pm-kisan-some-farmers-may-receive-%e2%82%b94000/",
-      "important": false
-    },
-    {
-      "id": "08d7f043",
-      "title": "मध्यप्रदेश में किसानों को मिनी ट्रैक्टर पर मिलेगा 2.45 लाख रुपए तक अनुदान, जानिए पूरी योजना",
-      "summary": "मध्यप्रदेश में किसानों को मिनी ट्रैक्टर पर मिलेगा 2.45 लाख रुपए तक अनुदान, जानिए पूरी योजना",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-madhya-pradesh-to-receive-a-subsidy-of-up-to-%e2%82%b92-45-lakh-on-mini-tractors-know-the-full-scheme-details/",
-      "important": false
-    },
-    {
-      "id": "02adfa9c",
-      "title": "बिहार के किसानों के लिए बड़ी पहल, सोलर क्रॉप ड्रायर पर मिलेगा 1.40 लाख रुपए तक अनुदान",
-      "summary": "बिहार के किसानों के लिए बड़ी पहल, सोलर क्रॉप ड्रायर पर मिलेगा 1.40 लाख रुपए तक अनुदान",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-initiative-for-bihar-farmers-subsidy-of-up-to-%e2%82%b91-40-lakh-available-for-solar-crop-dryers/",
-      "important": false
-    },
-    {
-      "id": "f77683ee",
-      "title": "यूपी में मशरूम की खेती पर 50% तक अनुदान, 200 वर्ग फुट यूनिट पर मिल सकती है 1 लाख रुपए तक सहायता",
-      "summary": "यूपी में मशरूम की खेती पर 50% तक अनुदान, 200 वर्ग फुट यूनिट पर मिल सकती है 1 लाख रुपए तक सहायता",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/subsidy-of-up-to-50-on-mushroom-farming-in-up-assistance-of-up-to-%e2%82%b91-lakh-available-for-a-200-square-foot-unit/",
-      "important": false
-    },
-    {
-      "id": "e378b7a5",
-      "title": "हरदा कृषि विज्ञान केन्द्र की सोयाबीन उत्पादक कृषकों हेतु सलाह",
-      "summary": "हरदा कृषि विज्ञान केन्द्र की सोयाबीन उत्पादक कृषकों हेतु सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/advisory-for-soybean-growing-farmers-from-the-harda-krishi-vigyan-kendra/",
-      "important": false
-    },
-    {
-      "id": "b78b86af",
-      "title": "मानसून में भोजन की स्वच्छता एवं सुरक्षा: बीमारी से बचाव के 10 आसान उपाय",
-      "summary": "मानसून में भोजन की स्वच्छता एवं सुरक्षा: बीमारी से बचाव के 10 आसान उपाय",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/food-hygiene-and-safety-during-the-monsoon-10-simple-ways-to-prevent-illness/",
-      "important": false
-    },
-    {
-      "id": "d119319b",
-      "title": "Weather Alert: कम दबाव के क्षेत्र से बदला मौसम, राजस्थान-MP-ओडिशा समेत इन राज्यों में भारी बारिश का अलर्ट",
-      "summary": "Weather Alert: कम दबाव के क्षेत्र से बदला मौसम, राजस्थान-MP-ओडिशा समेत इन राज्यों में भारी बारिश का अलर्ट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-alert-weather-shifts-due-to-a-low-pressure-area-heavy-rain-alert-issued-for-several-states-including-rajasthan-mp-and-odisha/",
       "important": false
     }
   ]
