@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-17T07:04:57Z",
+  "updated": "2026-08-17T12:53:48Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "46d54977",
+      "title": "पारिजात और HELM की साझेदारी, भारत सहित वैश्विक बाजारों में बढ़ेगी पहुंच",
+      "summary": "पारिजात और HELM की साझेदारी, भारत सहित वैश्विक बाजारों में बढ़ेगी पहुंच",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/partnership-between-parijat-and-helm-to-expand-reach-in-global-markets-including-india/",
+      "important": false
+    },
+    {
+      "id": "95f637d2",
+      "title": "भारतीय कृषि 2026: उत्पादन, किसान, निर्यात और संबद्ध क्षेत्रों के 10 प्रमुख आंकड़े",
+      "summary": "भारतीय कृषि 2026: उत्पादन, किसान, निर्यात और संबद्ध क्षेत्रों के 10 प्रमुख आंकड़े",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/indian-agriculture-2026-10-key-figures-on-production-farmers-exports-and-allied-sectors/",
+      "important": false
+    },
+    {
+      "id": "47005e2e",
+      "title": "छिंदवाड़ा: हरी खाद से संवर रही मिट्टी, ढैंचा बना किसानों की पसंद",
+      "summary": "छिंदवाड़ा: हरी खाद से संवर रही मिट्टी, ढैंचा बना किसानों की पसंद",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-soil-quality-improving-with-green-manure-dhaincha-becomes-farmers-preferred-choice/",
+      "important": false
+    },
+    {
+      "id": "6d078993",
+      "title": "आज का गेहूं मंडी रेट (17 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (17 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-17-august-2026/",
+      "important": false
+    },
+    {
+      "id": "3861cd9c",
+      "title": "आज का मक्का मंडी रेट (17 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (17 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-17-august-2026/",
+      "important": false
+    },
+    {
+      "id": "57eaef0f",
+      "title": "कृषक हित में पूरी निष्ठा एवं समर्पण से कार्य करें: श्री कुमार पुरुषोत्तम",
+      "summary": "कृषक हित में पूरी निष्ठा एवं समर्पण से कार्य करें: श्री कुमार पुरुषोत्तम",
+      "level": "state",
+      "category": "market",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/work-with-complete-dedication-and-commitment-in-the-interest-of-farmers-shri-kumar-purushottam/",
+      "important": false
+    },
+    {
+      "id": "b310a906",
+      "title": "आज का सोयाबीन मंडी रेट (17 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (17 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/todays-soybean-mandi-rate-17-august-2026/",
+      "important": false
+    },
+    {
+      "id": "a6750fa0",
+      "title": "सिवनी, मंडला और बालाघाट जिलों में अति भारी वर्षा की संभावना",
+      "summary": "सिवनी, मंडला और बालाघाट जिलों में अति भारी वर्षा की संभावना",
+      "level": "state",
+      "category": "price",
+      "date": "2026-08-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/possibility-of-extremely-heavy-rainfall-in-seoni-mandla-and-balaghat-districts/",
+      "important": false
+    },
     {
       "id": "08a7eec1",
       "title": "वर्ष 2029-30 तक के कृषि और ग्रीन बजट की तैयारी शुरू",
@@ -462,94 +550,6 @@
       "date": "2026-08-12",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/business-class-award-goes-to-vigilance-publicity/",
-      "important": false
-    },
-    {
-      "id": "7203e360",
-      "title": "छत्तीसगढ़ में खरीफ सीजन ने पकड़ी रफ्तार, 45.62 लाख हेक्टेयर में बोनी पूरी; लक्ष्य का 94% हासिल",
-      "summary": "छत्तीसगढ़ में खरीफ सीजन ने पकड़ी रफ्तार, 45.62 लाख हेक्टेयर में बोनी पूरी; लक्ष्य का 94% हासिल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/kharif-season-gains-momentum-in-chhattisgarh-sowing-completed-across-45-62-lakh-hectares-achieving-94-of-the-target/",
-      "important": false
-    },
-    {
-      "id": "e794fb1e",
-      "title": "आज का गेहूं मंडी रेट (12 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (12 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-12-august-2026/",
-      "important": false
-    },
-    {
-      "id": "3c737e24",
-      "title": "क्रॉपलाइफ इंडिया ने 13 राज्यों में अवैध कीटनाशकों के खिलाफ डिजिटल जागरूकता अभियान शुरू किया",
-      "summary": "क्रॉपलाइफ इंडिया ने 13 राज्यों में अवैध कीटनाशकों के खिलाफ डिजिटल जागरूकता अभियान शुरू किया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/croplife-india-has-launched-a-digital-awareness-campaign-against-illegal-pesticides-across-13-states/",
-      "important": false
-    },
-    {
-      "id": "137de30e",
-      "title": "आज का धान मंडी रेट (12 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (12 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-12-august-2026/",
-      "important": false
-    },
-    {
-      "id": "a7a16cee",
-      "title": "आज का मक्का मंडी रेट (12 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (12 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-12-august-2026/",
-      "important": false
-    },
-    {
-      "id": "74d54f28",
-      "title": "आज का सोयाबीन मंडी रेट (12 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (12 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-12-august-2026/",
-      "important": false
-    },
-    {
-      "id": "4c6e7da7",
-      "title": "टमाटर-मिर्च की संरक्षित खेती सीखेंगे नीमच के किसान, 17 अगस्त से शुरू होगी 7 दिन की खास ट्रेनिंग",
-      "summary": "टमाटर-मिर्च की संरक्षित खेती सीखेंगे नीमच के किसान, 17 अगस्त से शुरू होगी 7 दिन की खास ट्रेनिंग",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-neemuch-to-learn-protected-cultivation-of-tomatoes-and-chillies-a-special-7-day-training-program-begins-on-august-17/",
-      "important": false
-    },
-    {
-      "id": "368439e2",
-      "title": "श्योपुर: दो विद्यालयों में कृषि संकाय संचालन की स्वीकृति",
-      "summary": "श्योपुर: दो विद्यालयों में कृषि संकाय संचालन की स्वीकृति",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sheopur-approval-granted-to-run-agriculture-streams-in-two-schools/",
       "important": false
     }
   ]
