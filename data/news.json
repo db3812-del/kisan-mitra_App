@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-18T01:35:12Z",
-  "new_count": 0,
+  "updated": "2026-08-18T06:52:21Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "7532ddcd",
+      "title": "प्राकृतिक खेती की कृषक सखी अनुराधा गाडरे सम्मानित",
+      "summary": "प्राकृतिक खेती की कृषक सखी अनुराधा गाडरे सम्मानित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/natural-farming-krishak-sakhi-anuradha-gadre-honored/",
+      "important": false
+    },
+    {
+      "id": "59005134",
+      "title": "MP में किसानों को सिर्फ ₹5 में बिजली कनेक्शन, अब तक 1.18 लाख कृषि उपभोक्ताओं को मिला लाभ",
+      "summary": "MP में किसानों को सिर्फ ₹5 में बिजली कनेक्शन, अब तक 1.18 लाख कृषि उपभोक्ताओं को मिला लाभ",
+      "level": "state",
+      "category": "price",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/electricity-connections-for-farmers-in-mp-for-just-%e2%82%b95-1-18-lakh-agricultural-consumers-have-benefited-so-far/",
+      "important": false
+    },
+    {
+      "id": "e3fbabbe",
+      "title": "लंबित जांच से रुका था किसानों का कर्ज, अब ‘कवच योजना’ से खुलेगा नए ऋण का रास्ता; 5 हजार किसानों को लाभ",
+      "summary": "लंबित जांच से रुका था किसानों का कर्ज, अब ‘कवच योजना’ से खुलेगा नए ऋण का रास्ता; 5 हजार किसानों को लाभ",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-loans-were-stalled-due-to-pending-inquiries-the-kavach-yojana-will-now-pave-the-way-for-new-credit-benefiting-5000-farmers/",
+      "important": false
+    },
+    {
+      "id": "52a03bc6",
+      "title": "टमाटर-खीरा समेत बेल वाली सब्जियों की खेती पर सरकार देगी 50% सब्सिडी, किसानों को मिलेगा बड़ा फायदा",
+      "summary": "टमाटर-खीरा समेत बेल वाली सब्जियों की खेती पर सरकार देगी 50% सब्सिडी, किसानों को मिलेगा बड़ा फायदा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/government-to-provide-50-subsidy-on-the-cultivation-of-trailing-vegetables-including-tomatoes-and-cucumbers-farmers-to-benefit-significantly/",
+      "important": false
+    },
+    {
+      "id": "4bce2a92",
+      "title": "राजस्थान में 87.44 लाख किसानों की रजिस्ट्री पूरी, अब सरकारी योजनाओं में किसान ID होगी अनिवार्य",
+      "summary": "राजस्थान में 87.44 लाख किसानों की रजिस्ट्री पूरी, अब सरकारी योजनाओं में किसान ID होगी अनिवार्य",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/registration-of-87-44-lakh-farmers-completed-in-rajasthan-farmer-id-to-become-mandatory-for-government-schemes/",
+      "important": false
+    },
+    {
+      "id": "69a9c225",
+      "title": "बैंगन की खेती से रायपुर के किसान ने कमाए लाखों, ग्राफ्टेड तकनीक से मिला 144 क्विंटल उत्पादन",
+      "summary": "बैंगन की खेती से रायपुर के किसान ने कमाए लाखों, ग्राफ्टेड तकनीक से मिला 144 क्विंटल उत्पादन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-farmer-earns-lakhs-from-brinjal-farming-achieves-144-quintal-yield-using-grafting-technique/",
+      "important": false
+    },
+    {
+      "id": "498ce37f",
+      "title": "नमो ड्रोन दीदी बनीं आरती साहू, 1154 एकड़ में ड्रोन से किया नैनो खाद का छिड़काव; कमाए ₹3.5 लाख",
+      "summary": "नमो ड्रोन दीदी बनीं आरती साहू, 1154 एकड़ में ड्रोन से किया नैनो खाद का छिड़काव; कमाए ₹3.5 लाख",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/aarti-sahu-becomes-a-namo-drone-didi-sprays-nano-fertilizer-via-drone-across-1154-acres-and-earns-%e2%82%b93-5-lakh/",
+      "important": false
+    },
+    {
+      "id": "0901770d",
+      "title": "प्रधानमंत्री धन-धान्य कृषि योजना में डिंडौरी देश में अव्वल, 100 चयनित जिलों में जुलाई में मिली पहली रैंक",
+      "summary": "प्रधानमंत्री धन-धान्य कृषि योजना में डिंडौरी देश में अव्वल, 100 चयनित जिलों में जुलाई में मिली पहली रैंक",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-ranks-first-in-the-country-under-the-pradhan-mantri-dhan-dhanya-krishi-yojana-secured-the-top-spot-among-100-selected-districts-in-july/",
+      "important": false
+    },
     {
       "id": "46d54977",
       "title": "पारिजात और HELM की साझेदारी, भारत सहित वैश्विक बाजारों में बढ़ेगी पहुंच",
@@ -462,94 +550,6 @@
       "date": "2026-08-13",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/chief-minister-dr-yadav-took-stock-of-the-situation-regarding-excessive-rainfall-waterlogging-and-floods-in-the-state/",
-      "important": false
-    },
-    {
-      "id": "b5d6cb57",
-      "title": "सतत कृषि को बढ़ावा देने की केंद्र की मुहिम के सकारात्मक परिणाम, 26.18 करोड़ मृदा स्वास्थ्य कार्ड जारी",
-      "summary": "सतत कृषि को बढ़ावा देने की केंद्र की मुहिम के सकारात्मक परिणाम, 26.18 करोड़ मृदा स्वास्थ्य कार्ड जारी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/positive-results-of-the-centres-initiative-to-promote-sustainable-agriculture-26-18-crore-soil-health-cards-issued/",
-      "important": false
-    },
-    {
-      "id": "c9d4ab73",
-      "title": "राजस्थान में तेजी से लागू हो रहा एग्रीस्टैक, 87.44 लाख किसानों की Farmer Registry पूरी",
-      "summary": "राजस्थान में तेजी से लागू हो रहा एग्रीस्टैक, 87.44 लाख किसानों की Farmer Registry पूरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agristack-is-rapidly-being-implemented-in-rajasthan-with-farmer-registry-for-87-44-lakh-farmers-completed/",
-      "important": false
-    },
-    {
-      "id": "86f9b0fc",
-      "title": "बिहार में रोजाना 1 करोड़ लीटर दूध उत्पादन का लक्ष्य, ‘सुधा’ को अंतरराष्ट्रीय ब्रांड बनाने की तैयारी",
-      "summary": "बिहार में रोजाना 1 करोड़ लीटर दूध उत्पादन का लक्ष्य, ‘सुधा’ को अंतरराष्ट्रीय ब्रांड बनाने की तैयारी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/target-set-for-daily-milk-production-of-10-million-liters-in-bihar-preparations-underway-to-make-sudha-an-international-brand/",
-      "important": false
-    },
-    {
-      "id": "11c39f08",
-      "title": "मूंग-उड़द किसानों को राहत: सरकारी खरीदी की अंतिम तिथि 20 अगस्त तक बढ़ी, उड़द पर मिलेगा 600 रुपए बोनस",
-      "summary": "मूंग-उड़द किसानों को राहत: सरकारी खरीदी की अंतिम तिथि 20 अगस्त तक बढ़ी, उड़द पर मिलेगा 600 रुपए बोनस",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/relief-for-moong-and-urad-farmers-deadline-for-government-procurement-extended-to-august-20-%e2%82%b9600-bonus-to-be-provided-on-urad/",
-      "important": true
-    },
-    {
-      "id": "aa8ad805",
-      "title": "आम, अमरूद और लीची उत्पादक किसानों को 75% तक अनुदान, बिहार में शुरू हुई बगीचों में कीट प्रबंधन योजना",
-      "summary": "आम, अमरूद और लीची उत्पादक किसानों को 75% तक अनुदान, बिहार में शुरू हुई बगीचों में कीट प्रबंधन योजना",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/subsidy-of-up-to-75-for-mango-guava-and-litchi-growers-pest-management-scheme-for-orchards-launched-in-bihar/",
-      "important": false
-    },
-    {
-      "id": "8333c30d",
-      "title": "सोयाबीन में बढ़ा तंबाकू की इल्ली का प्रकोप, ICAR-NSRI ने बताए बचाव के उपाय",
-      "summary": "सोयाबीन में बढ़ा तंबाकू की इल्ली का प्रकोप, ICAR-NSRI ने बताए बचाव के उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/infestation-of-tobacco-caterpillar-in-soybean-crops-rises-icar-nsri-suggests-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "35f574a0",
-      "title": "गोबर और जैविक कचरे से होगी कमाई",
-      "summary": "गोबर और जैविक कचरे से होगी कमाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/earnings-to-be-generated-from-cow-dung-and-organic-waste/",
-      "important": false
-    },
-    {
-      "id": "73f94d2c",
-      "title": "विजिलेंस पब्लिसिटी के नाम हुआ बिजनेस क्लास अवॉर्ड",
-      "summary": "विजिलेंस पब्लिसिटी के नाम हुआ बिजनेस क्लास अवॉर्ड",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/business-class-award-goes-to-vigilance-publicity/",
       "important": false
     }
   ]
