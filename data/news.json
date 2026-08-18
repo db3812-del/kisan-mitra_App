@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-18T12:55:49Z",
-  "new_count": 0,
+  "updated": "2026-08-18T18:45:32Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "61000eea",
+      "title": "सोयाबीन किसानों के लिए 40-50 दिन की फसल पर विशेष सलाह, किसान इन बातों का रखें ध्यान",
+      "summary": "सोयाबीन किसानों के लिए 40-50 दिन की फसल पर विशेष सलाह, किसान इन बातों का रखें ध्यान",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/special-advice-for-soybean-farmers-regarding-the-crop-at-the-40-50-day-stage-farmers-should-keep-these-points-in-mind/",
+      "important": false
+    },
+    {
+      "id": "f41e2d71",
+      "title": "विदिशा में खुलेंगे 20 कस्टम हायरिंग सेंटर, परियोजना लागत पर मिलेगी 40% तक सब्सिडी; ऐसे करें आवेदन",
+      "summary": "विदिशा में खुलेंगे 20 कस्टम हायरिंग सेंटर, परियोजना लागत पर मिलेगी 40% तक सब्सिडी; ऐसे करें आवेदन",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/20-custom-hiring-centers-to-open-in-vidisha-up-to-40-subsidy-available-on-project-cost-heres-how-to-apply/",
+      "important": false
+    },
+    {
+      "id": "6b0baf55",
+      "title": "Weather Today: मानसून ने पकड़ी रफ्तार, झारखंड-MP-UP समेत कई राज्यों में भारी बारिश का अलर्ट, IMD ने जारी की चेतावनी",
+      "summary": "Weather Today: मानसून ने पकड़ी रफ्तार, झारखंड-MP-UP समेत कई राज्यों में भारी बारिश का अलर्ट, IMD ने जारी की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-monsoon-picks-up-pace-heavy-rain-alert-for-several-states-including-jharkhand-mp-and-up-imd-issues-warning/",
+      "important": false
+    },
+    {
+      "id": "e2d1aa98",
+      "title": "आज का गेहूं मंडी रेट (18 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (18 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-18-august-2026/",
+      "important": false
+    },
+    {
+      "id": "636a04e8",
+      "title": "आज का धान मंडी रेट (18 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (18 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-18-august-2026/",
+      "important": false
+    },
+    {
+      "id": "dc7a59f7",
+      "title": "आज का मक्का मंडी रेट (18 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (18 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-18-august-2026/",
+      "important": false
+    },
+    {
+      "id": "9b150837",
+      "title": "विदिशा में आधुनिक खेती को बढ़ावा, ICAR वैज्ञानिक किसानों को सिखाएंगे उन्नत तकनीक; धान-बेर-टमाटर की नई किस्मों पर जोर",
+      "summary": "विदिशा में आधुनिक खेती को बढ़ावा, ICAR वैज्ञानिक किसानों को सिखाएंगे उन्नत तकनीक; धान-बेर-टमाटर की नई किस्मों पर जोर",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/promoting-modern-farming-in-vidisha-icar-scientists-to-train-farmers-in-advanced-techniques-focus-on-new-varieties-of-paddy-jujube-and-tomato/",
+      "important": false
+    },
+    {
+      "id": "2a7c9576",
+      "title": "आज का सोयाबीन मंडी रेट (18 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (18 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-18-august-2026/",
+      "important": false
+    },
     {
       "id": "7532ddcd",
       "title": "प्राकृतिक खेती की कृषक सखी अनुराधा गाडरे सम्मानित",
@@ -462,94 +550,6 @@
       "date": "2026-08-13",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/approval-granted-for-3-new-agrochemical-formulations-at-the-474th-registration-committee-meeting/",
-      "important": false
-    },
-    {
-      "id": "9f264bba",
-      "title": "कृषि एसोसिएशन ने निकाली तिरंगा यात्रा",
-      "summary": "कृषि एसोसिएशन ने निकाली तिरंगा यात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agriculture-association-took-out-a-tiranga-yatra/",
-      "important": false
-    },
-    {
-      "id": "80d4f86b",
-      "title": "तिरंगा यात्रा में कृषि विभाग की भागीदारी",
-      "summary": "तिरंगा यात्रा में कृषि विभाग की भागीदारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/participation-of-the-agriculture-department-in-the-tiranga-yatra/",
-      "important": false
-    },
-    {
-      "id": "570335dc",
-      "title": "बालाघाट: आईआरआरआई वैज्ञानिकों ने परखी धान की सीधी बुवाई तकनीक",
-      "summary": "बालाघाट: आईआरआरआई वैज्ञानिकों ने परखी धान की सीधी बुवाई तकनीक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balaghat-irri-scientists-evaluated-the-direct-seeding-technique-for-paddy/",
-      "important": false
-    },
-    {
-      "id": "9085366f",
-      "title": "आज का गेहूं मंडी रेट (13 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (13 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-13-august-2026/",
-      "important": false
-    },
-    {
-      "id": "0c3136d1",
-      "title": "आज का धान मंडी रेट (13 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (13 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-13-august-2026/",
-      "important": false
-    },
-    {
-      "id": "d252b703",
-      "title": "आज का मक्का मंडी रेट (13 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (13 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-13-august-2026/",
-      "important": false
-    },
-    {
-      "id": "63935d0e",
-      "title": "आज का सोयाबीन मंडी रेट (13 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (13 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-13-august-2026/",
-      "important": false
-    },
-    {
-      "id": "2d6ef4a8",
-      "title": "मुख्यमंत्री डॉ. यादव ने प्रदेश में अतिवृष्टि, जलभराव और बाढ़ की स्थिति का लिया जायज़ा",
-      "summary": "मुख्यमंत्री डॉ. यादव ने प्रदेश में अतिवृष्टि, जलभराव और बाढ़ की स्थिति का लिया जायज़ा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chief-minister-dr-yadav-took-stock-of-the-situation-regarding-excessive-rainfall-waterlogging-and-floods-in-the-state/",
       "important": false
     }
   ]
