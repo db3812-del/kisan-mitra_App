@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-19T06:52:47Z",
-  "new_count": 0,
+  "updated": "2026-08-19T12:56:26Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "bc8e3ef7",
+      "title": "रबी फसल के लिए MP में 20 अगस्त से शुरू होगा बड़ा अभियान, फार्मर ID से अग्रिम खाद उठाव तक किसानों को मिलेगी सुविधा",
+      "summary": "रबी फसल के लिए MP में 20 अगस्त से शुरू होगा बड़ा अभियान, फार्मर ID से अग्रिम खाद उठाव तक किसानों को मिलेगी सुविधा",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-major-campaign-for-the-rabi-crop-season-will-begin-in-madhya-pradesh-on-august-20-farmers-will-benefit-from-facilities-ranging-from-farmer-ids-to-the-advance-lifting-of-fertilizers/",
+      "important": false
+    },
+    {
+      "id": "7022b12b",
+      "title": "जबलपुर में ‘मेगा एग्रीकल्चर कैम्प’, किसानों-ग्रामीण उद्यमियों को ₹55 करोड़ से अधिक के ऋण वितरित",
+      "summary": "जबलपुर में ‘मेगा एग्रीकल्चर कैम्प’, किसानों-ग्रामीण उद्यमियों को ₹55 करोड़ से अधिक के ऋण वितरित",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mega-agriculture-camp-in-jabalpur-loans-worth-over-%e2%82%b955-crore-disbursed-to-farmers-and-rural-entrepreneurs/",
+      "important": false
+    },
+    {
+      "id": "dce8279c",
+      "title": "मध्यप्रदेश में किसानों को बड़ी राहत, किसानों को ट्रैक्टर खरीदने पर मिलेगा 40% अनुदान; जानें योजना की पूरी जानकारी",
+      "summary": "मध्यप्रदेश में किसानों को बड़ी राहत, किसानों को ट्रैक्टर खरीदने पर मिलेगा 40% अनुदान; जानें योजना की पूरी जानकारी",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-08-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-relief-for-farmers-in-madhya-pradesh-40-subsidy-on-tractor-purchases-get-full-details-of-the-scheme/",
+      "important": false
+    },
+    {
+      "id": "418bad00",
+      "title": "हरे बैंगन की खेती से मालामाल हुए दमोह के किसान, ₹50 हजार की लागत में ₹6 लाख तक की कमाई; दूसरे राज्यों में हो रही सप्लाई",
+      "summary": "हरे बैंगन की खेती से मालामाल हुए दमोह के किसान, ₹50 हजार की लागत में ₹6 लाख तक की कमाई; दूसरे राज्यों में हो रही सप्लाई",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/damoh-farmers-strike-it-rich-with-green-eggplant-cultivation-earning-up-to-%e2%82%b96-lakh-on-an-investment-of-%e2%82%b950000-produce-being-supplied-to-other-states/",
+      "important": false
+    },
+    {
+      "id": "a473398c",
+      "title": "MP के इस गांव में प्राकृतिक खेती का कमाल, ₹4 हजार की लागत घटकर हुई ₹1,500; 30 परिवारों ने अपनाया तरीका",
+      "summary": "MP के इस गांव में प्राकृतिक खेती का कमाल, ₹4 हजार की लागत घटकर हुई ₹1,500; 30 परिवारों ने अपनाया तरीका",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/natural-farming-works-wonders-in-this-mp-village-cost-drops-from-%e2%82%b94000-to-%e2%82%b91500-30-families-adopt-the-method/",
+      "important": false
+    },
+    {
+      "id": "eaa5ea38",
+      "title": "बारिश-नमी के बीच सोयाबीन में इन 3 रोगों का खतरा, ICAR-NSRI ने जारी की एडवाइजरी; जानें बचाव के उपाय",
+      "summary": "बारिश-नमी के बीच सोयाबीन में इन 3 रोगों का खतरा, ICAR-NSRI ने जारी की एडवाइजरी; जानें बचाव के उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/risk-of-3-diseases-in-soybean-crops-amid-rain-and-humidity-icar-nsri-issues-advisory-learn-preventive-measures/",
+      "important": false
+    },
+    {
+      "id": "acfa11fc",
+      "title": "आज का गेहूं मंडी रेट (19 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (19 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-19-august-2026/",
+      "important": false
+    },
+    {
+      "id": "ccf854c9",
+      "title": "पन्ना जिले में अत्यधिक भारी वर्षा होने का रेड अलर्ट जारी",
+      "summary": "पन्ना जिले में अत्यधिक भारी वर्षा होने का रेड अलर्ट जारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/red-alert-issued-for-extremely-heavy-rainfall-in-panna-district/",
+      "important": false
+    },
     {
       "id": "61000eea",
       "title": "सोयाबीन किसानों के लिए 40-50 दिन की फसल पर विशेष सलाह, किसान इन बातों का रखें ध्यान",
@@ -462,94 +550,6 @@
       "date": "2026-08-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/conduct-a-survey-of-crops-affected-by-heavy-rainfall-dindori-collector/",
-      "important": false
-    },
-    {
-      "id": "d42c5ea4",
-      "title": "नरसिंहपुर : खेत-तालाब ने लौटाई खेतों की हरियाली",
-      "summary": "नरसिंहपुर : खेत-तालाब ने लौटाई खेतों की हरियाली",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/narsinghpur-farm-ponds-restore-greenery-to-the-fields/",
-      "important": false
-    },
-    {
-      "id": "c9f94dd2",
-      "title": "जबलपुर : प्रीति ने प्राकृतिक खेती से घटाई लागत, उपज का मिल रहा बेहतर दाम",
-      "summary": "जबलपुर : प्रीति ने प्राकृतिक खेती से घटाई लागत, उपज का मिल रहा बेहतर दाम",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jabalpur-preeti-reduces-costs-through-natural-farming-getting-better-prices-for-produce/",
-      "important": false
-    },
-    {
-      "id": "50905009",
-      "title": "शिवराज सिंह चौहान आज पंजाब दौरे पर, CBDC आधारित DBT व्यवस्था की करेंगे शुरुआत; किसानों से भी करेंगे संवाद",
-      "summary": "शिवराज सिंह चौहान आज पंजाब दौरे पर, CBDC आधारित DBT व्यवस्था की करेंगे शुरुआत; किसानों से भी करेंगे संवाद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/shivraj-singh-chouhan-is-visiting-punjab-today-he-will-launch-a-cbdc-based-dbt-system-and-also-interact-with-farmers/",
-      "important": false
-    },
-    {
-      "id": "f49b6bff",
-      "title": "मंडला : उर्वरक के चार नमूने अमानक पाए गए, विक्रय प्रतिबंधित",
-      "summary": "मंडला : उर्वरक के चार नमूने अमानक पाए गए, विक्रय प्रतिबंधित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mandla-four-fertilizer-samples-found-substandard-sale-prohibited/",
-      "important": false
-    },
-    {
-      "id": "62f22533",
-      "title": "डिंडोरी: निजी क्षेत्र में कृषि यंत्र किराए की दुकान के लिए 21 अगस्त तक आवेदन करें",
-      "summary": "डिंडोरी: निजी क्षेत्र में कृषि यंत्र किराए की दुकान के लिए 21 अगस्त तक आवेदन करें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-apply-by-august-21-for-a-private-sector-agricultural-machinery-rental-shop/",
-      "important": false
-    },
-    {
-      "id": "8c660050",
-      "title": "क्या पौधों का उपचार भी होम्योपैथी से किया जा सकता है?",
-      "summary": "क्या पौधों का उपचार भी होम्योपैथी से किया जा सकता है?",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/can-plants-also-be-treated-with-homeopathy/",
-      "important": false
-    },
-    {
-      "id": "b0f95899",
-      "title": "खेती होगी आसान, लागत घटेगी: छोटे किसानों तक पहुंच रही आधुनिक कृषि मशीनरी",
-      "summary": "खेती होगी आसान, लागत घटेगी: छोटे किसानों तक पहुंच रही आधुनिक कृषि मशीनरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farming-will-become-easier-costs-will-decrease-modern-agricultural-machinery-is-reaching-small-farmers/",
-      "important": false
-    },
-    {
-      "id": "ae4bfd61",
-      "title": "474वीं पंजीकरण समिति बैठक में 3 नए कृषि-रसायन फॉर्मुलेशन को मंजूरी",
-      "summary": "474वीं पंजीकरण समिति बैठक में 3 नए कृषि-रसायन फॉर्मुलेशन को मंजूरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/approval-granted-for-3-new-agrochemical-formulations-at-the-474th-registration-committee-meeting/",
       "important": false
     }
   ]
