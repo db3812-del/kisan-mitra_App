@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-20T01:36:05Z",
-  "new_count": 6,
+  "updated": "2026-08-20T06:54:02Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "b38b1013",
+      "title": "छत्तीसगढ़: फसल बीमा योजना पर किसानों का बढ़ा भरोसा, खैरागढ़-छुईखदान-गंडई में गैर-ऋणी किसानों की संख्या 186%",
+      "summary": "छत्तीसगढ़: फसल बीमा योजना पर किसानों का बढ़ा भरोसा, खैरागढ़-छुईखदान-गंडई में गैर-ऋणी किसानों की संख्या 186%",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-farmers-confidence-in-the-crop-insurance-scheme-grows-number-of-non-loanee-farmers-in-khairagarh-chhuikhadan-gandai-rises-by-186/",
+      "important": false
+    },
+    {
+      "id": "ca6bf1d3",
+      "title": "गुजरात-सिक्किम के कृषि विकास के लिए 275.52 करोड़ मंजूर, शिवराज चौहान ने योजनाओं की समीक्षा की",
+      "summary": "गुजरात-सिक्किम के कृषि विकास के लिए 275.52 करोड़ मंजूर, शिवराज चौहान ने योजनाओं की समीक्षा की",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/%e2%82%b9275-52-crore-approved-for-agricultural-development-in-gujarat-and-sikkim-shivraj-chouhan-reviews-the-schemes/",
+      "important": false
+    },
+    {
+      "id": "3dfa39a7",
+      "title": "MP में खाद वितरण व्यवस्था बदली, अब किसान खुद जनरेट कर सकेंगे टोकन; उपलब्धता और रिटेलर की भी मिलेगी जानकारी",
+      "summary": "MP में खाद वितरण व्यवस्था बदली, अब किसान खुद जनरेट कर सकेंगे टोकन; उपलब्धता और रिटेलर की भी मिलेगी जानकारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/fertilizer-distribution-system-changed-in-mp-farmers-can-now-generate-their-own-tokens-and-access-information-on-availability-and-retailers/",
+      "important": false
+    },
+    {
+      "id": "410a81ca",
+      "title": "रायसेन: कृषक कल्याण वर्ष में किसानों को मिल रही निर्बाध बिजली",
+      "summary": "रायसेन: कृषक कल्याण वर्ष में किसानों को मिल रही निर्बाध बिजली",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raisen-farmers-receiving-uninterrupted-electricity-during-the-year-of-farmers-welfare/",
+      "important": false
+    },
+    {
+      "id": "9fcd99c8",
+      "title": "दुग्ध उत्पादन एवं उद्यानिकी का रकबा बढ़ाएं- कलेक्टर सीहोर",
+      "summary": "दुग्ध उत्पादन एवं उद्यानिकी का रकबा बढ़ाएं- कलेक्टर सीहोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/increase-milk-production-and-the-area-under-horticulture-collector-sehore/",
+      "important": false
+    },
+    {
+      "id": "57cc46df",
+      "title": "विदिशा : कृषि एवं संबद्ध गतिविधियों का अधिकारियों ने किया निरीक्षण",
+      "summary": "विदिशा : कृषि एवं संबद्ध गतिविधियों का अधिकारियों ने किया निरीक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/vidisha-officials-inspected-agriculture-and-allied-activities/",
+      "important": false
+    },
+    {
+      "id": "3ce0cd52",
+      "title": "राजगढ़: दाल मिल स्थापना के लिए आवेदन 30 अगस्त तक करें",
+      "summary": "राजगढ़: दाल मिल स्थापना के लिए आवेदन 30 अगस्त तक करें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajgarh-apply-for-setting-up-a-dal-mill-by-august-30/",
+      "important": false
+    },
+    {
+      "id": "849527dd",
+      "title": "राजगढ़ : 20 अगस्त से “हर किसान, हर घर, हर खेत खाद अभियान” का होगा शुभारंभ",
+      "summary": "राजगढ़ : 20 अगस्त से “हर किसान, हर घर, हर खेत खाद अभियान” का होगा शुभारंभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajgarh-the-har-kisan-har-ghar-har-khet-khad-abhiyan-fertilizer-campaign-for-every-farmer-every-household-and-every-field-will-be-launched-on-august-20/",
+      "important": false
+    },
     {
       "id": "d91bef13",
       "title": "आज का धान मंडी रेट (19 अगस्त 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-08-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/drumstick-cultivation-will-get-a-boost-in-bikaner-free-plants-and-training-to-farmers/",
-      "important": false
-    },
-    {
-      "id": "983c410d",
-      "title": "पांढुर्ना में किसानों के साथ फिर धोखाधड़ी",
-      "summary": "पांढुर्ना में किसानों के साथ फिर धोखाधड़ी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-cheated-again-in-pandhurna/",
-      "important": false
-    },
-    {
-      "id": "9e902d65",
-      "title": "सोयाबीन में फूल एवं कैनोपी विकास के लिए क्रीकल मैक्स और पोषक सुपरस्टार का उपयोग लाभकारी",
-      "summary": "सोयाबीन में फूल एवं कैनोपी विकास के लिए क्रीकल मैक्स और पोषक सुपरस्टार का उपयोग लाभकारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/use-of-creekal-max-and-poshak-superstar-is-beneficial-for-flowering-and-canopy-development-in-soybeans/",
-      "important": false
-    },
-    {
-      "id": "acf0350e",
-      "title": "राजस्थान और तेलंगाना के किसानों के लिए 605 करोड़ से अधिक की सौगात",
-      "summary": "राजस्थान और तेलंगाना के किसानों के लिए 605 करोड़ से अधिक की सौगात",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-gift-worth-over-%e2%82%b9605-crore-for-farmers-in-rajasthan-and-telangana/",
-      "important": false
-    },
-    {
-      "id": "e2aa8d11",
-      "title": "एस्कॉर्ट्स कुबोटा ने दो नए ट्रैक्टर MU4502 और MU5002 किए लॉन्च",
-      "summary": "एस्कॉर्ट्स कुबोटा ने दो नए ट्रैक्टर MU4502 और MU5002 किए लॉन्च",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/escorts-kubota-has-launched-two-new-tractors-the-mu4502-and-mu5002/",
-      "important": false
-    },
-    {
-      "id": "33071442",
-      "title": "किसान हित सर्वोपरि : मंडी बोर्ड आयुक्त ने बरेली मंडी का किया औचक निरीक्षण",
-      "summary": "किसान हित सर्वोपरि : मंडी बोर्ड आयुक्त ने बरेली मंडी का किया औचक निरीक्षण",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-interests-paramount-mandi-board-commissioner-conducts-surprise-inspection-of-bareilly-mandi/",
-      "important": false
-    },
-    {
-      "id": "cede4ac3",
-      "title": "आज का मक्का मंडी रेट (14 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (14 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-14-august-2026/",
-      "important": false
-    },
-    {
-      "id": "ce9d6a0a",
-      "title": "Weather Today: झारखंड-ओडिशा में भारी बारिश का अलर्ट, MP-छत्तीसगढ़ समेत कई राज्यों में बरसेंगे बादल; IMD ने जारी की चेताव",
-      "summary": "Weather Today: झारखंड-ओडिशा में भारी बारिश का अलर्ट, MP-छत्तीसगढ़ समेत कई राज्यों में बरसेंगे बादल; IMD ने जारी की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-alert-for-jharkhand-and-odisha-rain-expected-in-several-states-including-mp-and-chhattisgarh-imd-issues-warning/",
-      "important": false
-    },
-    {
-      "id": "0e2d6bc0",
-      "title": "आज का सोयाबीन मंडी रेट (14 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (14 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-14-august-2026/",
       "important": false
     }
   ]
