@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-20T06:54:02Z",
+  "updated": "2026-08-20T12:58:33Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "cd3ff33f",
+      "title": "बारिश में लगाएं मक्का की ये 7 हाई-यील्ड वैरायटी, 85 से 112 दिनों में होंगी तैयार; 70 क्विंटल तक मिलेगी पैदावार",
+      "summary": "बारिश में लगाएं मक्का की ये 7 हाई-यील्ड वैरायटी, 85 से 112 दिनों में होंगी तैयार; 70 क्विंटल तक मिलेगी पैदावार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/plant-these-7-high-yielding-maize-varieties-during-the-rainy-season-they-will-be-ready-in-85-to-112-days-and-yield-up-to-70-quintals/",
+      "important": false
+    },
+    {
+      "id": "d8e4936e",
+      "title": "12 लाख की IT नौकरी छोड़ी, वर्मी कंपोस्ट का कारोबार शुरू किया; आज 1.5 करोड़ का टर्नओवर",
+      "summary": "12 लाख की IT नौकरी छोड़ी, वर्मी कंपोस्ट का कारोबार शुरू किया; आज 1.5 करोड़ का टर्नओवर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/quit-a-%e2%82%b912-lakh-it-job-to-start-a-vermicompost-business-today-the-turnover-is-%e2%82%b91-5-crore/",
+      "important": false
+    },
+    {
+      "id": "901143e7",
+      "title": "Weather Today: मध्य भारत में भारी से बहुत भारी बारिश का अलर्ट, पूर्वी और उत्तर भारत में भी बरसेंगे बादल; IMD ने जारी की ",
+      "summary": "Weather Today: मध्य भारत में भारी से बहुत भारी बारिश का अलर्ट, पूर्वी और उत्तर भारत में भी बरसेंगे बादल; IMD ने जारी की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-alert-for-heavy-to-very-heavy-rainfall-in-central-india-rain-expected-in-east-and-north-india-as-well-imd-issues-warning/",
+      "important": false
+    },
+    {
+      "id": "cc9b85c3",
+      "title": "आज का गेहूं मंडी रेट (20 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (20 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-20-august-2026/",
+      "important": false
+    },
+    {
+      "id": "1960ee42",
+      "title": "आज का मक्का मंडी रेट (20 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (20 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-20-august-2026/",
+      "important": false
+    },
+    {
+      "id": "8e72deb0",
+      "title": "आज का धान मंडी रेट (20 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (20 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-20-august-2026/",
+      "important": false
+    },
+    {
+      "id": "bac72b08",
+      "title": "आज का सोयाबीन मंडी रेट (20 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (20 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-20-august-2026/",
+      "important": false
+    },
+    {
+      "id": "03a00983",
+      "title": "ग्वालियर: अमानक धान-बीज पाए जाने पर लाइसेंस निलंबित",
+      "summary": "ग्वालियर: अमानक धान-बीज पाए जाने पर लाइसेंस निलंबित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gwalior-license-suspended-after-substandard-paddy-seeds-were-found/",
+      "important": false
+    },
     {
       "id": "b38b1013",
       "title": "छत्तीसगढ़: फसल बीमा योजना पर किसानों का बढ़ा भरोसा, खैरागढ़-छुईखदान-गंडई में गैर-ऋणी किसानों की संख्या 186%",
@@ -462,94 +550,6 @@
       "date": "2026-08-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-17-august-2026/",
-      "important": false
-    },
-    {
-      "id": "3861cd9c",
-      "title": "आज का मक्का मंडी रेट (17 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (17 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-17-august-2026/",
-      "important": false
-    },
-    {
-      "id": "57eaef0f",
-      "title": "कृषक हित में पूरी निष्ठा एवं समर्पण से कार्य करें: श्री कुमार पुरुषोत्तम",
-      "summary": "कृषक हित में पूरी निष्ठा एवं समर्पण से कार्य करें: श्री कुमार पुरुषोत्तम",
-      "level": "state",
-      "category": "market",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/work-with-complete-dedication-and-commitment-in-the-interest-of-farmers-shri-kumar-purushottam/",
-      "important": false
-    },
-    {
-      "id": "b310a906",
-      "title": "आज का सोयाबीन मंडी रेट (17 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (17 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/todays-soybean-mandi-rate-17-august-2026/",
-      "important": false
-    },
-    {
-      "id": "a6750fa0",
-      "title": "सिवनी, मंडला और बालाघाट जिलों में अति भारी वर्षा की संभावना",
-      "summary": "सिवनी, मंडला और बालाघाट जिलों में अति भारी वर्षा की संभावना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/possibility-of-extremely-heavy-rainfall-in-seoni-mandla-and-balaghat-districts/",
-      "important": false
-    },
-    {
-      "id": "08a7eec1",
-      "title": "वर्ष 2029-30 तक के कृषि और ग्रीन बजट की तैयारी शुरू",
-      "summary": "वर्ष 2029-30 तक के कृषि और ग्रीन बजट की तैयारी शुरू",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/preparations-for-the-agriculture-and-green-budget-up-to-the-year-2029-30-have-begun/",
-      "important": false
-    },
-    {
-      "id": "c01a790a",
-      "title": "ICAR वैज्ञानिकों की बड़ी उपलब्धि, रोग प्रतिरोधी और जलवायु अनुकूल अरहर की किस्में विकसित करने में मिलेगी मदद",
-      "summary": "ICAR वैज्ञानिकों की बड़ी उपलब्धि, रोग प्रतिरोधी और जलवायु अनुकूल अरहर की किस्में विकसित करने में मिलेगी मदद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/major-achievement-by-icar-scientists-will-aid-in-developing-disease-resistant-and-climate-resilient-varieties-of-arhar-pigeon-pea/",
-      "important": false
-    },
-    {
-      "id": "95baff93",
-      "title": "10,000 FPO योजना से किसानों को मिल रहा सामूहिक ताकत का लाभ",
-      "summary": "10,000 FPO योजना से किसानों को मिल रहा सामूहिक ताकत का लाभ",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/government-schemes/farmers-are-reaping-the-benefits-of-collective-strength-through-the-10000-fpo-scheme/",
-      "important": false
-    },
-    {
-      "id": "2d7f6533",
-      "title": "बीकानेर में सहजन की खेती को मिलेगा बढ़ावा, किसानों को मुफ्त पौधे और प्रशिक्षण",
-      "summary": "बीकानेर में सहजन की खेती को मिलेगा बढ़ावा, किसानों को मुफ्त पौधे और प्रशिक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/drumstick-cultivation-will-get-a-boost-in-bikaner-free-plants-and-training-to-farmers/",
       "important": false
     }
   ]
