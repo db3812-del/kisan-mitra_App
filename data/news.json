@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-19T18:41:21Z",
-  "new_count": 0,
+  "updated": "2026-08-20T01:36:05Z",
+  "new_count": 6,
   "articles": [
+    {
+      "id": "d91bef13",
+      "title": "आज का धान मंडी रेट (19 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (19 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-19-august-2026/",
+      "important": false
+    },
+    {
+      "id": "90398b7f",
+      "title": "आज का मक्का मंडी रेट (19 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (19 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-19-august-2026/",
+      "important": false
+    },
+    {
+      "id": "95e6cc5f",
+      "title": "आज का सोयाबीन मंडी रेट (19 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (19 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-19-august-2026/",
+      "important": false
+    },
+    {
+      "id": "5e9b965c",
+      "title": "देशभर में मानसून एक्टिव, बिहार-झारखंड और पूर्वोत्तर राज्यों में अति भारी बारिश का अलर्ट; IMD ने जारी की चेतावनी",
+      "summary": "देशभर में मानसून एक्टिव, बिहार-झारखंड और पूर्वोत्तर राज्यों में अति भारी बारिश का अलर्ट; IMD ने जारी की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/monsoon-active-across-the-country-alert-issued-for-extremely-heavy-rainfall-in-bihar-jharkhand-and-northeastern-states-imd-issues-warning/",
+      "important": false
+    },
+    {
+      "id": "98139a12",
+      "title": "कीटनाशक प्रबंधन विधेयक 2025 में समयबद्ध डेटा प्रोटेक्शन शामिल किया जाना चाहिए: क्रॉपलाइफ इंडिया",
+      "summary": "कीटनाशक प्रबंधन विधेयक 2025 में समयबद्ध डेटा प्रोटेक्शन शामिल किया जाना चाहिए: क्रॉपलाइफ इंडिया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/time-bound-data-protection-should-be-included-in-the-pesticide-management-bill-2025-croplife-india/",
+      "important": false
+    },
+    {
+      "id": "3dae2005",
+      "title": "विदिशा: कृषकों की शत-प्रतिशत फार्मर आईडी बनाने पर जोर",
+      "summary": "विदिशा: कृषकों की शत-प्रतिशत फार्मर आईडी बनाने पर जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/vidisha-emphasis-on-creating-100-farmer-ids-for-farmers/",
+      "important": false
+    },
     {
       "id": "bc8e3ef7",
       "title": "रबी फसल के लिए MP में 20 अगस्त से शुरू होगा बड़ा अभियान, फार्मर ID से अग्रिम खाद उठाव तक किसानों को मिलेगी सुविधा",
@@ -484,72 +550,6 @@
       "date": "2026-08-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-14-august-2026/",
-      "important": false
-    },
-    {
-      "id": "ebae5c32",
-      "title": "आम-अमरूद-लीची के पेड़ों पर कीटनाशक छिड़काव के लिए सरकार देगी 75% सब्सिडी, ऐसे करें आवेदन",
-      "summary": "आम-अमरूद-लीची के पेड़ों पर कीटनाशक छिड़काव के लिए सरकार देगी 75% सब्सिडी, ऐसे करें आवेदन",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/government-to-provide-75-subsidy-for-spraying-pesticides-on-mango-guava-and-litchi-trees-heres-how-to-apply/",
-      "important": false
-    },
-    {
-      "id": "53946e6b",
-      "title": "गाजर की खेती का पूरा गणित समझें, कब करें बुवाई, कौन-सी किस्म चुनें और कितनी खाद डालें; यहां जानें सबकुछ",
-      "summary": "गाजर की खेती का पूरा गणित समझें, कब करें बुवाई, कौन-सी किस्म चुनें और कितनी खाद डालें; यहां जानें सबकुछ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/understand-the-complete-economics-of-carrot-farming-when-to-sow-which-variety-to-choose-and-how-much-fertilizer-to-apply-find-out-everything-here/",
-      "important": false
-    },
-    {
-      "id": "001a3697",
-      "title": "बिजली बिल और पावर कट से राहत, सोलर पंप से बढ़ी किसानों की आमदनी; अब धान के साथ उगा रहे सब्जियां",
-      "summary": "बिजली बिल और पावर कट से राहत, सोलर पंप से बढ़ी किसानों की आमदनी; अब धान के साथ उगा रहे सब्जियां",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/relief-from-electricity-bills-and-power-cuts-farmers-income-boosted-by-solar-pumps-now-growing-vegetables-alongside-paddy/",
-      "important": false
-    },
-    {
-      "id": "9d7b2cfe",
-      "title": "आलू की खेती कब करें? सही समय से लेकर खाद-बीज तक जानें सबकुछ",
-      "summary": "आलू की खेती कब करें? सही समय से लेकर खाद-बीज तक जानें सबकुछ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/when-should-you-cultivate-potatoes-learn-everything-from-the-right-timing-to-fertilizers-and-seeds/",
-      "important": false
-    },
-    {
-      "id": "44b1e595",
-      "title": "कुफरी पुखराज से चिप्सोना-3 तक! आलू की इन 5 उन्नत किस्मों की करें खेती, 400 क्विंटल तक पैदावार",
-      "summary": "कुफरी पुखराज से चिप्सोना-3 तक! आलू की इन 5 उन्नत किस्मों की करें खेती, 400 क्विंटल तक पैदावार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/from-kufri-pukhraj-to-chipsona-3-cultivate-these-5-improved-potato-varieties-for-yields-of-up-to-400-quintals/",
-      "important": false
-    },
-    {
-      "id": "21b3de34",
-      "title": "अधिक वर्षा से प्रभावित फसलों का कराएं सर्वे- डिंडोरी कलेक्टर",
-      "summary": "अधिक वर्षा से प्रभावित फसलों का कराएं सर्वे- डिंडोरी कलेक्टर",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/conduct-a-survey-of-crops-affected-by-heavy-rainfall-dindori-collector/",
       "important": false
     }
   ]
