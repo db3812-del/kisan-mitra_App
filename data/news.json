@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-21T06:55:15Z",
+  "updated": "2026-08-21T12:57:32Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "9d29751e",
+      "title": "मध्यप्रदेश के पांच जिलों में अति भारी वर्षा की चेतावनी",
+      "summary": "मध्यप्रदेश के पांच जिलों में अति भारी वर्षा की चेतावनी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/warning-of-extremely-heavy-rainfall-in-five-districts-of-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "eee592e8",
+      "title": "10 साल बाद पहली बार चीनी आयात करेगा भारत, सरकार ने 10 लाख टन ड्यूटी-फ्री आयात को दी मंजूरी",
+      "summary": "10 साल बाद पहली बार चीनी आयात करेगा भारत, सरकार ने 10 लाख टन ड्यूटी-फ्री आयात को दी मंजूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/india-to-import-sugar-for-the-first-time-in-10-years-government-approves-duty-free-import-of-1-million-tonnes/",
+      "important": false
+    },
+    {
+      "id": "1803b499",
+      "title": "आज का गेहूं मंडी रेट (21 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (21 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-21-august-2026/",
+      "important": false
+    },
+    {
+      "id": "69588fb2",
+      "title": "आज का धान मंडी रेट (21 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (21 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-21-august-2026/",
+      "important": false
+    },
+    {
+      "id": "9046635a",
+      "title": "आज का मक्का मंडी रेट (21 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (21 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-21-august-2026/",
+      "important": false
+    },
+    {
+      "id": "0591ac0c",
+      "title": "आज का सोयाबीन मंडी रेट (21 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (21 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-21-august-2026/",
+      "important": false
+    },
+    {
+      "id": "e150d6fd",
+      "title": "Weather Today: उत्तर से पूर्वोत्तर तक बारिश का जोर, UP-बिहार समेत कई राज्यों में अलर्ट; IMD ने जारी की चेतावनी",
+      "summary": "Weather Today: उत्तर से पूर्वोत्तर तक बारिश का जोर, UP-बिहार समेत कई राज्यों में अलर्ट; IMD ने जारी की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-from-north-to-northeast-alerts-issued-for-several-states-including-up-and-bihar-imd-issues-warning/",
+      "important": false
+    },
+    {
+      "id": "8deea5f5",
+      "title": "महिंद्रा ओजेए के तीन साल पूरे, आधुनिक बागवानी को नई ताकत",
+      "summary": "महिंद्रा ओजेए के तीन साल पूरे, आधुनिक बागवानी को नई ताकत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-oja-completes-three-years-modern-horticulture-gets-a-new-boost/",
+      "important": false
+    },
     {
       "id": "aa30b34a",
       "title": "गुना : इफको द्वारा सहकारी कार्यकर्ता प्रशिक्षण आयोजित",
@@ -462,94 +550,6 @@
       "date": "2026-08-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-18-august-2026/",
-      "important": false
-    },
-    {
-      "id": "636a04e8",
-      "title": "आज का धान मंडी रेट (18 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (18 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-18-august-2026/",
-      "important": false
-    },
-    {
-      "id": "dc7a59f7",
-      "title": "आज का मक्का मंडी रेट (18 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (18 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-18-august-2026/",
-      "important": false
-    },
-    {
-      "id": "9b150837",
-      "title": "विदिशा में आधुनिक खेती को बढ़ावा, ICAR वैज्ञानिक किसानों को सिखाएंगे उन्नत तकनीक; धान-बेर-टमाटर की नई किस्मों पर जोर",
-      "summary": "विदिशा में आधुनिक खेती को बढ़ावा, ICAR वैज्ञानिक किसानों को सिखाएंगे उन्नत तकनीक; धान-बेर-टमाटर की नई किस्मों पर जोर",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/promoting-modern-farming-in-vidisha-icar-scientists-to-train-farmers-in-advanced-techniques-focus-on-new-varieties-of-paddy-jujube-and-tomato/",
-      "important": false
-    },
-    {
-      "id": "2a7c9576",
-      "title": "आज का सोयाबीन मंडी रेट (18 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (18 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-18-august-2026/",
-      "important": false
-    },
-    {
-      "id": "7532ddcd",
-      "title": "प्राकृतिक खेती की कृषक सखी अनुराधा गाडरे सम्मानित",
-      "summary": "प्राकृतिक खेती की कृषक सखी अनुराधा गाडरे सम्मानित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/natural-farming-krishak-sakhi-anuradha-gadre-honored/",
-      "important": false
-    },
-    {
-      "id": "59005134",
-      "title": "MP में किसानों को सिर्फ ₹5 में बिजली कनेक्शन, अब तक 1.18 लाख कृषि उपभोक्ताओं को मिला लाभ",
-      "summary": "MP में किसानों को सिर्फ ₹5 में बिजली कनेक्शन, अब तक 1.18 लाख कृषि उपभोक्ताओं को मिला लाभ",
-      "level": "state",
-      "category": "price",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/electricity-connections-for-farmers-in-mp-for-just-%e2%82%b95-1-18-lakh-agricultural-consumers-have-benefited-so-far/",
-      "important": false
-    },
-    {
-      "id": "e3fbabbe",
-      "title": "लंबित जांच से रुका था किसानों का कर्ज, अब ‘कवच योजना’ से खुलेगा नए ऋण का रास्ता; 5 हजार किसानों को लाभ",
-      "summary": "लंबित जांच से रुका था किसानों का कर्ज, अब ‘कवच योजना’ से खुलेगा नए ऋण का रास्ता; 5 हजार किसानों को लाभ",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-loans-were-stalled-due-to-pending-inquiries-the-kavach-yojana-will-now-pave-the-way-for-new-credit-benefiting-5000-farmers/",
-      "important": false
-    },
-    {
-      "id": "52a03bc6",
-      "title": "टमाटर-खीरा समेत बेल वाली सब्जियों की खेती पर सरकार देगी 50% सब्सिडी, किसानों को मिलेगा बड़ा फायदा",
-      "summary": "टमाटर-खीरा समेत बेल वाली सब्जियों की खेती पर सरकार देगी 50% सब्सिडी, किसानों को मिलेगा बड़ा फायदा",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/government-to-provide-50-subsidy-on-the-cultivation-of-trailing-vegetables-including-tomatoes-and-cucumbers-farmers-to-benefit-significantly/",
       "important": false
     }
   ]
