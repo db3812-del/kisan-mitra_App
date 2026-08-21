@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-21T01:40:50Z",
-  "new_count": 0,
+  "updated": "2026-08-21T06:55:15Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "aa30b34a",
+      "title": "गुना : इफको द्वारा सहकारी कार्यकर्ता प्रशिक्षण आयोजित",
+      "summary": "गुना : इफको द्वारा सहकारी कार्यकर्ता प्रशिक्षण आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/guna-cooperative-worker-training-organized-by-iffco/",
+      "important": false
+    },
+    {
+      "id": "be1426c8",
+      "title": "शिवपुरी : स्कूली बच्चों को बताए हानिकारक खरपतवार से बचाव के उपाय",
+      "summary": "शिवपुरी : स्कूली बच्चों को बताए हानिकारक खरपतवार से बचाव के उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shivpuri-school-children-informed-about-ways-to-protect-against-harmful-weeds/",
+      "important": false
+    },
+    {
+      "id": "1d9421ec",
+      "title": "अरहर के साथ गोभी उगाकर किसान बढ़ा सकते हैं आय, पांढुर्णा में अधिकारियों ने देखा अंतरवर्तीय फसल का प्रयोग",
+      "summary": "अरहर के साथ गोभी उगाकर किसान बढ़ा सकते हैं आय, पांढुर्णा में अधिकारियों ने देखा अंतरवर्तीय फसल का प्रयोग",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-can-boost-their-income-by-growing-cauliflower-alongside-arhar-officials-in-pandhurna-inspected-the-intercropping-experiment/",
+      "important": false
+    },
+    {
+      "id": "37c9610d",
+      "title": "नरसिंहपुर में किसानों के खेतों पर पहुंचे कृषि वैज्ञानिक, अरहर की GRG-152 किस्म का प्रदर्शन; प्राकृतिक खेती के दिए टिप्स",
+      "summary": "नरसिंहपुर में किसानों के खेतों पर पहुंचे कृषि वैज्ञानिक, अरहर की GRG-152 किस्म का प्रदर्शन; प्राकृतिक खेती के दिए टिप्स",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agricultural-scientists-visited-farmers-fields-in-narsinghpur-demonstrated-the-grg-152-variety-of-pigeon-pea-arhar-and-provided-tips-on-natural-farming/",
+      "important": false
+    },
+    {
+      "id": "bd5fec90",
+      "title": "निमाड़ के किसान धीरेंद्र सिंह राठौर को मिला कृषक फेलो सम्मान",
+      "summary": "निमाड़ के किसान धीरेंद्र सिंह राठौर को मिला कृषक फेलो सम्मान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/nimar-farmer-dhirendra-singh-rathore-receives-the-krishak-fellow-honour/",
+      "important": false
+    },
+    {
+      "id": "9bc92303",
+      "title": "राजस्थान में किसानों को घर बैठे मिलेगा खाद, 15 जिलों में लागू होगा फ्रेमवर्क फॉर फर्टिलाइजर सेल",
+      "summary": "राजस्थान में किसानों को घर बैठे मिलेगा खाद, 15 जिलों में लागू होगा फ्रेमवर्क फॉर फर्टिलाइजर सेल",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-rajasthan-to-get-fertilizer-delivered-to-their-doorsteps-framework-for-fertilizer-sale-to-be-implemented-in-15-districts/",
+      "important": false
+    },
+    {
+      "id": "5a9cd9f4",
+      "title": "विदिशा किसान मेले में कृषि रसायन एक्सपोर्ट्स की सक्रिय सहभागिता",
+      "summary": "विदिशा किसान मेले में कृषि रसायन एक्सपोर्ट्स की सक्रिय सहभागिता",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/active-participation-of-krishi-rasayan-exports-in-the-vidisha-farmers-fair/",
+      "important": false
+    },
+    {
+      "id": "fea7c922",
+      "title": "खरीफ फसलों में लाभकारी- देवी क्रॉप साइंस का बूम फ्लावर",
+      "summary": "खरीफ फसलों में लाभकारी- देवी क्रॉप साइंस का बूम फ्लावर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/beneficial-for-kharif-crops-devi-crop-sciences-boom-flower/",
+      "important": false
+    },
     {
       "id": "cd3ff33f",
       "title": "बारिश में लगाएं मक्का की ये 7 हाई-यील्ड वैरायटी, 85 से 112 दिनों में होंगी तैयार; 70 क्विंटल तक मिलेगी पैदावार",
@@ -462,94 +550,6 @@
       "date": "2026-08-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/government-to-provide-50-subsidy-on-the-cultivation-of-trailing-vegetables-including-tomatoes-and-cucumbers-farmers-to-benefit-significantly/",
-      "important": false
-    },
-    {
-      "id": "4bce2a92",
-      "title": "राजस्थान में 87.44 लाख किसानों की रजिस्ट्री पूरी, अब सरकारी योजनाओं में किसान ID होगी अनिवार्य",
-      "summary": "राजस्थान में 87.44 लाख किसानों की रजिस्ट्री पूरी, अब सरकारी योजनाओं में किसान ID होगी अनिवार्य",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/registration-of-87-44-lakh-farmers-completed-in-rajasthan-farmer-id-to-become-mandatory-for-government-schemes/",
-      "important": false
-    },
-    {
-      "id": "69a9c225",
-      "title": "बैंगन की खेती से रायपुर के किसान ने कमाए लाखों, ग्राफ्टेड तकनीक से मिला 144 क्विंटल उत्पादन",
-      "summary": "बैंगन की खेती से रायपुर के किसान ने कमाए लाखों, ग्राफ्टेड तकनीक से मिला 144 क्विंटल उत्पादन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-farmer-earns-lakhs-from-brinjal-farming-achieves-144-quintal-yield-using-grafting-technique/",
-      "important": false
-    },
-    {
-      "id": "498ce37f",
-      "title": "नमो ड्रोन दीदी बनीं आरती साहू, 1154 एकड़ में ड्रोन से किया नैनो खाद का छिड़काव; कमाए ₹3.5 लाख",
-      "summary": "नमो ड्रोन दीदी बनीं आरती साहू, 1154 एकड़ में ड्रोन से किया नैनो खाद का छिड़काव; कमाए ₹3.5 लाख",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/aarti-sahu-becomes-a-namo-drone-didi-sprays-nano-fertilizer-via-drone-across-1154-acres-and-earns-%e2%82%b93-5-lakh/",
-      "important": false
-    },
-    {
-      "id": "0901770d",
-      "title": "प्रधानमंत्री धन-धान्य कृषि योजना में डिंडौरी देश में अव्वल, 100 चयनित जिलों में जुलाई में मिली पहली रैंक",
-      "summary": "प्रधानमंत्री धन-धान्य कृषि योजना में डिंडौरी देश में अव्वल, 100 चयनित जिलों में जुलाई में मिली पहली रैंक",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-ranks-first-in-the-country-under-the-pradhan-mantri-dhan-dhanya-krishi-yojana-secured-the-top-spot-among-100-selected-districts-in-july/",
-      "important": false
-    },
-    {
-      "id": "46d54977",
-      "title": "पारिजात और HELM की साझेदारी, भारत सहित वैश्विक बाजारों में बढ़ेगी पहुंच",
-      "summary": "पारिजात और HELM की साझेदारी, भारत सहित वैश्विक बाजारों में बढ़ेगी पहुंच",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/partnership-between-parijat-and-helm-to-expand-reach-in-global-markets-including-india/",
-      "important": false
-    },
-    {
-      "id": "95f637d2",
-      "title": "भारतीय कृषि 2026: उत्पादन, किसान, निर्यात और संबद्ध क्षेत्रों के 10 प्रमुख आंकड़े",
-      "summary": "भारतीय कृषि 2026: उत्पादन, किसान, निर्यात और संबद्ध क्षेत्रों के 10 प्रमुख आंकड़े",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/indian-agriculture-2026-10-key-figures-on-production-farmers-exports-and-allied-sectors/",
-      "important": false
-    },
-    {
-      "id": "47005e2e",
-      "title": "छिंदवाड़ा: हरी खाद से संवर रही मिट्टी, ढैंचा बना किसानों की पसंद",
-      "summary": "छिंदवाड़ा: हरी खाद से संवर रही मिट्टी, ढैंचा बना किसानों की पसंद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-soil-quality-improving-with-green-manure-dhaincha-becomes-farmers-preferred-choice/",
-      "important": false
-    },
-    {
-      "id": "6d078993",
-      "title": "आज का गेहूं मंडी रेट (17 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (17 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-17-august-2026/",
       "important": false
     }
   ]
