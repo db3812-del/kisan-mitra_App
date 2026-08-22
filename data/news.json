@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-22T06:48:50Z",
+  "updated": "2026-08-22T12:49:11Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "59346208",
+      "title": "छत्तीसगढ़: धमतरी में फसल बीमा का टूटा 5 साल का रिकॉर्ड, खरीफ 2026 में 80,920 किसानों ने कराया बीमा",
+      "summary": "छत्तीसगढ़: धमतरी में फसल बीमा का टूटा 5 साल का रिकॉर्ड, खरीफ 2026 में 80,920 किसानों ने कराया बीमा",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-5-year-record-for-crop-insurance-broken-in-dhamtari-80920-farmers-insured-for-kharif-2026/",
+      "important": false
+    },
+    {
+      "id": "a594e5d2",
+      "title": "गुना में पहली बार सेंसर से होगी गुलाब की खेती, पॉलीहाउस में ऑटोमेशन-फर्टिगेशन से नियंत्रित होगा पानी और खाद",
+      "summary": "गुना में पहली बार सेंसर से होगी गुलाब की खेती, पॉलीहाउस में ऑटोमेशन-फर्टिगेशन से नियंत्रित होगा पानी और खाद",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/for-the-first-time-in-guna-rose-cultivation-will-be-carried-out-using-sensors-water-and-fertilizer-application-will-be-controlled-via-automation-and-fertigation-within-polyhouses/",
+      "important": false
+    },
+    {
+      "id": "841a2227",
+      "title": "बालाघाट : धान ट्रायल का अवलोकन, अधिकारियों व वैज्ञानिकों ने किया फसल परीक्षण",
+      "summary": "बालाघाट : धान ट्रायल का अवलोकन, अधिकारियों व वैज्ञानिकों ने किया फसल परीक्षण",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-paddy-trial-inspected-officials-and-scientists-conducted-crop-testing/",
+      "important": false
+    },
+    {
+      "id": "8956fe2c",
+      "title": "सिवनी: पशु कल्याण एवं गौवंश संरक्षण को लेकर बैठक आयोजित",
+      "summary": "सिवनी: पशु कल्याण एवं गौवंश संरक्षण को लेकर बैठक आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/seoni-meeting-held-regarding-animal-welfare-and-the-protection-of-cattle/",
+      "important": false
+    },
+    {
+      "id": "b0480043",
+      "title": "सिवनी: क्रॉप कैफेटेरिया के माध्यम से किसानों को नवीनतम किस्मों की जानकारी दी",
+      "summary": "सिवनी: क्रॉप कैफेटेरिया के माध्यम से किसानों को नवीनतम किस्मों की जानकारी दी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/seoni-farmers-informed-about-the-latest-varieties-through-a-crop-cafeteria/",
+      "important": false
+    },
+    {
+      "id": "0e85ffca",
+      "title": "मंडला: 15 सितंबर तक चलेगा एग्रीस्टेक पंजीयन एवं अग्रिम उर्वरक उठाव अभियान",
+      "summary": "मंडला: 15 सितंबर तक चलेगा एग्रीस्टेक पंजीयन एवं अग्रिम उर्वरक उठाव अभियान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mandla-agristack-registration-and-advance-fertilizer-lifting-campaign-to-continue-until-september-15/",
+      "important": false
+    },
+    {
+      "id": "ae6c902f",
+      "title": "मोटे अनाज की बढ़ती मांग के बीच युवाओं को मिली प्रोसेसिंग की ट्रेनिंग, सीखें कुकीज से खाखरा तक बनाना",
+      "summary": "मोटे अनाज की बढ़ती मांग के बीच युवाओं को मिली प्रोसेसिंग की ट्रेनिंग, सीखें कुकीज से खाखरा तक बनाना",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/amidst-the-rising-demand-for-millets-youth-receive-processing-training-learn-to-make-everything-from-cookies-to-khakhra/",
+      "important": false
+    },
+    {
+      "id": "f8f4f01f",
+      "title": "रतलाम : मुख्यमंत्री मछुआ समृद्धि योजना अंतर्गत 3 सितंबर तक आवेदन आमंत्रित",
+      "summary": "रतलाम : मुख्यमंत्री मछुआ समृद्धि योजना अंतर्गत 3 सितंबर तक आवेदन आमंत्रित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ratlam-applications-invited-until-september-3-under-the-chief-ministers-fishermen-prosperity-scheme/",
+      "important": false
+    },
     {
       "id": "955ada04",
       "title": "किसानों के लिए ‘कवच’ बनी सरकार की नई योजना, 5 हजार किसानों को मिलेगा फिर से कर्ज का सहारा",
@@ -462,94 +550,6 @@
       "date": "2026-08-20",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-19-august-2026/",
-      "important": false
-    },
-    {
-      "id": "95e6cc5f",
-      "title": "आज का सोयाबीन मंडी रेट (19 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (19 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-19-august-2026/",
-      "important": false
-    },
-    {
-      "id": "5e9b965c",
-      "title": "देशभर में मानसून एक्टिव, बिहार-झारखंड और पूर्वोत्तर राज्यों में अति भारी बारिश का अलर्ट; IMD ने जारी की चेतावनी",
-      "summary": "देशभर में मानसून एक्टिव, बिहार-झारखंड और पूर्वोत्तर राज्यों में अति भारी बारिश का अलर्ट; IMD ने जारी की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/monsoon-active-across-the-country-alert-issued-for-extremely-heavy-rainfall-in-bihar-jharkhand-and-northeastern-states-imd-issues-warning/",
-      "important": false
-    },
-    {
-      "id": "98139a12",
-      "title": "कीटनाशक प्रबंधन विधेयक 2025 में समयबद्ध डेटा प्रोटेक्शन शामिल किया जाना चाहिए: क्रॉपलाइफ इंडिया",
-      "summary": "कीटनाशक प्रबंधन विधेयक 2025 में समयबद्ध डेटा प्रोटेक्शन शामिल किया जाना चाहिए: क्रॉपलाइफ इंडिया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/time-bound-data-protection-should-be-included-in-the-pesticide-management-bill-2025-croplife-india/",
-      "important": false
-    },
-    {
-      "id": "3dae2005",
-      "title": "विदिशा: कृषकों की शत-प्रतिशत फार्मर आईडी बनाने पर जोर",
-      "summary": "विदिशा: कृषकों की शत-प्रतिशत फार्मर आईडी बनाने पर जोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-emphasis-on-creating-100-farmer-ids-for-farmers/",
-      "important": false
-    },
-    {
-      "id": "bc8e3ef7",
-      "title": "रबी फसल के लिए MP में 20 अगस्त से शुरू होगा बड़ा अभियान, फार्मर ID से अग्रिम खाद उठाव तक किसानों को मिलेगी सुविधा",
-      "summary": "रबी फसल के लिए MP में 20 अगस्त से शुरू होगा बड़ा अभियान, फार्मर ID से अग्रिम खाद उठाव तक किसानों को मिलेगी सुविधा",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-major-campaign-for-the-rabi-crop-season-will-begin-in-madhya-pradesh-on-august-20-farmers-will-benefit-from-facilities-ranging-from-farmer-ids-to-the-advance-lifting-of-fertilizers/",
-      "important": false
-    },
-    {
-      "id": "7022b12b",
-      "title": "जबलपुर में ‘मेगा एग्रीकल्चर कैम्प’, किसानों-ग्रामीण उद्यमियों को ₹55 करोड़ से अधिक के ऋण वितरित",
-      "summary": "जबलपुर में ‘मेगा एग्रीकल्चर कैम्प’, किसानों-ग्रामीण उद्यमियों को ₹55 करोड़ से अधिक के ऋण वितरित",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mega-agriculture-camp-in-jabalpur-loans-worth-over-%e2%82%b955-crore-disbursed-to-farmers-and-rural-entrepreneurs/",
-      "important": false
-    },
-    {
-      "id": "dce8279c",
-      "title": "मध्यप्रदेश में किसानों को बड़ी राहत, किसानों को ट्रैक्टर खरीदने पर मिलेगा 40% अनुदान; जानें योजना की पूरी जानकारी",
-      "summary": "मध्यप्रदेश में किसानों को बड़ी राहत, किसानों को ट्रैक्टर खरीदने पर मिलेगा 40% अनुदान; जानें योजना की पूरी जानकारी",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-08-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-relief-for-farmers-in-madhya-pradesh-40-subsidy-on-tractor-purchases-get-full-details-of-the-scheme/",
-      "important": false
-    },
-    {
-      "id": "418bad00",
-      "title": "हरे बैंगन की खेती से मालामाल हुए दमोह के किसान, ₹50 हजार की लागत में ₹6 लाख तक की कमाई; दूसरे राज्यों में हो रही सप्लाई",
-      "summary": "हरे बैंगन की खेती से मालामाल हुए दमोह के किसान, ₹50 हजार की लागत में ₹6 लाख तक की कमाई; दूसरे राज्यों में हो रही सप्लाई",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/damoh-farmers-strike-it-rich-with-green-eggplant-cultivation-earning-up-to-%e2%82%b96-lakh-on-an-investment-of-%e2%82%b950000-produce-being-supplied-to-other-states/",
       "important": false
     }
   ]
