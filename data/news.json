@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-22T01:34:23Z",
-  "new_count": 0,
+  "updated": "2026-08-22T06:48:50Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "955ada04",
+      "title": "किसानों के लिए ‘कवच’ बनी सरकार की नई योजना, 5 हजार किसानों को मिलेगा फिर से कर्ज का सहारा",
+      "summary": "किसानों के लिए ‘कवच’ बनी सरकार की नई योजना, 5 हजार किसानों को मिलेगा फिर से कर्ज का सहारा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/governments-new-scheme-becomes-a-shield-for-farmers-5000-farmers-to-get-credit-support-again/",
+      "important": false
+    },
+    {
+      "id": "bdc94b5c",
+      "title": "बरसात में मछली पालन के लिए तालाब के पानी पर रखें विशेष नजर",
+      "summary": "बरसात में मछली पालन के लिए तालाब के पानी पर रखें विशेष नजर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/keep-a-close-watch-on-the-pond-water-for-fish-farming-during-the-rainy-season/",
+      "important": false
+    },
+    {
+      "id": "80b4b663",
+      "title": "उत्तर प्रदेश में मत्स्य पालन को मिलेगा बढ़ावा, PMMSY के तहत 24 अगस्त तक ऑनलाइन आवेदन",
+      "summary": "उत्तर प्रदेश में मत्स्य पालन को मिलेगा बढ़ावा, PMMSY के तहत 24 अगस्त तक ऑनलाइन आवेदन",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/fisheries-sector-in-uttar-pradesh-to-get-a-boost-online-applications-under-pmmsy-open-until-august-24/",
+      "important": false
+    },
+    {
+      "id": "b9313b0f",
+      "title": "यूपी के आलू किसानों को योगी सरकार की बड़ी राहत, भाव गिरने पर मिलेगा अनुदान; कोल्ड स्टोरेज और बीज पर भी सहायता",
+      "summary": "यूपी के आलू किसानों को योगी सरकार की बड़ी राहत, भाव गिरने पर मिलेगा अनुदान; कोल्ड स्टोरेज और बीज पर भी सहायता",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-relief-for-up-potato-farmers-from-the-yogi-government-subsidies-to-be-provided-if-prices-fall-assistance-also-available-for-cold-storage-and-seeds/",
+      "important": false
+    },
+    {
+      "id": "a63889ad",
+      "title": "लम्पी स्किन डिजीज को लेकर पशुपालकों को सतर्क रहने की सलाह",
+      "summary": "लम्पी स्किन डिजीज को लेकर पशुपालकों को सतर्क रहने की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/livestock-owners-advised-to-remain-vigilant-regarding-lumpy-skin-disease/",
+      "important": false
+    },
+    {
+      "id": "23d72164",
+      "title": "बारिश के मौसम में दूषित जल के सेवन से बचें",
+      "summary": "बारिश के मौसम में दूषित जल के सेवन से बचें",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/avoid-consuming-contaminated-water-during-the-rainy-season/",
+      "important": false
+    },
+    {
+      "id": "b8dea7d9",
+      "title": "एमपी में गौशालाओं को मिलेगा ₹40 प्रतिदिन प्रति गौवंश अनुदान, 2026-27 के लिए ₹620.50 करोड़ का बजट",
+      "summary": "एमपी में गौशालाओं को मिलेगा ₹40 प्रतिदिन प्रति गौवंश अनुदान, 2026-27 के लिए ₹620.50 करोड़ का बजट",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/cowsheds-in-mp-to-receive-a-subsidy-of-%e2%82%b940-per-bovine-per-day-budget-of-%e2%82%b9620-50-crore-allocated-for-2026-27/",
+      "important": false
+    },
+    {
+      "id": "ba38f351",
+      "title": "बिजली की चिंता खत्म, सोलर पंप से खेतों की सिंचाई आसान; छत्तीसगढ़ में किसानों के लिए वरदान बनी सौर सुजला योजना",
+      "summary": "बिजली की चिंता खत्म, सोलर पंप से खेतों की सिंचाई आसान; छत्तीसगढ़ में किसानों के लिए वरदान बनी सौर सुजला योजना",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/no-more-worries-about-electricity-solar-pumps-make-farm-irrigation-easy-solar-sujala-yojana-has-become-a-boon-for-farmers-in-chhattisgarh/",
+      "important": false
+    },
     {
       "id": "9d29751e",
       "title": "मध्यप्रदेश के पांच जिलों में अति भारी वर्षा की चेतावनी",
@@ -462,94 +550,6 @@
       "date": "2026-08-19",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/damoh-farmers-strike-it-rich-with-green-eggplant-cultivation-earning-up-to-%e2%82%b96-lakh-on-an-investment-of-%e2%82%b950000-produce-being-supplied-to-other-states/",
-      "important": false
-    },
-    {
-      "id": "a473398c",
-      "title": "MP के इस गांव में प्राकृतिक खेती का कमाल, ₹4 हजार की लागत घटकर हुई ₹1,500; 30 परिवारों ने अपनाया तरीका",
-      "summary": "MP के इस गांव में प्राकृतिक खेती का कमाल, ₹4 हजार की लागत घटकर हुई ₹1,500; 30 परिवारों ने अपनाया तरीका",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/natural-farming-works-wonders-in-this-mp-village-cost-drops-from-%e2%82%b94000-to-%e2%82%b91500-30-families-adopt-the-method/",
-      "important": false
-    },
-    {
-      "id": "eaa5ea38",
-      "title": "बारिश-नमी के बीच सोयाबीन में इन 3 रोगों का खतरा, ICAR-NSRI ने जारी की एडवाइजरी; जानें बचाव के उपाय",
-      "summary": "बारिश-नमी के बीच सोयाबीन में इन 3 रोगों का खतरा, ICAR-NSRI ने जारी की एडवाइजरी; जानें बचाव के उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/risk-of-3-diseases-in-soybean-crops-amid-rain-and-humidity-icar-nsri-issues-advisory-learn-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "acfa11fc",
-      "title": "आज का गेहूं मंडी रेट (19 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (19 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-19-august-2026/",
-      "important": false
-    },
-    {
-      "id": "ccf854c9",
-      "title": "पन्ना जिले में अत्यधिक भारी वर्षा होने का रेड अलर्ट जारी",
-      "summary": "पन्ना जिले में अत्यधिक भारी वर्षा होने का रेड अलर्ट जारी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/red-alert-issued-for-extremely-heavy-rainfall-in-panna-district/",
-      "important": false
-    },
-    {
-      "id": "61000eea",
-      "title": "सोयाबीन किसानों के लिए 40-50 दिन की फसल पर विशेष सलाह, किसान इन बातों का रखें ध्यान",
-      "summary": "सोयाबीन किसानों के लिए 40-50 दिन की फसल पर विशेष सलाह, किसान इन बातों का रखें ध्यान",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/special-advice-for-soybean-farmers-regarding-the-crop-at-the-40-50-day-stage-farmers-should-keep-these-points-in-mind/",
-      "important": false
-    },
-    {
-      "id": "f41e2d71",
-      "title": "विदिशा में खुलेंगे 20 कस्टम हायरिंग सेंटर, परियोजना लागत पर मिलेगी 40% तक सब्सिडी; ऐसे करें आवेदन",
-      "summary": "विदिशा में खुलेंगे 20 कस्टम हायरिंग सेंटर, परियोजना लागत पर मिलेगी 40% तक सब्सिडी; ऐसे करें आवेदन",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/20-custom-hiring-centers-to-open-in-vidisha-up-to-40-subsidy-available-on-project-cost-heres-how-to-apply/",
-      "important": false
-    },
-    {
-      "id": "6b0baf55",
-      "title": "Weather Today: मानसून ने पकड़ी रफ्तार, झारखंड-MP-UP समेत कई राज्यों में भारी बारिश का अलर्ट, IMD ने जारी की चेतावनी",
-      "summary": "Weather Today: मानसून ने पकड़ी रफ्तार, झारखंड-MP-UP समेत कई राज्यों में भारी बारिश का अलर्ट, IMD ने जारी की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-monsoon-picks-up-pace-heavy-rain-alert-for-several-states-including-jharkhand-mp-and-up-imd-issues-warning/",
-      "important": false
-    },
-    {
-      "id": "e2d1aa98",
-      "title": "आज का गेहूं मंडी रेट (18 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (18 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-18-august-2026/",
       "important": false
     }
   ]
