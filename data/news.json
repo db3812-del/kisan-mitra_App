@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-23T12:50:41Z",
-  "new_count": 7,
+  "updated": "2026-08-23T18:36:35Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "dbf70a6d",
+      "title": "दमोह : समूह बनाकर हरे बैंगन की खेती से अच्छा मुनाफा कमा रहे किसान",
+      "summary": "दमोह : समूह बनाकर हरे बैंगन की खेती से अच्छा मुनाफा कमा रहे किसान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/damoh-farmers-earning-good-profits-by-cultivating-green-eggplants-in-groups/",
+      "important": false
+    },
+    {
+      "id": "550da400",
+      "title": "सिंगरौली: अब ई-विकास प्रणाली 2.0 से किसानों को मिलेगा उर्वरक",
+      "summary": "सिंगरौली: अब ई-विकास प्रणाली 2.0 से किसानों को मिलेगा उर्वरक",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/singrauli-farmers-will-now-receive-fertilizers-through-the-e-vikas-system-2-0/",
+      "important": false
+    },
+    {
+      "id": "6cff1fdf",
+      "title": "ई-विकास 2.0 से किसानों को उर्वरक खरीदी में मिलेगी अधिक सुविधा",
+      "summary": "ई-विकास 2.0 से किसानों को उर्वरक खरीदी में मिलेगी अधिक सुविधा",
+      "level": "state",
+      "category": "price",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-will-get-greater-convenience-in-purchasing-fertilizers-through-e-vikas-2-0/",
+      "important": false
+    },
+    {
+      "id": "373eabb3",
+      "title": "प्रधानमंत्री धन-धान्य कृषि योजना के क्रियान्वयन में डिंडोरी जिला देश में प्रथम",
+      "summary": "प्रधानमंत्री धन-धान्य कृषि योजना के क्रियान्वयन में डिंडोरी जिला देश में प्रथम",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-district-is-first-in-the-country-in-the-implementation-of-prime-ministers-wealth-farming-scheme/",
+      "important": false
+    },
+    {
+      "id": "26c56d32",
+      "title": "डिंडोरी : किसानों को मिली अपनी पसंद के उर्वरक की खरीदी की सुविधा",
+      "summary": "डिंडोरी : किसानों को मिली अपनी पसंद के उर्वरक की खरीदी की सुविधा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-farmers-get-the-facility-to-purchase-fertilizers-of-their-choice/",
+      "important": false
+    },
+    {
+      "id": "83e2039a",
+      "title": "Weather Today: ओडिशा में बहुत भारी बारिश का अलर्ट, बिहार-झारखंड समेत कई राज्यों में बरसेंगे बादल; IMD ने जारी किया अपडेट",
+      "summary": "Weather Today: ओडिशा में बहुत भारी बारिश का अलर्ट, बिहार-झारखंड समेत कई राज्यों में बरसेंगे बादल; IMD ने जारी किया अपडेट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-alert-for-very-heavy-rain-in-odisha-rain-expected-in-several-states-including-bihar-and-jharkhand-imd-issues-update/",
+      "important": false
+    },
+    {
+      "id": "1281f589",
+      "title": "एफपीओ प्राकृतिक खेती को प्रोत्साहित – श्री मोदी",
+      "summary": "एफपीओ प्राकृतिक खेती को प्रोत्साहित – श्री मोदी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/fpos-encourage-natural-farming-shri-modi/",
+      "important": false
+    },
+    {
+      "id": "14938298",
+      "title": "भोपाल में कृषि विस्तार अधिकारियों धरना ई-अटेंडेंस के विरोध में उठी आवाज",
+      "summary": "भोपाल में कृषि विस्तार अधिकारियों धरना ई-अटेंडेंस के विरोध में उठी आवाज",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agriculture-extension-officers-in-bhopal-stage-a-protest-voices-raised-against-e-attendance/",
+      "important": false
+    },
     {
       "id": "8fad5d8b",
       "title": "सिंगरौली: अनुदान से मिला आधुनिक ट्रैक्टर, सरयू प्रसाद की खेती हुई आसान",
@@ -462,94 +550,6 @@
       "date": "2026-08-20",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/weather-today-alert-for-heavy-to-very-heavy-rainfall-in-central-india-rain-expected-in-east-and-north-india-as-well-imd-issues-warning/",
-      "important": false
-    },
-    {
-      "id": "cc9b85c3",
-      "title": "आज का गेहूं मंडी रेट (20 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (20 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-20-august-2026/",
-      "important": false
-    },
-    {
-      "id": "1960ee42",
-      "title": "आज का मक्का मंडी रेट (20 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (20 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-20-august-2026/",
-      "important": false
-    },
-    {
-      "id": "8e72deb0",
-      "title": "आज का धान मंडी रेट (20 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (20 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-20-august-2026/",
-      "important": false
-    },
-    {
-      "id": "bac72b08",
-      "title": "आज का सोयाबीन मंडी रेट (20 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (20 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-20-august-2026/",
-      "important": false
-    },
-    {
-      "id": "03a00983",
-      "title": "ग्वालियर: अमानक धान-बीज पाए जाने पर लाइसेंस निलंबित",
-      "summary": "ग्वालियर: अमानक धान-बीज पाए जाने पर लाइसेंस निलंबित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/gwalior-license-suspended-after-substandard-paddy-seeds-were-found/",
-      "important": false
-    },
-    {
-      "id": "b38b1013",
-      "title": "छत्तीसगढ़: फसल बीमा योजना पर किसानों का बढ़ा भरोसा, खैरागढ़-छुईखदान-गंडई में गैर-ऋणी किसानों की संख्या 186%",
-      "summary": "छत्तीसगढ़: फसल बीमा योजना पर किसानों का बढ़ा भरोसा, खैरागढ़-छुईखदान-गंडई में गैर-ऋणी किसानों की संख्या 186%",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhattisgarh-farmers-confidence-in-the-crop-insurance-scheme-grows-number-of-non-loanee-farmers-in-khairagarh-chhuikhadan-gandai-rises-by-186/",
-      "important": false
-    },
-    {
-      "id": "ca6bf1d3",
-      "title": "गुजरात-सिक्किम के कृषि विकास के लिए 275.52 करोड़ मंजूर, शिवराज चौहान ने योजनाओं की समीक्षा की",
-      "summary": "गुजरात-सिक्किम के कृषि विकास के लिए 275.52 करोड़ मंजूर, शिवराज चौहान ने योजनाओं की समीक्षा की",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/%e2%82%b9275-52-crore-approved-for-agricultural-development-in-gujarat-and-sikkim-shivraj-chouhan-reviews-the-schemes/",
-      "important": false
-    },
-    {
-      "id": "3dfa39a7",
-      "title": "MP में खाद वितरण व्यवस्था बदली, अब किसान खुद जनरेट कर सकेंगे टोकन; उपलब्धता और रिटेलर की भी मिलेगी जानकारी",
-      "summary": "MP में खाद वितरण व्यवस्था बदली, अब किसान खुद जनरेट कर सकेंगे टोकन; उपलब्धता और रिटेलर की भी मिलेगी जानकारी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/fertilizer-distribution-system-changed-in-mp-farmers-can-now-generate-their-own-tokens-and-access-information-on-availability-and-retailers/",
       "important": false
     }
   ]
