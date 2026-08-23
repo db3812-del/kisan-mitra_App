@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-23T06:49:57Z",
-  "new_count": 0,
+  "updated": "2026-08-23T12:50:41Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "8fad5d8b",
+      "title": "सिंगरौली: अनुदान से मिला आधुनिक ट्रैक्टर, सरयू प्रसाद की खेती हुई आसान",
+      "summary": "सिंगरौली: अनुदान से मिला आधुनिक ट्रैक्टर, सरयू प्रसाद की खेती हुई आसान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/singrauli-modern-tractor-acquired-through-subsidy-makes-farming-easier-for-saryu-prasad/",
+      "important": false
+    },
+    {
+      "id": "24abaa16",
+      "title": "शहडोल: केंद्रीय संयुक्त सचिव ने खेत में ली उद्यानिकी फसलों एवं सहायता की जानकारी",
+      "summary": "शहडोल: केंद्रीय संयुक्त सचिव ने खेत में ली उद्यानिकी फसलों एवं सहायता की जानकारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shahdol-union-joint-secretary-gathered-information-about-horticultural-crops-and-assistance-in-the-field/",
+      "important": false
+    },
+    {
+      "id": "f346e0bb",
+      "title": "डिजिटल कृषि मिशन की बढ़ी रफ्तार, 10.41 करोड़ Farmer ID बनीं; 5.9 लाख गांवों की मैपिंग पूरी",
+      "summary": "डिजिटल कृषि मिशन की बढ़ी रफ्तार, 10.41 करोड़ Farmer ID बनीं; 5.9 लाख गांवों की मैपिंग पूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/digital-agriculture-mission-gains-momentum-10-41-crore-farmer-ids-generated-mapping-of-5-9-lakh-villages-completed/",
+      "important": false
+    },
+    {
+      "id": "47883139",
+      "title": "शहडोल कलेक्टर ने किया ड्रैगन फ्रूट खेती का निरीक्षण",
+      "summary": "शहडोल कलेक्टर ने किया ड्रैगन फ्रूट खेती का निरीक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shahdol-collector-inspected-dragon-fruit-cultivation/",
+      "important": false
+    },
+    {
+      "id": "0471baee",
+      "title": "नीमच : डेयरी प्लस इकाई का जिला पंचायत सीईओ ने किया निरीक्षण",
+      "summary": "नीमच : डेयरी प्लस इकाई का जिला पंचायत सीईओ ने किया निरीक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/neemuch-district-panchayat-ceo-inspects-dairy-plus-unit/",
+      "important": false
+    },
+    {
+      "id": "de2769dd",
+      "title": "रतलाम: किसान हितैषी ई-विकास प्रणाली 2.0 लागू",
+      "summary": "रतलाम: किसान हितैषी ई-विकास प्रणाली 2.0 लागू",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ratlam-farmer-friendly-e-vikas-system-2-0-implemented/",
+      "important": false
+    },
+    {
+      "id": "80221460",
+      "title": "45 एकड़ में जैविक खेती, साथ में एग्रो टूरिज्म और गौशाला; इंदौर के किसान ने तैयार किया कमाई का अनोखा मॉडल",
+      "summary": "45 एकड़ में जैविक खेती, साथ में एग्रो टूरिज्म और गौशाला; इंदौर के किसान ने तैयार किया कमाई का अनोखा मॉडल",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/organic-farming-on-45-acres-combined-with-agro-tourism-and-a-cowshed-an-indore-farmer-has-developed-a-unique-revenue-model/",
+      "important": false
+    },
     {
       "id": "59346208",
       "title": "छत्तीसगढ़: धमतरी में फसल बीमा का टूटा 5 साल का रिकॉर्ड, खरीफ 2026 में 80,920 किसानों ने कराया बीमा",
@@ -473,83 +550,6 @@
       "date": "2026-08-20",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/fertilizer-distribution-system-changed-in-mp-farmers-can-now-generate-their-own-tokens-and-access-information-on-availability-and-retailers/",
-      "important": false
-    },
-    {
-      "id": "410a81ca",
-      "title": "रायसेन: कृषक कल्याण वर्ष में किसानों को मिल रही निर्बाध बिजली",
-      "summary": "रायसेन: कृषक कल्याण वर्ष में किसानों को मिल रही निर्बाध बिजली",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raisen-farmers-receiving-uninterrupted-electricity-during-the-year-of-farmers-welfare/",
-      "important": false
-    },
-    {
-      "id": "9fcd99c8",
-      "title": "दुग्ध उत्पादन एवं उद्यानिकी का रकबा बढ़ाएं- कलेक्टर सीहोर",
-      "summary": "दुग्ध उत्पादन एवं उद्यानिकी का रकबा बढ़ाएं- कलेक्टर सीहोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/increase-milk-production-and-the-area-under-horticulture-collector-sehore/",
-      "important": false
-    },
-    {
-      "id": "57cc46df",
-      "title": "विदिशा : कृषि एवं संबद्ध गतिविधियों का अधिकारियों ने किया निरीक्षण",
-      "summary": "विदिशा : कृषि एवं संबद्ध गतिविधियों का अधिकारियों ने किया निरीक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-officials-inspected-agriculture-and-allied-activities/",
-      "important": false
-    },
-    {
-      "id": "3ce0cd52",
-      "title": "राजगढ़: दाल मिल स्थापना के लिए आवेदन 30 अगस्त तक करें",
-      "summary": "राजगढ़: दाल मिल स्थापना के लिए आवेदन 30 अगस्त तक करें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajgarh-apply-for-setting-up-a-dal-mill-by-august-30/",
-      "important": false
-    },
-    {
-      "id": "849527dd",
-      "title": "राजगढ़ : 20 अगस्त से “हर किसान, हर घर, हर खेत खाद अभियान” का होगा शुभारंभ",
-      "summary": "राजगढ़ : 20 अगस्त से “हर किसान, हर घर, हर खेत खाद अभियान” का होगा शुभारंभ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajgarh-the-har-kisan-har-ghar-har-khet-khad-abhiyan-fertilizer-campaign-for-every-farmer-every-household-and-every-field-will-be-launched-on-august-20/",
-      "important": false
-    },
-    {
-      "id": "d91bef13",
-      "title": "आज का धान मंडी रेट (19 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (19 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-19-august-2026/",
-      "important": false
-    },
-    {
-      "id": "90398b7f",
-      "title": "आज का मक्का मंडी रेट (19 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (19 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-19-august-2026/",
       "important": false
     }
   ]
