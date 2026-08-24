@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-24T07:08:15Z",
-  "new_count": 0,
+  "updated": "2026-08-24T12:59:52Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "bf9ed301",
+      "title": "किसान अपनी फार्मर आईडी जरूर बनवाएं : मुख्यमंत्री डॉ. यादव",
+      "summary": "किसान अपनी फार्मर आईडी जरूर बनवाएं : मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-must-get-their-farmer-id-made-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "61bd3950",
+      "title": "किसानों को आधुनिक तकनीक का लाभ दिलाने के लिए राज्य सरकार प्रतिबद्ध – मुख्यमंत्री डॉ यादव",
+      "summary": "किसानों को आधुनिक तकनीक का लाभ दिलाने के लिए राज्य सरकार प्रतिबद्ध – मुख्यमंत्री डॉ यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/state-government-committed-to-providing-farmers-the-benefits-of-modern-technology-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "9228bea0",
+      "title": "आज का गेहूं मंडी रेट (24 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (24 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-24-august-2026/",
+      "important": false
+    },
+    {
+      "id": "e51bb736",
+      "title": "आज का मक्का मंडी रेट (24 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (24 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-24-august-2026/",
+      "important": false
+    },
+    {
+      "id": "4d4bded7",
+      "title": "आज का धान मंडी रेट (24 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (24 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-24-august-2026/",
+      "important": false
+    },
+    {
+      "id": "c44811e0",
+      "title": "आज का सोयाबीन मंडी रेट (24 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (24 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-24-august-2026/",
+      "important": false
+    },
+    {
+      "id": "80e8e294",
+      "title": "राजगढ़, सीधी, डिंडोरी और बालाघाट जिलों में अति भारी वर्षा की चेतावनी",
+      "summary": "राजगढ़, सीधी, डिंडोरी और बालाघाट जिलों में अति भारी वर्षा की चेतावनी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/warning-of-extremely-heavy-rainfall-in-rajgarh-sidhi-dindori-and-balaghat-districts/",
+      "important": false
+    },
     {
       "id": "dbf70a6d",
       "title": "दमोह : समूह बनाकर हरे बैंगन की खेती से अच्छा मुनाफा कमा रहे किसान",
@@ -473,83 +550,6 @@
       "date": "2026-08-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/agricultural-scientists-visited-farmers-fields-in-narsinghpur-demonstrated-the-grg-152-variety-of-pigeon-pea-arhar-and-provided-tips-on-natural-farming/",
-      "important": false
-    },
-    {
-      "id": "bd5fec90",
-      "title": "निमाड़ के किसान धीरेंद्र सिंह राठौर को मिला कृषक फेलो सम्मान",
-      "summary": "निमाड़ के किसान धीरेंद्र सिंह राठौर को मिला कृषक फेलो सम्मान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/nimar-farmer-dhirendra-singh-rathore-receives-the-krishak-fellow-honour/",
-      "important": false
-    },
-    {
-      "id": "9bc92303",
-      "title": "राजस्थान में किसानों को घर बैठे मिलेगा खाद, 15 जिलों में लागू होगा फ्रेमवर्क फॉर फर्टिलाइजर सेल",
-      "summary": "राजस्थान में किसानों को घर बैठे मिलेगा खाद, 15 जिलों में लागू होगा फ्रेमवर्क फॉर फर्टिलाइजर सेल",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-rajasthan-to-get-fertilizer-delivered-to-their-doorsteps-framework-for-fertilizer-sale-to-be-implemented-in-15-districts/",
-      "important": false
-    },
-    {
-      "id": "5a9cd9f4",
-      "title": "विदिशा किसान मेले में कृषि रसायन एक्सपोर्ट्स की सक्रिय सहभागिता",
-      "summary": "विदिशा किसान मेले में कृषि रसायन एक्सपोर्ट्स की सक्रिय सहभागिता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/active-participation-of-krishi-rasayan-exports-in-the-vidisha-farmers-fair/",
-      "important": false
-    },
-    {
-      "id": "fea7c922",
-      "title": "खरीफ फसलों में लाभकारी- देवी क्रॉप साइंस का बूम फ्लावर",
-      "summary": "खरीफ फसलों में लाभकारी- देवी क्रॉप साइंस का बूम फ्लावर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/beneficial-for-kharif-crops-devi-crop-sciences-boom-flower/",
-      "important": false
-    },
-    {
-      "id": "cd3ff33f",
-      "title": "बारिश में लगाएं मक्का की ये 7 हाई-यील्ड वैरायटी, 85 से 112 दिनों में होंगी तैयार; 70 क्विंटल तक मिलेगी पैदावार",
-      "summary": "बारिश में लगाएं मक्का की ये 7 हाई-यील्ड वैरायटी, 85 से 112 दिनों में होंगी तैयार; 70 क्विंटल तक मिलेगी पैदावार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/plant-these-7-high-yielding-maize-varieties-during-the-rainy-season-they-will-be-ready-in-85-to-112-days-and-yield-up-to-70-quintals/",
-      "important": false
-    },
-    {
-      "id": "d8e4936e",
-      "title": "12 लाख की IT नौकरी छोड़ी, वर्मी कंपोस्ट का कारोबार शुरू किया; आज 1.5 करोड़ का टर्नओवर",
-      "summary": "12 लाख की IT नौकरी छोड़ी, वर्मी कंपोस्ट का कारोबार शुरू किया; आज 1.5 करोड़ का टर्नओवर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/quit-a-%e2%82%b912-lakh-it-job-to-start-a-vermicompost-business-today-the-turnover-is-%e2%82%b91-5-crore/",
-      "important": false
-    },
-    {
-      "id": "901143e7",
-      "title": "Weather Today: मध्य भारत में भारी से बहुत भारी बारिश का अलर्ट, पूर्वी और उत्तर भारत में भी बरसेंगे बादल; IMD ने जारी की ",
-      "summary": "Weather Today: मध्य भारत में भारी से बहुत भारी बारिश का अलर्ट, पूर्वी और उत्तर भारत में भी बरसेंगे बादल; IMD ने जारी की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-alert-for-heavy-to-very-heavy-rainfall-in-central-india-rain-expected-in-east-and-north-india-as-well-imd-issues-warning/",
       "important": false
     }
   ]
