@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-25T06:56:18Z",
-  "new_count": 0,
+  "updated": "2026-08-25T18:46:20Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "bc6d3c7e",
+      "title": "खंडवा : मुख्यमंत्री ने किसानों से फार्मर आईडी बनाने की अपील की",
+      "summary": "खंडवा : मुख्यमंत्री ने किसानों से फार्मर आईडी बनाने की अपील की",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/khandwa-chief-minister-appeals-to-farmers-to-create-a-farmer-id/",
+      "important": false
+    },
+    {
+      "id": "2a24aa7d",
+      "title": "आज का गेहूं मंडी रेट (25 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (25 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-25-august-2026/",
+      "important": false
+    },
+    {
+      "id": "bd20f158",
+      "title": "आज का मक्का मंडी रेट (25 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (25 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-25-august-2026/",
+      "important": false
+    },
+    {
+      "id": "42ebb63e",
+      "title": "आज का धान मंडी रेट (25 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (25 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-25-august-2026/",
+      "important": false
+    },
+    {
+      "id": "2eeeb90d",
+      "title": "आज का सोयाबीन मंडी रेट (25 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (25 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-25-august-2026/",
+      "important": false
+    },
+    {
+      "id": "39d37c88",
+      "title": "खरगोन जिले में स्थापित होंगे 10 बायो इनपुट रिसोर्स सेंटर",
+      "summary": "खरगोन जिले में स्थापित होंगे 10 बायो इनपुट रिसोर्स सेंटर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/10-bio-input-resource-centres-to-be-set-up-in-khargone-district/",
+      "important": false
+    },
+    {
+      "id": "d83479a8",
+      "title": "देवास में किसानों को सोयाबीन की उन्नत खेती का प्रशिक्षण, कीट-रोग प्रबंधन से लेकर नमी संरक्षण तक बताईं तकनीकें",
+      "summary": "देवास में किसानों को सोयाबीन की उन्नत खेती का प्रशिक्षण, कीट-रोग प्रबंधन से लेकर नमी संरक्षण तक बताईं तकनीकें",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-dewas-trained-in-advanced-soybean-cultivation-techniques-ranging-from-pest-and-disease-management-to-moisture-conservation-were-explained/",
+      "important": false
+    },
+    {
+      "id": "1c036c7c",
+      "title": "पांढुर्ना में पुराना खाद नए भाव में बेचने की हैट्रिक",
+      "summary": "पांढुर्ना में पुराना खाद नए भाव में बेचने की हैट्रिक",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pandhurna-sees-a-hat-trick-of-incidents-involving-the-sale-of-old-fertilizer-at-new-rates/",
+      "important": false
+    },
     {
       "id": "bf9ed301",
       "title": "किसान अपनी फार्मर आईडी जरूर बनवाएं : मुख्यमंत्री डॉ. यादव",
@@ -462,94 +550,6 @@
       "date": "2026-08-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-21-august-2026/",
-      "important": false
-    },
-    {
-      "id": "9046635a",
-      "title": "आज का मक्का मंडी रेट (21 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (21 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-21-august-2026/",
-      "important": false
-    },
-    {
-      "id": "0591ac0c",
-      "title": "आज का सोयाबीन मंडी रेट (21 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (21 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-21-august-2026/",
-      "important": false
-    },
-    {
-      "id": "e150d6fd",
-      "title": "Weather Today: उत्तर से पूर्वोत्तर तक बारिश का जोर, UP-बिहार समेत कई राज्यों में अलर्ट; IMD ने जारी की चेतावनी",
-      "summary": "Weather Today: उत्तर से पूर्वोत्तर तक बारिश का जोर, UP-बिहार समेत कई राज्यों में अलर्ट; IMD ने जारी की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-from-north-to-northeast-alerts-issued-for-several-states-including-up-and-bihar-imd-issues-warning/",
-      "important": false
-    },
-    {
-      "id": "8deea5f5",
-      "title": "महिंद्रा ओजेए के तीन साल पूरे, आधुनिक बागवानी को नई ताकत",
-      "summary": "महिंद्रा ओजेए के तीन साल पूरे, आधुनिक बागवानी को नई ताकत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-oja-completes-three-years-modern-horticulture-gets-a-new-boost/",
-      "important": false
-    },
-    {
-      "id": "aa30b34a",
-      "title": "गुना : इफको द्वारा सहकारी कार्यकर्ता प्रशिक्षण आयोजित",
-      "summary": "गुना : इफको द्वारा सहकारी कार्यकर्ता प्रशिक्षण आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guna-cooperative-worker-training-organized-by-iffco/",
-      "important": false
-    },
-    {
-      "id": "be1426c8",
-      "title": "शिवपुरी : स्कूली बच्चों को बताए हानिकारक खरपतवार से बचाव के उपाय",
-      "summary": "शिवपुरी : स्कूली बच्चों को बताए हानिकारक खरपतवार से बचाव के उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shivpuri-school-children-informed-about-ways-to-protect-against-harmful-weeds/",
-      "important": false
-    },
-    {
-      "id": "1d9421ec",
-      "title": "अरहर के साथ गोभी उगाकर किसान बढ़ा सकते हैं आय, पांढुर्णा में अधिकारियों ने देखा अंतरवर्तीय फसल का प्रयोग",
-      "summary": "अरहर के साथ गोभी उगाकर किसान बढ़ा सकते हैं आय, पांढुर्णा में अधिकारियों ने देखा अंतरवर्तीय फसल का प्रयोग",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-can-boost-their-income-by-growing-cauliflower-alongside-arhar-officials-in-pandhurna-inspected-the-intercropping-experiment/",
-      "important": false
-    },
-    {
-      "id": "37c9610d",
-      "title": "नरसिंहपुर में किसानों के खेतों पर पहुंचे कृषि वैज्ञानिक, अरहर की GRG-152 किस्म का प्रदर्शन; प्राकृतिक खेती के दिए टिप्स",
-      "summary": "नरसिंहपुर में किसानों के खेतों पर पहुंचे कृषि वैज्ञानिक, अरहर की GRG-152 किस्म का प्रदर्शन; प्राकृतिक खेती के दिए टिप्स",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agricultural-scientists-visited-farmers-fields-in-narsinghpur-demonstrated-the-grg-152-variety-of-pigeon-pea-arhar-and-provided-tips-on-natural-farming/",
       "important": false
     }
   ]
