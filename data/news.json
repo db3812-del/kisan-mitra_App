@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-26T06:57:10Z",
-  "new_count": 2,
+  "updated": "2026-08-26T13:02:12Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "6c70bc1d",
+      "title": "दतिया जिले में अत्यधिक भारी वर्षा का रेड अलर्ट जारी",
+      "summary": "दतिया जिले में अत्यधिक भारी वर्षा का रेड अलर्ट जारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/red-alert-issued-for-extremely-heavy-rainfall-in-datia-district/",
+      "important": false
+    },
+    {
+      "id": "40b944db",
+      "title": "आज का सोयाबीन मंडी रेट (26 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (26 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-26-august-2026/",
+      "important": false
+    },
+    {
+      "id": "35f0df4e",
+      "title": "ग्वालियर, कृषि के क्षेत्र में पंजाब व हरियाणा से भी आगे  पहुंचेगा: मुख्यमंत्री डॉ. यादव",
+      "summary": "ग्वालियर, कृषि के क्षेत्र में पंजाब व हरियाणा से भी आगे  पहुंचेगा: मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gwalior-will-surpass-even-punjab-and-haryana-in-the-agriculture-sector-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "1955ce68",
+      "title": "धान से हटकर सोयाबीन-अरहर की ओर बढ़ेंगे किसान, सरकार ने फसल विविधीकरण पर दिया जोर",
+      "summary": "धान से हटकर सोयाबीन-अरहर की ओर बढ़ेंगे किसान, सरकार ने फसल विविधीकरण पर दिया जोर",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-to-shift-from-paddy-to-soybean-and-pigeon-pea-government-emphasizes-crop-diversification/",
+      "important": false
+    },
+    {
+      "id": "2af201e8",
+      "title": "एक ही खेत से डबल कमाई, किसान ने सिंघाड़े के साथ शुरू किया मछली पालन; दोगुना हुआ मुनाफा",
+      "summary": "एक ही खेत से डबल कमाई, किसान ने सिंघाड़े के साथ शुरू किया मछली पालन; दोगुना हुआ मुनाफा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/double-earnings-from-the-same-field-farmer-starts-fish-farming-alongside-water-chestnuts-profits-doubled/",
+      "important": false
+    },
+    {
+      "id": "ae643a7c",
+      "title": "मिर्च में लीफ कर्ल वायरस और कीटों का खतरा, वैज्ञानिकों ने बताया कैसे बचाएं फसल",
+      "summary": "मिर्च में लीफ कर्ल वायरस और कीटों का खतरा, वैज्ञानिकों ने बताया कैसे बचाएं फसल",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-leaf-curl-virus-and-pests-in-chili-crops-scientists-explain-how-to-protect-the-crop/",
+      "important": false
+    },
+    {
+      "id": "f1e934d6",
+      "title": "राजस्थान कृषि विभाग भर्ती: 771 अभ्यर्थियों के दस्तावेज सत्यापन का शेड्यूल जारी, 2 सितंबर से प्रक्रिया होगी शुरू",
+      "summary": "राजस्थान कृषि विभाग भर्ती: 771 अभ्यर्थियों के दस्तावेज सत्यापन का शेड्यूल जारी, 2 सितंबर से प्रक्रिया होगी शुरू",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-agriculture-department-recruitment-document-verification-schedule-released-for-771-candidates-process-to-begin-on-september-2/",
+      "important": false
+    },
+    {
+      "id": "a7ea0c1b",
+      "title": "सहकारी समिति की लापरवाही से अटका फसल बीमा, जनसुनवाई में शिकायत के बाद किसानों को मिली राहत",
+      "summary": "सहकारी समिति की लापरवाही से अटका फसल बीमा, जनसुनवाई में शिकायत के बाद किसानों को मिली राहत",
+      "level": "state",
+      "category": "insurance",
+      "date": "2026-08-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/crop-insurance-delayed-due-to-cooperative-societys-negligence-farmers-get-relief-after-complaint-at-public-hearing/",
+      "important": false
+    },
     {
       "id": "5e5224e0",
       "title": "रायसेन में धानुका एग्रीटेक की मेगा किसान बैठक, 250 से अधिक किसानों ने लिया भाग",
@@ -462,94 +550,6 @@
       "date": "2026-08-22",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/keep-a-close-watch-on-the-pond-water-for-fish-farming-during-the-rainy-season/",
-      "important": false
-    },
-    {
-      "id": "80b4b663",
-      "title": "उत्तर प्रदेश में मत्स्य पालन को मिलेगा बढ़ावा, PMMSY के तहत 24 अगस्त तक ऑनलाइन आवेदन",
-      "summary": "उत्तर प्रदेश में मत्स्य पालन को मिलेगा बढ़ावा, PMMSY के तहत 24 अगस्त तक ऑनलाइन आवेदन",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/fisheries-sector-in-uttar-pradesh-to-get-a-boost-online-applications-under-pmmsy-open-until-august-24/",
-      "important": false
-    },
-    {
-      "id": "b9313b0f",
-      "title": "यूपी के आलू किसानों को योगी सरकार की बड़ी राहत, भाव गिरने पर मिलेगा अनुदान; कोल्ड स्टोरेज और बीज पर भी सहायता",
-      "summary": "यूपी के आलू किसानों को योगी सरकार की बड़ी राहत, भाव गिरने पर मिलेगा अनुदान; कोल्ड स्टोरेज और बीज पर भी सहायता",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-relief-for-up-potato-farmers-from-the-yogi-government-subsidies-to-be-provided-if-prices-fall-assistance-also-available-for-cold-storage-and-seeds/",
-      "important": false
-    },
-    {
-      "id": "a63889ad",
-      "title": "लम्पी स्किन डिजीज को लेकर पशुपालकों को सतर्क रहने की सलाह",
-      "summary": "लम्पी स्किन डिजीज को लेकर पशुपालकों को सतर्क रहने की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/livestock-owners-advised-to-remain-vigilant-regarding-lumpy-skin-disease/",
-      "important": false
-    },
-    {
-      "id": "23d72164",
-      "title": "बारिश के मौसम में दूषित जल के सेवन से बचें",
-      "summary": "बारिश के मौसम में दूषित जल के सेवन से बचें",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/avoid-consuming-contaminated-water-during-the-rainy-season/",
-      "important": false
-    },
-    {
-      "id": "b8dea7d9",
-      "title": "एमपी में गौशालाओं को मिलेगा ₹40 प्रतिदिन प्रति गौवंश अनुदान, 2026-27 के लिए ₹620.50 करोड़ का बजट",
-      "summary": "एमपी में गौशालाओं को मिलेगा ₹40 प्रतिदिन प्रति गौवंश अनुदान, 2026-27 के लिए ₹620.50 करोड़ का बजट",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/cowsheds-in-mp-to-receive-a-subsidy-of-%e2%82%b940-per-bovine-per-day-budget-of-%e2%82%b9620-50-crore-allocated-for-2026-27/",
-      "important": false
-    },
-    {
-      "id": "ba38f351",
-      "title": "बिजली की चिंता खत्म, सोलर पंप से खेतों की सिंचाई आसान; छत्तीसगढ़ में किसानों के लिए वरदान बनी सौर सुजला योजना",
-      "summary": "बिजली की चिंता खत्म, सोलर पंप से खेतों की सिंचाई आसान; छत्तीसगढ़ में किसानों के लिए वरदान बनी सौर सुजला योजना",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/no-more-worries-about-electricity-solar-pumps-make-farm-irrigation-easy-solar-sujala-yojana-has-become-a-boon-for-farmers-in-chhattisgarh/",
-      "important": false
-    },
-    {
-      "id": "9d29751e",
-      "title": "मध्यप्रदेश के पांच जिलों में अति भारी वर्षा की चेतावनी",
-      "summary": "मध्यप्रदेश के पांच जिलों में अति भारी वर्षा की चेतावनी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/warning-of-extremely-heavy-rainfall-in-five-districts-of-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "eee592e8",
-      "title": "10 साल बाद पहली बार चीनी आयात करेगा भारत, सरकार ने 10 लाख टन ड्यूटी-फ्री आयात को दी मंजूरी",
-      "summary": "10 साल बाद पहली बार चीनी आयात करेगा भारत, सरकार ने 10 लाख टन ड्यूटी-फ्री आयात को दी मंजूरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/india-to-import-sugar-for-the-first-time-in-10-years-government-approves-duty-free-import-of-1-million-tonnes/",
       "important": false
     }
   ]
