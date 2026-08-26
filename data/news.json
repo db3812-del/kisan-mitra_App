@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-26T01:41:40Z",
-  "new_count": 0,
+  "updated": "2026-08-26T06:57:10Z",
+  "new_count": 2,
   "articles": [
+    {
+      "id": "5e5224e0",
+      "title": "रायसेन में धानुका एग्रीटेक की मेगा किसान बैठक, 250 से अधिक किसानों ने लिया भाग",
+      "summary": "रायसेन में धानुका एग्रीटेक की मेगा किसान बैठक, 250 से अधिक किसानों ने लिया भाग",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/dhanuka-agritechs-mega-farmers-meeting-in-raisen-over-250-farmers-participated/",
+      "important": false
+    },
+    {
+      "id": "1c052558",
+      "title": "कृषि शिक्षा में बड़े सुधार की तैयारी: तकनीक, शोध और किसानों से जुड़ाव पर जोर",
+      "summary": "कृषि शिक्षा में बड़े सुधार की तैयारी: तकनीक, शोध और किसानों से जुड़ाव पर जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/plans-for-major-reforms-in-agricultural-education-focus-on-technology-research-and-engagement-with-farmers/",
+      "important": false
+    },
     {
       "id": "bc6d3c7e",
       "title": "खंडवा : मुख्यमंत्री ने किसानों से फार्मर आईडी बनाने की अपील की",
@@ -528,28 +550,6 @@
       "date": "2026-08-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/india-to-import-sugar-for-the-first-time-in-10-years-government-approves-duty-free-import-of-1-million-tonnes/",
-      "important": false
-    },
-    {
-      "id": "1803b499",
-      "title": "आज का गेहूं मंडी रेट (21 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (21 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-21-august-2026/",
-      "important": false
-    },
-    {
-      "id": "69588fb2",
-      "title": "आज का धान मंडी रेट (21 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (21 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-21-august-2026/",
       "important": false
     }
   ]
