@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-27T08:37:44Z",
-  "new_count": 0,
+  "updated": "2026-08-27T22:05:03Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "e0cb8651",
+      "title": "भारत का चीनी उद्योग 2026: चीनी उत्पादन, कीमतें, इथेनॉल और बाजार का हाल",
+      "summary": "भारत का चीनी उद्योग 2026: चीनी उत्पादन, कीमतें, इथेनॉल और बाजार का हाल",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/indias-sugar-industry-2026-sugar-production-prices-ethanol-and-market-outlook/",
+      "important": false
+    },
+    {
+      "id": "392dfb7d",
+      "title": "आज का मक्का मंडी रेट (27 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (27 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-27-august-2026/",
+      "important": false
+    },
+    {
+      "id": "18aaad03",
+      "title": "सरकार ने प्रमुख खपत केंद्रों तक प्याज पहुंचाने के लिए रेल और सड़क परिवहन का हाइब्रिड मॉडल अपनाया",
+      "summary": "सरकार ने प्रमुख खपत केंद्रों तक प्याज पहुंचाने के लिए रेल और सड़क परिवहन का हाइब्रिड मॉडल अपनाया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/the-government-adopted-a-hybrid-model-of-rail-and-road-transport-to-deliver-onions-to-major-consumption-centers/",
+      "important": false
+    },
+    {
+      "id": "a724ce28",
+      "title": "आज का सोयाबीन मंडी रेट (27 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (27 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-27-august-2026/",
+      "important": false
+    },
+    {
+      "id": "846eba3b",
+      "title": "छतरपुर, टीकमगढ़ और निवाड़ी जिलों में अति भारी वर्षा होने की संभावना",
+      "summary": "छतरपुर, टीकमगढ़ और निवाड़ी जिलों में अति भारी वर्षा होने की संभावना",
+      "level": "state",
+      "category": "price",
+      "date": "2026-08-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/possibility-of-extremely-heavy-rainfall-in-chhatarpur-tikamgarh-and-niwari-districts/",
+      "important": false
+    },
+    {
+      "id": "7fb4f930",
+      "title": "भारत में आठ नए कीटनाशकों को मंजूरी, 475वीं पंजीकरण समिति की बैठक में अहम फैसले",
+      "summary": "भारत में आठ नए कीटनाशकों को मंजूरी, 475वीं पंजीकरण समिति की बैठक में अहम फैसले",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/eight-new-pesticides-approved-in-india-key-decisions-taken-at-the-475th-registration-committee-meeting/",
+      "important": false
+    },
+    {
+      "id": "5d084f0b",
+      "title": "विजिलेंस पब्लिसिटी ने नीम के 51 पौधे रोपित किए",
+      "summary": "विजिलेंस पब्लिसिटी ने नीम के 51 पौधे रोपित किए",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/the-vigilance-publicity-wing-planted-51-neem-saplings/",
+      "important": false
+    },
+    {
+      "id": "17b9a6d8",
+      "title": "प्राकृतिक खेती को मिलेगा बढ़ावा, खरगोन में स्थापित होंगे 10 बायो इनपुट रिसोर्स सेंटर",
+      "summary": "प्राकृतिक खेती को मिलेगा बढ़ावा, खरगोन में स्थापित होंगे 10 बायो इनपुट रिसोर्स सेंटर",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/natural-farming-to-get-a-boost-10-bio-input-resource-centers-to-be-set-up-in-khargone/",
+      "important": false
+    },
     {
       "id": "6c70bc1d",
       "title": "दतिया जिले में अत्यधिक भारी वर्षा का रेड अलर्ट जारी",
@@ -462,94 +550,6 @@
       "date": "2026-08-22",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/for-the-first-time-in-guna-rose-cultivation-will-be-carried-out-using-sensors-water-and-fertilizer-application-will-be-controlled-via-automation-and-fertigation-within-polyhouses/",
-      "important": false
-    },
-    {
-      "id": "841a2227",
-      "title": "बालाघाट : धान ट्रायल का अवलोकन, अधिकारियों व वैज्ञानिकों ने किया फसल परीक्षण",
-      "summary": "बालाघाट : धान ट्रायल का अवलोकन, अधिकारियों व वैज्ञानिकों ने किया फसल परीक्षण",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balaghat-paddy-trial-inspected-officials-and-scientists-conducted-crop-testing/",
-      "important": false
-    },
-    {
-      "id": "8956fe2c",
-      "title": "सिवनी: पशु कल्याण एवं गौवंश संरक्षण को लेकर बैठक आयोजित",
-      "summary": "सिवनी: पशु कल्याण एवं गौवंश संरक्षण को लेकर बैठक आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seoni-meeting-held-regarding-animal-welfare-and-the-protection-of-cattle/",
-      "important": false
-    },
-    {
-      "id": "b0480043",
-      "title": "सिवनी: क्रॉप कैफेटेरिया के माध्यम से किसानों को नवीनतम किस्मों की जानकारी दी",
-      "summary": "सिवनी: क्रॉप कैफेटेरिया के माध्यम से किसानों को नवीनतम किस्मों की जानकारी दी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seoni-farmers-informed-about-the-latest-varieties-through-a-crop-cafeteria/",
-      "important": false
-    },
-    {
-      "id": "0e85ffca",
-      "title": "मंडला: 15 सितंबर तक चलेगा एग्रीस्टेक पंजीयन एवं अग्रिम उर्वरक उठाव अभियान",
-      "summary": "मंडला: 15 सितंबर तक चलेगा एग्रीस्टेक पंजीयन एवं अग्रिम उर्वरक उठाव अभियान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mandla-agristack-registration-and-advance-fertilizer-lifting-campaign-to-continue-until-september-15/",
-      "important": false
-    },
-    {
-      "id": "ae6c902f",
-      "title": "मोटे अनाज की बढ़ती मांग के बीच युवाओं को मिली प्रोसेसिंग की ट्रेनिंग, सीखें कुकीज से खाखरा तक बनाना",
-      "summary": "मोटे अनाज की बढ़ती मांग के बीच युवाओं को मिली प्रोसेसिंग की ट्रेनिंग, सीखें कुकीज से खाखरा तक बनाना",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/amidst-the-rising-demand-for-millets-youth-receive-processing-training-learn-to-make-everything-from-cookies-to-khakhra/",
-      "important": false
-    },
-    {
-      "id": "f8f4f01f",
-      "title": "रतलाम : मुख्यमंत्री मछुआ समृद्धि योजना अंतर्गत 3 सितंबर तक आवेदन आमंत्रित",
-      "summary": "रतलाम : मुख्यमंत्री मछुआ समृद्धि योजना अंतर्गत 3 सितंबर तक आवेदन आमंत्रित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ratlam-applications-invited-until-september-3-under-the-chief-ministers-fishermen-prosperity-scheme/",
-      "important": false
-    },
-    {
-      "id": "955ada04",
-      "title": "किसानों के लिए ‘कवच’ बनी सरकार की नई योजना, 5 हजार किसानों को मिलेगा फिर से कर्ज का सहारा",
-      "summary": "किसानों के लिए ‘कवच’ बनी सरकार की नई योजना, 5 हजार किसानों को मिलेगा फिर से कर्ज का सहारा",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/governments-new-scheme-becomes-a-shield-for-farmers-5000-farmers-to-get-credit-support-again/",
-      "important": false
-    },
-    {
-      "id": "bdc94b5c",
-      "title": "बरसात में मछली पालन के लिए तालाब के पानी पर रखें विशेष नजर",
-      "summary": "बरसात में मछली पालन के लिए तालाब के पानी पर रखें विशेष नजर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/keep-a-close-watch-on-the-pond-water-for-fish-farming-during-the-rainy-season/",
       "important": false
     }
   ]
