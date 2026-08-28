@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-28T10:50:02Z",
-  "new_count": 0,
+  "updated": "2026-08-28T22:02:56Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "886d3c7d",
+      "title": "मध्य प्रदेश में 2026 सीजन में 5.33 लाख टन ग्रीष्मकालीन मूंग की MSP पर खरीद",
+      "summary": "मध्य प्रदेश में 2026 सीजन में 5.33 लाख टन ग्रीष्मकालीन मूंग की MSP पर खरीद",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/procurement-of-5-33-lakh-tonnes-of-summer-moong-at-msp-in-madhya-pradesh-during-the-2026-season/",
+      "important": true
+    },
+    {
+      "id": "e9000d46",
+      "title": "सोयाबीन किसानों के लिए अलर्ट! फसल में एन्थ्रेक्नोज, पीला मोजेक समेत इन कीटों का खतरा, कृषि विभाग ने जारी की सलाह",
+      "summary": "सोयाबीन किसानों के लिए अलर्ट! फसल में एन्थ्रेक्नोज, पीला मोजेक समेत इन कीटों का खतरा, कृषि विभाग ने जारी की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/alert-for-soybean-farmers-risk-of-anthracnose-yellow-mosaic-and-specific-pests-agriculture-department-issues-advisory/",
+      "important": false
+    },
+    {
+      "id": "8be61d61",
+      "title": "छत्तीसगढ़ में अब डिजिटल होगी गिरदावरी, नारायणपुर के 176 गांवों में शुरू हुआ क्रॉप सर्वे",
+      "summary": "छत्तीसगढ़ में अब डिजिटल होगी गिरदावरी, नारायणपुर के 176 गांवों में शुरू हुआ क्रॉप सर्वे",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/crop-survey-goes-digital-in-chhattisgarh-process-begins-in-176-villages-of-narayanpur/",
+      "important": false
+    },
+    {
+      "id": "a9241993",
+      "title": "यूपी के गन्ना किसानों को बड़ी राहत, 94 फीसदी से अधिक भुगतान हुआ, 99 चीनी मिलों ने चुकाया पूरा बकाया",
+      "summary": "यूपी के गन्ना किसानों को बड़ी राहत, 94 फीसदी से अधिक भुगतान हुआ, 99 चीनी मिलों ने चुकाया पूरा बकाया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-relief-for-up-sugarcane-farmers-over-94-of-payments-made-and-99-sugar-mills-have-cleared-all-outstanding-dues/",
+      "important": false
+    },
+    {
+      "id": "3ce05ced",
+      "title": "कपास की बुवाई पिछले साल के आसपास, सितंबर की बारिश पर टिकी अब फसल की उम्मीद",
+      "summary": "कपास की बुवाई पिछले साल के आसपास, सितंबर की बारिश पर टिकी अब फसल की उम्मीद",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/cotton-sowing-is-on-par-with-last-year-crop-prospects-now-hinge-on-september-rainfall/",
+      "important": false
+    },
+    {
+      "id": "5458bd48",
+      "title": "पशुओं का टीकाकरण बना किसानों की ढाल, FMD के प्रकोप में आई बड़ी कमी",
+      "summary": "पशुओं का टीकाकरण बना किसानों की ढाल, FMD के प्रकोप में आई बड़ी कमी",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-08-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/livestock-vaccination-becomes-a-shield-for-farmers-significant-drop-in-fmd-outbreaks/",
+      "important": false
+    },
+    {
+      "id": "fa8301e5",
+      "title": "कर्नाटक में सूखे की मार से चावल, चीनी और प्याज महंगे, बिगड़ने लगा घरेलू बजट",
+      "summary": "कर्नाटक में सूखे की मार से चावल, चीनी और प्याज महंगे, बिगड़ने लगा घरेलू बजट",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/drought-in-karnataka-drives-up-prices-of-rice-sugar-and-onions-household-budgets-begin-to-feel-the-strain/",
+      "important": false
+    },
     {
       "id": "e0cb8651",
       "title": "भारत का चीनी उद्योग 2026: चीनी उत्पादन, कीमतें, इथेनॉल और बाजार का हाल",
@@ -473,83 +550,6 @@
       "date": "2026-08-23",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/shahdol-union-joint-secretary-gathered-information-about-horticultural-crops-and-assistance-in-the-field/",
-      "important": false
-    },
-    {
-      "id": "f346e0bb",
-      "title": "डिजिटल कृषि मिशन की बढ़ी रफ्तार, 10.41 करोड़ Farmer ID बनीं; 5.9 लाख गांवों की मैपिंग पूरी",
-      "summary": "डिजिटल कृषि मिशन की बढ़ी रफ्तार, 10.41 करोड़ Farmer ID बनीं; 5.9 लाख गांवों की मैपिंग पूरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/digital-agriculture-mission-gains-momentum-10-41-crore-farmer-ids-generated-mapping-of-5-9-lakh-villages-completed/",
-      "important": false
-    },
-    {
-      "id": "47883139",
-      "title": "शहडोल कलेक्टर ने किया ड्रैगन फ्रूट खेती का निरीक्षण",
-      "summary": "शहडोल कलेक्टर ने किया ड्रैगन फ्रूट खेती का निरीक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shahdol-collector-inspected-dragon-fruit-cultivation/",
-      "important": false
-    },
-    {
-      "id": "0471baee",
-      "title": "नीमच : डेयरी प्लस इकाई का जिला पंचायत सीईओ ने किया निरीक्षण",
-      "summary": "नीमच : डेयरी प्लस इकाई का जिला पंचायत सीईओ ने किया निरीक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/neemuch-district-panchayat-ceo-inspects-dairy-plus-unit/",
-      "important": false
-    },
-    {
-      "id": "de2769dd",
-      "title": "रतलाम: किसान हितैषी ई-विकास प्रणाली 2.0 लागू",
-      "summary": "रतलाम: किसान हितैषी ई-विकास प्रणाली 2.0 लागू",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ratlam-farmer-friendly-e-vikas-system-2-0-implemented/",
-      "important": false
-    },
-    {
-      "id": "80221460",
-      "title": "45 एकड़ में जैविक खेती, साथ में एग्रो टूरिज्म और गौशाला; इंदौर के किसान ने तैयार किया कमाई का अनोखा मॉडल",
-      "summary": "45 एकड़ में जैविक खेती, साथ में एग्रो टूरिज्म और गौशाला; इंदौर के किसान ने तैयार किया कमाई का अनोखा मॉडल",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/organic-farming-on-45-acres-combined-with-agro-tourism-and-a-cowshed-an-indore-farmer-has-developed-a-unique-revenue-model/",
-      "important": false
-    },
-    {
-      "id": "59346208",
-      "title": "छत्तीसगढ़: धमतरी में फसल बीमा का टूटा 5 साल का रिकॉर्ड, खरीफ 2026 में 80,920 किसानों ने कराया बीमा",
-      "summary": "छत्तीसगढ़: धमतरी में फसल बीमा का टूटा 5 साल का रिकॉर्ड, खरीफ 2026 में 80,920 किसानों ने कराया बीमा",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhattisgarh-5-year-record-for-crop-insurance-broken-in-dhamtari-80920-farmers-insured-for-kharif-2026/",
-      "important": false
-    },
-    {
-      "id": "a594e5d2",
-      "title": "गुना में पहली बार सेंसर से होगी गुलाब की खेती, पॉलीहाउस में ऑटोमेशन-फर्टिगेशन से नियंत्रित होगा पानी और खाद",
-      "summary": "गुना में पहली बार सेंसर से होगी गुलाब की खेती, पॉलीहाउस में ऑटोमेशन-फर्टिगेशन से नियंत्रित होगा पानी और खाद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/for-the-first-time-in-guna-rose-cultivation-will-be-carried-out-using-sensors-water-and-fertilizer-application-will-be-controlled-via-automation-and-fertigation-within-polyhouses/",
       "important": false
     }
   ]
