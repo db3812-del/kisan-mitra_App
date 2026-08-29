@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-29T16:32:19Z",
-  "new_count": 0,
+  "updated": "2026-08-29T20:45:41Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "241400c1",
+      "title": "15 अक्टूबर से गन्ने की पेराई शुरू करने की सलाह : सकारात्मक पहल",
+      "summary": "15 अक्टूबर से गन्ने की पेराई शुरू करने की सलाह : सकारात्मक पहल",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/advice-to-start-sugarcane-crushing-from-october-15-a-positive-initiative/",
+      "important": false
+    },
+    {
+      "id": "631bc891",
+      "title": "नीमच : किसानों को फसलों की सतत निगरानी की सलाह",
+      "summary": "नीमच : किसानों को फसलों की सतत निगरानी की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/neemuch-farmers-advised-to-continuously-monitor-crops/",
+      "important": false
+    },
+    {
+      "id": "09d3a1ed",
+      "title": "मंडला और बालाघाट जिलों में अति भारी वर्षा की चेतावनी",
+      "summary": "मंडला और बालाघाट जिलों में अति भारी वर्षा की चेतावनी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/warning-of-extremely-heavy-rainfall-in-mandla-and-balaghat-districts/",
+      "important": false
+    },
+    {
+      "id": "1ec443fd",
+      "title": "आज का गेहूं मंडी रेट (29 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (29 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-29-august-2026/",
+      "important": false
+    },
+    {
+      "id": "c8c3054e",
+      "title": "आज का मक्का मंडी रेट (29 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (29 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-29-august-2026/",
+      "important": false
+    },
+    {
+      "id": "32d4026f",
+      "title": "आज का धान मंडी रेट (29 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (29 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-29-august-2026/",
+      "important": false
+    },
+    {
+      "id": "bbfd7dbb",
+      "title": "आज का सोयाबीन मंडी रेट (29 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (29 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-29-august-2026/",
+      "important": false
+    },
+    {
+      "id": "2e19ac97",
+      "title": "नाबार्ड के आईने में ग्रामीण-शहरी आय का अंतर और युवा किसान का भविष्य",
+      "summary": "नाबार्ड के आईने में ग्रामीण-शहरी आय का अंतर और युवा किसान का भविष्य",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-rural-urban-income-gap-and-the-future-of-young-farmers-a-nabard-perspective/",
+      "important": false
+    },
     {
       "id": "886d3c7d",
       "title": "मध्य प्रदेश में 2026 सीजन में 5.33 लाख टन ग्रीष्मकालीन मूंग की MSP पर खरीद",
@@ -462,94 +550,6 @@
       "date": "2026-08-23",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/singrauli-farmers-will-now-receive-fertilizers-through-the-e-vikas-system-2-0/",
-      "important": false
-    },
-    {
-      "id": "6cff1fdf",
-      "title": "ई-विकास 2.0 से किसानों को उर्वरक खरीदी में मिलेगी अधिक सुविधा",
-      "summary": "ई-विकास 2.0 से किसानों को उर्वरक खरीदी में मिलेगी अधिक सुविधा",
-      "level": "state",
-      "category": "price",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-will-get-greater-convenience-in-purchasing-fertilizers-through-e-vikas-2-0/",
-      "important": false
-    },
-    {
-      "id": "373eabb3",
-      "title": "प्रधानमंत्री धन-धान्य कृषि योजना के क्रियान्वयन में डिंडोरी जिला देश में प्रथम",
-      "summary": "प्रधानमंत्री धन-धान्य कृषि योजना के क्रियान्वयन में डिंडोरी जिला देश में प्रथम",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-district-is-first-in-the-country-in-the-implementation-of-prime-ministers-wealth-farming-scheme/",
-      "important": false
-    },
-    {
-      "id": "26c56d32",
-      "title": "डिंडोरी : किसानों को मिली अपनी पसंद के उर्वरक की खरीदी की सुविधा",
-      "summary": "डिंडोरी : किसानों को मिली अपनी पसंद के उर्वरक की खरीदी की सुविधा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-farmers-get-the-facility-to-purchase-fertilizers-of-their-choice/",
-      "important": false
-    },
-    {
-      "id": "83e2039a",
-      "title": "Weather Today: ओडिशा में बहुत भारी बारिश का अलर्ट, बिहार-झारखंड समेत कई राज्यों में बरसेंगे बादल; IMD ने जारी किया अपडेट",
-      "summary": "Weather Today: ओडिशा में बहुत भारी बारिश का अलर्ट, बिहार-झारखंड समेत कई राज्यों में बरसेंगे बादल; IMD ने जारी किया अपडेट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-alert-for-very-heavy-rain-in-odisha-rain-expected-in-several-states-including-bihar-and-jharkhand-imd-issues-update/",
-      "important": false
-    },
-    {
-      "id": "1281f589",
-      "title": "एफपीओ प्राकृतिक खेती को प्रोत्साहित – श्री मोदी",
-      "summary": "एफपीओ प्राकृतिक खेती को प्रोत्साहित – श्री मोदी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/fpos-encourage-natural-farming-shri-modi/",
-      "important": false
-    },
-    {
-      "id": "14938298",
-      "title": "भोपाल में कृषि विस्तार अधिकारियों धरना ई-अटेंडेंस के विरोध में उठी आवाज",
-      "summary": "भोपाल में कृषि विस्तार अधिकारियों धरना ई-अटेंडेंस के विरोध में उठी आवाज",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agriculture-extension-officers-in-bhopal-stage-a-protest-voices-raised-against-e-attendance/",
-      "important": false
-    },
-    {
-      "id": "8fad5d8b",
-      "title": "सिंगरौली: अनुदान से मिला आधुनिक ट्रैक्टर, सरयू प्रसाद की खेती हुई आसान",
-      "summary": "सिंगरौली: अनुदान से मिला आधुनिक ट्रैक्टर, सरयू प्रसाद की खेती हुई आसान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/singrauli-modern-tractor-acquired-through-subsidy-makes-farming-easier-for-saryu-prasad/",
-      "important": false
-    },
-    {
-      "id": "24abaa16",
-      "title": "शहडोल: केंद्रीय संयुक्त सचिव ने खेत में ली उद्यानिकी फसलों एवं सहायता की जानकारी",
-      "summary": "शहडोल: केंद्रीय संयुक्त सचिव ने खेत में ली उद्यानिकी फसलों एवं सहायता की जानकारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shahdol-union-joint-secretary-gathered-information-about-horticultural-crops-and-assistance-in-the-field/",
       "important": false
     }
   ]
