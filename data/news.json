@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-30T11:40:00Z",
-  "new_count": 0,
+  "updated": "2026-08-30T16:26:55Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "65ee634f",
+      "title": "रायपुर: उर्वरक की कालाबाजारी पर साय सरकार सख्त, खरीफ 2026 में 516 मामलों में कार्रवाई",
+      "summary": "रायपुर: उर्वरक की कालाबाजारी पर साय सरकार सख्त, खरीफ 2026 में 516 मामलों में कार्रवाई",
+      "level": "central",
+      "category": "price",
+      "date": "2026-08-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-sai-government-cracks-down-on-fertilizer-black-marketing-action-taken-in-516-cases-during-kharif-2026/",
+      "important": false
+    },
+    {
+      "id": "a49069ee",
+      "title": "धान में लीफ फोल्डर एवं पीला तना छेदक कीट की निगरानी बढ़ाएं किसान: आईसीएआर-एनआईबीएसएम",
+      "summary": "धान में लीफ फोल्डर एवं पीला तना छेदक कीट की निगरानी बढ़ाएं किसान: आईसीएआर-एनआईबीएसएम",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-should-step-up-monitoring-for-leaf-folder-and-yellow-stem-borer-pests-in-paddy-icar-nibsm/",
+      "important": false
+    },
+    {
+      "id": "f3702c74",
+      "title": "झाबुआ में बढ़ेगा आम-अमरूद का रकबा, कलेक्टर ने दिए क्लस्टर विस्तार के निर्देश",
+      "summary": "झाबुआ में बढ़ेगा आम-अमरूद का रकबा, कलेक्टर ने दिए क्लस्टर विस्तार के निर्देश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mango-and-guava-cultivation-area-to-expand-in-jhabua-collector-issues-directives-for-cluster-expansion/",
+      "important": false
+    },
+    {
+      "id": "81e8ae46",
+      "title": "मध्यप्रदेश: खरीफ उपार्जन के लिए कृषक पंजीयन 15 सितंबर से होगा शुरू",
+      "summary": "मध्यप्रदेश: खरीफ उपार्जन के लिए कृषक पंजीयन 15 सितंबर से होगा शुरू",
+      "level": "state",
+      "category": "price",
+      "date": "2026-08-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-farmer-registration-for-kharif-procurement-to-begin-on-september-15/",
+      "important": false
+    },
+    {
+      "id": "b9cd61d1",
+      "title": "थाईपिंग अमरूद की खेती से किसान कमा रहे 8 से 10 लाख रुपये तक,  गुना कलेक्टर कन्याल ने उन्नत कृषक के फार्म का किया भ्रमण",
+      "summary": "थाईपिंग अमरूद की खेती से किसान कमा रहे 8 से 10 लाख रुपये तक,  गुना कलेक्टर कन्याल ने उन्नत कृषक के फार्म का किया भ्रमण",
+      "level": "state",
+      "category": "general",
+      "date": "2026-08-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-are-earning-between-%e2%82%b98-lakh-and-%e2%82%b910-lakh-from-taiping-guava-cultivation-guna-collector-kanyal-visited-a-progressive-farmers-farm/",
+      "important": false
+    },
+    {
+      "id": "34a327a0",
+      "title": "सतावर की खेती से किसानों को दोहरा फायदा, कम खर्च में अतिरिक्त आमदनी का मौका",
+      "summary": "सतावर की खेती से किसानों को दोहरा फायदा, कम खर्च में अतिरिक्त आमदनी का मौका",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-reap-double-benefits-from-shatavari-cultivation-an-opportunity-for-extra-income-at-low-cost/",
+      "important": false
+    },
+    {
+      "id": "44e04ad4",
+      "title": "उपराष्ट्रपति कल करेंगे ‘मिशन रंगीन मछली 2031’ का विमोचन, अगत्ती में जुटेंगे मछुआरे और मत्स्य पालक",
+      "summary": "उपराष्ट्रपति कल करेंगे ‘मिशन रंगीन मछली 2031’ का विमोचन, अगत्ती में जुटेंगे मछुआरे और मत्स्य पालक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/vice-president-to-launch-mission-ornamental-fish-2031-tomorrow-fishers-and-fish-farmers-to-gather-in-agatti/",
+      "important": false
+    },
+    {
+      "id": "12c20a25",
+      "title": "रायपुर: कीटनाशक भंडारण में नियमों की अनदेखी पर सख्ती, बालाजी कृषि केंद्र समेत 34 कंपनियों को नोटिस",
+      "summary": "रायपुर: कीटनाशक भंडारण में नियमों की अनदेखी पर सख्ती, बालाजी कृषि केंद्र समेत 34 कंपनियों को नोटिस",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-crackdown-on-violation-of-pesticide-storage-norms-notices-issued-to-34-companies-including-balaji-krishi-kendra/",
+      "important": false
+    },
     {
       "id": "241400c1",
       "title": "15 अक्टूबर से गन्ने की पेराई शुरू करने की सलाह : सकारात्मक पहल",
@@ -462,94 +550,6 @@
       "date": "2026-08-24",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/farmers-must-get-their-farmer-id-made-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "61bd3950",
-      "title": "किसानों को आधुनिक तकनीक का लाभ दिलाने के लिए राज्य सरकार प्रतिबद्ध – मुख्यमंत्री डॉ यादव",
-      "summary": "किसानों को आधुनिक तकनीक का लाभ दिलाने के लिए राज्य सरकार प्रतिबद्ध – मुख्यमंत्री डॉ यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/state-government-committed-to-providing-farmers-the-benefits-of-modern-technology-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "9228bea0",
-      "title": "आज का गेहूं मंडी रेट (24 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (24 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-24-august-2026/",
-      "important": false
-    },
-    {
-      "id": "e51bb736",
-      "title": "आज का मक्का मंडी रेट (24 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (24 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-24-august-2026/",
-      "important": false
-    },
-    {
-      "id": "4d4bded7",
-      "title": "आज का धान मंडी रेट (24 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (24 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-24-august-2026/",
-      "important": false
-    },
-    {
-      "id": "c44811e0",
-      "title": "आज का सोयाबीन मंडी रेट (24 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (24 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-24-august-2026/",
-      "important": false
-    },
-    {
-      "id": "80e8e294",
-      "title": "राजगढ़, सीधी, डिंडोरी और बालाघाट जिलों में अति भारी वर्षा की चेतावनी",
-      "summary": "राजगढ़, सीधी, डिंडोरी और बालाघाट जिलों में अति भारी वर्षा की चेतावनी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/warning-of-extremely-heavy-rainfall-in-rajgarh-sidhi-dindori-and-balaghat-districts/",
-      "important": false
-    },
-    {
-      "id": "dbf70a6d",
-      "title": "दमोह : समूह बनाकर हरे बैंगन की खेती से अच्छा मुनाफा कमा रहे किसान",
-      "summary": "दमोह : समूह बनाकर हरे बैंगन की खेती से अच्छा मुनाफा कमा रहे किसान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/damoh-farmers-earning-good-profits-by-cultivating-green-eggplants-in-groups/",
-      "important": false
-    },
-    {
-      "id": "550da400",
-      "title": "सिंगरौली: अब ई-विकास प्रणाली 2.0 से किसानों को मिलेगा उर्वरक",
-      "summary": "सिंगरौली: अब ई-विकास प्रणाली 2.0 से किसानों को मिलेगा उर्वरक",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/singrauli-farmers-will-now-receive-fertilizers-through-the-e-vikas-system-2-0/",
       "important": false
     }
   ]
