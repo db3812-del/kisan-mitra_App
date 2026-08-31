@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-31T04:53:57Z",
-  "new_count": 0,
+  "updated": "2026-08-31T13:15:50Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "14913d9f",
+      "title": "97 फीसदी धान रोपनी पूरी, बढ़ी खाद की मांग; कालाबाजारी रोकने के लिए हेल्पलाइन जारी",
+      "summary": "97 फीसदी धान रोपनी पूरी, बढ़ी खाद की मांग; कालाबाजारी रोकने के लिए हेल्पलाइन जारी",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/97-of-paddy-transplantation-complete-demand-for-fertilizer-rises-helpline-launched-to-curb-black-marketing/",
+      "important": false
+    },
+    {
+      "id": "b4a29040",
+      "title": "खाद की कालाबाजारी पर छत्तीसगढ़ में सख्ती, खरीफ सीजन में 516 मामलों में कार्रवाई",
+      "summary": "खाद की कालाबाजारी पर छत्तीसगढ़ में सख्ती, खरीफ सीजन में 516 मामलों में कार्रवाई",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/crackdown-on-fertilizer-black-marketing-in-chhattisgarh-action-taken-in-516-cases-during-the-kharif-season/",
+      "important": false
+    },
+    {
+      "id": "fe76dcfb",
+      "title": "बानी में शुरू हुई अखरोट की तुड़ाई, 3 हजार परिवारों की आजीविका का सहारा",
+      "summary": "बानी में शुरू हुई अखरोट की तुड़ाई, 3 हजार परिवारों की आजीविका का सहारा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/walnut-harvesting-begins-in-bani-a-source-of-livelihood-for-3000-families/",
+      "important": false
+    },
+    {
+      "id": "b34f5ef0",
+      "title": "बैंगन के प्रमुख रोग, लक्षण एवं एकीकृत प्रबंधन",
+      "summary": "बैंगन के प्रमुख रोग, लक्षण एवं एकीकृत प्रबंधन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-08-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-diseases-symptoms-and-integrated-management-of-brinjal/",
+      "important": false
+    },
+    {
+      "id": "a078f6a9",
+      "title": "आज का सोयाबीन मंडी रेट (31 अगस्त 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (31 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-31-august-2026/",
+      "important": false
+    },
+    {
+      "id": "a2127c69",
+      "title": "आज का मक्का मंडी रेट (31 अगस्त 2026)",
+      "summary": "आज का मक्का मंडी रेट (31 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-31-august-2026/",
+      "important": false
+    },
+    {
+      "id": "b6db0bf1",
+      "title": "आज का धान मंडी रेट (31 अगस्त 2026)",
+      "summary": "आज का धान मंडी रेट (31 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-31-august-2026/",
+      "important": false
+    },
+    {
+      "id": "58add2fd",
+      "title": "आज का गेहूं मंडी रेट (31 अगस्त 2026)",
+      "summary": "आज का गेहूं मंडी रेट (31 अगस्त 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-08-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-31-august-2026/",
+      "important": false
+    },
     {
       "id": "65ee634f",
       "title": "रायपुर: उर्वरक की कालाबाजारी पर साय सरकार सख्त, खरीफ 2026 में 516 मामलों में कार्रवाई",
@@ -462,94 +550,6 @@
       "date": "2026-08-25",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/khandwa-chief-minister-appeals-to-farmers-to-create-a-farmer-id/",
-      "important": false
-    },
-    {
-      "id": "2a24aa7d",
-      "title": "आज का गेहूं मंडी रेट (25 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (25 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-25-august-2026/",
-      "important": false
-    },
-    {
-      "id": "bd20f158",
-      "title": "आज का मक्का मंडी रेट (25 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (25 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-25-august-2026/",
-      "important": false
-    },
-    {
-      "id": "42ebb63e",
-      "title": "आज का धान मंडी रेट (25 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (25 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-25-august-2026/",
-      "important": false
-    },
-    {
-      "id": "2eeeb90d",
-      "title": "आज का सोयाबीन मंडी रेट (25 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (25 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-25-august-2026/",
-      "important": false
-    },
-    {
-      "id": "39d37c88",
-      "title": "खरगोन जिले में स्थापित होंगे 10 बायो इनपुट रिसोर्स सेंटर",
-      "summary": "खरगोन जिले में स्थापित होंगे 10 बायो इनपुट रिसोर्स सेंटर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/10-bio-input-resource-centres-to-be-set-up-in-khargone-district/",
-      "important": false
-    },
-    {
-      "id": "d83479a8",
-      "title": "देवास में किसानों को सोयाबीन की उन्नत खेती का प्रशिक्षण, कीट-रोग प्रबंधन से लेकर नमी संरक्षण तक बताईं तकनीकें",
-      "summary": "देवास में किसानों को सोयाबीन की उन्नत खेती का प्रशिक्षण, कीट-रोग प्रबंधन से लेकर नमी संरक्षण तक बताईं तकनीकें",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-dewas-trained-in-advanced-soybean-cultivation-techniques-ranging-from-pest-and-disease-management-to-moisture-conservation-were-explained/",
-      "important": false
-    },
-    {
-      "id": "1c036c7c",
-      "title": "पांढुर्ना में पुराना खाद नए भाव में बेचने की हैट्रिक",
-      "summary": "पांढुर्ना में पुराना खाद नए भाव में बेचने की हैट्रिक",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pandhurna-sees-a-hat-trick-of-incidents-involving-the-sale-of-old-fertilizer-at-new-rates/",
-      "important": false
-    },
-    {
-      "id": "bf9ed301",
-      "title": "किसान अपनी फार्मर आईडी जरूर बनवाएं : मुख्यमंत्री डॉ. यादव",
-      "summary": "किसान अपनी फार्मर आईडी जरूर बनवाएं : मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-must-get-their-farmer-id-made-chief-minister-dr-yadav/",
       "important": false
     }
   ]
