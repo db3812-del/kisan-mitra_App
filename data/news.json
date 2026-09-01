@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-01T11:26:19Z",
-  "new_count": 8,
+  "updated": "2026-09-01T16:22:50Z",
+  "new_count": 6,
   "articles": [
+    {
+      "id": "c5f14da6",
+      "title": "धानुका ने रायसेन के बाम्होरी में आयोजित की मेगा किसान बैठक",
+      "summary": "धानुका ने रायसेन के बाम्होरी में आयोजित की मेगा किसान बैठक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/dhanuka-organized-a-mega-farmers-meeting-in-bamhori-raisen/",
+      "important": false
+    },
+    {
+      "id": "47dfc918",
+      "title": "आज का गेहूं मंडी रेट (01 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (01 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-01-september-2026/",
+      "important": false
+    },
+    {
+      "id": "98314f34",
+      "title": "आज का मक्का मंडी रेट (01 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (01 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-01-september-2026/",
+      "important": false
+    },
+    {
+      "id": "cb0b26d3",
+      "title": "आज का धान मंडी रेट (01 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (01 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-01-september-2026/",
+      "important": false
+    },
+    {
+      "id": "b1630221",
+      "title": "आज का सोयाबीन मंडी रेट (01 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (01 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-01-september-2026/",
+      "important": false
+    },
+    {
+      "id": "0ca75ad2",
+      "title": "कॉर्टेवा ने पायोनियर बीज ब्रांड के 100 वर्ष पूरे होने पर मनाया शताब्दी समारोह",
+      "summary": "कॉर्टेवा ने पायोनियर बीज ब्रांड के 100 वर्ष पूरे होने पर मनाया शताब्दी समारोह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/corteva-celebrated-the-centenary-of-the-pioneer-seed-brand/",
+      "important": false
+    },
     {
       "id": "5cfab464",
       "title": "भारतीय चावल की बढ़ती वैश्विक मांग, 138 देशों से 3,317 खरीदारों ने कराया पंजीयन",
@@ -484,72 +550,6 @@
       "date": "2026-08-27",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/possibility-of-extremely-heavy-rainfall-in-chhatarpur-tikamgarh-and-niwari-districts/",
-      "important": false
-    },
-    {
-      "id": "7fb4f930",
-      "title": "भारत में आठ नए कीटनाशकों को मंजूरी, 475वीं पंजीकरण समिति की बैठक में अहम फैसले",
-      "summary": "भारत में आठ नए कीटनाशकों को मंजूरी, 475वीं पंजीकरण समिति की बैठक में अहम फैसले",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/eight-new-pesticides-approved-in-india-key-decisions-taken-at-the-475th-registration-committee-meeting/",
-      "important": false
-    },
-    {
-      "id": "5d084f0b",
-      "title": "विजिलेंस पब्लिसिटी ने नीम के 51 पौधे रोपित किए",
-      "summary": "विजिलेंस पब्लिसिटी ने नीम के 51 पौधे रोपित किए",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/the-vigilance-publicity-wing-planted-51-neem-saplings/",
-      "important": false
-    },
-    {
-      "id": "17b9a6d8",
-      "title": "प्राकृतिक खेती को मिलेगा बढ़ावा, खरगोन में स्थापित होंगे 10 बायो इनपुट रिसोर्स सेंटर",
-      "summary": "प्राकृतिक खेती को मिलेगा बढ़ावा, खरगोन में स्थापित होंगे 10 बायो इनपुट रिसोर्स सेंटर",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/natural-farming-to-get-a-boost-10-bio-input-resource-centers-to-be-set-up-in-khargone/",
-      "important": false
-    },
-    {
-      "id": "6c70bc1d",
-      "title": "दतिया जिले में अत्यधिक भारी वर्षा का रेड अलर्ट जारी",
-      "summary": "दतिया जिले में अत्यधिक भारी वर्षा का रेड अलर्ट जारी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/red-alert-issued-for-extremely-heavy-rainfall-in-datia-district/",
-      "important": false
-    },
-    {
-      "id": "40b944db",
-      "title": "आज का सोयाबीन मंडी रेट (26 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (26 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-26-august-2026/",
-      "important": false
-    },
-    {
-      "id": "35f0df4e",
-      "title": "ग्वालियर, कृषि के क्षेत्र में पंजाब व हरियाणा से भी आगे  पहुंचेगा: मुख्यमंत्री डॉ. यादव",
-      "summary": "ग्वालियर, कृषि के क्षेत्र में पंजाब व हरियाणा से भी आगे  पहुंचेगा: मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/gwalior-will-surpass-even-punjab-and-haryana-in-the-agriculture-sector-chief-minister-dr-yadav/",
       "important": false
     }
   ]
