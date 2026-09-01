@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-01T04:33:06Z",
-  "new_count": 0,
+  "updated": "2026-09-01T11:26:19Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "5cfab464",
+      "title": "भारतीय चावल की बढ़ती वैश्विक मांग, 138 देशों से 3,317 खरीदारों ने कराया पंजीयन",
+      "summary": "भारतीय चावल की बढ़ती वैश्विक मांग, 138 देशों से 3,317 खरीदारों ने कराया पंजीयन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/rising-global-demand-for-indian-rice-3317-buyers-from-138-countries-have-registered/",
+      "important": false
+    },
+    {
+      "id": "4da7ebea",
+      "title": "महंगी होती थाली ने बढ़ाई पोषण की चिंता, प्रोटीन वाले खाद्य पदार्थों के दाम चढ़े",
+      "summary": "महंगी होती थाली ने बढ़ाई पोषण की चिंता, प्रोटीन वाले खाद्य पदार्थों के दाम चढ़े",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rising-cost-of-meals-raises-nutrition-concerns-prices-of-protein-rich-foods-have-gone-up/",
+      "important": false
+    },
+    {
+      "id": "1b809427",
+      "title": "चंदन की खेती से किसानों की बढ़ सकती है आमदनी, 10 से 25 साल में तैयार होती है लकड़ी",
+      "summary": "चंदन की खेती से किसानों की बढ़ सकती है आमदनी, 10 से 25 साल में तैयार होती है लकड़ी",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sandalwood-cultivation-can-boost-farmers-income-the-wood-takes-10-to-25-years-to-mature/",
+      "important": false
+    },
+    {
+      "id": "ef28e626",
+      "title": "दूध बढ़ाने के लिए सिर्फ नस्ल नहीं, पशु की खुराक भी जरूरी",
+      "summary": "दूध बढ़ाने के लिए सिर्फ नस्ल नहीं, पशु की खुराक भी जरूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/to-increase-milk-yield-not-only-the-breed-but-also-the-animals-feed-is-crucial/",
+      "important": false
+    },
+    {
+      "id": "98966b7d",
+      "title": "आगामी रबी सीजन में गुणवत्तापूर्ण एवं निर्बाध विद्युत आपूर्ति  हो – प्रमुख सचिव ऊर्जा",
+      "summary": "आगामी रबी सीजन में गुणवत्तापूर्ण एवं निर्बाध विद्युत आपूर्ति  हो – प्रमुख सचिव ऊर्जा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ensure-quality-and-uninterrupted-power-supply-during-the-upcoming-rabi-season-principal-secretary-energy/",
+      "important": false
+    },
+    {
+      "id": "e368b8db",
+      "title": "अपर संचालक एवं सहायक संचालक कृषि के पदस्थापना आदेश जारी",
+      "summary": "अपर संचालक एवं सहायक संचालक कृषि के पदस्थापना आदेश जारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/posting-orders-issued-for-the-posts-of-additional-director-and-assistant-director-of-agriculture/",
+      "important": false
+    },
+    {
+      "id": "06b47681",
+      "title": "महिंद्रा ने अगस्त 2026 में 27,595 ट्रैक्टर बेचे, घरेलू बिक्री में 5% की वृद्धि",
+      "summary": "महिंद्रा ने अगस्त 2026 में 27,595 ट्रैक्टर बेचे, घरेलू बिक्री में 5% की वृद्धि",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-sold-27595-tractors-in-august-2026-a-5-increase-in-domestic-sales/",
+      "important": false
+    },
+    {
+      "id": "ebba4c29",
+      "title": "सतना, उमरिया और बालाघाट जिले में अति भारी वर्षा का ऑरेंज अलर्ट",
+      "summary": "सतना, उमरिया और बालाघाट जिले में अति भारी वर्षा का ऑरेंज अलर्ट",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/orange-alert-for-extremely-heavy-rainfall-in-satna-umaria-and-balaghat-districts/",
+      "important": false
+    },
     {
       "id": "14913d9f",
       "title": "97 फीसदी धान रोपनी पूरी, बढ़ी खाद की मांग; कालाबाजारी रोकने के लिए हेल्पलाइन जारी",
@@ -462,94 +550,6 @@
       "date": "2026-08-26",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/gwalior-will-surpass-even-punjab-and-haryana-in-the-agriculture-sector-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "1955ce68",
-      "title": "धान से हटकर सोयाबीन-अरहर की ओर बढ़ेंगे किसान, सरकार ने फसल विविधीकरण पर दिया जोर",
-      "summary": "धान से हटकर सोयाबीन-अरहर की ओर बढ़ेंगे किसान, सरकार ने फसल विविधीकरण पर दिया जोर",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-to-shift-from-paddy-to-soybean-and-pigeon-pea-government-emphasizes-crop-diversification/",
-      "important": false
-    },
-    {
-      "id": "2af201e8",
-      "title": "एक ही खेत से डबल कमाई, किसान ने सिंघाड़े के साथ शुरू किया मछली पालन; दोगुना हुआ मुनाफा",
-      "summary": "एक ही खेत से डबल कमाई, किसान ने सिंघाड़े के साथ शुरू किया मछली पालन; दोगुना हुआ मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/double-earnings-from-the-same-field-farmer-starts-fish-farming-alongside-water-chestnuts-profits-doubled/",
-      "important": false
-    },
-    {
-      "id": "ae643a7c",
-      "title": "मिर्च में लीफ कर्ल वायरस और कीटों का खतरा, वैज्ञानिकों ने बताया कैसे बचाएं फसल",
-      "summary": "मिर्च में लीफ कर्ल वायरस और कीटों का खतरा, वैज्ञानिकों ने बताया कैसे बचाएं फसल",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-leaf-curl-virus-and-pests-in-chili-crops-scientists-explain-how-to-protect-the-crop/",
-      "important": false
-    },
-    {
-      "id": "f1e934d6",
-      "title": "राजस्थान कृषि विभाग भर्ती: 771 अभ्यर्थियों के दस्तावेज सत्यापन का शेड्यूल जारी, 2 सितंबर से प्रक्रिया होगी शुरू",
-      "summary": "राजस्थान कृषि विभाग भर्ती: 771 अभ्यर्थियों के दस्तावेज सत्यापन का शेड्यूल जारी, 2 सितंबर से प्रक्रिया होगी शुरू",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-agriculture-department-recruitment-document-verification-schedule-released-for-771-candidates-process-to-begin-on-september-2/",
-      "important": false
-    },
-    {
-      "id": "a7ea0c1b",
-      "title": "सहकारी समिति की लापरवाही से अटका फसल बीमा, जनसुनवाई में शिकायत के बाद किसानों को मिली राहत",
-      "summary": "सहकारी समिति की लापरवाही से अटका फसल बीमा, जनसुनवाई में शिकायत के बाद किसानों को मिली राहत",
-      "level": "state",
-      "category": "insurance",
-      "date": "2026-08-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/crop-insurance-delayed-due-to-cooperative-societys-negligence-farmers-get-relief-after-complaint-at-public-hearing/",
-      "important": false
-    },
-    {
-      "id": "5e5224e0",
-      "title": "रायसेन में धानुका एग्रीटेक की मेगा किसान बैठक, 250 से अधिक किसानों ने लिया भाग",
-      "summary": "रायसेन में धानुका एग्रीटेक की मेगा किसान बैठक, 250 से अधिक किसानों ने लिया भाग",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/dhanuka-agritechs-mega-farmers-meeting-in-raisen-over-250-farmers-participated/",
-      "important": false
-    },
-    {
-      "id": "1c052558",
-      "title": "कृषि शिक्षा में बड़े सुधार की तैयारी: तकनीक, शोध और किसानों से जुड़ाव पर जोर",
-      "summary": "कृषि शिक्षा में बड़े सुधार की तैयारी: तकनीक, शोध और किसानों से जुड़ाव पर जोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/plans-for-major-reforms-in-agricultural-education-focus-on-technology-research-and-engagement-with-farmers/",
-      "important": false
-    },
-    {
-      "id": "bc6d3c7e",
-      "title": "खंडवा : मुख्यमंत्री ने किसानों से फार्मर आईडी बनाने की अपील की",
-      "summary": "खंडवा : मुख्यमंत्री ने किसानों से फार्मर आईडी बनाने की अपील की",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/khandwa-chief-minister-appeals-to-farmers-to-create-a-farmer-id/",
       "important": false
     }
   ]
