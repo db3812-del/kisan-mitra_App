@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-02T10:59:42Z",
+  "updated": "2026-09-02T16:20:51Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "e35aaef6",
+      "title": "मंदसौर में ग्रामीण युवाओं को मिलेगी बकरी पालन की फ्री ट्रेनिंग, 4 सितंबर से शुरू होगा 12 दिवसीय प्रशिक्षण",
+      "summary": "मंदसौर में ग्रामीण युवाओं को मिलेगी बकरी पालन की फ्री ट्रेनिंग, 4 सितंबर से शुरू होगा 12 दिवसीय प्रशिक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rural-youth-in-mandsaur-to-receive-free-goat-rearing-training-12-day-training-program-begins-on-september-4/",
+      "important": false
+    },
+    {
+      "id": "bedac8b1",
+      "title": "बोनी से 15 दिन पहले करें ये काम, सोयाबीन, चना और मिर्ची को मृदा जनित रोगों से बचाने में मिलेगी मदद",
+      "summary": "बोनी से 15 दिन पहले करें ये काम, सोयाबीन, चना और मिर्ची को मृदा जनित रोगों से बचाने में मिलेगी मदद",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/do-this-15-days-before-sowing-it-will-help-protect-soybean-gram-and-chili-crops-from-soil-borne-diseases/",
+      "important": false
+    },
+    {
+      "id": "dc3d467f",
+      "title": "कीटनाशक छिड़काव में लापरवाही पड़ सकती है भारी, किसानों को सुरक्षा उपाय अपनाने की सलाह",
+      "summary": "कीटनाशक छिड़काव में लापरवाही पड़ सकती है भारी, किसानों को सुरक्षा उपाय अपनाने की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/negligence-during-pesticide-spraying-can-prove-costly-farmers-advised-to-adopt-safety-measures/",
+      "important": false
+    },
+    {
+      "id": "cd2d959a",
+      "title": "आज का गेहूं मंडी रेट (02 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (02 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-02-september-2026-2/",
+      "important": false
+    },
+    {
+      "id": "12e5b26d",
+      "title": "आज का मक्का मंडी रेट (02 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (02 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-02-september-2026-2/",
+      "important": false
+    },
+    {
+      "id": "2c04a09c",
+      "title": "आज का धान मंडी रेट (02 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (02 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-02-september-2026-2/",
+      "important": false
+    },
+    {
+      "id": "11526730",
+      "title": "आज का सोयाबीन मंडी रेट (02 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (02 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-02-september-2026/",
+      "important": false
+    },
+    {
+      "id": "491231e5",
+      "title": "Weather Today: MP, यूपी और बिहार में भारी बारिश का अलर्ट, 2-3 सितंबर को इन राज्यों में बहुत भारी बारिश की चेतावनी",
+      "summary": "Weather Today: MP, यूपी और बिहार में भारी बारिश का अलर्ट, 2-3 सितंबर को इन राज्यों में बहुत भारी बारिश की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-alert-for-mp-up-and-bihar-warning-of-very-heavy-rainfall-in-these-states-on-september-2-3/",
+      "important": false
+    },
     {
       "id": "eedc879b",
       "title": "देश में फिर बढ़ा लंपी का खतरा, 29 राज्यों के 220 जिलों पर नजर",
@@ -462,94 +550,6 @@
       "date": "2026-08-30",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/madhya-pradesh-farmer-registration-for-kharif-procurement-to-begin-on-september-15/",
-      "important": false
-    },
-    {
-      "id": "b9cd61d1",
-      "title": "थाईपिंग अमरूद की खेती से किसान कमा रहे 8 से 10 लाख रुपये तक,  गुना कलेक्टर कन्याल ने उन्नत कृषक के फार्म का किया भ्रमण",
-      "summary": "थाईपिंग अमरूद की खेती से किसान कमा रहे 8 से 10 लाख रुपये तक,  गुना कलेक्टर कन्याल ने उन्नत कृषक के फार्म का किया भ्रमण",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-are-earning-between-%e2%82%b98-lakh-and-%e2%82%b910-lakh-from-taiping-guava-cultivation-guna-collector-kanyal-visited-a-progressive-farmers-farm/",
-      "important": false
-    },
-    {
-      "id": "34a327a0",
-      "title": "सतावर की खेती से किसानों को दोहरा फायदा, कम खर्च में अतिरिक्त आमदनी का मौका",
-      "summary": "सतावर की खेती से किसानों को दोहरा फायदा, कम खर्च में अतिरिक्त आमदनी का मौका",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-reap-double-benefits-from-shatavari-cultivation-an-opportunity-for-extra-income-at-low-cost/",
-      "important": false
-    },
-    {
-      "id": "44e04ad4",
-      "title": "उपराष्ट्रपति कल करेंगे ‘मिशन रंगीन मछली 2031’ का विमोचन, अगत्ती में जुटेंगे मछुआरे और मत्स्य पालक",
-      "summary": "उपराष्ट्रपति कल करेंगे ‘मिशन रंगीन मछली 2031’ का विमोचन, अगत्ती में जुटेंगे मछुआरे और मत्स्य पालक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/vice-president-to-launch-mission-ornamental-fish-2031-tomorrow-fishers-and-fish-farmers-to-gather-in-agatti/",
-      "important": false
-    },
-    {
-      "id": "12c20a25",
-      "title": "रायपुर: कीटनाशक भंडारण में नियमों की अनदेखी पर सख्ती, बालाजी कृषि केंद्र समेत 34 कंपनियों को नोटिस",
-      "summary": "रायपुर: कीटनाशक भंडारण में नियमों की अनदेखी पर सख्ती, बालाजी कृषि केंद्र समेत 34 कंपनियों को नोटिस",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-crackdown-on-violation-of-pesticide-storage-norms-notices-issued-to-34-companies-including-balaji-krishi-kendra/",
-      "important": false
-    },
-    {
-      "id": "241400c1",
-      "title": "15 अक्टूबर से गन्ने की पेराई शुरू करने की सलाह : सकारात्मक पहल",
-      "summary": "15 अक्टूबर से गन्ने की पेराई शुरू करने की सलाह : सकारात्मक पहल",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/advice-to-start-sugarcane-crushing-from-october-15-a-positive-initiative/",
-      "important": false
-    },
-    {
-      "id": "631bc891",
-      "title": "नीमच : किसानों को फसलों की सतत निगरानी की सलाह",
-      "summary": "नीमच : किसानों को फसलों की सतत निगरानी की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/neemuch-farmers-advised-to-continuously-monitor-crops/",
-      "important": false
-    },
-    {
-      "id": "09d3a1ed",
-      "title": "मंडला और बालाघाट जिलों में अति भारी वर्षा की चेतावनी",
-      "summary": "मंडला और बालाघाट जिलों में अति भारी वर्षा की चेतावनी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-08-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/warning-of-extremely-heavy-rainfall-in-mandla-and-balaghat-districts/",
-      "important": false
-    },
-    {
-      "id": "1ec443fd",
-      "title": "आज का गेहूं मंडी रेट (29 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (29 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-29-august-2026/",
       "important": false
     }
   ]
