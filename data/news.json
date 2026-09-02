@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-02T03:55:58Z",
+  "updated": "2026-09-02T10:59:42Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "eedc879b",
+      "title": "देश में फिर बढ़ा लंपी का खतरा, 29 राज्यों के 220 जिलों पर नजर",
+      "summary": "देश में फिर बढ़ा लंपी का खतरा, 29 राज्यों के 220 जिलों पर नजर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/risk-of-lumpy-virus-rises-again-in-the-country-220-districts-across-29-states-under-watch/",
+      "important": false
+    },
+    {
+      "id": "439e7ca0",
+      "title": "बिहार में खाद की बिक्री होगी ऑनलाइन, किसानों को क्यूआर कोड से मिलेगा उर्वरक",
+      "summary": "बिहार में खाद की बिक्री होगी ऑनलाइन, किसानों को क्यूआर कोड से मिलेगा उर्वरक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/fertilizer-sales-in-bihar-to-go-online-farmers-to-receive-fertilizer-via-qr-code/",
+      "important": false
+    },
+    {
+      "id": "abff51e1",
+      "title": "तिलहन उत्पादन बढ़ाने की तैयारी, उन्नत बीज और नई तकनीक किसानों तक पहुंचाने पर जोर",
+      "summary": "तिलहन उत्पादन बढ़ाने की तैयारी, उन्नत बीज और नई तकनीक किसानों तक पहुंचाने पर जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/preparations-underway-to-boost-oilseed-production-emphasis-on-delivering-improved-seeds-and-new-technology-to-farmers/",
+      "important": false
+    },
+    {
+      "id": "7c09fa45",
+      "title": "सरकारी जमीन पर अब नहीं चलेगी लापरवाही, अफसरों की तय होगी जवाबदेही",
+      "summary": "सरकारी जमीन पर अब नहीं चलेगी लापरवाही, अफसरों की तय होगी जवाबदेही",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/negligence-regarding-government-land-will-no-longer-be-tolerated-officials-will-be-held-accountable/",
+      "important": false
+    },
+    {
+      "id": "2da935fa",
+      "title": "छत्तीसगढ़ में खरीफ बोनी 98% पूरी, 47.63 लाख हेक्टेयर क्षेत्र में हुई फसलों की बुवाई",
+      "summary": "छत्तीसगढ़ में खरीफ बोनी 98% पूरी, 47.63 लाख हेक्टेयर क्षेत्र में हुई फसलों की बुवाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kharif-sowing-98-complete-in-chhattisgarh-crops-sown-across-47-63-lakh-hectares/",
+      "important": false
+    },
+    {
+      "id": "66c11e2d",
+      "title": "रीवा जिले में अत्यधिक भारी वर्षा का रेड अलर्ट जारी",
+      "summary": "रीवा जिले में अत्यधिक भारी वर्षा का रेड अलर्ट जारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/red-alert-issued-for-extremely-heavy-rainfall-in-rewa-district/",
+      "important": false
+    },
+    {
+      "id": "f22be37c",
+      "title": "बालाघाट में प्राकृतिक एवं जैविक खेती पर मंथन, फसल विविधीकरण और लागत घटाने पर जोर",
+      "summary": "बालाघाट में प्राकृतिक एवं जैविक खेती पर मंथन, फसल विविधीकरण और लागत घटाने पर जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/deliberations-on-natural-and-organic-farming-in-balaghat-emphasis-on-crop-diversification-and-cost-reduction/",
+      "important": false
+    },
+    {
+      "id": "a5632ca7",
+      "title": "‘उपज से उद्यम’ की ओर मंदसौर के किसान, आय बढ़ाने के लिए बनेगी नई कार्ययोजना",
+      "summary": "‘उपज से उद्यम’ की ओर मंदसौर के किसान, आय बढ़ाने के लिए बनेगी नई कार्ययोजना",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mandsaur-farmers-shifting-from-produce-to-enterprise-new-action-plan-to-be-formulated-to-boost-income/",
+      "important": false
+    },
     {
       "id": "b049d078",
       "title": "35 रुपए किलो मिलेगा प्याज, कांदा एक्सप्रेस से 19 शहरों में बढ़ी सप्लाई; 3,400 किसानों को 210 करोड़ का भुगतान",
@@ -462,94 +550,6 @@
       "date": "2026-08-29",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-29-august-2026/",
-      "important": false
-    },
-    {
-      "id": "c8c3054e",
-      "title": "आज का मक्का मंडी रेट (29 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (29 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-29-august-2026/",
-      "important": false
-    },
-    {
-      "id": "32d4026f",
-      "title": "आज का धान मंडी रेट (29 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (29 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-29-august-2026/",
-      "important": false
-    },
-    {
-      "id": "bbfd7dbb",
-      "title": "आज का सोयाबीन मंडी रेट (29 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (29 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-29-august-2026/",
-      "important": false
-    },
-    {
-      "id": "2e19ac97",
-      "title": "नाबार्ड के आईने में ग्रामीण-शहरी आय का अंतर और युवा किसान का भविष्य",
-      "summary": "नाबार्ड के आईने में ग्रामीण-शहरी आय का अंतर और युवा किसान का भविष्य",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-rural-urban-income-gap-and-the-future-of-young-farmers-a-nabard-perspective/",
-      "important": false
-    },
-    {
-      "id": "886d3c7d",
-      "title": "मध्य प्रदेश में 2026 सीजन में 5.33 लाख टन ग्रीष्मकालीन मूंग की MSP पर खरीद",
-      "summary": "मध्य प्रदेश में 2026 सीजन में 5.33 लाख टन ग्रीष्मकालीन मूंग की MSP पर खरीद",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/procurement-of-5-33-lakh-tonnes-of-summer-moong-at-msp-in-madhya-pradesh-during-the-2026-season/",
-      "important": true
-    },
-    {
-      "id": "e9000d46",
-      "title": "सोयाबीन किसानों के लिए अलर्ट! फसल में एन्थ्रेक्नोज, पीला मोजेक समेत इन कीटों का खतरा, कृषि विभाग ने जारी की सलाह",
-      "summary": "सोयाबीन किसानों के लिए अलर्ट! फसल में एन्थ्रेक्नोज, पीला मोजेक समेत इन कीटों का खतरा, कृषि विभाग ने जारी की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/alert-for-soybean-farmers-risk-of-anthracnose-yellow-mosaic-and-specific-pests-agriculture-department-issues-advisory/",
-      "important": false
-    },
-    {
-      "id": "8be61d61",
-      "title": "छत्तीसगढ़ में अब डिजिटल होगी गिरदावरी, नारायणपुर के 176 गांवों में शुरू हुआ क्रॉप सर्वे",
-      "summary": "छत्तीसगढ़ में अब डिजिटल होगी गिरदावरी, नारायणपुर के 176 गांवों में शुरू हुआ क्रॉप सर्वे",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/crop-survey-goes-digital-in-chhattisgarh-process-begins-in-176-villages-of-narayanpur/",
-      "important": false
-    },
-    {
-      "id": "a9241993",
-      "title": "यूपी के गन्ना किसानों को बड़ी राहत, 94 फीसदी से अधिक भुगतान हुआ, 99 चीनी मिलों ने चुकाया पूरा बकाया",
-      "summary": "यूपी के गन्ना किसानों को बड़ी राहत, 94 फीसदी से अधिक भुगतान हुआ, 99 चीनी मिलों ने चुकाया पूरा बकाया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-relief-for-up-sugarcane-farmers-over-94-of-payments-made-and-99-sugar-mills-have-cleared-all-outstanding-dues/",
       "important": false
     }
   ]
