@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-01T20:52:12Z",
-  "new_count": 0,
+  "updated": "2026-09-02T03:55:58Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "b049d078",
+      "title": "35 रुपए किलो मिलेगा प्याज, कांदा एक्सप्रेस से 19 शहरों में बढ़ी सप्लाई; 3,400 किसानों को 210 करोड़ का भुगतान",
+      "summary": "35 रुपए किलो मिलेगा प्याज, कांदा एक्सप्रेस से 19 शहरों में बढ़ी सप्लाई; 3,400 किसानों को 210 करोड़ का भुगतान",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/onions-to-be-available-at-%e2%82%b935-per-kg-supply-to-19-cities-boosted-via-kanda-express-%e2%82%b9210-crore-paid-to-3400-farmers/",
+      "important": false
+    },
+    {
+      "id": "83fb7665",
+      "title": "झाबुआ कलेक्टर ने कृषकों के खेतों का किया निरीक्षण",
+      "summary": "झाबुआ कलेक्टर ने कृषकों के खेतों का किया निरीक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-jhabua-collector-inspected-the-farmers-fields/",
+      "important": false
+    },
+    {
+      "id": "da1e9460",
+      "title": "धार में बलराम कृषि महोत्सव एवं मिलेट मेला 2 सितंबर को",
+      "summary": "धार में बलराम कृषि महोत्सव एवं मिलेट मेला 2 सितंबर को",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-and-millet-fair-in-dhar-on-september-2/",
+      "important": false
+    },
+    {
+      "id": "3bcf52ab",
+      "title": "बड़वानी: नये सीजन के कपास खरीदी का शुभारंभ 2 सितंबर को",
+      "summary": "बड़वानी: नये सीजन के कपास खरीदी का शुभारंभ 2 सितंबर को",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/barwani-cotton-procurement-for-the-new-season-to-commence-on-september-2/",
+      "important": false
+    },
+    {
+      "id": "c32da2f2",
+      "title": "प्राकृतिक खेती से जुड़े 24 लाख किसान, 2030 तक 85 लाख किसानों को जोड़ने का लक्ष्य; शिवराज ने प्रगति की समीक्षा की",
+      "summary": "प्राकृतिक खेती से जुड़े 24 लाख किसान, 2030 तक 85 लाख किसानों को जोड़ने का लक्ष्य; शिवराज ने प्रगति की समीक्षा की",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/2-4-million-farmers-engaged-in-natural-farming-target-to-bring-8-5-million-farmers-on-board-by-2030-shivraj-reviewed-the-progress/",
+      "important": false
+    },
+    {
+      "id": "a722f630",
+      "title": "आलीराजपुर उद्वहन परियोजना से आज शाम तक गांवों में पहुंचेगा पानी",
+      "summary": "आलीराजपुर उद्वहन परियोजना से आज शाम तक गांवों में पहुंचेगा पानी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/water-will-reach-the-villages-from-the-alirajpur-lift-irrigation-project-by-this-evening/",
+      "important": false
+    },
+    {
+      "id": "e774c450",
+      "title": "बड़वानी: रबी फसलों हेतु यूरिया, डी.ए.पी.व अन्य खादों का अग्रिम भंडारण करें किसान",
+      "summary": "बड़वानी: रबी फसलों हेतु यूरिया, डी.ए.पी.व अन्य खादों का अग्रिम भंडारण करें किसान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/barwani-farmers-should-stock-up-on-urea-dap-and-other-fertilizers-in-advance-for-rabi-crops/",
+      "important": false
+    },
+    {
+      "id": "51155bc4",
+      "title": "प्याज की कीमतों पर सरकार का प्रहार, बफर स्टॉक से बढ़ी आपूर्ति",
+      "summary": "प्याज की कीमतों पर सरकार का प्रहार, बफर स्टॉक से बढ़ी आपूर्ति",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/government-cracks-down-on-onion-prices-supply-boosted-from-buffer-stock/",
+      "important": false
+    },
     {
       "id": "c5f14da6",
       "title": "धानुका ने रायसेन के बाम्होरी में आयोजित की मेगा किसान बैठक",
@@ -462,94 +550,6 @@
       "date": "2026-08-28",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/major-relief-for-up-sugarcane-farmers-over-94-of-payments-made-and-99-sugar-mills-have-cleared-all-outstanding-dues/",
-      "important": false
-    },
-    {
-      "id": "3ce05ced",
-      "title": "कपास की बुवाई पिछले साल के आसपास, सितंबर की बारिश पर टिकी अब फसल की उम्मीद",
-      "summary": "कपास की बुवाई पिछले साल के आसपास, सितंबर की बारिश पर टिकी अब फसल की उम्मीद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/cotton-sowing-is-on-par-with-last-year-crop-prospects-now-hinge-on-september-rainfall/",
-      "important": false
-    },
-    {
-      "id": "5458bd48",
-      "title": "पशुओं का टीकाकरण बना किसानों की ढाल, FMD के प्रकोप में आई बड़ी कमी",
-      "summary": "पशुओं का टीकाकरण बना किसानों की ढाल, FMD के प्रकोप में आई बड़ी कमी",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-08-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/livestock-vaccination-becomes-a-shield-for-farmers-significant-drop-in-fmd-outbreaks/",
-      "important": false
-    },
-    {
-      "id": "fa8301e5",
-      "title": "कर्नाटक में सूखे की मार से चावल, चीनी और प्याज महंगे, बिगड़ने लगा घरेलू बजट",
-      "summary": "कर्नाटक में सूखे की मार से चावल, चीनी और प्याज महंगे, बिगड़ने लगा घरेलू बजट",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/drought-in-karnataka-drives-up-prices-of-rice-sugar-and-onions-household-budgets-begin-to-feel-the-strain/",
-      "important": false
-    },
-    {
-      "id": "e0cb8651",
-      "title": "भारत का चीनी उद्योग 2026: चीनी उत्पादन, कीमतें, इथेनॉल और बाजार का हाल",
-      "summary": "भारत का चीनी उद्योग 2026: चीनी उत्पादन, कीमतें, इथेनॉल और बाजार का हाल",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/indias-sugar-industry-2026-sugar-production-prices-ethanol-and-market-outlook/",
-      "important": false
-    },
-    {
-      "id": "392dfb7d",
-      "title": "आज का मक्का मंडी रेट (27 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (27 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-27-august-2026/",
-      "important": false
-    },
-    {
-      "id": "18aaad03",
-      "title": "सरकार ने प्रमुख खपत केंद्रों तक प्याज पहुंचाने के लिए रेल और सड़क परिवहन का हाइब्रिड मॉडल अपनाया",
-      "summary": "सरकार ने प्रमुख खपत केंद्रों तक प्याज पहुंचाने के लिए रेल और सड़क परिवहन का हाइब्रिड मॉडल अपनाया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/the-government-adopted-a-hybrid-model-of-rail-and-road-transport-to-deliver-onions-to-major-consumption-centers/",
-      "important": false
-    },
-    {
-      "id": "a724ce28",
-      "title": "आज का सोयाबीन मंडी रेट (27 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (27 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-27-august-2026/",
-      "important": false
-    },
-    {
-      "id": "846eba3b",
-      "title": "छतरपुर, टीकमगढ़ और निवाड़ी जिलों में अति भारी वर्षा होने की संभावना",
-      "summary": "छतरपुर, टीकमगढ़ और निवाड़ी जिलों में अति भारी वर्षा होने की संभावना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-08-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/possibility-of-extremely-heavy-rainfall-in-chhatarpur-tikamgarh-and-niwari-districts/",
       "important": false
     }
   ]
