@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-02T20:51:27Z",
-  "new_count": 0,
+  "updated": "2026-09-03T03:55:24Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "427639de",
+      "title": "रायपुर: जल संरक्षण और मिट्टी कटाव रोकने की पहल, रायगढ़ में 16,873 कंटूर ट्रेंच निर्माण को मिली मंजूरी",
+      "summary": "रायपुर: जल संरक्षण और मिट्टी कटाव रोकने की पहल, रायगढ़ में 16,873 कंटूर ट्रेंच निर्माण को मिली मंजूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-initiative-for-water-conservation-and-soil-erosion-control-approval-granted-for-the-construction-of-16873-contour-trenches-in-raigarh/",
+      "important": false
+    },
+    {
+      "id": "b3970e66",
+      "title": "कश्मीर के किसानों को बड़ी सौगात, धान की 2 नई किस्में देंगी ढाई गुना तक ज्यादा पैदावार; जल्दी कटाई से दूसरी फसल का मौका",
+      "summary": "कश्मीर के किसानों को बड़ी सौगात, धान की 2 नई किस्में देंगी ढाई गुना तक ज्यादा पैदावार; जल्दी कटाई से दूसरी फसल का मौका",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/a-major-boon-for-kashmirs-farmers-two-new-paddy-varieties-to-yield-up-to-2-5-times-more-early-harvesting-opens-the-door-for-a-second-crop/",
+      "important": false
+    },
+    {
+      "id": "dd73870d",
+      "title": "MP कैबिनेट का बड़ा फैसला: मूंग खरीदी सीमा 25% से बढ़ाकर 60% हुई, 41 हजार करोड़ के प्रस्ताव मंजूर",
+      "summary": "MP कैबिनेट का बड़ा फैसला: मूंग खरीदी सीमा 25% से बढ़ाकर 60% हुई, 41 हजार करोड़ के प्रस्ताव मंजूर",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-decision-by-mp-cabinet-moong-procurement-limit-raised-from-25-to-60-proposals-worth-%e2%82%b941000-crore-approved/",
+      "important": false
+    },
+    {
+      "id": "aa29a65f",
+      "title": "सीहोर जिले में बलराम कृषक संगोष्ठी आयोजित",
+      "summary": "सीहोर जिले में बलराम कृषक संगोष्ठी आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balram-farmers-seminar-organized-in-sehore-district/",
+      "important": false
+    },
+    {
+      "id": "40e003e8",
+      "title": "विदिशा के 35 किसानों ने भोपाल में सीखी आधुनिक कृषि तकनीक",
+      "summary": "विदिशा के 35 किसानों ने भोपाल में सीखी आधुनिक कृषि तकनीक",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/35-farmers-from-vidisha-learned-modern-agricultural-techniques-in-bhopal/",
+      "important": false
+    },
+    {
+      "id": "0d204492",
+      "title": "सीहोर: किसानों को कृषि की उन्नत तकनीकें अपनाने पर अधिक मुनाफा- कृषि उत्पादन आयुक्त",
+      "summary": "सीहोर: किसानों को कृषि की उन्नत तकनीकें अपनाने पर अधिक मुनाफा- कृषि उत्पादन आयुक्त",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-farmers-gain-higher-profits-by-adopting-advanced-agricultural-techniques-agriculture-production-commissioner/",
+      "important": false
+    },
+    {
+      "id": "d3164ddb",
+      "title": "किसानों की फार्मर रजिस्ट्री के लिए सीहोर जिले में लगाए जा रहे हैं कैम्प",
+      "summary": "किसानों की फार्मर रजिस्ट्री के लिए सीहोर जिले में लगाए जा रहे हैं कैम्प",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/camps-are-being-organized-in-sehore-district-for-the-farmers-registry/",
+      "important": false
+    },
+    {
+      "id": "0df8e6f9",
+      "title": "सीहोर : सोयाबीन फसल के रोग नियंत्रण के लिए अनुशंसित फफूंदनाशक का उपयोग करें",
+      "summary": "सीहोर : सोयाबीन फसल के रोग नियंत्रण के लिए अनुशंसित फफूंदनाशक का उपयोग करें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-use-recommended-fungicides-for-disease-control-in-the-soybean-crop/",
+      "important": false
+    },
     {
       "id": "e35aaef6",
       "title": "मंदसौर में ग्रामीण युवाओं को मिलेगी बकरी पालन की फ्री ट्रेनिंग, 4 सितंबर से शुरू होगा 12 दिवसीय प्रशिक्षण",
@@ -462,94 +550,6 @@
       "date": "2026-08-31",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/major-diseases-symptoms-and-integrated-management-of-brinjal/",
-      "important": false
-    },
-    {
-      "id": "a078f6a9",
-      "title": "आज का सोयाबीन मंडी रेट (31 अगस्त 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (31 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-31-august-2026/",
-      "important": false
-    },
-    {
-      "id": "a2127c69",
-      "title": "आज का मक्का मंडी रेट (31 अगस्त 2026)",
-      "summary": "आज का मक्का मंडी रेट (31 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-31-august-2026/",
-      "important": false
-    },
-    {
-      "id": "b6db0bf1",
-      "title": "आज का धान मंडी रेट (31 अगस्त 2026)",
-      "summary": "आज का धान मंडी रेट (31 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-31-august-2026/",
-      "important": false
-    },
-    {
-      "id": "58add2fd",
-      "title": "आज का गेहूं मंडी रेट (31 अगस्त 2026)",
-      "summary": "आज का गेहूं मंडी रेट (31 अगस्त 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-31-august-2026/",
-      "important": false
-    },
-    {
-      "id": "65ee634f",
-      "title": "रायपुर: उर्वरक की कालाबाजारी पर साय सरकार सख्त, खरीफ 2026 में 516 मामलों में कार्रवाई",
-      "summary": "रायपुर: उर्वरक की कालाबाजारी पर साय सरकार सख्त, खरीफ 2026 में 516 मामलों में कार्रवाई",
-      "level": "central",
-      "category": "price",
-      "date": "2026-08-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-sai-government-cracks-down-on-fertilizer-black-marketing-action-taken-in-516-cases-during-kharif-2026/",
-      "important": false
-    },
-    {
-      "id": "a49069ee",
-      "title": "धान में लीफ फोल्डर एवं पीला तना छेदक कीट की निगरानी बढ़ाएं किसान: आईसीएआर-एनआईबीएसएम",
-      "summary": "धान में लीफ फोल्डर एवं पीला तना छेदक कीट की निगरानी बढ़ाएं किसान: आईसीएआर-एनआईबीएसएम",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-should-step-up-monitoring-for-leaf-folder-and-yellow-stem-borer-pests-in-paddy-icar-nibsm/",
-      "important": false
-    },
-    {
-      "id": "f3702c74",
-      "title": "झाबुआ में बढ़ेगा आम-अमरूद का रकबा, कलेक्टर ने दिए क्लस्टर विस्तार के निर्देश",
-      "summary": "झाबुआ में बढ़ेगा आम-अमरूद का रकबा, कलेक्टर ने दिए क्लस्टर विस्तार के निर्देश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mango-and-guava-cultivation-area-to-expand-in-jhabua-collector-issues-directives-for-cluster-expansion/",
-      "important": false
-    },
-    {
-      "id": "81e8ae46",
-      "title": "मध्यप्रदेश: खरीफ उपार्जन के लिए कृषक पंजीयन 15 सितंबर से होगा शुरू",
-      "summary": "मध्यप्रदेश: खरीफ उपार्जन के लिए कृषक पंजीयन 15 सितंबर से होगा शुरू",
-      "level": "state",
-      "category": "price",
-      "date": "2026-08-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-farmer-registration-for-kharif-procurement-to-begin-on-september-15/",
       "important": false
     }
   ]
