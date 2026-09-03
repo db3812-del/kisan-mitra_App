@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-03T10:58:29Z",
-  "new_count": 0,
+  "updated": "2026-09-03T16:11:16Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "265a3823",
+      "title": "तेलंगाना के कृषि मंत्री ने की शिवराज चौहान से मुलाकात, दलहन खरीद, ऑयल पाम और कृषि योजनाओं पर हुई चर्चा",
+      "summary": "तेलंगाना के कृषि मंत्री ने की शिवराज चौहान से मुलाकात, दलहन खरीद, ऑयल पाम और कृषि योजनाओं पर हुई चर्चा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/telanganas-agriculture-minister-met-shivraj-chouhan-discussions-were-held-on-pulse-procurement-oil-palm-and-agricultural-schemes/",
+      "important": false
+    },
+    {
+      "id": "ee21571c",
+      "title": "किसानों को अब दिन में भी मिलेगी सिंचाई की बिजली, CM मोहन यादव ने श्योपुर में किया ऐलान",
+      "summary": "किसानों को अब दिन में भी मिलेगी सिंचाई की बिजली, CM मोहन यादव ने श्योपुर में किया ऐलान",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-will-now-get-electricity-for-irrigation-during-the-day-as-well-cm-mohan-yadav-made-the-announcement-in-sheopur/",
+      "important": false
+    },
+    {
+      "id": "8cd744a7",
+      "title": "स्वराज ट्रैक्टर्स और महिंद्रा सस्टेन ने पंजाब में सोलर प्रोजेक्ट की शुरुआत की",
+      "summary": "स्वराज ट्रैक्टर्स और महिंद्रा सस्टेन ने पंजाब में सोलर प्रोजेक्ट की शुरुआत की",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/swaraj-tractors-and-mahindra-susten-launched-a-solar-project-in-punjab/",
+      "important": false
+    },
+    {
+      "id": "75346322",
+      "title": "छिंदवाड़ा: भगवान बलराम जयंती पर कृषि संगोष्ठी आयोजित",
+      "summary": "छिंदवाड़ा: भगवान बलराम जयंती पर कृषि संगोष्ठी आयोजित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-agricultural-seminar-organized-on-lord-balaram-jayanti/",
+      "important": false
+    },
+    {
+      "id": "85411442",
+      "title": "अब किसानों को सिंचाई के लिए दिन में भी उपलब्ध होगी बिजली : मुख्यमंत्री डॉ. यादव",
+      "summary": "अब किसानों को सिंचाई के लिए दिन में भी उपलब्ध होगी बिजली : मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/now-electricity-for-irrigation-will-be-available-to-farmers-during-the-day-as-well-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "fc729565",
+      "title": "पांढुर्ना क्षेत्र में कपास की फसल सूखने से किसान चिंतित",
+      "summary": "पांढुर्ना क्षेत्र में कपास की फसल सूखने से किसान चिंतित",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-the-pandhurna-region-are-worried-as-the-cotton-crop-is-drying-up/",
+      "important": false
+    },
+    {
+      "id": "20047a03",
+      "title": "धान छोड़ सब्जी की खेती से बढ़ी कमाई, किसान ने एक एकड़ में 12 टन करेला उगाकर कमाए ₹1.07 लाख",
+      "summary": "धान छोड़ सब्जी की खेती से बढ़ी कमाई, किसान ने एक एकड़ में 12 टन करेला उगाकर कमाए ₹1.07 लाख",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/earnings-rise-by-switching-from-paddy-to-vegetable-farming-a-farmer-earned-%e2%82%b91-07-lakh-by-growing-12-tonnes-of-bitter-gourd-on-one-acre/",
+      "important": false
+    },
+    {
+      "id": "cc0b172d",
+      "title": "किसानों के लिए बड़ी सौगात, छत्तीसगढ़ में 21 सिंचाई योजनाओं पर खर्च होंगे ₹76.93 करोड़",
+      "summary": "किसानों के लिए बड़ी सौगात, छत्तीसगढ़ में 21 सिंचाई योजनाओं पर खर्च होंगे ₹76.93 करोड़",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-major-boon-for-farmers-%e2%82%b976-93-crore-to-be-spent-on-21-irrigation-schemes-in-chhattisgarh/",
+      "important": false
+    },
     {
       "id": "427639de",
       "title": "रायपुर: जल संरक्षण और मिट्टी कटाव रोकने की पहल, रायगढ़ में 16,873 कंटूर ट्रेंच निर्माण को मिली मंजूरी",
@@ -462,94 +550,6 @@
       "date": "2026-09-01",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/to-increase-milk-yield-not-only-the-breed-but-also-the-animals-feed-is-crucial/",
-      "important": false
-    },
-    {
-      "id": "98966b7d",
-      "title": "आगामी रबी सीजन में गुणवत्तापूर्ण एवं निर्बाध विद्युत आपूर्ति  हो – प्रमुख सचिव ऊर्जा",
-      "summary": "आगामी रबी सीजन में गुणवत्तापूर्ण एवं निर्बाध विद्युत आपूर्ति  हो – प्रमुख सचिव ऊर्जा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ensure-quality-and-uninterrupted-power-supply-during-the-upcoming-rabi-season-principal-secretary-energy/",
-      "important": false
-    },
-    {
-      "id": "e368b8db",
-      "title": "अपर संचालक एवं सहायक संचालक कृषि के पदस्थापना आदेश जारी",
-      "summary": "अपर संचालक एवं सहायक संचालक कृषि के पदस्थापना आदेश जारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/posting-orders-issued-for-the-posts-of-additional-director-and-assistant-director-of-agriculture/",
-      "important": false
-    },
-    {
-      "id": "06b47681",
-      "title": "महिंद्रा ने अगस्त 2026 में 27,595 ट्रैक्टर बेचे, घरेलू बिक्री में 5% की वृद्धि",
-      "summary": "महिंद्रा ने अगस्त 2026 में 27,595 ट्रैक्टर बेचे, घरेलू बिक्री में 5% की वृद्धि",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-sold-27595-tractors-in-august-2026-a-5-increase-in-domestic-sales/",
-      "important": false
-    },
-    {
-      "id": "ebba4c29",
-      "title": "सतना, उमरिया और बालाघाट जिले में अति भारी वर्षा का ऑरेंज अलर्ट",
-      "summary": "सतना, उमरिया और बालाघाट जिले में अति भारी वर्षा का ऑरेंज अलर्ट",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/orange-alert-for-extremely-heavy-rainfall-in-satna-umaria-and-balaghat-districts/",
-      "important": false
-    },
-    {
-      "id": "14913d9f",
-      "title": "97 फीसदी धान रोपनी पूरी, बढ़ी खाद की मांग; कालाबाजारी रोकने के लिए हेल्पलाइन जारी",
-      "summary": "97 फीसदी धान रोपनी पूरी, बढ़ी खाद की मांग; कालाबाजारी रोकने के लिए हेल्पलाइन जारी",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/97-of-paddy-transplantation-complete-demand-for-fertilizer-rises-helpline-launched-to-curb-black-marketing/",
-      "important": false
-    },
-    {
-      "id": "b4a29040",
-      "title": "खाद की कालाबाजारी पर छत्तीसगढ़ में सख्ती, खरीफ सीजन में 516 मामलों में कार्रवाई",
-      "summary": "खाद की कालाबाजारी पर छत्तीसगढ़ में सख्ती, खरीफ सीजन में 516 मामलों में कार्रवाई",
-      "level": "central",
-      "category": "market",
-      "date": "2026-08-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/crackdown-on-fertilizer-black-marketing-in-chhattisgarh-action-taken-in-516-cases-during-the-kharif-season/",
-      "important": false
-    },
-    {
-      "id": "fe76dcfb",
-      "title": "बानी में शुरू हुई अखरोट की तुड़ाई, 3 हजार परिवारों की आजीविका का सहारा",
-      "summary": "बानी में शुरू हुई अखरोट की तुड़ाई, 3 हजार परिवारों की आजीविका का सहारा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/walnut-harvesting-begins-in-bani-a-source-of-livelihood-for-3000-families/",
-      "important": false
-    },
-    {
-      "id": "b34f5ef0",
-      "title": "बैंगन के प्रमुख रोग, लक्षण एवं एकीकृत प्रबंधन",
-      "summary": "बैंगन के प्रमुख रोग, लक्षण एवं एकीकृत प्रबंधन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-08-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-diseases-symptoms-and-integrated-management-of-brinjal/",
       "important": false
     }
   ]
