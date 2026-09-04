@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-04T10:58:47Z",
+  "updated": "2026-09-04T16:06:00Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "0e7ecd14",
+      "title": "आज का धान मंडी रेट (04 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (04 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-04-september-2026/",
+      "important": false
+    },
+    {
+      "id": "7127c68d",
+      "title": "खरीफ 2026 में सूखे का संकट गहराया, अखिल भारतीय किसान सभा ने राष्ट्रीय आपदा घोषित करने की मांग की",
+      "summary": "खरीफ 2026 में सूखे का संकट गहराया, अखिल भारतीय किसान सभा ने राष्ट्रीय आपदा घोषित करने की मांग की",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/drought-crisis-deepens-during-kharif-2026-all-india-kisan-sabha-demands-declaration-of-a-national-disaster/",
+      "important": false
+    },
+    {
+      "id": "df008bd7",
+      "title": "आज का सोयाबीन मंडी रेट (04 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (04 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/todays-soybean-mandi-rate-04-september-2026/",
+      "important": false
+    },
+    {
+      "id": "8598c02b",
+      "title": "सोयाबीन में राइजोक्टोनिया एरियल ब्लाइट का खतरा, पत्तियों पर पानी जैसे दाग दिखें तो तुरंत करें ये उपाय",
+      "summary": "सोयाबीन में राइजोक्टोनिया एरियल ब्लाइट का खतरा, पत्तियों पर पानी जैसे दाग दिखें तो तुरंत करें ये उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/risk-of-rhizoctonia-aerial-blight-in-soybeans-take-these-immediate-measures-if-water-soaked-spots-appear-on-the-leaves/",
+      "important": false
+    },
+    {
+      "id": "68f47c7f",
+      "title": "काला नमक धान की प्राकृतिक खेती से बांदा का किसान बना लखपति",
+      "summary": "काला नमक धान की प्राकृतिक खेती से बांदा का किसान बना लखपति",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/banda-farmer-becomes-a-lakhpati-through-natural-farming-of-kala-namak-paddy/",
+      "important": false
+    },
+    {
+      "id": "4effdcc9",
+      "title": "केंद्र ने पांच राज्यों को दिए 1,283 करोड़ रुपये, सिंचाई और कृषि मशीनीकरण को मिलेगी रफ्तार",
+      "summary": "केंद्र ने पांच राज्यों को दिए 1,283 करोड़ रुपये, सिंचाई और कृषि मशीनीकरण को मिलेगी रफ्तार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/centre-releases-%e2%82%b91283-crore-to-five-states-irrigation-and-agricultural-mechanization-to-get-a-boost/",
+      "important": false
+    },
+    {
+      "id": "f34ee3c4",
+      "title": "धान बेचने से पहले कराएं एग्री-स्टैक पंजीयन, छत्तीसगढ़ सरकार ने बदले नियम",
+      "summary": "धान बेचने से पहले कराएं एग्री-स्टैक पंजीयन, छत्तीसगढ़ सरकार ने बदले नियम",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/complete-agri-stack-registration-before-selling-paddy-chhattisgarh-government-changes-rules/",
+      "important": true
+    },
+    {
+      "id": "4d4611cd",
+      "title": "सोयाबीन की पत्तियों की शिराएं काली पड़ रही हों तो क्या करें? जानें बीमारी और बचाव का उपाय",
+      "summary": "सोयाबीन की पत्तियों की शिराएं काली पड़ रही हों तो क्या करें? जानें बीमारी और बचाव का उपाय",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-09-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/what-should-be-done-if-the-veins-of-soybean-leaves-are-turning-black-learn-about-the-disease-and-preventive-measures/",
+      "important": false
+    },
     {
       "id": "47377844",
       "title": "मध्यप्रदेश के 9 जिलों में अति भारी वर्षा की संभावना",
@@ -462,94 +550,6 @@
       "date": "2026-09-02",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/the-jhabua-collector-inspected-the-farmers-fields/",
-      "important": false
-    },
-    {
-      "id": "da1e9460",
-      "title": "धार में बलराम कृषि महोत्सव एवं मिलेट मेला 2 सितंबर को",
-      "summary": "धार में बलराम कृषि महोत्सव एवं मिलेट मेला 2 सितंबर को",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-and-millet-fair-in-dhar-on-september-2/",
-      "important": false
-    },
-    {
-      "id": "3bcf52ab",
-      "title": "बड़वानी: नये सीजन के कपास खरीदी का शुभारंभ 2 सितंबर को",
-      "summary": "बड़वानी: नये सीजन के कपास खरीदी का शुभारंभ 2 सितंबर को",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/barwani-cotton-procurement-for-the-new-season-to-commence-on-september-2/",
-      "important": false
-    },
-    {
-      "id": "c32da2f2",
-      "title": "प्राकृतिक खेती से जुड़े 24 लाख किसान, 2030 तक 85 लाख किसानों को जोड़ने का लक्ष्य; शिवराज ने प्रगति की समीक्षा की",
-      "summary": "प्राकृतिक खेती से जुड़े 24 लाख किसान, 2030 तक 85 लाख किसानों को जोड़ने का लक्ष्य; शिवराज ने प्रगति की समीक्षा की",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/2-4-million-farmers-engaged-in-natural-farming-target-to-bring-8-5-million-farmers-on-board-by-2030-shivraj-reviewed-the-progress/",
-      "important": false
-    },
-    {
-      "id": "a722f630",
-      "title": "आलीराजपुर उद्वहन परियोजना से आज शाम तक गांवों में पहुंचेगा पानी",
-      "summary": "आलीराजपुर उद्वहन परियोजना से आज शाम तक गांवों में पहुंचेगा पानी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/water-will-reach-the-villages-from-the-alirajpur-lift-irrigation-project-by-this-evening/",
-      "important": false
-    },
-    {
-      "id": "e774c450",
-      "title": "बड़वानी: रबी फसलों हेतु यूरिया, डी.ए.पी.व अन्य खादों का अग्रिम भंडारण करें किसान",
-      "summary": "बड़वानी: रबी फसलों हेतु यूरिया, डी.ए.पी.व अन्य खादों का अग्रिम भंडारण करें किसान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/barwani-farmers-should-stock-up-on-urea-dap-and-other-fertilizers-in-advance-for-rabi-crops/",
-      "important": false
-    },
-    {
-      "id": "51155bc4",
-      "title": "प्याज की कीमतों पर सरकार का प्रहार, बफर स्टॉक से बढ़ी आपूर्ति",
-      "summary": "प्याज की कीमतों पर सरकार का प्रहार, बफर स्टॉक से बढ़ी आपूर्ति",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/government-cracks-down-on-onion-prices-supply-boosted-from-buffer-stock/",
-      "important": false
-    },
-    {
-      "id": "c5f14da6",
-      "title": "धानुका ने रायसेन के बाम्होरी में आयोजित की मेगा किसान बैठक",
-      "summary": "धानुका ने रायसेन के बाम्होरी में आयोजित की मेगा किसान बैठक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/dhanuka-organized-a-mega-farmers-meeting-in-bamhori-raisen/",
-      "important": false
-    },
-    {
-      "id": "47dfc918",
-      "title": "आज का गेहूं मंडी रेट (01 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (01 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-01-september-2026/",
       "important": false
     }
   ]
