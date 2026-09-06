@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-06T10:39:45Z",
+  "updated": "2026-09-06T15:15:56Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "595db0a9",
+      "title": "Weather Today: उत्तराखंड-UP में भारी से बहुत भारी बारिश का अलर्ट, MP समेत कई राज्यों में भी बरसेंगे बादल; IMD ने जारी कि",
+      "summary": "Weather Today: उत्तराखंड-UP में भारी से बहुत भारी बारिश का अलर्ट, MP समेत कई राज्यों में भी बरसेंगे बादल; IMD ने जारी किया पूर्वानुमान",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-to-very-heavy-rainfall-alert-for-uttarakhand-and-up-rain-expected-in-several-states-including-mp-imd-issues-forecast/",
+      "important": false
+    },
+    {
+      "id": "ed561734",
+      "title": "MP में ग्रीन एनर्जी को मिलेगी रफ्तार, 600 MW फ्लोटिंग सोलर प्रोजेक्ट समेत 3 योजनाओं पर समझौता",
+      "summary": "MP में ग्रीन एनर्जी को मिलेगी रफ्तार, 600 MW फ्लोटिंग सोलर प्रोजेक्ट समेत 3 योजनाओं पर समझौता",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/green-energy-will-gain-momentum-in-mp-agreement-on-3-schemes-including-600-mw-floating-solar-project/",
+      "important": false
+    },
+    {
+      "id": "8a18a49f",
+      "title": "गुना: सोयाबीन, उड़द एवं मक्का फसल के लिए सामयिक सलाह",
+      "summary": "गुना: सोयाबीन, उड़द एवं मक्का फसल के लिए सामयिक सलाह",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/guna-timely-advice-for-soybean-black-gram-and-maize-crops/",
+      "important": false
+    },
+    {
+      "id": "6da81e3d",
+      "title": "छिंदवाड़ा : जैविक हाट में पहली बार आया प्राकृतिक बेबी कॉर्न",
+      "summary": "छिंदवाड़ा : जैविक हाट में पहली बार आया प्राकृतिक बेबी कॉर्न",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-natural-baby-corn-arrives-at-the-organic-market-for-the-first-time/",
+      "important": false
+    },
+    {
+      "id": "133bcf2d",
+      "title": "भिंड में बदलेगी खेती की तस्वीर, PKC नदी जोड़ो परियोजना से बढ़ेगी सिंचाई; CM यादव ने किसानों से की ये अपील",
+      "summary": "भिंड में बदलेगी खेती की तस्वीर, PKC नदी जोड़ो परियोजना से बढ़ेगी सिंचाई; CM यादव ने किसानों से की ये अपील",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agricultural-landscape-set-to-transform-in-bhind-irrigation-to-increase-via-pkc-river-linking-project-cm-yadav-makes-this-appeal-to-farmers/",
+      "important": false
+    },
+    {
+      "id": "b1aea3e7",
+      "title": "किसान किताब और KCC कार्ड ने आसान की खेती की राह, जशपुर के किसान सोहन सिंह बोले- कृषि कार्यों में मिली मदद",
+      "summary": "किसान किताब और KCC कार्ड ने आसान की खेती की राह, जशपुर के किसान सोहन सिंह बोले- कृषि कार्यों में मिली मदद",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kisan-kitab-and-kcc-card-have-paved-the-way-for-easier-farming-jashpur-farmer-sohan-singh-says-he-received-assistance-for-agricultural-activities/",
+      "important": false
+    },
+    {
+      "id": "a6a0ba3f",
+      "title": "बंजर जमीन पर उगाई ग्राफ्टेड टमाटर-बैंगन, 187 क्विंटल उत्पादन से हासिल कर किसान ने कमाए 4.25 लाख",
+      "summary": "बंजर जमीन पर उगाई ग्राफ्टेड टमाटर-बैंगन, 187 क्विंटल उत्पादन से हासिल कर किसान ने कमाए 4.25 लाख",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmer-earns-%e2%82%b94-25-lakh-from-187-quintal-yield-of-grafted-tomato-and-eggplant-grown-on-barren-land/",
+      "important": false
+    },
+    {
+      "id": "b0a3884a",
+      "title": "देवास में सोयाबीन की फसल पर मंडरा रहा इन कीटों का खतरा! कृषि विभाग ने किसानों को दी ये खास सलाह",
+      "summary": "देवास में सोयाबीन की फसल पर मंडरा रहा इन कीटों का खतरा! कृषि विभाग ने किसानों को दी ये खास सलाह",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/threat-from-these-pests-looms-over-the-soybean-crop-in-dewas-agriculture-department-issues-special-advice-to-farmers/",
+      "important": false
+    },
     {
       "id": "f9ebc4b0",
       "title": "जबलपुर : किसानों की समस्याओं का मौके पर किया समाधान",
@@ -462,94 +550,6 @@
       "date": "2026-09-03",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/farmers-will-now-get-electricity-for-irrigation-during-the-day-as-well-cm-mohan-yadav-made-the-announcement-in-sheopur/",
-      "important": false
-    },
-    {
-      "id": "8cd744a7",
-      "title": "स्वराज ट्रैक्टर्स और महिंद्रा सस्टेन ने पंजाब में सोलर प्रोजेक्ट की शुरुआत की",
-      "summary": "स्वराज ट्रैक्टर्स और महिंद्रा सस्टेन ने पंजाब में सोलर प्रोजेक्ट की शुरुआत की",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/swaraj-tractors-and-mahindra-susten-launched-a-solar-project-in-punjab/",
-      "important": false
-    },
-    {
-      "id": "75346322",
-      "title": "छिंदवाड़ा: भगवान बलराम जयंती पर कृषि संगोष्ठी आयोजित",
-      "summary": "छिंदवाड़ा: भगवान बलराम जयंती पर कृषि संगोष्ठी आयोजित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-agricultural-seminar-organized-on-lord-balaram-jayanti/",
-      "important": false
-    },
-    {
-      "id": "85411442",
-      "title": "अब किसानों को सिंचाई के लिए दिन में भी उपलब्ध होगी बिजली : मुख्यमंत्री डॉ. यादव",
-      "summary": "अब किसानों को सिंचाई के लिए दिन में भी उपलब्ध होगी बिजली : मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/now-electricity-for-irrigation-will-be-available-to-farmers-during-the-day-as-well-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "fc729565",
-      "title": "पांढुर्ना क्षेत्र में कपास की फसल सूखने से किसान चिंतित",
-      "summary": "पांढुर्ना क्षेत्र में कपास की फसल सूखने से किसान चिंतित",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-the-pandhurna-region-are-worried-as-the-cotton-crop-is-drying-up/",
-      "important": false
-    },
-    {
-      "id": "20047a03",
-      "title": "धान छोड़ सब्जी की खेती से बढ़ी कमाई, किसान ने एक एकड़ में 12 टन करेला उगाकर कमाए ₹1.07 लाख",
-      "summary": "धान छोड़ सब्जी की खेती से बढ़ी कमाई, किसान ने एक एकड़ में 12 टन करेला उगाकर कमाए ₹1.07 लाख",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/earnings-rise-by-switching-from-paddy-to-vegetable-farming-a-farmer-earned-%e2%82%b91-07-lakh-by-growing-12-tonnes-of-bitter-gourd-on-one-acre/",
-      "important": false
-    },
-    {
-      "id": "cc0b172d",
-      "title": "किसानों के लिए बड़ी सौगात, छत्तीसगढ़ में 21 सिंचाई योजनाओं पर खर्च होंगे ₹76.93 करोड़",
-      "summary": "किसानों के लिए बड़ी सौगात, छत्तीसगढ़ में 21 सिंचाई योजनाओं पर खर्च होंगे ₹76.93 करोड़",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-major-boon-for-farmers-%e2%82%b976-93-crore-to-be-spent-on-21-irrigation-schemes-in-chhattisgarh/",
-      "important": false
-    },
-    {
-      "id": "427639de",
-      "title": "रायपुर: जल संरक्षण और मिट्टी कटाव रोकने की पहल, रायगढ़ में 16,873 कंटूर ट्रेंच निर्माण को मिली मंजूरी",
-      "summary": "रायपुर: जल संरक्षण और मिट्टी कटाव रोकने की पहल, रायगढ़ में 16,873 कंटूर ट्रेंच निर्माण को मिली मंजूरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-initiative-for-water-conservation-and-soil-erosion-control-approval-granted-for-the-construction-of-16873-contour-trenches-in-raigarh/",
-      "important": false
-    },
-    {
-      "id": "b3970e66",
-      "title": "कश्मीर के किसानों को बड़ी सौगात, धान की 2 नई किस्में देंगी ढाई गुना तक ज्यादा पैदावार; जल्दी कटाई से दूसरी फसल का मौका",
-      "summary": "कश्मीर के किसानों को बड़ी सौगात, धान की 2 नई किस्में देंगी ढाई गुना तक ज्यादा पैदावार; जल्दी कटाई से दूसरी फसल का मौका",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/a-major-boon-for-kashmirs-farmers-two-new-paddy-varieties-to-yield-up-to-2-5-times-more-early-harvesting-opens-the-door-for-a-second-crop/",
       "important": false
     }
   ]
