@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-05T20:10:07Z",
-  "new_count": 0,
+  "updated": "2026-09-06T03:59:03Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "2383c47b",
+      "title": "कृषि विकास के लिए केंद्र ने पांच राज्यों को जारी की 1,183 करोड़ रुपये की दूसरी किस्त",
+      "summary": "कृषि विकास के लिए केंद्र ने पांच राज्यों को जारी की 1,183 करोड़ रुपये की दूसरी किस्त",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/centre-releases-second-installment-of-%e2%82%b91183-crore-to-five-states-for-agricultural-development/",
+      "important": false
+    },
+    {
+      "id": "95d44a43",
+      "title": "हरियाणा के गन्ना किसानों को मशीनीकरण पर सब्सिडी, 30 सितंबर तक करें आवेदन",
+      "summary": "हरियाणा के गन्ना किसानों को मशीनीकरण पर सब्सिडी, 30 सितंबर तक करें आवेदन",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/subsidy-on-mechanization-for-haryanas-sugarcane-farmers-apply-by-september-30/",
+      "important": false
+    },
+    {
+      "id": "bcf677f3",
+      "title": "एक एकड़ में ड्रैगन फ्रूट और खजूर की सहफसली खेती से किसान की बदली किस्मत",
+      "summary": "एक एकड़ में ड्रैगन फ्रूट और खजूर की सहफसली खेती से किसान की बदली किस्मत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/intercropping-of-dragon-fruit-and-dates-on-one-acre-transforms-a-farmers-fortunes/",
+      "important": false
+    },
+    {
+      "id": "e46f6904",
+      "title": "कपास पर गुलाबी सुंडी का खतरा: सिरसा में सतर्कता, जानें बचाव के लिए दवा और मात्रा",
+      "summary": "कपास पर गुलाबी सुंडी का खतरा: सिरसा में सतर्कता, जानें बचाव के लिए दवा और मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/threat-of-pink-bollworm-on-cotton-alert-in-sirsa-learn-about-protective-pesticides-and-dosages/",
+      "important": false
+    },
+    {
+      "id": "a31ee387",
+      "title": "सोयाबीन में इल्ली और पीला मोजेक का खतरा, शिवपुरी में कृषि विभाग ने जारी की साप्ताहिक सलाह",
+      "summary": "सोयाबीन में इल्ली और पीला मोजेक का खतरा, शिवपुरी में कृषि विभाग ने जारी की साप्ताहिक सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-caterpillars-and-yellow-mosaic-in-soybean-agriculture-department-issues-weekly-advisory-in-shivpuri/",
+      "important": false
+    },
+    {
+      "id": "93d57f05",
+      "title": "पारंपरिक धान छोड़ करेले की उन्नत खेती से किसान ने दोगुनी की आमदनी",
+      "summary": "पारंपरिक धान छोड़ करेले की उन्नत खेती से किसान ने दोगुनी की आमदनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmer-doubles-income-by-switching-from-traditional-paddy-to-advanced-bitter-gourd-cultivation/",
+      "important": false
+    },
+    {
+      "id": "d96106a9",
+      "title": "PM किसान की किस्तों से जुटाए 10 हजार, खरीदी पहली गाय; आज 10 गायों से रोज बेचते हैं 100 लीटर दूध",
+      "summary": "PM किसान की किस्तों से जुटाए 10 हजार, खरीदी पहली गाय; आज 10 गायों से रोज बेचते हैं 100 लीटर दूध",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/saved-%e2%82%b910000-from-pm-kisan-installments-and-bought-the-first-cow-today-sells-100-liters-of-milk-daily-from-a-herd-of-10-cows/",
+      "important": false
+    },
+    {
+      "id": "0ed4028b",
+      "title": "कटनी : आधुनिक कृषि यंत्रों की प्रदर्शनी बनी आकर्षण का केंद्र",
+      "summary": "कटनी : आधुनिक कृषि यंत्रों की प्रदर्शनी बनी आकर्षण का केंद्र",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/katni-exhibition-of-modern-agricultural-machinery-becomes-the-center-of-attraction/",
+      "important": false
+    },
     {
       "id": "1492e8ac",
       "title": "Weather Today: आज पश्चिमी MP और पूर्वी राजस्थान में बहुत भारी बारिश की चेतावनी, पूर्वोत्तर और पूर्वी राज्यों में भी बरसे",
@@ -462,94 +550,6 @@
       "date": "2026-09-02",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/do-this-15-days-before-sowing-it-will-help-protect-soybean-gram-and-chili-crops-from-soil-borne-diseases/",
-      "important": false
-    },
-    {
-      "id": "dc3d467f",
-      "title": "कीटनाशक छिड़काव में लापरवाही पड़ सकती है भारी, किसानों को सुरक्षा उपाय अपनाने की सलाह",
-      "summary": "कीटनाशक छिड़काव में लापरवाही पड़ सकती है भारी, किसानों को सुरक्षा उपाय अपनाने की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/negligence-during-pesticide-spraying-can-prove-costly-farmers-advised-to-adopt-safety-measures/",
-      "important": false
-    },
-    {
-      "id": "cd2d959a",
-      "title": "आज का गेहूं मंडी रेट (02 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (02 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-02-september-2026-2/",
-      "important": false
-    },
-    {
-      "id": "12e5b26d",
-      "title": "आज का मक्का मंडी रेट (02 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (02 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-02-september-2026-2/",
-      "important": false
-    },
-    {
-      "id": "2c04a09c",
-      "title": "आज का धान मंडी रेट (02 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (02 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-02-september-2026-2/",
-      "important": false
-    },
-    {
-      "id": "11526730",
-      "title": "आज का सोयाबीन मंडी रेट (02 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (02 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-02-september-2026/",
-      "important": false
-    },
-    {
-      "id": "491231e5",
-      "title": "Weather Today: MP, यूपी और बिहार में भारी बारिश का अलर्ट, 2-3 सितंबर को इन राज्यों में बहुत भारी बारिश की चेतावनी",
-      "summary": "Weather Today: MP, यूपी और बिहार में भारी बारिश का अलर्ट, 2-3 सितंबर को इन राज्यों में बहुत भारी बारिश की चेतावनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-alert-for-mp-up-and-bihar-warning-of-very-heavy-rainfall-in-these-states-on-september-2-3/",
-      "important": false
-    },
-    {
-      "id": "eedc879b",
-      "title": "देश में फिर बढ़ा लंपी का खतरा, 29 राज्यों के 220 जिलों पर नजर",
-      "summary": "देश में फिर बढ़ा लंपी का खतरा, 29 राज्यों के 220 जिलों पर नजर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/risk-of-lumpy-virus-rises-again-in-the-country-220-districts-across-29-states-under-watch/",
-      "important": false
-    },
-    {
-      "id": "439e7ca0",
-      "title": "बिहार में खाद की बिक्री होगी ऑनलाइन, किसानों को क्यूआर कोड से मिलेगा उर्वरक",
-      "summary": "बिहार में खाद की बिक्री होगी ऑनलाइन, किसानों को क्यूआर कोड से मिलेगा उर्वरक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/fertilizer-sales-in-bihar-to-go-online-farmers-to-receive-fertilizer-via-qr-code/",
       "important": false
     }
   ]
