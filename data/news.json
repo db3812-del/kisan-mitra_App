@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-06T03:59:03Z",
+  "updated": "2026-09-06T10:39:45Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "f9ebc4b0",
+      "title": "जबलपुर : किसानों की समस्याओं का मौके पर किया समाधान",
+      "summary": "जबलपुर : किसानों की समस्याओं का मौके पर किया समाधान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-farmers-issues-resolved-on-the-spot/",
+      "important": false
+    },
+    {
+      "id": "34675660",
+      "title": "बालाघाट : कोदो-कुटकी के निःशुल्क बीज वितरित",
+      "summary": "बालाघाट : कोदो-कुटकी के निःशुल्क बीज वितरित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-free-kodo-kutki-seeds-distributed/",
+      "important": false
+    },
+    {
+      "id": "1b0dd383",
+      "title": "सीहोर : सोयाबीन फसल में रोग नियंत्रण हेतु अनुशंसित फफूंदनाशक का उपयोग करें",
+      "summary": "सीहोर : सोयाबीन फसल में रोग नियंत्रण हेतु अनुशंसित फफूंदनाशक का उपयोग करें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-use-recommended-fungicides-for-disease-control-in-the-soybean-crop-2/",
+      "important": false
+    },
+    {
+      "id": "c90fb769",
+      "title": "जबलपुर: किसानों को कृषि की उन्नत तकनीकों एवं प्राकृतिक खेती पर जानकारी दी",
+      "summary": "जबलपुर: किसानों को कृषि की उन्नत तकनीकों एवं प्राकृतिक खेती पर जानकारी दी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-farmers-were-provided-with-information-on-advanced-agricultural-techniques-and-natural-farming/",
+      "important": false
+    },
+    {
+      "id": "d095ec8e",
+      "title": "सिवनी : कृषक वैज्ञानिक परिचर्चा का हुआ आयोजन",
+      "summary": "सिवनी : कृषक वैज्ञानिक परिचर्चा का हुआ आयोजन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/seoni-farmers-scientists-discussion-organized/",
+      "important": false
+    },
+    {
+      "id": "24f9c425",
+      "title": "सिवनी: ‘सीताफल’ से समृद्धि ‘अभियान से किसानों को मिलेगा बेहतर बाजार",
+      "summary": "सिवनी: ‘सीताफल’ से समृद्धि ‘अभियान से किसानों को मिलेगा बेहतर बाजार",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/seoni-farmers-to-get-better-market-access-through-the-sitaphal-se-samriddhi-prosperity-through-custard-apple-campaign/",
+      "important": false
+    },
+    {
+      "id": "fe15f2f3",
+      "title": "डिंडोरी: मत्स्य कृषकों को मत्स्य बीज वितरित किए",
+      "summary": "डिंडोरी: मत्स्य कृषकों को मत्स्य बीज वितरित किए",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-fish-seeds-distributed-to-fish-farmers/",
+      "important": false
+    },
+    {
+      "id": "9f5e06ad",
+      "title": "नरसिंहपुर : कृषि एवं संबद्ध विभागों की विस्तृत समीक्षा बैठक संपन्न",
+      "summary": "नरसिंहपुर : कृषि एवं संबद्ध विभागों की विस्तृत समीक्षा बैठक संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/narsinghpur-detailed-review-meeting-of-agriculture-and-allied-departments-concludes/",
+      "important": false
+    },
     {
       "id": "2383c47b",
       "title": "कृषि विकास के लिए केंद्र ने पांच राज्यों को जारी की 1,183 करोड़ रुपये की दूसरी किस्त",
@@ -462,94 +550,6 @@
       "date": "2026-09-03",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/crop-cultivation/a-major-boon-for-kashmirs-farmers-two-new-paddy-varieties-to-yield-up-to-2-5-times-more-early-harvesting-opens-the-door-for-a-second-crop/",
-      "important": false
-    },
-    {
-      "id": "dd73870d",
-      "title": "MP कैबिनेट का बड़ा फैसला: मूंग खरीदी सीमा 25% से बढ़ाकर 60% हुई, 41 हजार करोड़ के प्रस्ताव मंजूर",
-      "summary": "MP कैबिनेट का बड़ा फैसला: मूंग खरीदी सीमा 25% से बढ़ाकर 60% हुई, 41 हजार करोड़ के प्रस्ताव मंजूर",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-decision-by-mp-cabinet-moong-procurement-limit-raised-from-25-to-60-proposals-worth-%e2%82%b941000-crore-approved/",
-      "important": false
-    },
-    {
-      "id": "aa29a65f",
-      "title": "सीहोर जिले में बलराम कृषक संगोष्ठी आयोजित",
-      "summary": "सीहोर जिले में बलराम कृषक संगोष्ठी आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balram-farmers-seminar-organized-in-sehore-district/",
-      "important": false
-    },
-    {
-      "id": "40e003e8",
-      "title": "विदिशा के 35 किसानों ने भोपाल में सीखी आधुनिक कृषि तकनीक",
-      "summary": "विदिशा के 35 किसानों ने भोपाल में सीखी आधुनिक कृषि तकनीक",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/35-farmers-from-vidisha-learned-modern-agricultural-techniques-in-bhopal/",
-      "important": false
-    },
-    {
-      "id": "0d204492",
-      "title": "सीहोर: किसानों को कृषि की उन्नत तकनीकें अपनाने पर अधिक मुनाफा- कृषि उत्पादन आयुक्त",
-      "summary": "सीहोर: किसानों को कृषि की उन्नत तकनीकें अपनाने पर अधिक मुनाफा- कृषि उत्पादन आयुक्त",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-farmers-gain-higher-profits-by-adopting-advanced-agricultural-techniques-agriculture-production-commissioner/",
-      "important": false
-    },
-    {
-      "id": "d3164ddb",
-      "title": "किसानों की फार्मर रजिस्ट्री के लिए सीहोर जिले में लगाए जा रहे हैं कैम्प",
-      "summary": "किसानों की फार्मर रजिस्ट्री के लिए सीहोर जिले में लगाए जा रहे हैं कैम्प",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/camps-are-being-organized-in-sehore-district-for-the-farmers-registry/",
-      "important": false
-    },
-    {
-      "id": "0df8e6f9",
-      "title": "सीहोर : सोयाबीन फसल के रोग नियंत्रण के लिए अनुशंसित फफूंदनाशक का उपयोग करें",
-      "summary": "सीहोर : सोयाबीन फसल के रोग नियंत्रण के लिए अनुशंसित फफूंदनाशक का उपयोग करें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-use-recommended-fungicides-for-disease-control-in-the-soybean-crop/",
-      "important": false
-    },
-    {
-      "id": "e35aaef6",
-      "title": "मंदसौर में ग्रामीण युवाओं को मिलेगी बकरी पालन की फ्री ट्रेनिंग, 4 सितंबर से शुरू होगा 12 दिवसीय प्रशिक्षण",
-      "summary": "मंदसौर में ग्रामीण युवाओं को मिलेगी बकरी पालन की फ्री ट्रेनिंग, 4 सितंबर से शुरू होगा 12 दिवसीय प्रशिक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rural-youth-in-mandsaur-to-receive-free-goat-rearing-training-12-day-training-program-begins-on-september-4/",
-      "important": false
-    },
-    {
-      "id": "bedac8b1",
-      "title": "बोनी से 15 दिन पहले करें ये काम, सोयाबीन, चना और मिर्ची को मृदा जनित रोगों से बचाने में मिलेगी मदद",
-      "summary": "बोनी से 15 दिन पहले करें ये काम, सोयाबीन, चना और मिर्ची को मृदा जनित रोगों से बचाने में मिलेगी मदद",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-09-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/do-this-15-days-before-sowing-it-will-help-protect-soybean-gram-and-chili-crops-from-soil-borne-diseases/",
       "important": false
     }
   ]
