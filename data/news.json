@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-08T10:58:53Z",
-  "new_count": 0,
+  "updated": "2026-09-08T16:23:47Z",
+  "new_count": 6,
   "articles": [
+    {
+      "id": "444fee14",
+      "title": "प्याज मंडी भाव: मध्य प्रदेश में ₹6,000 क्विंटल तक मिला भाव, शाजापुर में सबसे ज्यादा 569.31 टन पहुंची प्याज की आवक",
+      "summary": "प्याज मंडी भाव: मध्य प्रदेश में ₹6,000 क्विंटल तक मिला भाव, शाजापुर में सबसे ज्यादा 569.31 टन पहुंची प्याज की आवक",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/onion-market-prices-prices-reached-up-to-%e2%82%b96000-per-quintal-in-madhya-pradesh-shajapur-recorded-the-highest-onion-arrivals-at-569-31-tonnes/",
+      "important": false
+    },
+    {
+      "id": "98d6a626",
+      "title": "आज का गेहूं मंडी रेट (08 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (08 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-08-september-2026/",
+      "important": false
+    },
+    {
+      "id": "86cc0761",
+      "title": "आज का मक्का मंडी रेट (08 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (08 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-08-september-2026/",
+      "important": false
+    },
+    {
+      "id": "83f96b21",
+      "title": "Weather Today: देश में फिर सक्रिय हुआ मानसून, ओडिशा में भारी से बहुत भारी बारिश की संभावना; MP, छत्तीसगढ़ और तेलंगाना मे",
+      "summary": "Weather Today: देश में फिर सक्रिय हुआ मानसून, ओडिशा में भारी से बहुत भारी बारिश की संभावना; MP, छत्तीसगढ़ और तेलंगाना में भी अलर्ट",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-monsoon-becomes-active-again-across-the-country-heavy-to-very-heavy-rainfall-likely-in-odisha-alerts-issued-for-mp-chhattisgarh-and-telangana-as-well/",
+      "important": false
+    },
+    {
+      "id": "92080b12",
+      "title": "आज का धान मंडी रेट (08 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (08 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-08-september-2026/",
+      "important": false
+    },
+    {
+      "id": "2e334d48",
+      "title": "आज का सोयाबीन मंडी रेट (08 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (08 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-08-september-2026/",
+      "important": false
+    },
     {
       "id": "1796dd18",
       "title": "केले के तने से रेशा बनाकर आत्मनिर्भर बनीं रिंकु",
@@ -484,72 +550,6 @@
       "date": "2026-09-04",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/crop-cultivation/risk-of-rhizoctonia-aerial-blight-in-soybeans-take-these-immediate-measures-if-water-soaked-spots-appear-on-the-leaves/",
-      "important": false
-    },
-    {
-      "id": "68f47c7f",
-      "title": "काला नमक धान की प्राकृतिक खेती से बांदा का किसान बना लखपति",
-      "summary": "काला नमक धान की प्राकृतिक खेती से बांदा का किसान बना लखपति",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/banda-farmer-becomes-a-lakhpati-through-natural-farming-of-kala-namak-paddy/",
-      "important": false
-    },
-    {
-      "id": "4effdcc9",
-      "title": "केंद्र ने पांच राज्यों को दिए 1,283 करोड़ रुपये, सिंचाई और कृषि मशीनीकरण को मिलेगी रफ्तार",
-      "summary": "केंद्र ने पांच राज्यों को दिए 1,283 करोड़ रुपये, सिंचाई और कृषि मशीनीकरण को मिलेगी रफ्तार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/centre-releases-%e2%82%b91283-crore-to-five-states-irrigation-and-agricultural-mechanization-to-get-a-boost/",
-      "important": false
-    },
-    {
-      "id": "f34ee3c4",
-      "title": "धान बेचने से पहले कराएं एग्री-स्टैक पंजीयन, छत्तीसगढ़ सरकार ने बदले नियम",
-      "summary": "धान बेचने से पहले कराएं एग्री-स्टैक पंजीयन, छत्तीसगढ़ सरकार ने बदले नियम",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/complete-agri-stack-registration-before-selling-paddy-chhattisgarh-government-changes-rules/",
-      "important": true
-    },
-    {
-      "id": "4d4611cd",
-      "title": "सोयाबीन की पत्तियों की शिराएं काली पड़ रही हों तो क्या करें? जानें बीमारी और बचाव का उपाय",
-      "summary": "सोयाबीन की पत्तियों की शिराएं काली पड़ रही हों तो क्या करें? जानें बीमारी और बचाव का उपाय",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/what-should-be-done-if-the-veins-of-soybean-leaves-are-turning-black-learn-about-the-disease-and-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "47377844",
-      "title": "मध्यप्रदेश के 9 जिलों में अति भारी वर्षा की संभावना",
-      "summary": "मध्यप्रदेश के 9 जिलों में अति भारी वर्षा की संभावना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/possibility-of-extremely-heavy-rainfall-in-9-districts-of-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "12a44281",
-      "title": "प्राकृतिक खेती करने वाले  जितेन्द्र पाटीदार के खेत का संयुक्त संचालक कृषि ने किया निरीक्षण",
-      "summary": "प्राकृतिक खेती करने वाले  जितेन्द्र पाटीदार के खेत का संयुक्त संचालक कृषि ने किया निरीक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-joint-director-of-agriculture-inspected-the-farm-of-jitendra-patidar-a-practitioner-of-natural-farming/",
       "important": false
     }
   ]
