@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-08T16:23:47Z",
-  "new_count": 6,
+  "updated": "2026-09-08T20:58:09Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "8f1bea5c",
+      "title": "आगरा में बनेगा कृषि विज्ञान का बड़ा केंद्र, CIP के साथ मिलकर विकसित होंगी उन्नत आलू किस्में",
+      "summary": "आगरा में बनेगा कृषि विज्ञान का बड़ा केंद्र, CIP के साथ मिलकर विकसित होंगी उन्नत आलू किस्में",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/a-major-agricultural-science-center-to-be-set-up-in-agra-advanced-potato-varieties-to-be-developed-in-collaboration-with-cip/",
+      "important": false
+    },
+    {
+      "id": "d4a190bc",
+      "title": "पारंपरिक खेती छोड़ अपनाई आधुनिक तकनीक, बरबटी-खीरा से किसान ने कमाया 2.70 लाख रुपये का शुद्ध लाभ",
+      "summary": "पारंपरिक खेती छोड़ अपनाई आधुनिक तकनीक, बरबटी-खीरा से किसान ने कमाया 2.70 लाख रुपये का शुद्ध लाभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/moving-away-from-traditional-farming-to-adopt-modern-techniques-a-farmer-earned-a-net-profit-of-%e2%82%b92-70-lakh-from-yardlong-beans-and-cucumbers/",
+      "important": false
+    },
+    {
+      "id": "30723c70",
+      "title": "किसानों तक आधुनिक तकनीक पहुंचाएंगे KVK, 2027 तक 300 कृषि विज्ञान केंद्रों का होगा कायाकल्प",
+      "summary": "किसानों तक आधुनिक तकनीक पहुंचाएंगे KVK, 2027 तक 300 कृषि विज्ञान केंद्रों का होगा कायाकल्प",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kvks-to-bring-modern-technology-to-farmers-300-krishi-vigyan-kendras-to-be-revamped-by-2027/",
+      "important": false
+    },
+    {
+      "id": "f975e17a",
+      "title": "रायपुर : आईजीकेवी रायपुर ने जारी किया बी.एससी. कृषि प्रवेश का नया काउंसिलिंग शेड्यूल",
+      "summary": "रायपुर : आईजीकेवी रायपुर ने जारी किया बी.एससी. कृषि प्रवेश का नया काउंसिलिंग शेड्यूल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-igkv-raipur-has-released-the-new-counselling-schedule-for-b-sc-agriculture-admissions/",
+      "important": false
+    },
+    {
+      "id": "04ebc94f",
+      "title": "भारत में दोगुने से ज्यादा बढ़ा मछली उत्पादन, 198 लाख टन पहुंचा; RAS-बायोफ्लॉक से आधुनिक होगा एक्वाकल्चर",
+      "summary": "भारत में दोगुने से ज्यादा बढ़ा मछली उत्पादन, 198 लाख टन पहुंचा; RAS-बायोफ्लॉक से आधुनिक होगा एक्वाकल्चर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/fish-production-in-india-has-more-than-doubled-reaching-19-8-million-tonnes-ras-and-biofloc-technologies-to-modernize-aquaculture/",
+      "important": false
+    },
+    {
+      "id": "21139ff2",
+      "title": "धान की खेती से बदली राह, मछली-मुर्गी पालन और बागवानी से किसान ने बनाया कमाई का नया मॉडल",
+      "summary": "धान की खेती से बदली राह, मछली-मुर्गी पालन और बागवानी से किसान ने बनाया कमाई का नया मॉडल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/moving-beyond-paddy-cultivation-a-farmer-has-created-a-new-income-model-by-integrating-fish-farming-poultry-rearing-and-horticulture/",
+      "important": false
+    },
+    {
+      "id": "36404492",
+      "title": "सोयाबीन फसल में पीला मोजेक का प्रकोप, IARI वैज्ञानिकों ने खेतों में पहुंचकर किसानों को बताए बचाव के उपाय",
+      "summary": "सोयाबीन फसल में पीला मोजेक का प्रकोप, IARI वैज्ञानिकों ने खेतों में पहुंचकर किसानों को बताए बचाव के उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/yellow-mosaic-outbreak-in-soybean-crops-iari-scientists-visited-the-fields-and-advised-farmers-on-preventive-measures/",
+      "important": false
+    },
     {
       "id": "444fee14",
       "title": "प्याज मंडी भाव: मध्य प्रदेश में ₹6,000 क्विंटल तक मिला भाव, शाजापुर में सबसे ज्यादा 569.31 टन पहुंची प्याज की आवक",
@@ -473,83 +550,6 @@
       "date": "2026-09-05",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-05-september-2026/",
-      "important": false
-    },
-    {
-      "id": "ba513446",
-      "title": "आज का सोयाबीन मंडी रेट (05 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (05 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-05-september-2026/",
-      "important": false
-    },
-    {
-      "id": "bff4fcc1",
-      "title": "मध्यप्रदेश में बड़ा प्रशासनिक फेरबदल",
-      "summary": "मध्यप्रदेश में बड़ा प्रशासनिक फेरबदल",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-administrative-reshuffle-in-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "3093d5c4",
-      "title": "MP मक्का मंडी भाव: 2500 रुपए तक पहुंचा रेट, जानें आज किस मंडी में कितना भाव",
-      "summary": "MP मक्का मंडी भाव: 2500 रुपए तक पहुंचा रेट, जानें आज किस मंडी में कितना भाव",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mp-maize-market-rates-prices-reach-up-to-%e2%82%b92500-check-todays-rates-across-different-markets/",
-      "important": false
-    },
-    {
-      "id": "0e7ecd14",
-      "title": "आज का धान मंडी रेट (04 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (04 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-04-september-2026/",
-      "important": false
-    },
-    {
-      "id": "7127c68d",
-      "title": "खरीफ 2026 में सूखे का संकट गहराया, अखिल भारतीय किसान सभा ने राष्ट्रीय आपदा घोषित करने की मांग की",
-      "summary": "खरीफ 2026 में सूखे का संकट गहराया, अखिल भारतीय किसान सभा ने राष्ट्रीय आपदा घोषित करने की मांग की",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/drought-crisis-deepens-during-kharif-2026-all-india-kisan-sabha-demands-declaration-of-a-national-disaster/",
-      "important": false
-    },
-    {
-      "id": "df008bd7",
-      "title": "आज का सोयाबीन मंडी रेट (04 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (04 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/todays-soybean-mandi-rate-04-september-2026/",
-      "important": false
-    },
-    {
-      "id": "8598c02b",
-      "title": "सोयाबीन में राइजोक्टोनिया एरियल ब्लाइट का खतरा, पत्तियों पर पानी जैसे दाग दिखें तो तुरंत करें ये उपाय",
-      "summary": "सोयाबीन में राइजोक्टोनिया एरियल ब्लाइट का खतरा, पत्तियों पर पानी जैसे दाग दिखें तो तुरंत करें ये उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/risk-of-rhizoctonia-aerial-blight-in-soybeans-take-these-immediate-measures-if-water-soaked-spots-appear-on-the-leaves/",
       "important": false
     }
   ]
