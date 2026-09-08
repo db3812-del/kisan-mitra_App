@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-07T21:22:17Z",
-  "new_count": 0,
+  "updated": "2026-09-08T04:00:18Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "1796dd18",
+      "title": "केले के तने से रेशा बनाकर आत्मनिर्भर बनीं रिंकु",
+      "summary": "केले के तने से रेशा बनाकर आत्मनिर्भर बनीं रिंकु",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rinku-became-self-reliant-by-producing-fiber-from-banana-stems/",
+      "important": false
+    },
+    {
+      "id": "78ebc8e6",
+      "title": "धार कलेक्टर ने कपास की सघन घनत्व रोपण प्रणाली का किया निरीक्षण",
+      "summary": "धार कलेक्टर ने कपास की सघन घनत्व रोपण प्रणाली का किया निरीक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dhar-collector-inspected-the-high-density-cotton-planting-system/",
+      "important": false
+    },
+    {
+      "id": "d5464bed",
+      "title": "मध्य प्रदेश में मूंग की MSP पर खरीद 5.33 लाख टन के पार, किसानों को समय पर भुगतान पर जोर",
+      "summary": "मध्य प्रदेश में मूंग की MSP पर खरीद 5.33 लाख टन के पार, किसानों को समय पर भुगतान पर जोर",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/moong-procurement-at-msp-in-madhya-pradesh-crosses-5-33-lakh-tonnes-emphasis-on-timely-payment-to-farmers/",
+      "important": true
+    },
+    {
+      "id": "df027824",
+      "title": "प्रधानमंत्री धन-धान्य कृषि योजना: सौ जिलों में कृषि सुधार के आंकड़े सामने आए",
+      "summary": "प्रधानमंत्री धन-धान्य कृषि योजना: सौ जिलों में कृषि सुधार के आंकड़े सामने आए",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/pradhan-mantri-dhan-dhanya-krishi-yojana-data-on-agricultural-reforms-in-100-districts-released/",
+      "important": false
+    },
+    {
+      "id": "93694805",
+      "title": "बड़वानी : कपास विक्रय हेतु समर्थन मूल्य पर पंजीयन 31 अक्टूबर तक होगा",
+      "summary": "बड़वानी : कपास विक्रय हेतु समर्थन मूल्य पर पंजीयन 31 अक्टूबर तक होगा",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/barwani-registration-for-cotton-sales-at-the-support-price-will-continue-until-october-31/",
+      "important": false
+    },
+    {
+      "id": "8818e379",
+      "title": "खंडवा: ‘उद्यानिकी संवाद’ कार्यक्रम संपन्न",
+      "summary": "खंडवा: ‘उद्यानिकी संवाद’ कार्यक्रम संपन्न",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/khandwa-udyaniki-samvad-horticulture-dialogue-program-concludes/",
+      "important": false
+    },
+    {
+      "id": "05270fbc",
+      "title": "धार : प्राकृतिक खेती को लेकर कृषक संगोष्ठी एवं वैज्ञानिक परिचर्चा आयोजित",
+      "summary": "धार : प्राकृतिक खेती को लेकर कृषक संगोष्ठी एवं वैज्ञानिक परिचर्चा आयोजित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dhar-farmers-seminar-and-scientific-discussion-on-natural-farming-organized/",
+      "important": false
+    },
+    {
+      "id": "a3eb779f",
+      "title": "बड़वानी जिले में जिले में वर्तमान में 27093 मीट्रिक टन खाद उपलब्ध",
+      "summary": "बड़वानी जिले में जिले में वर्तमान में 27093 मीट्रिक टन खाद उपलब्ध",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/currently-27093-metric-tonnes-of-fertilizer-are-available-in-barwani-district/",
+      "important": false
+    },
     {
       "id": "595db0a9",
       "title": "Weather Today: उत्तराखंड-UP में भारी से बहुत भारी बारिश का अलर्ट, MP समेत कई राज्यों में भी बरसेंगे बादल; IMD ने जारी कि",
@@ -462,94 +550,6 @@
       "date": "2026-09-04",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/the-joint-director-of-agriculture-inspected-the-farm-of-jitendra-patidar-a-practitioner-of-natural-farming/",
-      "important": false
-    },
-    {
-      "id": "808ab527",
-      "title": "छिंदवाड़ा: किसानों को पॉली हाउस निर्माण पर मिलेगा 19 लाख तक का अनुदान",
-      "summary": "छिंदवाड़ा: किसानों को पॉली हाउस निर्माण पर मिलेगा 19 लाख तक का अनुदान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-farmers-to-receive-a-subsidy-of-up-to-%e2%82%b919-lakh-for-polyhouse-construction/",
-      "important": false
-    },
-    {
-      "id": "0b78d7c2",
-      "title": "देश के कई हिस्सों में भारी बारिश का अलर्ट, मध्यप्रदेश-राजस्थान में बहुत भारी बारिश के आसार; दिल्ली में भी बरसेंगे बादल",
-      "summary": "देश के कई हिस्सों में भारी बारिश का अलर्ट, मध्यप्रदेश-राजस्थान में बहुत भारी बारिश के आसार; दिल्ली में भी बरसेंगे बादल",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/heavy-rain-alert-for-several-parts-of-the-country-very-heavy-rainfall-expected-in-madhya-pradesh-and-rajasthan-rain-likely-in-delhi-as-well/",
-      "important": false
-    },
-    {
-      "id": "5afddac2",
-      "title": "ग्वालियर में 3195 नए किसान पैक्स से जुड़े, 920 किसानों को मिला किसान क्रेडिट कार्ड; 17.51 करोड़ का ऋण वितरित",
-      "summary": "ग्वालियर में 3195 नए किसान पैक्स से जुड़े, 920 किसानों को मिला किसान क्रेडिट कार्ड; 17.51 करोड़ का ऋण वितरित",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/3195-new-farmers-joined-pacs-in-gwalior-920-farmers-received-kisan-credit-cards-loans-worth-%e2%82%b917-51-crore-were-disbursed/",
-      "important": false
-    },
-    {
-      "id": "68096475",
-      "title": "सोयाबीन में इल्लियां, सफेद मक्खी और तना छेदक से फसल पर खतरा, जानें ICAR-NSRI की सलाह",
-      "summary": "सोयाबीन में इल्लियां, सफेद मक्खी और तना छेदक से फसल पर खतरा, जानें ICAR-NSRI की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/soybean-crop-at-risk-from-caterpillars-whiteflies-and-stem-borers-check-icar-nsris-advice/",
-      "important": false
-    },
-    {
-      "id": "23f672c5",
-      "title": "सोयाबीन में दाने भरने लगे तो न होने दें पानी की कमी, ICAR-NSRI ने बताया सिंचाई का सही तरीका",
-      "summary": "सोयाबीन में दाने भरने लगे तो न होने दें पानी की कमी, ICAR-NSRI ने बताया सिंचाई का सही तरीका",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/ensure-there-is-no-water-shortage-when-soybean-pods-begin-to-fill-icar-nsri-outlines-the-correct-irrigation-method/",
-      "important": false
-    },
-    {
-      "id": "58428e10",
-      "title": "सोयाबीन, उड़द एवं मक्का में कीट-रोग नियंत्रण के लिए कृषि वैज्ञानिकों की सामयिक सलाह",
-      "summary": "सोयाबीन, उड़द एवं मक्का में कीट-रोग नियंत्रण के लिए कृषि वैज्ञानिकों की सामयिक सलाह",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/timely-advice-from-agricultural-scientists-for-pest-and-disease-control-in-soybean-black-gram-and-maize/",
-      "important": false
-    },
-    {
-      "id": "265a3823",
-      "title": "तेलंगाना के कृषि मंत्री ने की शिवराज चौहान से मुलाकात, दलहन खरीद, ऑयल पाम और कृषि योजनाओं पर हुई चर्चा",
-      "summary": "तेलंगाना के कृषि मंत्री ने की शिवराज चौहान से मुलाकात, दलहन खरीद, ऑयल पाम और कृषि योजनाओं पर हुई चर्चा",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/telanganas-agriculture-minister-met-shivraj-chouhan-discussions-were-held-on-pulse-procurement-oil-palm-and-agricultural-schemes/",
-      "important": false
-    },
-    {
-      "id": "ee21571c",
-      "title": "किसानों को अब दिन में भी मिलेगी सिंचाई की बिजली, CM मोहन यादव ने श्योपुर में किया ऐलान",
-      "summary": "किसानों को अब दिन में भी मिलेगी सिंचाई की बिजली, CM मोहन यादव ने श्योपुर में किया ऐलान",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-will-now-get-electricity-for-irrigation-during-the-day-as-well-cm-mohan-yadav-made-the-announcement-in-sheopur/",
       "important": false
     }
   ]
