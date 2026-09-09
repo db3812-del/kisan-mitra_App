@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-08T20:58:09Z",
+  "updated": "2026-09-09T04:07:27Z",
   "new_count": 7,
   "articles": [
+    {
+      "id": "91777e5c",
+      "title": "किसानों के लिए बड़ी राहत, 2026-27 में भी शून्य ब्याज पर मिलेगा अल्पावधि फसल ऋण; KCC आवेदन हुआ ऑनलाइन",
+      "summary": "किसानों के लिए बड़ी राहत, 2026-27 में भी शून्य ब्याज पर मिलेगा अल्पावधि फसल ऋण; KCC आवेदन हुआ ऑनलाइन",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-relief-for-farmers-short-term-crop-loans-at-zero-interest-to-be-available-in-2026-27-as-well-kcc-application-process-goes-online/",
+      "important": false
+    },
+    {
+      "id": "4dc3d21b",
+      "title": "खरगोन मंडी में नए कपास सीजन की शुरुआत, पहली नीलामी में मिला 8,411 रुपये प्रति क्विंटल भाव",
+      "summary": "खरगोन मंडी में नए कपास सीजन की शुरुआत, पहली नीलामी में मिला 8,411 रुपये प्रति क्विंटल भाव",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/new-cotton-season-begins-at-khargone-mandi-price-of-%e2%82%b98411-per-quintal-fetched-in-the-first-auction/",
+      "important": false
+    },
+    {
+      "id": "7312c236",
+      "title": "ग्वालियर में खेती का बदला स्वरूप, उद्यानिकी का रकबा 17% पहुंचा; प्राकृतिक खेती और पशुपालन से बढ़े कमाई के अवसर",
+      "summary": "ग्वालियर में खेती का बदला स्वरूप, उद्यानिकी का रकबा 17% पहुंचा; प्राकृतिक खेती और पशुपालन से बढ़े कमाई के अवसर",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/changing-face-of-agriculture-in-gwalior-horticulture-acreage-reaches-17-natural-farming-and-animal-husbandry-boost-earning-opportunities/",
+      "important": false
+    },
+    {
+      "id": "aaf62be7",
+      "title": "कपास किसानों के लिए जरूरी खबर: CCI ऐप पर 31 अक्टूबर तक कराएं पंजीयन, MSP पर होगी खरीद",
+      "summary": "कपास किसानों के लिए जरूरी खबर: CCI ऐप पर 31 अक्टूबर तक कराएं पंजीयन, MSP पर होगी खरीद",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/important-news-for-cotton-farmers-register-on-the-cci-app-by-october-31-procurement-will-take-place-at-msp/",
+      "important": true
+    },
+    {
+      "id": "e7946d47",
+      "title": "मध्यप्रदेश: धान-ज्वार-बाजरा के MSP पर उपार्जन के लिए 15 सितंबर से पंजीयन, 10 अक्टूबर तक करा सकेंगे रजिस्ट्रेशन",
+      "summary": "मध्यप्रदेश: धान-ज्वार-बाजरा के MSP पर उपार्जन के लिए 15 सितंबर से पंजीयन, 10 अक्टूबर तक करा सकेंगे रजिस्ट्रेशन",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-registration-for-the-procurement-of-paddy-sorghum-jowar-and-pearl-millet-bajra-at-msp-begins-on-september-15-registration-will-remain-open-until-october-10/",
+      "important": true
+    },
+    {
+      "id": "11abe738",
+      "title": "पारंपरिक खेती से नहीं चला घर, मशरूम उत्पादन ने बदली मिथिला दीदी की जिंदगी; अब हर माह 50 हजार की कमाई",
+      "summary": "पारंपरिक खेती से नहीं चला घर, मशरूम उत्पादन ने बदली मिथिला दीदी की जिंदगी; अब हर माह 50 हजार की कमाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/traditional-farming-failed-to-sustain-the-household-mushroom-cultivation-transformed-mithila-didis-life-she-now-earns-%e2%82%b950000-per-month/",
+      "important": false
+    },
+    {
+      "id": "37a4b970",
+      "title": "धान की 25-30 दिन की फसल में सफेद माहू का प्रकोप, वैज्ञानिकों ने बताए नियंत्रण के उपाय",
+      "summary": "धान की 25-30 दिन की फसल में सफेद माहू का प्रकोप, वैज्ञानिकों ने बताए नियंत्रण के उपाय",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/white-backed-planthopper-infestation-in-25-30-day-old-paddy-crops-scientists-suggest-control-measures/",
+      "important": false
+    },
     {
       "id": "8f1bea5c",
       "title": "आगरा में बनेगा कृषि विज्ञान का बड़ा केंद्र, CIP के साथ मिलकर विकसित होंगी उन्नत आलू किस्में",
@@ -473,83 +550,6 @@
       "date": "2026-09-06",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/farmer-doubles-income-by-switching-from-traditional-paddy-to-advanced-bitter-gourd-cultivation/",
-      "important": false
-    },
-    {
-      "id": "d96106a9",
-      "title": "PM किसान की किस्तों से जुटाए 10 हजार, खरीदी पहली गाय; आज 10 गायों से रोज बेचते हैं 100 लीटर दूध",
-      "summary": "PM किसान की किस्तों से जुटाए 10 हजार, खरीदी पहली गाय; आज 10 गायों से रोज बेचते हैं 100 लीटर दूध",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/saved-%e2%82%b910000-from-pm-kisan-installments-and-bought-the-first-cow-today-sells-100-liters-of-milk-daily-from-a-herd-of-10-cows/",
-      "important": false
-    },
-    {
-      "id": "0ed4028b",
-      "title": "कटनी : आधुनिक कृषि यंत्रों की प्रदर्शनी बनी आकर्षण का केंद्र",
-      "summary": "कटनी : आधुनिक कृषि यंत्रों की प्रदर्शनी बनी आकर्षण का केंद्र",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/katni-exhibition-of-modern-agricultural-machinery-becomes-the-center-of-attraction/",
-      "important": false
-    },
-    {
-      "id": "1492e8ac",
-      "title": "Weather Today: आज पश्चिमी MP और पूर्वी राजस्थान में बहुत भारी बारिश की चेतावनी, पूर्वोत्तर और पूर्वी राज्यों में भी बरसे",
-      "summary": "Weather Today: आज पश्चिमी MP और पूर्वी राजस्थान में बहुत भारी बारिश की चेतावनी, पूर्वोत्तर और पूर्वी राज्यों में भी बरसेंगे बादल",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-warning-of-very-heavy-rainfall-in-western-madhya-pradesh-and-eastern-rajasthan-today-rains-also-expected-in-northeastern-and-eastern-states/",
-      "important": false
-    },
-    {
-      "id": "eb71c03c",
-      "title": "MP प्याज मंडी भाव: आगर मालवा में 5600 रुपए तक पहुंचा रेट, जानें आज के ताजा भाव",
-      "summary": "MP प्याज मंडी भाव: आगर मालवा में 5600 रुपए तक पहुंचा रेट, जानें आज के ताजा भाव",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mp-onion-market-rates-price-reaches-up-to-%e2%82%b95600-in-agar-malwa-check-todays-latest-rates/",
-      "important": false
-    },
-    {
-      "id": "07c58b51",
-      "title": "आज का गेहूं मंडी रेट (05 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (05 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-05-september-2026/",
-      "important": false
-    },
-    {
-      "id": "edf30b12",
-      "title": "आज का धान मंडी रेट (05 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (05 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-05-september-2026/",
-      "important": false
-    },
-    {
-      "id": "57595cd2",
-      "title": "आज का मक्का मंडी रेट (05 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (05 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-05-september-2026/",
       "important": false
     }
   ]
