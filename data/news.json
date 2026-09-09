@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-09T11:04:01Z",
-  "new_count": 0,
+  "updated": "2026-09-09T16:19:39Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "15624c37",
+      "title": "मक्का मंडी भाव: मध्य प्रदेश में2,601 रुपए प्रति क्विंटल तक मिले भाव, धार में सबसे ज्यादा आवक; देखें ताजा मक्का रेट",
+      "summary": "मक्का मंडी भाव: मध्य प्रदेश में2,601 रुपए प्रति क्विंटल तक मिले भाव, धार में सबसे ज्यादा आवक; देखें ताजा मक्का रेट",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/maize-market-prices-prices-reached-up-to-%e2%82%b92601-per-quintal-in-madhya-pradesh-with-the-highest-arrivals-in-dhar-check-the-latest-maize-rates/",
+      "important": false
+    },
+    {
+      "id": "bfe0030c",
+      "title": "देश में फिर बदलेगा मौसम, 10 सितंबर को बंगाल की खाड़ी में बन सकता है लो प्रेशर; ओडिशा में भारी बारिश के आसार",
+      "summary": "देश में फिर बदलेगा मौसम, 10 सितंबर को बंगाल की खाड़ी में बन सकता है लो प्रेशर; ओडिशा में भारी बारिश के आसार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-to-change-again-across-the-country-a-low-pressure-area-likely-to-form-over-the-bay-of-bengal-on-september-10-heavy-rain-expected-in-odisha/",
+      "important": false
+    },
+    {
+      "id": "3bbbb2bb",
+      "title": "आज का गेहूं मंडी रेट (09 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (09 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-09-september-2026/",
+      "important": false
+    },
+    {
+      "id": "0c5a20ae",
+      "title": "आज का धान मंडी रेट (09 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (09 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-09-september-2026/",
+      "important": false
+    },
+    {
+      "id": "0ab052a2",
+      "title": "आज का मक्का मंडी रेट (09 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (09 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-09-september-2026/",
+      "important": false
+    },
+    {
+      "id": "c0e7e0bf",
+      "title": "आज का सोयाबीन मंडी रेट (09 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (09 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/todays-soybean-mandi-rate-09-september-2026/",
+      "important": false
+    },
+    {
+      "id": "1042e0cc",
+      "title": "पिछड़े 100 जिलों में कृषि सुधार तेज, धन-धान्य योजना का औसत स्कोर तीन महीने में लगभग दोगुना",
+      "summary": "पिछड़े 100 जिलों में कृषि सुधार तेज, धन-धान्य योजना का औसत स्कोर तीन महीने में लगभग दोगुना",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/agricultural-reforms-accelerate-in-100-backward-districts-average-score-of-dhan-dhanya-yojana-nearly-doubles-in-three-months/",
+      "important": false
+    },
+    {
+      "id": "d551fd1f",
+      "title": "बिहार में 86 कृषि यंत्रों पर 80 फीसदी तक अनुदान, 8 सितंबर से ऑनलाइन आवेदन शुरू",
+      "summary": "बिहार में 86 कृषि यंत्रों पर 80 फीसदी तक अनुदान, 8 सितंबर से ऑनलाइन आवेदन शुरू",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/subsidy-of-up-to-80-on-86-agricultural-implements-in-bihar-online-applications-begin-on-september-8/",
+      "important": false
+    },
     {
       "id": "91777e5c",
       "title": "किसानों के लिए बड़ी राहत, 2026-27 में भी शून्य ब्याज पर मिलेगा अल्पावधि फसल ऋण; KCC आवेदन हुआ ऑनलाइन",
@@ -462,94 +550,6 @@
       "date": "2026-09-06",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/seoni-farmers-to-get-better-market-access-through-the-sitaphal-se-samriddhi-prosperity-through-custard-apple-campaign/",
-      "important": false
-    },
-    {
-      "id": "fe15f2f3",
-      "title": "डिंडोरी: मत्स्य कृषकों को मत्स्य बीज वितरित किए",
-      "summary": "डिंडोरी: मत्स्य कृषकों को मत्स्य बीज वितरित किए",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-fish-seeds-distributed-to-fish-farmers/",
-      "important": false
-    },
-    {
-      "id": "9f5e06ad",
-      "title": "नरसिंहपुर : कृषि एवं संबद्ध विभागों की विस्तृत समीक्षा बैठक संपन्न",
-      "summary": "नरसिंहपुर : कृषि एवं संबद्ध विभागों की विस्तृत समीक्षा बैठक संपन्न",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/narsinghpur-detailed-review-meeting-of-agriculture-and-allied-departments-concludes/",
-      "important": false
-    },
-    {
-      "id": "2383c47b",
-      "title": "कृषि विकास के लिए केंद्र ने पांच राज्यों को जारी की 1,183 करोड़ रुपये की दूसरी किस्त",
-      "summary": "कृषि विकास के लिए केंद्र ने पांच राज्यों को जारी की 1,183 करोड़ रुपये की दूसरी किस्त",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/centre-releases-second-installment-of-%e2%82%b91183-crore-to-five-states-for-agricultural-development/",
-      "important": false
-    },
-    {
-      "id": "95d44a43",
-      "title": "हरियाणा के गन्ना किसानों को मशीनीकरण पर सब्सिडी, 30 सितंबर तक करें आवेदन",
-      "summary": "हरियाणा के गन्ना किसानों को मशीनीकरण पर सब्सिडी, 30 सितंबर तक करें आवेदन",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/subsidy-on-mechanization-for-haryanas-sugarcane-farmers-apply-by-september-30/",
-      "important": false
-    },
-    {
-      "id": "bcf677f3",
-      "title": "एक एकड़ में ड्रैगन फ्रूट और खजूर की सहफसली खेती से किसान की बदली किस्मत",
-      "summary": "एक एकड़ में ड्रैगन फ्रूट और खजूर की सहफसली खेती से किसान की बदली किस्मत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/intercropping-of-dragon-fruit-and-dates-on-one-acre-transforms-a-farmers-fortunes/",
-      "important": false
-    },
-    {
-      "id": "e46f6904",
-      "title": "कपास पर गुलाबी सुंडी का खतरा: सिरसा में सतर्कता, जानें बचाव के लिए दवा और मात्रा",
-      "summary": "कपास पर गुलाबी सुंडी का खतरा: सिरसा में सतर्कता, जानें बचाव के लिए दवा और मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/threat-of-pink-bollworm-on-cotton-alert-in-sirsa-learn-about-protective-pesticides-and-dosages/",
-      "important": false
-    },
-    {
-      "id": "a31ee387",
-      "title": "सोयाबीन में इल्ली और पीला मोजेक का खतरा, शिवपुरी में कृषि विभाग ने जारी की साप्ताहिक सलाह",
-      "summary": "सोयाबीन में इल्ली और पीला मोजेक का खतरा, शिवपुरी में कृषि विभाग ने जारी की साप्ताहिक सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-caterpillars-and-yellow-mosaic-in-soybean-agriculture-department-issues-weekly-advisory-in-shivpuri/",
-      "important": false
-    },
-    {
-      "id": "93d57f05",
-      "title": "पारंपरिक धान छोड़ करेले की उन्नत खेती से किसान ने दोगुनी की आमदनी",
-      "summary": "पारंपरिक धान छोड़ करेले की उन्नत खेती से किसान ने दोगुनी की आमदनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmer-doubles-income-by-switching-from-traditional-paddy-to-advanced-bitter-gourd-cultivation/",
       "important": false
     }
   ]
