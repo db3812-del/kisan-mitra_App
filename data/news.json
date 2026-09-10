@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-09T20:46:20Z",
-  "new_count": 0,
+  "updated": "2026-09-10T04:04:50Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "96ffde41",
+      "title": "30 हजार के कर्ज से शुरू की जैविक खेती, एक सीजन में 75 हजार की सब्जी बेचकर आत्मनिर्भर बनीं उर्मिला",
+      "summary": "30 हजार के कर्ज से शुरू की जैविक खेती, एक सीजन में 75 हजार की सब्जी बेचकर आत्मनिर्भर बनीं उर्मिला",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/started-organic-farming-with-a-loan-of-%e2%82%b930000-urmila-became-self-reliant-by-selling-vegetables-worth-%e2%82%b975000-in-a-single-season/",
+      "important": false
+    },
+    {
+      "id": "638a76d4",
+      "title": "किसानों को अब नहीं लगाने होंगे दफ्तरों के चक्कर, झाबुआ में शुरू हुआ किसान हेल्प डेस्क",
+      "summary": "किसानों को अब नहीं लगाने होंगे दफ्तरों के चक्कर, झाबुआ में शुरू हुआ किसान हेल्प डेस्क",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-will-no-longer-have-to-make-rounds-of-government-offices-a-kisan-help-desk-has-been-launched-in-jhabua/",
+      "important": false
+    },
+    {
+      "id": "63c3ba47",
+      "title": "नागालैंड के वैज्ञानिकों ने बनाया हाई-टेक पशु निगरानी सिस्टम, AI से होगी मिथुन के व्यवहार की ट्रैकिंग",
+      "summary": "नागालैंड के वैज्ञानिकों ने बनाया हाई-टेक पशु निगरानी सिस्टम, AI से होगी मिथुन के व्यवहार की ट्रैकिंग",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/scientists-in-nagaland-have-developed-a-high-tech-animal-monitoring-system-ai-will-be-used-to-track-the-behavior-of-mithuns/",
+      "important": false
+    },
+    {
+      "id": "094a971b",
+      "title": "देश में लम्पी स्किन डिजीज की रोकथाम तेज, 36.18 करोड़ से अधिक मवेशियों का हुआ टीकाकरण",
+      "summary": "देश में लम्पी स्किन डिजीज की रोकथाम तेज, 36.18 करोड़ से अधिक मवेशियों का हुआ टीकाकरण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/prevention-of-lumpy-skin-disease-intensified-in-the-country-more-than-36-18-crore-cattle-vaccinated/",
+      "important": false
+    },
+    {
+      "id": "e828e71c",
+      "title": "सोयाबीन में सफेद मक्खी-एफिड का खतरा, देवास के किसानों को वैज्ञानिकों ने बताए बचाव के तरीके",
+      "summary": "सोयाबीन में सफेद मक्खी-एफिड का खतरा, देवास के किसानों को वैज्ञानिकों ने बताए बचाव के तरीके",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-whitefly-and-aphid-infestation-in-soybean-crops-scientists-advise-dewas-farmers-on-preventive-measures/",
+      "important": false
+    },
+    {
+      "id": "9a25a2dc",
+      "title": "डीसीएम श्रीराम ने भारत में नया फफूंदनाशी श्रीराम ज़ार्विन लॉन्च किया",
+      "summary": "डीसीएम श्रीराम ने भारत में नया फफूंदनाशी श्रीराम ज़ार्विन लॉन्च किया",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/dcm-shriram-has-launched-a-new-fungicide-shriram-zarvin-in-india/",
+      "important": false
+    },
+    {
+      "id": "9d6ed1d2",
+      "title": "इफको-एमसी ने मनाया 12वां स्थापना दिवस, नवाचार और किसान हित पर दिया जोर",
+      "summary": "इफको-एमसी ने मनाया 12वां स्थापना दिवस, नवाचार और किसान हित पर दिया जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/iffco-mc-celebrates-12th-foundation-day-emphasizes-innovation-and-farmers-welfare/",
+      "important": false
+    },
+    {
+      "id": "0c5bb04c",
+      "title": "पारंपरिक फसलें छोड़ी, ड्रैगन फ्रूट और एकीकृत खेती से जौनपुर के किसान की सालाना 5 लाख की कमाई",
+      "summary": "पारंपरिक फसलें छोड़ी, ड्रैगन फ्रूट और एकीकृत खेती से जौनपुर के किसान की सालाना 5 लाख की कमाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jaunpur-farmer-earns-%e2%82%b95-lakh-annually-by-switching-from-traditional-crops-to-dragon-fruit-and-integrated-farming/",
+      "important": false
+    },
     {
       "id": "15624c37",
       "title": "मक्का मंडी भाव: मध्य प्रदेश में2,601 रुपए प्रति क्विंटल तक मिले भाव, धार में सबसे ज्यादा आवक; देखें ताजा मक्का रेट",
@@ -462,94 +550,6 @@
       "date": "2026-09-06",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/kisan-kitab-and-kcc-card-have-paved-the-way-for-easier-farming-jashpur-farmer-sohan-singh-says-he-received-assistance-for-agricultural-activities/",
-      "important": false
-    },
-    {
-      "id": "a6a0ba3f",
-      "title": "बंजर जमीन पर उगाई ग्राफ्टेड टमाटर-बैंगन, 187 क्विंटल उत्पादन से हासिल कर किसान ने कमाए 4.25 लाख",
-      "summary": "बंजर जमीन पर उगाई ग्राफ्टेड टमाटर-बैंगन, 187 क्विंटल उत्पादन से हासिल कर किसान ने कमाए 4.25 लाख",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmer-earns-%e2%82%b94-25-lakh-from-187-quintal-yield-of-grafted-tomato-and-eggplant-grown-on-barren-land/",
-      "important": false
-    },
-    {
-      "id": "b0a3884a",
-      "title": "देवास में सोयाबीन की फसल पर मंडरा रहा इन कीटों का खतरा! कृषि विभाग ने किसानों को दी ये खास सलाह",
-      "summary": "देवास में सोयाबीन की फसल पर मंडरा रहा इन कीटों का खतरा! कृषि विभाग ने किसानों को दी ये खास सलाह",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/threat-from-these-pests-looms-over-the-soybean-crop-in-dewas-agriculture-department-issues-special-advice-to-farmers/",
-      "important": false
-    },
-    {
-      "id": "f9ebc4b0",
-      "title": "जबलपुर : किसानों की समस्याओं का मौके पर किया समाधान",
-      "summary": "जबलपुर : किसानों की समस्याओं का मौके पर किया समाधान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jabalpur-farmers-issues-resolved-on-the-spot/",
-      "important": false
-    },
-    {
-      "id": "34675660",
-      "title": "बालाघाट : कोदो-कुटकी के निःशुल्क बीज वितरित",
-      "summary": "बालाघाट : कोदो-कुटकी के निःशुल्क बीज वितरित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balaghat-free-kodo-kutki-seeds-distributed/",
-      "important": false
-    },
-    {
-      "id": "1b0dd383",
-      "title": "सीहोर : सोयाबीन फसल में रोग नियंत्रण हेतु अनुशंसित फफूंदनाशक का उपयोग करें",
-      "summary": "सीहोर : सोयाबीन फसल में रोग नियंत्रण हेतु अनुशंसित फफूंदनाशक का उपयोग करें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-use-recommended-fungicides-for-disease-control-in-the-soybean-crop-2/",
-      "important": false
-    },
-    {
-      "id": "c90fb769",
-      "title": "जबलपुर: किसानों को कृषि की उन्नत तकनीकों एवं प्राकृतिक खेती पर जानकारी दी",
-      "summary": "जबलपुर: किसानों को कृषि की उन्नत तकनीकों एवं प्राकृतिक खेती पर जानकारी दी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jabalpur-farmers-were-provided-with-information-on-advanced-agricultural-techniques-and-natural-farming/",
-      "important": false
-    },
-    {
-      "id": "d095ec8e",
-      "title": "सिवनी : कृषक वैज्ञानिक परिचर्चा का हुआ आयोजन",
-      "summary": "सिवनी : कृषक वैज्ञानिक परिचर्चा का हुआ आयोजन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seoni-farmers-scientists-discussion-organized/",
-      "important": false
-    },
-    {
-      "id": "24f9c425",
-      "title": "सिवनी: ‘सीताफल’ से समृद्धि ‘अभियान से किसानों को मिलेगा बेहतर बाजार",
-      "summary": "सिवनी: ‘सीताफल’ से समृद्धि ‘अभियान से किसानों को मिलेगा बेहतर बाजार",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seoni-farmers-to-get-better-market-access-through-the-sitaphal-se-samriddhi-prosperity-through-custard-apple-campaign/",
       "important": false
     }
   ]
