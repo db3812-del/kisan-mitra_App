@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-10T16:10:22Z",
-  "new_count": 0,
+  "updated": "2026-09-10T20:41:07Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "b1c11e7d",
+      "title": "आज का धान मंडी रेट (10 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (10 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-10-september-2026/",
+      "important": false
+    },
+    {
+      "id": "e21effe5",
+      "title": "आज का मक्का मंडी रेट (10 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (10 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-10-september-2026/",
+      "important": false
+    },
+    {
+      "id": "45dc1e1e",
+      "title": "IMD Weather Alert: 10-11 सितंबर को ओडिशा-छत्तीसगढ़ में भारी बारिश, कई राज्यों में आंधी-बिजली की चेतावनी",
+      "summary": "IMD Weather Alert: 10-11 सितंबर को ओडिशा-छत्तीसगढ़ में भारी बारिश, कई राज्यों में आंधी-बिजली की चेतावनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/imd-weather-alert-heavy-rain-in-odisha-and-chhattisgarh-on-september-10-11-warning-of-thunderstorms-and-lightning-for-several-states/",
+      "important": false
+    },
+    {
+      "id": "ec02f4d9",
+      "title": "आज का सोयाबीन मंडी रेट (10 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (10 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-10-september-2026/",
+      "important": false
+    },
+    {
+      "id": "c1bf73d5",
+      "title": "सीधी, रीवा और सतना जिलों में भारी वर्षा की संभावना",
+      "summary": "सीधी, रीवा और सतना जिलों में भारी वर्षा की संभावना",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/possibility-of-heavy-rainfall-in-sidhi-rewa-and-satna-districts/",
+      "important": false
+    },
+    {
+      "id": "5167ab7c",
+      "title": "छतरपुर: कृषक के खाते में अधिक ऋण दर्ज, समिति प्रबंधक निलंबित",
+      "summary": "छतरपुर: कृषक के खाते में अधिक ऋण दर्ज, समिति प्रबंधक निलंबित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhatarpur-excess-loan-amount-recorded-in-farmers-account-society-manager-suspended/",
+      "important": false
+    },
+    {
+      "id": "bb1b90a6",
+      "title": "छोटे किसानों को खुशखबरी! 3 एकड़ तक खेती के लिए फ्री मिलेगा ट्रैक्टर, जानें योजना की पूरी जानकारी",
+      "summary": "छोटे किसानों को खुशखबरी! 3 एकड़ तक खेती के लिए फ्री मिलेगा ट्रैक्टर, जानें योजना की पूरी जानकारी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/good-news-for-small-farmers-get-a-free-tractor-for-farming-up-to-3-acres-find-out-full-details-of-the-scheme/",
+      "important": false
+    },
+    {
+      "id": "3941bef3",
+      "title": "10 से 12 सितंबर तक होगा सूखा-क्षेत्र कृषि पर वैश्विक मंथन, दिल्ली में जुटेंगे एशिया-अफ्रीका-अमेरिका के 800 से ज्यादा विश",
+      "summary": "10 से 12 सितंबर तक होगा सूखा-क्षेत्र कृषि पर वैश्विक मंथन, दिल्ली में जुटेंगे एशिया-अफ्रीका-अमेरिका के 800 से ज्यादा विशेषज्ञ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/global-deliberations-on-dryland-agriculture-to-be-held-from-september-10-to-12-over-800-experts-from-asia-africa-and-the-americas-to-gather-in-delhi/",
+      "important": false
+    },
     {
       "id": "5dfd7e2f",
       "title": "देवास : डायग्नोस्टिक टीम ने सोयाबीन फसल का किया निरीक्षण",
@@ -462,94 +550,6 @@
       "date": "2026-09-08",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/weather-today-monsoon-becomes-active-again-across-the-country-heavy-to-very-heavy-rainfall-likely-in-odisha-alerts-issued-for-mp-chhattisgarh-and-telangana-as-well/",
-      "important": false
-    },
-    {
-      "id": "92080b12",
-      "title": "आज का धान मंडी रेट (08 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (08 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-08-september-2026/",
-      "important": false
-    },
-    {
-      "id": "2e334d48",
-      "title": "आज का सोयाबीन मंडी रेट (08 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (08 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-08-september-2026/",
-      "important": false
-    },
-    {
-      "id": "1796dd18",
-      "title": "केले के तने से रेशा बनाकर आत्मनिर्भर बनीं रिंकु",
-      "summary": "केले के तने से रेशा बनाकर आत्मनिर्भर बनीं रिंकु",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rinku-became-self-reliant-by-producing-fiber-from-banana-stems/",
-      "important": false
-    },
-    {
-      "id": "78ebc8e6",
-      "title": "धार कलेक्टर ने कपास की सघन घनत्व रोपण प्रणाली का किया निरीक्षण",
-      "summary": "धार कलेक्टर ने कपास की सघन घनत्व रोपण प्रणाली का किया निरीक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dhar-collector-inspected-the-high-density-cotton-planting-system/",
-      "important": false
-    },
-    {
-      "id": "d5464bed",
-      "title": "मध्य प्रदेश में मूंग की MSP पर खरीद 5.33 लाख टन के पार, किसानों को समय पर भुगतान पर जोर",
-      "summary": "मध्य प्रदेश में मूंग की MSP पर खरीद 5.33 लाख टन के पार, किसानों को समय पर भुगतान पर जोर",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/moong-procurement-at-msp-in-madhya-pradesh-crosses-5-33-lakh-tonnes-emphasis-on-timely-payment-to-farmers/",
-      "important": true
-    },
-    {
-      "id": "df027824",
-      "title": "प्रधानमंत्री धन-धान्य कृषि योजना: सौ जिलों में कृषि सुधार के आंकड़े सामने आए",
-      "summary": "प्रधानमंत्री धन-धान्य कृषि योजना: सौ जिलों में कृषि सुधार के आंकड़े सामने आए",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/pradhan-mantri-dhan-dhanya-krishi-yojana-data-on-agricultural-reforms-in-100-districts-released/",
-      "important": false
-    },
-    {
-      "id": "93694805",
-      "title": "बड़वानी : कपास विक्रय हेतु समर्थन मूल्य पर पंजीयन 31 अक्टूबर तक होगा",
-      "summary": "बड़वानी : कपास विक्रय हेतु समर्थन मूल्य पर पंजीयन 31 अक्टूबर तक होगा",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/barwani-registration-for-cotton-sales-at-the-support-price-will-continue-until-october-31/",
-      "important": false
-    },
-    {
-      "id": "8818e379",
-      "title": "खंडवा: ‘उद्यानिकी संवाद’ कार्यक्रम संपन्न",
-      "summary": "खंडवा: ‘उद्यानिकी संवाद’ कार्यक्रम संपन्न",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/khandwa-udyaniki-samvad-horticulture-dialogue-program-concludes/",
       "important": false
     }
   ]
