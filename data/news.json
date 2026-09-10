@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-10T04:04:50Z",
+  "updated": "2026-09-10T10:59:52Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "5dfd7e2f",
+      "title": "देवास : डायग्नोस्टिक टीम ने सोयाबीन फसल का किया निरीक्षण",
+      "summary": "देवास : डायग्नोस्टिक टीम ने सोयाबीन फसल का किया निरीक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dewas-diagnostic-team-inspected-the-soybean-crop/",
+      "important": false
+    },
+    {
+      "id": "1146a933",
+      "title": "अमरूद की टॉप 5 वैरायटी: इन किस्मों से मिलेगा ज्यादा उत्पादन, बड़े फल और बेहतर गुणवत्ता, देखें खासियत",
+      "summary": "अमरूद की टॉप 5 वैरायटी: इन किस्मों से मिलेगा ज्यादा उत्पादन, बड़े फल और बेहतर गुणवत्ता, देखें खासियत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/top-5-guava-varieties-these-varieties-offer-higher-yields-larger-fruits-and-superior-quality-check-out-their-features/",
+      "important": false
+    },
+    {
+      "id": "db8ac277",
+      "title": "देवास: सोयाबीन फसल की स्थिति का जायजा लिया",
+      "summary": "देवास: सोयाबीन फसल की स्थिति का जायजा लिया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dewas-assessed-the-condition-of-the-soybean-crop/",
+      "important": false
+    },
+    {
+      "id": "3e0ad0d7",
+      "title": "हरदा: ट्राइकोडर्मा व स्यूडोमोनास जैव उर्वरक विक्रय हेतु उपलब्ध",
+      "summary": "हरदा: ट्राइकोडर्मा व स्यूडोमोनास जैव उर्वरक विक्रय हेतु उपलब्ध",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/harda-trichoderma-and-pseudomonas-bio-fertilizers-available-for-sale/",
+      "important": false
+    },
+    {
+      "id": "4e911b61",
+      "title": "बैतूल : धान एवं मोटा अनाज के पंजीयन 15 सितंबर से शुरू होंगे",
+      "summary": "बैतूल : धान एवं मोटा अनाज के पंजीयन 15 सितंबर से शुरू होंगे",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/betul-registration-for-paddy-and-coarse-grains-will-begin-on-september-15/",
+      "important": false
+    },
+    {
+      "id": "4c2beff7",
+      "title": "कृषि को केवल जीविकोपार्जन का साधन न मानकर इसे किसानों के लिए लाभ का व्यवसाय बनाया जाए",
+      "summary": "कृषि को केवल जीविकोपार्जन का साधन न मानकर इसे किसानों के लिए लाभ का व्यवसाय बनाया जाए",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agriculture-should-be-transformed-into-a-profitable-business-for-farmers-rather-than-being-viewed-merely-as-a-means-of-subsistence/",
+      "important": false
+    },
+    {
+      "id": "b18fa62a",
+      "title": "संयुक्त संचालक एवं उप संचालक कृषि के पदस्थापना आदेश जारी",
+      "summary": "संयुक्त संचालक एवं उप संचालक कृषि के पदस्थापना आदेश जारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/posting-orders-issued-for-the-posts-of-joint-director-and-deputy-director-of-agriculture/",
+      "important": false
+    },
+    {
+      "id": "fdfb7453",
+      "title": "पीलीभीत में बासमती और जैविक खेती के प्रशिक्षण केंद्र की नींव",
+      "summary": "पीलीभीत में बासमती और जैविक खेती के प्रशिक्षण केंद्र की नींव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/foundation-laid-for-basmati-and-organic-farming-training-center-in-pilibhit/",
+      "important": false
+    },
     {
       "id": "96ffde41",
       "title": "30 हजार के कर्ज से शुरू की जैविक खेती, एक सीजन में 75 हजार की सब्जी बेचकर आत्मनिर्भर बनीं उर्मिला",
@@ -462,94 +550,6 @@
       "date": "2026-09-08",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/khandwa-udyaniki-samvad-horticulture-dialogue-program-concludes/",
-      "important": false
-    },
-    {
-      "id": "05270fbc",
-      "title": "धार : प्राकृतिक खेती को लेकर कृषक संगोष्ठी एवं वैज्ञानिक परिचर्चा आयोजित",
-      "summary": "धार : प्राकृतिक खेती को लेकर कृषक संगोष्ठी एवं वैज्ञानिक परिचर्चा आयोजित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dhar-farmers-seminar-and-scientific-discussion-on-natural-farming-organized/",
-      "important": false
-    },
-    {
-      "id": "a3eb779f",
-      "title": "बड़वानी जिले में जिले में वर्तमान में 27093 मीट्रिक टन खाद उपलब्ध",
-      "summary": "बड़वानी जिले में जिले में वर्तमान में 27093 मीट्रिक टन खाद उपलब्ध",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/currently-27093-metric-tonnes-of-fertilizer-are-available-in-barwani-district/",
-      "important": false
-    },
-    {
-      "id": "595db0a9",
-      "title": "Weather Today: उत्तराखंड-UP में भारी से बहुत भारी बारिश का अलर्ट, MP समेत कई राज्यों में भी बरसेंगे बादल; IMD ने जारी कि",
-      "summary": "Weather Today: उत्तराखंड-UP में भारी से बहुत भारी बारिश का अलर्ट, MP समेत कई राज्यों में भी बरसेंगे बादल; IMD ने जारी किया पूर्वानुमान",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-to-very-heavy-rainfall-alert-for-uttarakhand-and-up-rain-expected-in-several-states-including-mp-imd-issues-forecast/",
-      "important": false
-    },
-    {
-      "id": "ed561734",
-      "title": "MP में ग्रीन एनर्जी को मिलेगी रफ्तार, 600 MW फ्लोटिंग सोलर प्रोजेक्ट समेत 3 योजनाओं पर समझौता",
-      "summary": "MP में ग्रीन एनर्जी को मिलेगी रफ्तार, 600 MW फ्लोटिंग सोलर प्रोजेक्ट समेत 3 योजनाओं पर समझौता",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/green-energy-will-gain-momentum-in-mp-agreement-on-3-schemes-including-600-mw-floating-solar-project/",
-      "important": false
-    },
-    {
-      "id": "8a18a49f",
-      "title": "गुना: सोयाबीन, उड़द एवं मक्का फसल के लिए सामयिक सलाह",
-      "summary": "गुना: सोयाबीन, उड़द एवं मक्का फसल के लिए सामयिक सलाह",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guna-timely-advice-for-soybean-black-gram-and-maize-crops/",
-      "important": false
-    },
-    {
-      "id": "6da81e3d",
-      "title": "छिंदवाड़ा : जैविक हाट में पहली बार आया प्राकृतिक बेबी कॉर्न",
-      "summary": "छिंदवाड़ा : जैविक हाट में पहली बार आया प्राकृतिक बेबी कॉर्न",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-natural-baby-corn-arrives-at-the-organic-market-for-the-first-time/",
-      "important": false
-    },
-    {
-      "id": "133bcf2d",
-      "title": "भिंड में बदलेगी खेती की तस्वीर, PKC नदी जोड़ो परियोजना से बढ़ेगी सिंचाई; CM यादव ने किसानों से की ये अपील",
-      "summary": "भिंड में बदलेगी खेती की तस्वीर, PKC नदी जोड़ो परियोजना से बढ़ेगी सिंचाई; CM यादव ने किसानों से की ये अपील",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agricultural-landscape-set-to-transform-in-bhind-irrigation-to-increase-via-pkc-river-linking-project-cm-yadav-makes-this-appeal-to-farmers/",
-      "important": false
-    },
-    {
-      "id": "b1aea3e7",
-      "title": "किसान किताब और KCC कार्ड ने आसान की खेती की राह, जशपुर के किसान सोहन सिंह बोले- कृषि कार्यों में मिली मदद",
-      "summary": "किसान किताब और KCC कार्ड ने आसान की खेती की राह, जशपुर के किसान सोहन सिंह बोले- कृषि कार्यों में मिली मदद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/kisan-kitab-and-kcc-card-have-paved-the-way-for-easier-farming-jashpur-farmer-sohan-singh-says-he-received-assistance-for-agricultural-activities/",
       "important": false
     }
   ]
