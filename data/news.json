@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-11T10:58:07Z",
-  "new_count": 0,
+  "updated": "2026-09-11T16:13:53Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "5a24ab28",
+      "title": "सीहोर: कृषि रोडमैप के तहत आम-अमरूद की उन्नत खेती पर किसानों को मिला प्रशिक्षण",
+      "summary": "सीहोर: कृषि रोडमैप के तहत आम-अमरूद की उन्नत खेती पर किसानों को मिला प्रशिक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-farmers-receive-training-on-advanced-mango-and-guava-cultivation-under-the-agricultural-roadmap/",
+      "important": false
+    },
+    {
+      "id": "b94e8ff8",
+      "title": "धान उपार्जन के लिए 15 सितंबर से शुरू होगा किसान पंजीयन",
+      "summary": "धान उपार्जन के लिए 15 सितंबर से शुरू होगा किसान पंजीयन",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmer-registration-for-paddy-procurement-will-begin-on-september-15/",
+      "important": false
+    },
+    {
+      "id": "b7b0fbe4",
+      "title": "कटनी जिले के लिए नीम कोटेड यूरिया खाद की 3 रैक पहुंची",
+      "summary": "कटनी जिले के लिए नीम कोटेड यूरिया खाद की 3 रैक पहुंची",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/three-rakes-of-neem-coated-urea-fertilizer-have-arrived-for-katni-district/",
+      "important": false
+    },
+    {
+      "id": "9b7f994b",
+      "title": "किसानों की समृद्धि से ही राष्ट्र की समृद्धि : मुख्यमंत्री डॉ. यादव",
+      "summary": "किसानों की समृद्धि से ही राष्ट्र की समृद्धि : मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/national-prosperity-stems-from-the-prosperity-of-farmers-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "4ed72ef4",
+      "title": "गुना: कृषक संगोष्ठी में वैज्ञानिकों ने बताई खरीफ फसलों की उन्नत तकनीक",
+      "summary": "गुना: कृषक संगोष्ठी में वैज्ञानिकों ने बताई खरीफ फसलों की उन्नत तकनीक",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-09-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/guna-scientists-explain-advanced-techniques-for-kharif-crops-at-a-farmers-seminar/",
+      "important": false
+    },
+    {
+      "id": "f57a8603",
+      "title": "इंदौर में माइक्रो इरिगेशन कंपनियों की महत्वपूर्ण बैठक संपन्न",
+      "summary": "इंदौर में माइक्रो इरिगेशन कंपनियों की महत्वपूर्ण बैठक संपन्न",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/important-meeting-of-micro-irrigation-companies-concludes-in-indore/",
+      "important": false
+    },
+    {
+      "id": "67b5a7b9",
+      "title": "सूखा प्रभावित 65 फीसदी भारत की खेती अब वैश्विक एजेंडे में, दिल्ली में तीन दिवसीय ग्लोबल ड्राईलैंड कांग्रेस शुरू",
+      "summary": "सूखा प्रभावित 65 फीसदी भारत की खेती अब वैश्विक एजेंडे में, दिल्ली में तीन दिवसीय ग्लोबल ड्राईलैंड कांग्रेस शुरू",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/agriculture-in-the-65-of-india-affected-by-drought-is-now-on-the-global-agenda-a-three-day-global-dryland-congress-has-begun-in-delhi/",
+      "important": false
+    },
+    {
+      "id": "a5815c30",
+      "title": "गुजरात में आज से मूंगफली, मूंग, उड़द और सोयाबीन की MSP खरीद के लिए पंजीयन शुरू",
+      "summary": "गुजरात में आज से मूंगफली, मूंग, उड़द और सोयाबीन की MSP खरीद के लिए पंजीयन शुरू",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/registration-for-msp-based-procurement-of-groundnut-moong-urad-and-soybean-begins-in-gujarat-today/",
+      "important": true
+    },
     {
       "id": "b1c11e7d",
       "title": "आज का धान मंडी रेट (10 सितंबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-09-08",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/kvks-to-bring-modern-technology-to-farmers-300-krishi-vigyan-kendras-to-be-revamped-by-2027/",
-      "important": false
-    },
-    {
-      "id": "f975e17a",
-      "title": "रायपुर : आईजीकेवी रायपुर ने जारी किया बी.एससी. कृषि प्रवेश का नया काउंसिलिंग शेड्यूल",
-      "summary": "रायपुर : आईजीकेवी रायपुर ने जारी किया बी.एससी. कृषि प्रवेश का नया काउंसिलिंग शेड्यूल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-igkv-raipur-has-released-the-new-counselling-schedule-for-b-sc-agriculture-admissions/",
-      "important": false
-    },
-    {
-      "id": "04ebc94f",
-      "title": "भारत में दोगुने से ज्यादा बढ़ा मछली उत्पादन, 198 लाख टन पहुंचा; RAS-बायोफ्लॉक से आधुनिक होगा एक्वाकल्चर",
-      "summary": "भारत में दोगुने से ज्यादा बढ़ा मछली उत्पादन, 198 लाख टन पहुंचा; RAS-बायोफ्लॉक से आधुनिक होगा एक्वाकल्चर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/fish-production-in-india-has-more-than-doubled-reaching-19-8-million-tonnes-ras-and-biofloc-technologies-to-modernize-aquaculture/",
-      "important": false
-    },
-    {
-      "id": "21139ff2",
-      "title": "धान की खेती से बदली राह, मछली-मुर्गी पालन और बागवानी से किसान ने बनाया कमाई का नया मॉडल",
-      "summary": "धान की खेती से बदली राह, मछली-मुर्गी पालन और बागवानी से किसान ने बनाया कमाई का नया मॉडल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/moving-beyond-paddy-cultivation-a-farmer-has-created-a-new-income-model-by-integrating-fish-farming-poultry-rearing-and-horticulture/",
-      "important": false
-    },
-    {
-      "id": "36404492",
-      "title": "सोयाबीन फसल में पीला मोजेक का प्रकोप, IARI वैज्ञानिकों ने खेतों में पहुंचकर किसानों को बताए बचाव के उपाय",
-      "summary": "सोयाबीन फसल में पीला मोजेक का प्रकोप, IARI वैज्ञानिकों ने खेतों में पहुंचकर किसानों को बताए बचाव के उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/yellow-mosaic-outbreak-in-soybean-crops-iari-scientists-visited-the-fields-and-advised-farmers-on-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "444fee14",
-      "title": "प्याज मंडी भाव: मध्य प्रदेश में ₹6,000 क्विंटल तक मिला भाव, शाजापुर में सबसे ज्यादा 569.31 टन पहुंची प्याज की आवक",
-      "summary": "प्याज मंडी भाव: मध्य प्रदेश में ₹6,000 क्विंटल तक मिला भाव, शाजापुर में सबसे ज्यादा 569.31 टन पहुंची प्याज की आवक",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/onion-market-prices-prices-reached-up-to-%e2%82%b96000-per-quintal-in-madhya-pradesh-shajapur-recorded-the-highest-onion-arrivals-at-569-31-tonnes/",
-      "important": false
-    },
-    {
-      "id": "98d6a626",
-      "title": "आज का गेहूं मंडी रेट (08 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (08 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-08-september-2026/",
-      "important": false
-    },
-    {
-      "id": "86cc0761",
-      "title": "आज का मक्का मंडी रेट (08 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (08 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-08-september-2026/",
-      "important": false
-    },
-    {
-      "id": "83f96b21",
-      "title": "Weather Today: देश में फिर सक्रिय हुआ मानसून, ओडिशा में भारी से बहुत भारी बारिश की संभावना; MP, छत्तीसगढ़ और तेलंगाना मे",
-      "summary": "Weather Today: देश में फिर सक्रिय हुआ मानसून, ओडिशा में भारी से बहुत भारी बारिश की संभावना; MP, छत्तीसगढ़ और तेलंगाना में भी अलर्ट",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-monsoon-becomes-active-again-across-the-country-heavy-to-very-heavy-rainfall-likely-in-odisha-alerts-issued-for-mp-chhattisgarh-and-telangana-as-well/",
       "important": false
     }
   ]
