@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-12T04:03:47Z",
-  "new_count": 0,
+  "updated": "2026-09-12T10:25:58Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "250ffe08",
+      "title": "मंडला : समय पर ऋण चुकाने वाले किसानों को नहीं देना होगा ब्याज",
+      "summary": "मंडला : समय पर ऋण चुकाने वाले किसानों को नहीं देना होगा ब्याज",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mandla-farmers-who-repay-loans-on-time-will-not-have-to-pay-interest/",
+      "important": false
+    },
+    {
+      "id": "1fbbd2a0",
+      "title": "डिंडोरी कलेक्टर ने पशुपालन एवं डेयरी विभाग के कार्यों  की समीक्षा की",
+      "summary": "डिंडोरी कलेक्टर ने पशुपालन एवं डेयरी विभाग के कार्यों  की समीक्षा की",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-dindori-collector-reviewed-the-work-of-the-animal-husbandry-and-dairy-department/",
+      "important": false
+    },
+    {
+      "id": "a9282d26",
+      "title": "जिला सहकारी केंद्रीय बैंक नरसिंहपुर की 115 वीं वार्षिक आमसभा संपन्न",
+      "summary": "जिला सहकारी केंद्रीय बैंक नरसिंहपुर की 115 वीं वार्षिक आमसभा संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/115th-annual-general-meeting-of-the-district-cooperative-central-bank-narsinghpur-concluded/",
+      "important": false
+    },
+    {
+      "id": "0779eae1",
+      "title": "मशरूम से मधुमक्खी पालन तक सीखेंगे रोजगार के हुनर, छत्तीसगढ़ के 27 कृषि विज्ञान केंद्रों में तैयार होंगे मास्टर ट्रेनर",
+      "summary": "मशरूम से मधुमक्खी पालन तक सीखेंगे रोजगार के हुनर, छत्तीसगढ़ के 27 कृषि विज्ञान केंद्रों में तैयार होंगे मास्टर ट्रेनर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/skills-for-livelihoods-ranging-from-mushroom-cultivation-to-beekeeping-will-be-taught-and-master-trainers-will-be-prepared-at-27-krishi-vigyan-kendras-agricultural-science-centres-i/",
+      "important": false
+    },
+    {
+      "id": "92546291",
+      "title": "संयुक्त संचालक कृषि ने धार में कृषि विभाग कार्यालय एवं कृषि प्रक्षेत्र का किया निरीक्षण",
+      "summary": "संयुक्त संचालक कृषि ने धार में कृषि विभाग कार्यालय एवं कृषि प्रक्षेत्र का किया निरीक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-joint-director-of-agriculture-inspected-the-agriculture-department-office-and-the-agricultural-farm-in-dhar/",
+      "important": false
+    },
+    {
+      "id": "d910894b",
+      "title": "छत्तीसगढ़ बीज निगम की समीक्षा बैठक, किसानों को गुणवत्तापूर्ण बीज देने पर विशेष जोर",
+      "summary": "छत्तीसगढ़ बीज निगम की समीक्षा बैठक, किसानों को गुणवत्तापूर्ण बीज देने पर विशेष जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/review-meeting-of-the-chhattisgarh-seed-corporation-special-emphasis-on-providing-quality-seeds-to-farmers/",
+      "important": false
+    },
+    {
+      "id": "a77292a0",
+      "title": "सीहोर: सोयाबीन दिवस पर किसानों को मिला खेती का प्रशिक्षण, वैज्ञानिकों ने बताए उत्पादन बढ़ाने के तरीके",
+      "summary": "सीहोर: सोयाबीन दिवस पर किसानों को मिला खेती का प्रशिक्षण, वैज्ञानिकों ने बताए उत्पादन बढ़ाने के तरीके",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-farmers-receive-agricultural-training-on-soybean-day-scientists-share-methods-to-boost-production/",
+      "important": false
+    },
+    {
+      "id": "184b06f2",
+      "title": "कृषि क्षेत्र में चार दशकों की दीर्घ सेवा पर श्री पांडेय सम्मानित",
+      "summary": "कृषि क्षेत्र में चार दशकों की दीर्घ सेवा पर श्री पांडेय सम्मानित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shri-pandey-honored-for-four-decades-of-distinguished-service-in-the-agricultural-sector/",
+      "important": false
+    },
     {
       "id": "5a24ab28",
       "title": "सीहोर: कृषि रोडमैप के तहत आम-अमरूद की उन्नत खेती पर किसानों को मिला प्रशिक्षण",
@@ -462,94 +550,6 @@
       "date": "2026-09-09",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/new-cotton-season-begins-at-khargone-mandi-price-of-%e2%82%b98411-per-quintal-fetched-in-the-first-auction/",
-      "important": false
-    },
-    {
-      "id": "7312c236",
-      "title": "ग्वालियर में खेती का बदला स्वरूप, उद्यानिकी का रकबा 17% पहुंचा; प्राकृतिक खेती और पशुपालन से बढ़े कमाई के अवसर",
-      "summary": "ग्वालियर में खेती का बदला स्वरूप, उद्यानिकी का रकबा 17% पहुंचा; प्राकृतिक खेती और पशुपालन से बढ़े कमाई के अवसर",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/changing-face-of-agriculture-in-gwalior-horticulture-acreage-reaches-17-natural-farming-and-animal-husbandry-boost-earning-opportunities/",
-      "important": false
-    },
-    {
-      "id": "aaf62be7",
-      "title": "कपास किसानों के लिए जरूरी खबर: CCI ऐप पर 31 अक्टूबर तक कराएं पंजीयन, MSP पर होगी खरीद",
-      "summary": "कपास किसानों के लिए जरूरी खबर: CCI ऐप पर 31 अक्टूबर तक कराएं पंजीयन, MSP पर होगी खरीद",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/important-news-for-cotton-farmers-register-on-the-cci-app-by-october-31-procurement-will-take-place-at-msp/",
-      "important": true
-    },
-    {
-      "id": "e7946d47",
-      "title": "मध्यप्रदेश: धान-ज्वार-बाजरा के MSP पर उपार्जन के लिए 15 सितंबर से पंजीयन, 10 अक्टूबर तक करा सकेंगे रजिस्ट्रेशन",
-      "summary": "मध्यप्रदेश: धान-ज्वार-बाजरा के MSP पर उपार्जन के लिए 15 सितंबर से पंजीयन, 10 अक्टूबर तक करा सकेंगे रजिस्ट्रेशन",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-registration-for-the-procurement-of-paddy-sorghum-jowar-and-pearl-millet-bajra-at-msp-begins-on-september-15-registration-will-remain-open-until-october-10/",
-      "important": true
-    },
-    {
-      "id": "11abe738",
-      "title": "पारंपरिक खेती से नहीं चला घर, मशरूम उत्पादन ने बदली मिथिला दीदी की जिंदगी; अब हर माह 50 हजार की कमाई",
-      "summary": "पारंपरिक खेती से नहीं चला घर, मशरूम उत्पादन ने बदली मिथिला दीदी की जिंदगी; अब हर माह 50 हजार की कमाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/traditional-farming-failed-to-sustain-the-household-mushroom-cultivation-transformed-mithila-didis-life-she-now-earns-%e2%82%b950000-per-month/",
-      "important": false
-    },
-    {
-      "id": "37a4b970",
-      "title": "धान की 25-30 दिन की फसल में सफेद माहू का प्रकोप, वैज्ञानिकों ने बताए नियंत्रण के उपाय",
-      "summary": "धान की 25-30 दिन की फसल में सफेद माहू का प्रकोप, वैज्ञानिकों ने बताए नियंत्रण के उपाय",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/white-backed-planthopper-infestation-in-25-30-day-old-paddy-crops-scientists-suggest-control-measures/",
-      "important": false
-    },
-    {
-      "id": "8f1bea5c",
-      "title": "आगरा में बनेगा कृषि विज्ञान का बड़ा केंद्र, CIP के साथ मिलकर विकसित होंगी उन्नत आलू किस्में",
-      "summary": "आगरा में बनेगा कृषि विज्ञान का बड़ा केंद्र, CIP के साथ मिलकर विकसित होंगी उन्नत आलू किस्में",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/a-major-agricultural-science-center-to-be-set-up-in-agra-advanced-potato-varieties-to-be-developed-in-collaboration-with-cip/",
-      "important": false
-    },
-    {
-      "id": "d4a190bc",
-      "title": "पारंपरिक खेती छोड़ अपनाई आधुनिक तकनीक, बरबटी-खीरा से किसान ने कमाया 2.70 लाख रुपये का शुद्ध लाभ",
-      "summary": "पारंपरिक खेती छोड़ अपनाई आधुनिक तकनीक, बरबटी-खीरा से किसान ने कमाया 2.70 लाख रुपये का शुद्ध लाभ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/moving-away-from-traditional-farming-to-adopt-modern-techniques-a-farmer-earned-a-net-profit-of-%e2%82%b92-70-lakh-from-yardlong-beans-and-cucumbers/",
-      "important": false
-    },
-    {
-      "id": "30723c70",
-      "title": "किसानों तक आधुनिक तकनीक पहुंचाएंगे KVK, 2027 तक 300 कृषि विज्ञान केंद्रों का होगा कायाकल्प",
-      "summary": "किसानों तक आधुनिक तकनीक पहुंचाएंगे KVK, 2027 तक 300 कृषि विज्ञान केंद्रों का होगा कायाकल्प",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/kvks-to-bring-modern-technology-to-farmers-300-krishi-vigyan-kendras-to-be-revamped-by-2027/",
       "important": false
     }
   ]
