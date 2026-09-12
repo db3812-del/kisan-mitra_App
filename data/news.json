@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-12T10:25:58Z",
-  "new_count": 8,
+  "updated": "2026-09-12T15:20:48Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "bea402dc",
+      "title": "पुनर्योजी कृषि एवं सतत खाद्य तेल आपूर्ति श्रृंखला पर मल्टी-स्टेकहोल्डर कार्यशाला",
+      "summary": "पुनर्योजी कृषि एवं सतत खाद्य तेल आपूर्ति श्रृंखला पर मल्टी-स्टेकहोल्डर कार्यशाला",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/multi-stakeholder-workshop-on-regenerative-agriculture-and-sustainable-edible-oil-supply-chain/",
+      "important": false
+    },
+    {
+      "id": "adbcf15b",
+      "title": "Weather Today: देश के कई राज्यों में भारी बारिश का अलर्ट, गुजरात और तेलंगाना में बहुत भारी बारिश की चेतावनी; दिल्ली में ",
+      "summary": "Weather Today: देश के कई राज्यों में भारी बारिश का अलर्ट, गुजरात और तेलंगाना में बहुत भारी बारिश की चेतावनी; दिल्ली में छाए रहेंगे बादल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-alert-for-several-states-warning-of-very-heavy-rainfall-in-gujarat-and-telangana-cloudy-skies-expected-in-delhi/",
+      "important": false
+    },
+    {
+      "id": "71139cfe",
+      "title": "आज का गेहूं मंडी रेट (12 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (12 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-12-september-2026/",
+      "important": false
+    },
+    {
+      "id": "c6a3d43c",
+      "title": "मध्यप्रदेश के 16 जिलों में भारी वर्षा की संभावना",
+      "summary": "मध्यप्रदेश के 16 जिलों में भारी वर्षा की संभावना",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/possibility-of-heavy-rainfall-in-16-districts-of-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "4741f516",
+      "title": "आज का मक्का मंडी रेट (12 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (12 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-12-september-2026/",
+      "important": false
+    },
+    {
+      "id": "fb8e585c",
+      "title": "आज का धान मंडी रेट (12 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (12 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-12-september-2026/",
+      "important": false
+    },
+    {
+      "id": "9e30e6bf",
+      "title": "आज का सोयाबीन मंडी रेट (12 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (12 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/todays-soybean-mandi-rate-12-september-2026/",
+      "important": false
+    },
     {
       "id": "250ffe08",
       "title": "मंडला : समय पर ऋण चुकाने वाले किसानों को नहीं देना होगा ब्याज",
@@ -473,83 +550,6 @@
       "date": "2026-09-09",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-09-september-2026/",
-      "important": false
-    },
-    {
-      "id": "0c5a20ae",
-      "title": "आज का धान मंडी रेट (09 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (09 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-09-september-2026/",
-      "important": false
-    },
-    {
-      "id": "0ab052a2",
-      "title": "आज का मक्का मंडी रेट (09 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (09 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-09-september-2026/",
-      "important": false
-    },
-    {
-      "id": "c0e7e0bf",
-      "title": "आज का सोयाबीन मंडी रेट (09 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (09 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/todays-soybean-mandi-rate-09-september-2026/",
-      "important": false
-    },
-    {
-      "id": "1042e0cc",
-      "title": "पिछड़े 100 जिलों में कृषि सुधार तेज, धन-धान्य योजना का औसत स्कोर तीन महीने में लगभग दोगुना",
-      "summary": "पिछड़े 100 जिलों में कृषि सुधार तेज, धन-धान्य योजना का औसत स्कोर तीन महीने में लगभग दोगुना",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/agricultural-reforms-accelerate-in-100-backward-districts-average-score-of-dhan-dhanya-yojana-nearly-doubles-in-three-months/",
-      "important": false
-    },
-    {
-      "id": "d551fd1f",
-      "title": "बिहार में 86 कृषि यंत्रों पर 80 फीसदी तक अनुदान, 8 सितंबर से ऑनलाइन आवेदन शुरू",
-      "summary": "बिहार में 86 कृषि यंत्रों पर 80 फीसदी तक अनुदान, 8 सितंबर से ऑनलाइन आवेदन शुरू",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/subsidy-of-up-to-80-on-86-agricultural-implements-in-bihar-online-applications-begin-on-september-8/",
-      "important": false
-    },
-    {
-      "id": "91777e5c",
-      "title": "किसानों के लिए बड़ी राहत, 2026-27 में भी शून्य ब्याज पर मिलेगा अल्पावधि फसल ऋण; KCC आवेदन हुआ ऑनलाइन",
-      "summary": "किसानों के लिए बड़ी राहत, 2026-27 में भी शून्य ब्याज पर मिलेगा अल्पावधि फसल ऋण; KCC आवेदन हुआ ऑनलाइन",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-relief-for-farmers-short-term-crop-loans-at-zero-interest-to-be-available-in-2026-27-as-well-kcc-application-process-goes-online/",
-      "important": false
-    },
-    {
-      "id": "4dc3d21b",
-      "title": "खरगोन मंडी में नए कपास सीजन की शुरुआत, पहली नीलामी में मिला 8,411 रुपये प्रति क्विंटल भाव",
-      "summary": "खरगोन मंडी में नए कपास सीजन की शुरुआत, पहली नीलामी में मिला 8,411 रुपये प्रति क्विंटल भाव",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/new-cotton-season-begins-at-khargone-mandi-price-of-%e2%82%b98411-per-quintal-fetched-in-the-first-auction/",
       "important": false
     }
   ]
