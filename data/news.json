@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-13T11:29:07Z",
-  "new_count": 0,
+  "updated": "2026-09-13T15:57:50Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "a0440025",
+      "title": "हरियाणा में कपास किसानों को कीट-नियंत्रण व सूक्ष्म पोषक तत्वों पर ₹4,000 तक अनुदान, 15 सितंबर अंतिम तारीख",
+      "summary": "हरियाणा में कपास किसानों को कीट-नियंत्रण व सूक्ष्म पोषक तत्वों पर ₹4,000 तक अनुदान, 15 सितंबर अंतिम तारीख",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/cotton-farmers-in-haryana-to-receive-a-subsidy-of-up-to-%e2%82%b94000-for-pest-control-and-micronutrients-deadline-is-september-15/",
+      "important": true
+    },
+    {
+      "id": "ec3ca880",
+      "title": "बिहार में फसल नुकसान पर अब बिना प्रीमियम के मिलेगी आर्थिक मदद, राज्य फसल सहायता योजना के आवेदन शुरू",
+      "summary": "बिहार में फसल नुकसान पर अब बिना प्रीमियम के मिलेगी आर्थिक मदद, राज्य फसल सहायता योजना के आवेदन शुरू",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/financial-aid-for-crop-loss-in-bihar-will-now-be-provided-without-the-need-for-a-premium-applications-for-the-state-crop-assistance-scheme-have-begun/",
+      "important": false
+    },
+    {
+      "id": "ab1599c3",
+      "title": "सिमडेगा की दयामनी ने बत्तख और बकरी पालन से बदली अपनी आर्थिक स्थिति",
+      "summary": "सिमडेगा की दयामनी ने बत्तख और बकरी पालन से बदली अपनी आर्थिक स्थिति",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dayamani-from-simdega-transformed-her-financial-situation-through-duck-and-goat-rearing/",
+      "important": false
+    },
+    {
+      "id": "5424ecc6",
+      "title": "लखीमपुर खीरी में गन्ने पर शीर्ष बेधक कीट का हमला, विशेषज्ञों ने बताई दवा और मात्रा",
+      "summary": "लखीमपुर खीरी में गन्ने पर शीर्ष बेधक कीट का हमला, विशेषज्ञों ने बताई दवा और मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/top-borer-pest-attacks-sugarcane-crops-in-lakhimpur-kheri-experts-recommend-remedy-and-dosage/",
+      "important": false
+    },
+    {
+      "id": "6f88e749",
+      "title": "कुपवाड़ा के मेहजूर सुल्तान मीर ट्राउट मछली पालन से कमा रहे सालाना 5-6 लाख रुपये",
+      "summary": "कुपवाड़ा के मेहजूर सुल्तान मीर ट्राउट मछली पालन से कमा रहे सालाना 5-6 लाख रुपये",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mehjoor-sultan-mir-from-kupwara-is-earning-%e2%82%b95-6-lakh-annually-from-trout-farming/",
+      "important": false
+    },
+    {
+      "id": "b7d7471d",
+      "title": "नई दिल्ली में 9वीं आसियान-भारत कृषि मंत्रिस्तरीय बैठक, खाद्य सुरक्षा पर नई कार्ययोजना तय",
+      "summary": "नई दिल्ली में 9वीं आसियान-भारत कृषि मंत्रिस्तरीय बैठक, खाद्य सुरक्षा पर नई कार्ययोजना तय",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/9th-asean-india-agriculture-ministers-meeting-in-new-delhi-new-action-plan-on-food-security-finalized/",
+      "important": false
+    },
+    {
+      "id": "4ae2850d",
+      "title": "मुख्यमंत्री ने देखा ई विकास प्रणाली लाइव प्रदर्शन",
+      "summary": "मुख्यमंत्री ने देखा ई विकास प्रणाली लाइव प्रदर्शन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-chief-minister-viewed-a-live-demonstration-of-the-e-vikas-system/",
+      "important": false
+    },
+    {
+      "id": "77f6902d",
+      "title": "रतलाम: अल्प वर्षा के चलते कृषि विभाग के दल ने खरीफ फसलों का किया निरीक्षण, किसानों को दी सलाह",
+      "summary": "रतलाम: अल्प वर्षा के चलते कृषि विभाग के दल ने खरीफ फसलों का किया निरीक्षण, किसानों को दी सलाह",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ratlam-due-to-scanty-rainfall-an-agriculture-department-team-inspected-kharif-crops-and-advised-farmers/",
+      "important": false
+    },
     {
       "id": "bea402dc",
       "title": "पुनर्योजी कृषि एवं सतत खाद्य तेल आपूर्ति श्रृंखला पर मल्टी-स्टेकहोल्डर कार्यशाला",
@@ -462,94 +550,6 @@
       "date": "2026-09-10",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/scientists-in-nagaland-have-developed-a-high-tech-animal-monitoring-system-ai-will-be-used-to-track-the-behavior-of-mithuns/",
-      "important": false
-    },
-    {
-      "id": "094a971b",
-      "title": "देश में लम्पी स्किन डिजीज की रोकथाम तेज, 36.18 करोड़ से अधिक मवेशियों का हुआ टीकाकरण",
-      "summary": "देश में लम्पी स्किन डिजीज की रोकथाम तेज, 36.18 करोड़ से अधिक मवेशियों का हुआ टीकाकरण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/prevention-of-lumpy-skin-disease-intensified-in-the-country-more-than-36-18-crore-cattle-vaccinated/",
-      "important": false
-    },
-    {
-      "id": "e828e71c",
-      "title": "सोयाबीन में सफेद मक्खी-एफिड का खतरा, देवास के किसानों को वैज्ञानिकों ने बताए बचाव के तरीके",
-      "summary": "सोयाबीन में सफेद मक्खी-एफिड का खतरा, देवास के किसानों को वैज्ञानिकों ने बताए बचाव के तरीके",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-whitefly-and-aphid-infestation-in-soybean-crops-scientists-advise-dewas-farmers-on-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "9a25a2dc",
-      "title": "डीसीएम श्रीराम ने भारत में नया फफूंदनाशी श्रीराम ज़ार्विन लॉन्च किया",
-      "summary": "डीसीएम श्रीराम ने भारत में नया फफूंदनाशी श्रीराम ज़ार्विन लॉन्च किया",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/dcm-shriram-has-launched-a-new-fungicide-shriram-zarvin-in-india/",
-      "important": false
-    },
-    {
-      "id": "9d6ed1d2",
-      "title": "इफको-एमसी ने मनाया 12वां स्थापना दिवस, नवाचार और किसान हित पर दिया जोर",
-      "summary": "इफको-एमसी ने मनाया 12वां स्थापना दिवस, नवाचार और किसान हित पर दिया जोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/iffco-mc-celebrates-12th-foundation-day-emphasizes-innovation-and-farmers-welfare/",
-      "important": false
-    },
-    {
-      "id": "0c5bb04c",
-      "title": "पारंपरिक फसलें छोड़ी, ड्रैगन फ्रूट और एकीकृत खेती से जौनपुर के किसान की सालाना 5 लाख की कमाई",
-      "summary": "पारंपरिक फसलें छोड़ी, ड्रैगन फ्रूट और एकीकृत खेती से जौनपुर के किसान की सालाना 5 लाख की कमाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jaunpur-farmer-earns-%e2%82%b95-lakh-annually-by-switching-from-traditional-crops-to-dragon-fruit-and-integrated-farming/",
-      "important": false
-    },
-    {
-      "id": "15624c37",
-      "title": "मक्का मंडी भाव: मध्य प्रदेश में2,601 रुपए प्रति क्विंटल तक मिले भाव, धार में सबसे ज्यादा आवक; देखें ताजा मक्का रेट",
-      "summary": "मक्का मंडी भाव: मध्य प्रदेश में2,601 रुपए प्रति क्विंटल तक मिले भाव, धार में सबसे ज्यादा आवक; देखें ताजा मक्का रेट",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/maize-market-prices-prices-reached-up-to-%e2%82%b92601-per-quintal-in-madhya-pradesh-with-the-highest-arrivals-in-dhar-check-the-latest-maize-rates/",
-      "important": false
-    },
-    {
-      "id": "bfe0030c",
-      "title": "देश में फिर बदलेगा मौसम, 10 सितंबर को बंगाल की खाड़ी में बन सकता है लो प्रेशर; ओडिशा में भारी बारिश के आसार",
-      "summary": "देश में फिर बदलेगा मौसम, 10 सितंबर को बंगाल की खाड़ी में बन सकता है लो प्रेशर; ओडिशा में भारी बारिश के आसार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-to-change-again-across-the-country-a-low-pressure-area-likely-to-form-over-the-bay-of-bengal-on-september-10-heavy-rain-expected-in-odisha/",
-      "important": false
-    },
-    {
-      "id": "3bbbb2bb",
-      "title": "आज का गेहूं मंडी रेट (09 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (09 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-09-september-2026/",
       "important": false
     }
   ]
