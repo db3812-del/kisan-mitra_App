@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-14T04:21:54Z",
-  "new_count": 0,
+  "updated": "2026-09-14T12:22:08Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "324fec32",
+      "title": "एमबीए छोड़ खेती अपनाई, महासमुंद के मोहन चंद्राकर बने परंपरागत व जैविक धान के ब्रांड एंबेसडर",
+      "summary": "एमबीए छोड़ खेती अपनाई, महासमुंद के मोहन चंद्राकर बने परंपरागत व जैविक धान के ब्रांड एंबेसडर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/left-mba-to-take-up-farming-mahasamunds-mohan-chandrakar-becomes-brand-ambassador-for-traditional-and-organic-paddy/",
+      "important": false
+    },
+    {
+      "id": "9b3c172d",
+      "title": "धमतरी में धान की फसल पर तना छेदक, भूरा फुदका और ब्लास्ट का खतरा, कृषि विभाग ने बताई दवा और मात्रा",
+      "summary": "धमतरी में धान की फसल पर तना छेदक, भूरा फुदका और ब्लास्ट का खतरा, कृषि विभाग ने बताई दवा और मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/threat-of-stem-borer-brown-planthopper-and-blast-disease-to-the-paddy-crop-in-dhamtari-agriculture-department-specifies-the-pesticide-and-dosage/",
+      "important": false
+    },
+    {
+      "id": "7d6d4ac2",
+      "title": "आज का गेहूं मंडी रेट (14 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (14 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-14-september-2026/",
+      "important": false
+    },
+    {
+      "id": "0ea2d7e7",
+      "title": "आज का मक्का मंडी रेट (14 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (14 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-14-september-2026/",
+      "important": false
+    },
+    {
+      "id": "5d0e79fd",
+      "title": "आज का धान मंडी रेट (14 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (14 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-14-september-2026/",
+      "important": false
+    },
+    {
+      "id": "ea4d20e2",
+      "title": "आज का सोयाबीन मंडी रेट (14 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (14 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-14-september-2026/",
+      "important": false
+    },
+    {
+      "id": "06b68e48",
+      "title": "मध्यप्रदेश के 10 जिलों में भारी वर्षा का येलो अलर्ट जारी",
+      "summary": "मध्यप्रदेश के 10 जिलों में भारी वर्षा का येलो अलर्ट जारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/yellow-alert-issued-for-heavy-rainfall-in-10-districts-of-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "3cd94c8b",
+      "title": "Weather Today: आज देश के कई राज्यों में भारी बारिश का अलर्ट, गुजरात के सौराष्ट्र-कच्छ में बहुत भारी बारिश की संभावना",
+      "summary": "Weather Today: आज देश के कई राज्यों में भारी बारिश का अलर्ट, गुजरात के सौराष्ट्र-कच्छ में बहुत भारी बारिश की संभावना",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-alert-for-several-states-across-the-country-today-very-heavy-rainfall-likely-in-the-saurashtra-kutch-region-of-gujarat/",
+      "important": false
+    },
     {
       "id": "a0440025",
       "title": "हरियाणा में कपास किसानों को कीट-नियंत्रण व सूक्ष्म पोषक तत्वों पर ₹4,000 तक अनुदान, 15 सितंबर अंतिम तारीख",
@@ -462,94 +550,6 @@
       "date": "2026-09-10",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/dewas-assessed-the-condition-of-the-soybean-crop/",
-      "important": false
-    },
-    {
-      "id": "3e0ad0d7",
-      "title": "हरदा: ट्राइकोडर्मा व स्यूडोमोनास जैव उर्वरक विक्रय हेतु उपलब्ध",
-      "summary": "हरदा: ट्राइकोडर्मा व स्यूडोमोनास जैव उर्वरक विक्रय हेतु उपलब्ध",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/harda-trichoderma-and-pseudomonas-bio-fertilizers-available-for-sale/",
-      "important": false
-    },
-    {
-      "id": "4e911b61",
-      "title": "बैतूल : धान एवं मोटा अनाज के पंजीयन 15 सितंबर से शुरू होंगे",
-      "summary": "बैतूल : धान एवं मोटा अनाज के पंजीयन 15 सितंबर से शुरू होंगे",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/betul-registration-for-paddy-and-coarse-grains-will-begin-on-september-15/",
-      "important": false
-    },
-    {
-      "id": "4c2beff7",
-      "title": "कृषि को केवल जीविकोपार्जन का साधन न मानकर इसे किसानों के लिए लाभ का व्यवसाय बनाया जाए",
-      "summary": "कृषि को केवल जीविकोपार्जन का साधन न मानकर इसे किसानों के लिए लाभ का व्यवसाय बनाया जाए",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agriculture-should-be-transformed-into-a-profitable-business-for-farmers-rather-than-being-viewed-merely-as-a-means-of-subsistence/",
-      "important": false
-    },
-    {
-      "id": "b18fa62a",
-      "title": "संयुक्त संचालक एवं उप संचालक कृषि के पदस्थापना आदेश जारी",
-      "summary": "संयुक्त संचालक एवं उप संचालक कृषि के पदस्थापना आदेश जारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/posting-orders-issued-for-the-posts-of-joint-director-and-deputy-director-of-agriculture/",
-      "important": false
-    },
-    {
-      "id": "fdfb7453",
-      "title": "पीलीभीत में बासमती और जैविक खेती के प्रशिक्षण केंद्र की नींव",
-      "summary": "पीलीभीत में बासमती और जैविक खेती के प्रशिक्षण केंद्र की नींव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/foundation-laid-for-basmati-and-organic-farming-training-center-in-pilibhit/",
-      "important": false
-    },
-    {
-      "id": "96ffde41",
-      "title": "30 हजार के कर्ज से शुरू की जैविक खेती, एक सीजन में 75 हजार की सब्जी बेचकर आत्मनिर्भर बनीं उर्मिला",
-      "summary": "30 हजार के कर्ज से शुरू की जैविक खेती, एक सीजन में 75 हजार की सब्जी बेचकर आत्मनिर्भर बनीं उर्मिला",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/started-organic-farming-with-a-loan-of-%e2%82%b930000-urmila-became-self-reliant-by-selling-vegetables-worth-%e2%82%b975000-in-a-single-season/",
-      "important": false
-    },
-    {
-      "id": "638a76d4",
-      "title": "किसानों को अब नहीं लगाने होंगे दफ्तरों के चक्कर, झाबुआ में शुरू हुआ किसान हेल्प डेस्क",
-      "summary": "किसानों को अब नहीं लगाने होंगे दफ्तरों के चक्कर, झाबुआ में शुरू हुआ किसान हेल्प डेस्क",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-will-no-longer-have-to-make-rounds-of-government-offices-a-kisan-help-desk-has-been-launched-in-jhabua/",
-      "important": false
-    },
-    {
-      "id": "63c3ba47",
-      "title": "नागालैंड के वैज्ञानिकों ने बनाया हाई-टेक पशु निगरानी सिस्टम, AI से होगी मिथुन के व्यवहार की ट्रैकिंग",
-      "summary": "नागालैंड के वैज्ञानिकों ने बनाया हाई-टेक पशु निगरानी सिस्टम, AI से होगी मिथुन के व्यवहार की ट्रैकिंग",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/scientists-in-nagaland-have-developed-a-high-tech-animal-monitoring-system-ai-will-be-used-to-track-the-behavior-of-mithuns/",
       "important": false
     }
   ]
