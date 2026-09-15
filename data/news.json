@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-15T04:22:15Z",
-  "new_count": 0,
+  "updated": "2026-09-15T11:28:09Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "65159cc4",
+      "title": "छिंदवाड़ा: टेमनी खुर्द पहुंचे कृषि विभाग के संचालक भार्गव, बायो रिसोर्स सेंटर का किया निरीक्षण",
+      "summary": "छिंदवाड़ा: टेमनी खुर्द पहुंचे कृषि विभाग के संचालक भार्गव, बायो रिसोर्स सेंटर का किया निरीक्षण",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-09-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-agriculture-department-director-bhargav-visited-temni-khurd-and-inspected-the-bio-resource-center/",
+      "important": false
+    },
+    {
+      "id": "d70ff1f9",
+      "title": "कृषि संचालक ने बैतूल जिले का किया भ्रमण",
+      "summary": "कृषि संचालक ने बैतूल जिले का किया भ्रमण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/director-of-agriculture-visited-betul-district/",
+      "important": false
+    },
+    {
+      "id": "462f76d9",
+      "title": "सीहोर: सोयाबीन की फसल में इन रोगों का खतरा, बचाव के लिए वैज्ञानिकों ने बताई फफूंदनाशक दवाएं",
+      "summary": "सीहोर: सोयाबीन की फसल में इन रोगों का खतरा, बचाव के लिए वैज्ञानिकों ने बताई फफूंदनाशक दवाएं",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-risk-of-specific-diseases-in-soybean-crops-scientists-recommend-fungicides-for-protection/",
+      "important": false
+    },
+    {
+      "id": "c5e2a2a0",
+      "title": "किसानों के लिए खुशखबरी! हल्दी की खेती पर मिलेगा अनुदान, जानें योजना और लाभ",
+      "summary": "किसानों के लिए खुशखबरी! हल्दी की खेती पर मिलेगा अनुदान, जानें योजना और लाभ",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/good-news-for-farmers-subsidy-available-for-turmeric-cultivation-learn-about-the-scheme-and-benefits/",
+      "important": false
+    },
+    {
+      "id": "b7e856c2",
+      "title": "मणिपुर में मिली हरे प्याज की नई किस्म ‘चिरू मारोई’, वैज्ञानिकों ने की पहचान",
+      "summary": "मणिपुर में मिली हरे प्याज की नई किस्म ‘चिरू मारोई’, वैज्ञानिकों ने की पहचान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/new-green-onion-variety-chiru-maroi-discovered-in-manipur-scientists-identify-it-show-alternatives/",
+      "important": false
+    },
+    {
+      "id": "66ab0c1a",
+      "title": "मार्कफेड के महाप्रबंधक श्री योगेश जोशी का हृदयाघात से निधन",
+      "summary": "मार्कफेड के महाप्रबंधक श्री योगेश जोशी का हृदयाघात से निधन",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/markfed-general-manager-shri-yogesh-joshi-passes-away-due-to-a-heart-attack/",
+      "important": false
+    },
+    {
+      "id": "3cb7bafb",
+      "title": "Pusa की 4 हाइब्रिड मक्का किस्में हैं खास, जानें खासियत और औसत उपज",
+      "summary": "Pusa की 4 हाइब्रिड मक्का किस्में हैं खास, जानें खासियत और औसत उपज",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/four-pusa-hybrid-maize-varieties-stand-out-learn-about-their-features-and-average-yields/",
+      "important": false
+    },
+    {
+      "id": "0a675e8f",
+      "title": "ब्रिक्स शिखर सम्मेलन में कृषि पर जोर: एग्रो-इकोलॉजी, डिजिटल एग्रीकल्चर और क्लाइमेट-रेजिलिएंट एग्रीकल्चर सहयोग के केंद्र ",
+      "summary": "ब्रिक्स शिखर सम्मेलन में कृषि पर जोर: एग्रो-इकोलॉजी, डिजिटल एग्रीकल्चर और क्लाइमेट-रेजिलिएंट एग्रीकल्चर सहयोग के केंद्र में",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/focus-on-agriculture-at-brics-summit-agro-ecology-digital-agriculture-and-climate-resilient-agriculture-at-the-core-of-cooperation/",
+      "important": false
+    },
     {
       "id": "324fec32",
       "title": "एमबीए छोड़ खेती अपनाई, महासमुंद के मोहन चंद्राकर बने परंपरागत व जैविक धान के ब्रांड एंबेसडर",
@@ -462,94 +550,6 @@
       "date": "2026-09-10",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/imd-weather-alert-heavy-rain-in-odisha-and-chhattisgarh-on-september-10-11-warning-of-thunderstorms-and-lightning-for-several-states/",
-      "important": false
-    },
-    {
-      "id": "ec02f4d9",
-      "title": "आज का सोयाबीन मंडी रेट (10 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (10 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-10-september-2026/",
-      "important": false
-    },
-    {
-      "id": "c1bf73d5",
-      "title": "सीधी, रीवा और सतना जिलों में भारी वर्षा की संभावना",
-      "summary": "सीधी, रीवा और सतना जिलों में भारी वर्षा की संभावना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/possibility-of-heavy-rainfall-in-sidhi-rewa-and-satna-districts/",
-      "important": false
-    },
-    {
-      "id": "5167ab7c",
-      "title": "छतरपुर: कृषक के खाते में अधिक ऋण दर्ज, समिति प्रबंधक निलंबित",
-      "summary": "छतरपुर: कृषक के खाते में अधिक ऋण दर्ज, समिति प्रबंधक निलंबित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhatarpur-excess-loan-amount-recorded-in-farmers-account-society-manager-suspended/",
-      "important": false
-    },
-    {
-      "id": "bb1b90a6",
-      "title": "छोटे किसानों को खुशखबरी! 3 एकड़ तक खेती के लिए फ्री मिलेगा ट्रैक्टर, जानें योजना की पूरी जानकारी",
-      "summary": "छोटे किसानों को खुशखबरी! 3 एकड़ तक खेती के लिए फ्री मिलेगा ट्रैक्टर, जानें योजना की पूरी जानकारी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/good-news-for-small-farmers-get-a-free-tractor-for-farming-up-to-3-acres-find-out-full-details-of-the-scheme/",
-      "important": false
-    },
-    {
-      "id": "3941bef3",
-      "title": "10 से 12 सितंबर तक होगा सूखा-क्षेत्र कृषि पर वैश्विक मंथन, दिल्ली में जुटेंगे एशिया-अफ्रीका-अमेरिका के 800 से ज्यादा विश",
-      "summary": "10 से 12 सितंबर तक होगा सूखा-क्षेत्र कृषि पर वैश्विक मंथन, दिल्ली में जुटेंगे एशिया-अफ्रीका-अमेरिका के 800 से ज्यादा विशेषज्ञ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/global-deliberations-on-dryland-agriculture-to-be-held-from-september-10-to-12-over-800-experts-from-asia-africa-and-the-americas-to-gather-in-delhi/",
-      "important": false
-    },
-    {
-      "id": "5dfd7e2f",
-      "title": "देवास : डायग्नोस्टिक टीम ने सोयाबीन फसल का किया निरीक्षण",
-      "summary": "देवास : डायग्नोस्टिक टीम ने सोयाबीन फसल का किया निरीक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dewas-diagnostic-team-inspected-the-soybean-crop/",
-      "important": false
-    },
-    {
-      "id": "1146a933",
-      "title": "अमरूद की टॉप 5 वैरायटी: इन किस्मों से मिलेगा ज्यादा उत्पादन, बड़े फल और बेहतर गुणवत्ता, देखें खासियत",
-      "summary": "अमरूद की टॉप 5 वैरायटी: इन किस्मों से मिलेगा ज्यादा उत्पादन, बड़े फल और बेहतर गुणवत्ता, देखें खासियत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/top-5-guava-varieties-these-varieties-offer-higher-yields-larger-fruits-and-superior-quality-check-out-their-features/",
-      "important": false
-    },
-    {
-      "id": "db8ac277",
-      "title": "देवास: सोयाबीन फसल की स्थिति का जायजा लिया",
-      "summary": "देवास: सोयाबीन फसल की स्थिति का जायजा लिया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dewas-assessed-the-condition-of-the-soybean-crop/",
       "important": false
     }
   ]
