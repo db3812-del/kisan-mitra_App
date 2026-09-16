@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-16T11:14:29Z",
-  "new_count": 7,
+  "updated": "2026-09-16T16:34:21Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "e97aab27",
+      "title": "MSP पर धान, ज्वार-बाजरा बेचने के लिए पंजीयन शुरू, 10 अक्टूबर तक करा सकेंगे किसान रजिस्ट्रेशन",
+      "summary": "MSP पर धान, ज्वार-बाजरा बेचने के लिए पंजीयन शुरू, 10 अक्टूबर तक करा सकेंगे किसान रजिस्ट्रेशन",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/registration-for-selling-paddy-sorghum-and-pearl-millet-at-msp-has-begun-farmers-can-register-until-october-10/",
+      "important": true
+    },
+    {
+      "id": "36ad0072",
+      "title": "छत्तीसगढ़ में हल्दी बीज वितरण में कथित गड़बड़ी की होगी जांच, कृषि मंत्री नेताम ने दिए निर्देश",
+      "summary": "छत्तीसगढ़ में हल्दी बीज वितरण में कथित गड़बड़ी की होगी जांच, कृषि मंत्री नेताम ने दिए निर्देश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/probe-ordered-into-alleged-irregularities-in-turmeric-seed-distribution-in-chhattisgarh-agriculture-minister-netam-issues-directives/",
+      "important": false
+    },
+    {
+      "id": "b1d4e06f",
+      "title": "विदिशा में किसान संगोष्ठी आयोजित, जैविक खेती, सोयाबीन फसल सुरक्षा और नरवाई प्रबंधन पर मिली तकनीकी जानकारी",
+      "summary": "विदिशा में किसान संगोष्ठी आयोजित, जैविक खेती, सोयाबीन फसल सुरक्षा और नरवाई प्रबंधन पर मिली तकनीकी जानकारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-seminar-held-in-vidisha-technical-information-provided-on-organic-farming-soybean-crop-protection-and-crop-residue-management/",
+      "important": false
+    },
+    {
+      "id": "d4523366",
+      "title": "आज का गेहूं मंडी रेट (16 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (16 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-16-september-2026/",
+      "important": false
+    },
+    {
+      "id": "12da4c64",
+      "title": "आज का धान मंडी रेट (16 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (16 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-16-september-2026/",
+      "important": false
+    },
+    {
+      "id": "44946332",
+      "title": "आज का मक्का मंडी रेट (16 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (16 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-16-september-2026/",
+      "important": false
+    },
+    {
+      "id": "0939bddf",
+      "title": "आज का सोयाबीन मंडी रेट (16 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (16 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-16-september-2026/",
+      "important": false
+    },
+    {
+      "id": "2dcd3b0e",
+      "title": "Weather Today: देश के कई राज्यों में भारी बारिश का अलर्ट, बंगाल-सिक्किम से असम तक बरसेंगे बादल; जानें आज का मौसम",
+      "summary": "Weather Today: देश के कई राज्यों में भारी बारिश का अलर्ट, बंगाल-सिक्किम से असम तक बरसेंगे बादल; जानें आज का मौसम",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-alert-for-several-states-rain-expected-from-bengal-and-sikkim-to-assam-check-todays-weather-forecast/",
+      "important": false
+    },
     {
       "id": "2cccf306",
       "title": "पांढुर्ना जिले में ‘पर ड्रॉप मोर क्रॉप’ योजना के तहत ऑनलाइन आवेदन आमंत्रित",
@@ -462,94 +550,6 @@
       "date": "2026-09-13",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/the-chief-minister-viewed-a-live-demonstration-of-the-e-vikas-system/",
-      "important": false
-    },
-    {
-      "id": "77f6902d",
-      "title": "रतलाम: अल्प वर्षा के चलते कृषि विभाग के दल ने खरीफ फसलों का किया निरीक्षण, किसानों को दी सलाह",
-      "summary": "रतलाम: अल्प वर्षा के चलते कृषि विभाग के दल ने खरीफ फसलों का किया निरीक्षण, किसानों को दी सलाह",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ratlam-due-to-scanty-rainfall-an-agriculture-department-team-inspected-kharif-crops-and-advised-farmers/",
-      "important": false
-    },
-    {
-      "id": "bea402dc",
-      "title": "पुनर्योजी कृषि एवं सतत खाद्य तेल आपूर्ति श्रृंखला पर मल्टी-स्टेकहोल्डर कार्यशाला",
-      "summary": "पुनर्योजी कृषि एवं सतत खाद्य तेल आपूर्ति श्रृंखला पर मल्टी-स्टेकहोल्डर कार्यशाला",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/multi-stakeholder-workshop-on-regenerative-agriculture-and-sustainable-edible-oil-supply-chain/",
-      "important": false
-    },
-    {
-      "id": "adbcf15b",
-      "title": "Weather Today: देश के कई राज्यों में भारी बारिश का अलर्ट, गुजरात और तेलंगाना में बहुत भारी बारिश की चेतावनी; दिल्ली में ",
-      "summary": "Weather Today: देश के कई राज्यों में भारी बारिश का अलर्ट, गुजरात और तेलंगाना में बहुत भारी बारिश की चेतावनी; दिल्ली में छाए रहेंगे बादल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-alert-for-several-states-warning-of-very-heavy-rainfall-in-gujarat-and-telangana-cloudy-skies-expected-in-delhi/",
-      "important": false
-    },
-    {
-      "id": "71139cfe",
-      "title": "आज का गेहूं मंडी रेट (12 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (12 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-12-september-2026/",
-      "important": false
-    },
-    {
-      "id": "c6a3d43c",
-      "title": "मध्यप्रदेश के 16 जिलों में भारी वर्षा की संभावना",
-      "summary": "मध्यप्रदेश के 16 जिलों में भारी वर्षा की संभावना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/possibility-of-heavy-rainfall-in-16-districts-of-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "4741f516",
-      "title": "आज का मक्का मंडी रेट (12 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (12 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-12-september-2026/",
-      "important": false
-    },
-    {
-      "id": "fb8e585c",
-      "title": "आज का धान मंडी रेट (12 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (12 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-12-september-2026/",
-      "important": false
-    },
-    {
-      "id": "9e30e6bf",
-      "title": "आज का सोयाबीन मंडी रेट (12 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (12 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/todays-soybean-mandi-rate-12-september-2026/",
       "important": false
     }
   ]
