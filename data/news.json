@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-16T04:17:56Z",
-  "new_count": 8,
+  "updated": "2026-09-16T11:14:29Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "2cccf306",
+      "title": "पांढुर्ना जिले में ‘पर ड्रॉप मोर क्रॉप’ योजना के तहत ऑनलाइन आवेदन आमंत्रित",
+      "summary": "पांढुर्ना जिले में ‘पर ड्रॉप मोर क्रॉप’ योजना के तहत ऑनलाइन आवेदन आमंत्रित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/online-applications-invited-under-the-per-drop-more-crop-scheme-in-pandhurna-district/",
+      "important": false
+    },
+    {
+      "id": "ea8011c3",
+      "title": "नरवाई जलाने की समस्या के नियंत्रण में फसल अवशेषों का उचित प्रबंधन महत्वपूर्ण – संयुक्त संचालक श्री जितेंद्र सिंह",
+      "summary": "नरवाई जलाने की समस्या के नियंत्रण में फसल अवशेषों का उचित प्रबंधन महत्वपूर्ण – संयुक्त संचालक श्री जितेंद्र सिंह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/proper-management-of-crop-residues-is-crucial-for-controlling-the-problem-of-stubble-burning-joint-director-shri-jitendra-singh/",
+      "important": false
+    },
+    {
+      "id": "7904209b",
+      "title": "दमोह में किसानों की आय बढ़ाने पर जोर, 1.35 लाख हेक्टेयर तक सूक्ष्म सिंचाई का लक्ष्य",
+      "summary": "दमोह में किसानों की आय बढ़ाने पर जोर, 1.35 लाख हेक्टेयर तक सूक्ष्म सिंचाई का लक्ष्य",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/emphasis-on-increasing-the-income-of-farmers-in-damoh-target-of-micro-irrigation-up-to-1-35-lakh-hectares/",
+      "important": false
+    },
+    {
+      "id": "c80a762d",
+      "title": "मध्यप्रदेश के कई जिलों में सामान्य वर्षा की संभावना",
+      "summary": "मध्यप्रदेश के कई जिलों में सामान्य वर्षा की संभावना",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/likelihood-of-normal-rainfall-in-several-districts-of-madhya-pradesh-3/",
+      "important": false
+    },
+    {
+      "id": "e8ba45fd",
+      "title": "सागर: आंधी-बारिश से मक्का और उड़द की फसल प्रभावित, मंत्री गोविंद राजपूत ने जल्द सर्वे के दिए निर्देश",
+      "summary": "सागर: आंधी-बारिश से मक्का और उड़द की फसल प्रभावित, मंत्री गोविंद राजपूत ने जल्द सर्वे के दिए निर्देश",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sagar-maize-and-black-gram-crops-affected-by-storms-and-rain-minister-govind-rajput-orders-immediate-survey/",
+      "important": false
+    },
+    {
+      "id": "218de8ec",
+      "title": "प्राकृतिक खेती की मिसाल बना घिनोदा का माधव कृषि फार्म",
+      "summary": "प्राकृतिक खेती की मिसाल बना घिनोदा का माधव कृषि फार्म",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhav-agricultural-farm-in-ghinoda-emerges-as-a-model-of-natural-farming/",
+      "important": false
+    },
+    {
+      "id": "93c63342",
+      "title": "कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
+      "summary": "कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/given-the-low-rainfall-prioritize-low-water-consuming-crops-for-the-rabi-season/",
+      "important": false
+    },
     {
       "id": "e90fbdae",
       "title": "तेलंगाना में किसानों की रायथु बीमा योजना बंद, 42 लाख से ज्यादा किसान बीमा कवर से बाहर",
@@ -473,83 +550,6 @@
       "date": "2026-09-12",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/uncategorized/todays-soybean-mandi-rate-12-september-2026/",
-      "important": false
-    },
-    {
-      "id": "250ffe08",
-      "title": "मंडला : समय पर ऋण चुकाने वाले किसानों को नहीं देना होगा ब्याज",
-      "summary": "मंडला : समय पर ऋण चुकाने वाले किसानों को नहीं देना होगा ब्याज",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mandla-farmers-who-repay-loans-on-time-will-not-have-to-pay-interest/",
-      "important": false
-    },
-    {
-      "id": "1fbbd2a0",
-      "title": "डिंडोरी कलेक्टर ने पशुपालन एवं डेयरी विभाग के कार्यों  की समीक्षा की",
-      "summary": "डिंडोरी कलेक्टर ने पशुपालन एवं डेयरी विभाग के कार्यों  की समीक्षा की",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-dindori-collector-reviewed-the-work-of-the-animal-husbandry-and-dairy-department/",
-      "important": false
-    },
-    {
-      "id": "a9282d26",
-      "title": "जिला सहकारी केंद्रीय बैंक नरसिंहपुर की 115 वीं वार्षिक आमसभा संपन्न",
-      "summary": "जिला सहकारी केंद्रीय बैंक नरसिंहपुर की 115 वीं वार्षिक आमसभा संपन्न",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/115th-annual-general-meeting-of-the-district-cooperative-central-bank-narsinghpur-concluded/",
-      "important": false
-    },
-    {
-      "id": "0779eae1",
-      "title": "मशरूम से मधुमक्खी पालन तक सीखेंगे रोजगार के हुनर, छत्तीसगढ़ के 27 कृषि विज्ञान केंद्रों में तैयार होंगे मास्टर ट्रेनर",
-      "summary": "मशरूम से मधुमक्खी पालन तक सीखेंगे रोजगार के हुनर, छत्तीसगढ़ के 27 कृषि विज्ञान केंद्रों में तैयार होंगे मास्टर ट्रेनर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/skills-for-livelihoods-ranging-from-mushroom-cultivation-to-beekeeping-will-be-taught-and-master-trainers-will-be-prepared-at-27-krishi-vigyan-kendras-agricultural-science-centres-i/",
-      "important": false
-    },
-    {
-      "id": "92546291",
-      "title": "संयुक्त संचालक कृषि ने धार में कृषि विभाग कार्यालय एवं कृषि प्रक्षेत्र का किया निरीक्षण",
-      "summary": "संयुक्त संचालक कृषि ने धार में कृषि विभाग कार्यालय एवं कृषि प्रक्षेत्र का किया निरीक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-joint-director-of-agriculture-inspected-the-agriculture-department-office-and-the-agricultural-farm-in-dhar/",
-      "important": false
-    },
-    {
-      "id": "d910894b",
-      "title": "छत्तीसगढ़ बीज निगम की समीक्षा बैठक, किसानों को गुणवत्तापूर्ण बीज देने पर विशेष जोर",
-      "summary": "छत्तीसगढ़ बीज निगम की समीक्षा बैठक, किसानों को गुणवत्तापूर्ण बीज देने पर विशेष जोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/review-meeting-of-the-chhattisgarh-seed-corporation-special-emphasis-on-providing-quality-seeds-to-farmers/",
-      "important": false
-    },
-    {
-      "id": "a77292a0",
-      "title": "सीहोर: सोयाबीन दिवस पर किसानों को मिला खेती का प्रशिक्षण, वैज्ञानिकों ने बताए उत्पादन बढ़ाने के तरीके",
-      "summary": "सीहोर: सोयाबीन दिवस पर किसानों को मिला खेती का प्रशिक्षण, वैज्ञानिकों ने बताए उत्पादन बढ़ाने के तरीके",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-farmers-receive-agricultural-training-on-soybean-day-scientists-share-methods-to-boost-production/",
       "important": false
     }
   ]
