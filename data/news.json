@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-15T21:05:25Z",
-  "new_count": 0,
+  "updated": "2026-09-16T04:17:56Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "e90fbdae",
+      "title": "तेलंगाना में किसानों की रायथु बीमा योजना बंद, 42 लाख से ज्यादा किसान बीमा कवर से बाहर",
+      "summary": "तेलंगाना में किसानों की रायथु बीमा योजना बंद, 42 लाख से ज्यादा किसान बीमा कवर से बाहर",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rythu-bima-scheme-for-farmers-discontinued-in-telangana-over-42-lakh-farmers-left-without-insurance-cover/",
+      "important": false
+    },
+    {
+      "id": "b811b1b6",
+      "title": "रबी सीजन 2026-27 की तैयारी तेज, शिवराज सिंह चौहान ने वैज्ञानिकों और किसानों को दिए सीधे संवाद के निर्देश",
+      "summary": "रबी सीजन 2026-27 की तैयारी तेज, शिवराज सिंह चौहान ने वैज्ञानिकों और किसानों को दिए सीधे संवाद के निर्देश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/preparations-for-the-2026-27-rabi-season-intensify-shivraj-singh-chouhan-directs-scientists-and-farmers-to-engage-in-direct-dialogue/",
+      "important": false
+    },
+    {
+      "id": "694a683f",
+      "title": "उज्जैन : कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
+      "summary": "उज्जैन : कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ujjain-prioritize-low-water-requirement-crops-for-the-rabi-season-given-the-low-rainfall/",
+      "important": false
+    },
+    {
+      "id": "14664a0c",
+      "title": "समर्थन मूल्य पर धान, ज्वार एवं बाजरा उपार्जन के लिये पंजीयन 10 अक्टूबर तक",
+      "summary": "समर्थन मूल्य पर धान, ज्वार एवं बाजरा उपार्जन के लिये पंजीयन 10 अक्टूबर तक",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/registration-for-the-procurement-of-paddy-sorghum-jowar-and-pearl-millet-bajra-at-the-support-price-is-open-until-october-10/",
+      "important": false
+    },
+    {
+      "id": "cf87e14e",
+      "title": "हरियाणा के किसान ने पांच किस्मों की हल्दी से बदली अपनी किस्मत",
+      "summary": "हरियाणा के किसान ने पांच किस्मों की हल्दी से बदली अपनी किस्मत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-haryana-farmer-transformed-his-fortunes-with-five-varieties-of-turmeric/",
+      "important": false
+    },
+    {
+      "id": "41cbb970",
+      "title": "छिंदवाड़ा: धान, ज्वार एवं बाजरा उपार्जन के लिए किसान पंजीयन आज से शुरू",
+      "summary": "छिंदवाड़ा: धान, ज्वार एवं बाजरा उपार्जन के लिए किसान पंजीयन आज से शुरू",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-farmer-registration-for-the-procurement-of-paddy-sorghum-and-pearl-millet-begins-today/",
+      "important": false
+    },
+    {
+      "id": "09c33970",
+      "title": "देवास : अधिकारियों ने किया सोयाबीन फसल का निरीक्षण",
+      "summary": "देवास : अधिकारियों ने किया सोयाबीन फसल का निरीक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dewas-officials-inspected-the-soybean-crop/",
+      "important": false
+    },
+    {
+      "id": "e93f0df9",
+      "title": "उज्जैन : प्राकृतिक खेती की मिसाल बना माधव कृषि फार्म",
+      "summary": "उज्जैन : प्राकृतिक खेती की मिसाल बना माधव कृषि फार्म",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ujjain-madhav-agriculture-farm-sets-an-example-of-natural-farming/",
+      "important": false
+    },
     {
       "id": "34487bfa",
       "title": "आज का सोयाबीन मंडी रेट (15 सितंबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-09-12",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/sehore-farmers-receive-agricultural-training-on-soybean-day-scientists-share-methods-to-boost-production/",
-      "important": false
-    },
-    {
-      "id": "184b06f2",
-      "title": "कृषि क्षेत्र में चार दशकों की दीर्घ सेवा पर श्री पांडेय सम्मानित",
-      "summary": "कृषि क्षेत्र में चार दशकों की दीर्घ सेवा पर श्री पांडेय सम्मानित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shri-pandey-honored-for-four-decades-of-distinguished-service-in-the-agricultural-sector/",
-      "important": false
-    },
-    {
-      "id": "5a24ab28",
-      "title": "सीहोर: कृषि रोडमैप के तहत आम-अमरूद की उन्नत खेती पर किसानों को मिला प्रशिक्षण",
-      "summary": "सीहोर: कृषि रोडमैप के तहत आम-अमरूद की उन्नत खेती पर किसानों को मिला प्रशिक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-farmers-receive-training-on-advanced-mango-and-guava-cultivation-under-the-agricultural-roadmap/",
-      "important": false
-    },
-    {
-      "id": "b94e8ff8",
-      "title": "धान उपार्जन के लिए 15 सितंबर से शुरू होगा किसान पंजीयन",
-      "summary": "धान उपार्जन के लिए 15 सितंबर से शुरू होगा किसान पंजीयन",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmer-registration-for-paddy-procurement-will-begin-on-september-15/",
-      "important": false
-    },
-    {
-      "id": "b7b0fbe4",
-      "title": "कटनी जिले के लिए नीम कोटेड यूरिया खाद की 3 रैक पहुंची",
-      "summary": "कटनी जिले के लिए नीम कोटेड यूरिया खाद की 3 रैक पहुंची",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/three-rakes-of-neem-coated-urea-fertilizer-have-arrived-for-katni-district/",
-      "important": false
-    },
-    {
-      "id": "9b7f994b",
-      "title": "किसानों की समृद्धि से ही राष्ट्र की समृद्धि : मुख्यमंत्री डॉ. यादव",
-      "summary": "किसानों की समृद्धि से ही राष्ट्र की समृद्धि : मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/national-prosperity-stems-from-the-prosperity-of-farmers-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "4ed72ef4",
-      "title": "गुना: कृषक संगोष्ठी में वैज्ञानिकों ने बताई खरीफ फसलों की उन्नत तकनीक",
-      "summary": "गुना: कृषक संगोष्ठी में वैज्ञानिकों ने बताई खरीफ फसलों की उन्नत तकनीक",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-09-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guna-scientists-explain-advanced-techniques-for-kharif-crops-at-a-farmers-seminar/",
-      "important": false
-    },
-    {
-      "id": "f57a8603",
-      "title": "इंदौर में माइक्रो इरिगेशन कंपनियों की महत्वपूर्ण बैठक संपन्न",
-      "summary": "इंदौर में माइक्रो इरिगेशन कंपनियों की महत्वपूर्ण बैठक संपन्न",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/important-meeting-of-micro-irrigation-companies-concludes-in-indore/",
-      "important": false
-    },
-    {
-      "id": "67b5a7b9",
-      "title": "सूखा प्रभावित 65 फीसदी भारत की खेती अब वैश्विक एजेंडे में, दिल्ली में तीन दिवसीय ग्लोबल ड्राईलैंड कांग्रेस शुरू",
-      "summary": "सूखा प्रभावित 65 फीसदी भारत की खेती अब वैश्विक एजेंडे में, दिल्ली में तीन दिवसीय ग्लोबल ड्राईलैंड कांग्रेस शुरू",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/agriculture-in-the-65-of-india-affected-by-drought-is-now-on-the-global-agenda-a-three-day-global-dryland-congress-has-begun-in-delhi/",
       "important": false
     }
   ]
