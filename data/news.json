@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-16T21:07:07Z",
-  "new_count": 0,
+  "updated": "2026-09-17T04:24:19Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "98b2c162",
+      "title": "गहरे समुद्र में मछली पालन पर मंथन, 17 सितंबर को गांधीनगर में राष्ट्रीय कार्यशाला",
+      "summary": "गहरे समुद्र में मछली पालन पर मंथन, 17 सितंबर को गांधीनगर में राष्ट्रीय कार्यशाला",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/deliberations-on-deep-sea-fish-farming-national-workshop-in-gandhinagar-on-september-17/",
+      "important": false
+    },
+    {
+      "id": "d6d65be3",
+      "title": "बिहार बाढ़: केंद्रीय कृषि मंत्री शिवराज सिंह चौहान ने शुरू किया फसल नुकसान का हवाई-जमीनी सर्वेक्षण",
+      "summary": "बिहार बाढ़: केंद्रीय कृषि मंत्री शिवराज सिंह चौहान ने शुरू किया फसल नुकसान का हवाई-जमीनी सर्वेक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bihar-floods-union-agriculture-minister-shivraj-singh-chouhan-begins-aerial-and-ground-survey-of-crop-damage/",
+      "important": false
+    },
+    {
+      "id": "0643e67d",
+      "title": "बीकानेर: पॉलीहाउस-शेडनेट में सब्जी खेती को बढ़ावा देने पर जोर, लंबित अनुदान भुगतान के निर्देश",
+      "summary": "बीकानेर: पॉलीहाउस-शेडनेट में सब्जी खेती को बढ़ावा देने पर जोर, लंबित अनुदान भुगतान के निर्देश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bikaner-emphasis-on-promoting-vegetable-cultivation-in-polyhouses-and-shade-nets-instructions-issued-for-the-payment-of-pending-subsidies/",
+      "important": false
+    },
+    {
+      "id": "26b26186",
+      "title": "बिहार में बाढ़ प्रभावित इलाकों में पहुंचे मंत्री शिवराज सिंह, किसानों से मिलकर फसल नुकसान का लिया जायजा",
+      "summary": "बिहार में बाढ़ प्रभावित इलाकों में पहुंचे मंत्री शिवराज सिंह, किसानों से मिलकर फसल नुकसान का लिया जायजा",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/minister-shivraj-singh-visited-flood-affected-areas-in-bihar-and-met-with-farmers-to-assess-crop-damage/",
+      "important": false
+    },
+    {
+      "id": "faa62524",
+      "title": "जबलपुर: खरीफ-रबी फसलों निगरानी के लिए जिला और ब्लॉक स्तर पर टीम गठित, कीट-व्याधि पर रखी जाएगी नजर",
+      "summary": "जबलपुर: खरीफ-रबी फसलों निगरानी के लिए जिला और ब्लॉक स्तर पर टीम गठित, कीट-व्याधि पर रखी जाएगी नजर",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-teams-constituted-at-district-and-block-levels-to-monitor-kharif-and-rabi-crops-a-close-watch-will-be-kept-for-pests-and-diseases/",
+      "important": false
+    },
+    {
+      "id": "f1c7d830",
+      "title": "सिवनी: जीआई टैग वाले जम्बो सीताफल को राष्ट्रीय-अंतरराष्ट्रीय बाजार से जोड़ने की तैयारी, किसानों का हो रहा पंजीयन",
+      "summary": "सिवनी: जीआई टैग वाले जम्बो सीताफल को राष्ट्रीय-अंतरराष्ट्रीय बाजार से जोड़ने की तैयारी, किसानों का हो रहा पंजीयन",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/seoni-preparations-underway-to-connect-gi-tagged-jumbo-custard-apples-to-national-and-international-markets-farmer-registration-is-in-progress/",
+      "important": false
+    },
+    {
+      "id": "b1009e10",
+      "title": "72 साल की उम्र में अमरूद की खेती से मिसाल बने ओडिशा के किसान पदन नायक",
+      "summary": "72 साल की उम्र में अमरूद की खेती से मिसाल बने ओडिशा के किसान पदन नायक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/padan-nayak-a-farmer-from-odisha-sets-an-example-with-guava-cultivation-at-the-age-of-72/",
+      "important": false
+    },
+    {
+      "id": "5e4f4c8d",
+      "title": "कटनी की रीता ने तकनीक से बदली मछली पालन की तस्वीर, 5 टन उत्पादन से मिला 2.10 लाख का मुनाफा",
+      "summary": "कटनी की रीता ने तकनीक से बदली मछली पालन की तस्वीर, 5 टन उत्पादन से मिला 2.10 लाख का मुनाफा",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rita-from-katni-transformed-the-face-of-fish-farming-using-technology-a-production-of-5-tonnes-yielded-a-profit-of-%e2%82%b92-10-lakh/",
+      "important": false
+    },
     {
       "id": "e97aab27",
       "title": "MSP पर धान, ज्वार-बाजरा बेचने के लिए पंजीयन शुरू, 10 अक्टूबर तक करा सकेंगे किसान रजिस्ट्रेशन",
@@ -462,94 +550,6 @@
       "date": "2026-09-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/yellow-alert-issued-for-heavy-rainfall-in-10-districts-of-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "3cd94c8b",
-      "title": "Weather Today: आज देश के कई राज्यों में भारी बारिश का अलर्ट, गुजरात के सौराष्ट्र-कच्छ में बहुत भारी बारिश की संभावना",
-      "summary": "Weather Today: आज देश के कई राज्यों में भारी बारिश का अलर्ट, गुजरात के सौराष्ट्र-कच्छ में बहुत भारी बारिश की संभावना",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-alert-for-several-states-across-the-country-today-very-heavy-rainfall-likely-in-the-saurashtra-kutch-region-of-gujarat/",
-      "important": false
-    },
-    {
-      "id": "a0440025",
-      "title": "हरियाणा में कपास किसानों को कीट-नियंत्रण व सूक्ष्म पोषक तत्वों पर ₹4,000 तक अनुदान, 15 सितंबर अंतिम तारीख",
-      "summary": "हरियाणा में कपास किसानों को कीट-नियंत्रण व सूक्ष्म पोषक तत्वों पर ₹4,000 तक अनुदान, 15 सितंबर अंतिम तारीख",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/cotton-farmers-in-haryana-to-receive-a-subsidy-of-up-to-%e2%82%b94000-for-pest-control-and-micronutrients-deadline-is-september-15/",
-      "important": true
-    },
-    {
-      "id": "ec3ca880",
-      "title": "बिहार में फसल नुकसान पर अब बिना प्रीमियम के मिलेगी आर्थिक मदद, राज्य फसल सहायता योजना के आवेदन शुरू",
-      "summary": "बिहार में फसल नुकसान पर अब बिना प्रीमियम के मिलेगी आर्थिक मदद, राज्य फसल सहायता योजना के आवेदन शुरू",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/financial-aid-for-crop-loss-in-bihar-will-now-be-provided-without-the-need-for-a-premium-applications-for-the-state-crop-assistance-scheme-have-begun/",
-      "important": false
-    },
-    {
-      "id": "ab1599c3",
-      "title": "सिमडेगा की दयामनी ने बत्तख और बकरी पालन से बदली अपनी आर्थिक स्थिति",
-      "summary": "सिमडेगा की दयामनी ने बत्तख और बकरी पालन से बदली अपनी आर्थिक स्थिति",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dayamani-from-simdega-transformed-her-financial-situation-through-duck-and-goat-rearing/",
-      "important": false
-    },
-    {
-      "id": "5424ecc6",
-      "title": "लखीमपुर खीरी में गन्ने पर शीर्ष बेधक कीट का हमला, विशेषज्ञों ने बताई दवा और मात्रा",
-      "summary": "लखीमपुर खीरी में गन्ने पर शीर्ष बेधक कीट का हमला, विशेषज्ञों ने बताई दवा और मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/top-borer-pest-attacks-sugarcane-crops-in-lakhimpur-kheri-experts-recommend-remedy-and-dosage/",
-      "important": false
-    },
-    {
-      "id": "6f88e749",
-      "title": "कुपवाड़ा के मेहजूर सुल्तान मीर ट्राउट मछली पालन से कमा रहे सालाना 5-6 लाख रुपये",
-      "summary": "कुपवाड़ा के मेहजूर सुल्तान मीर ट्राउट मछली पालन से कमा रहे सालाना 5-6 लाख रुपये",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mehjoor-sultan-mir-from-kupwara-is-earning-%e2%82%b95-6-lakh-annually-from-trout-farming/",
-      "important": false
-    },
-    {
-      "id": "b7d7471d",
-      "title": "नई दिल्ली में 9वीं आसियान-भारत कृषि मंत्रिस्तरीय बैठक, खाद्य सुरक्षा पर नई कार्ययोजना तय",
-      "summary": "नई दिल्ली में 9वीं आसियान-भारत कृषि मंत्रिस्तरीय बैठक, खाद्य सुरक्षा पर नई कार्ययोजना तय",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/9th-asean-india-agriculture-ministers-meeting-in-new-delhi-new-action-plan-on-food-security-finalized/",
-      "important": false
-    },
-    {
-      "id": "4ae2850d",
-      "title": "मुख्यमंत्री ने देखा ई विकास प्रणाली लाइव प्रदर्शन",
-      "summary": "मुख्यमंत्री ने देखा ई विकास प्रणाली लाइव प्रदर्शन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-chief-minister-viewed-a-live-demonstration-of-the-e-vikas-system/",
       "important": false
     }
   ]
