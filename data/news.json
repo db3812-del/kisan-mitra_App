@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-17T04:24:19Z",
-  "new_count": 8,
+  "updated": "2026-09-17T11:22:23Z",
+  "new_count": 4,
   "articles": [
+    {
+      "id": "6c6d86c1",
+      "title": "राजस्थान: उर्वरक वितरण में एफएफएस व्यवस्था का असर, बूंदी में 52 हजार से ज्यादा किसानों को मिला खाद",
+      "summary": "राजस्थान: उर्वरक वितरण में एफएफएस व्यवस्था का असर, बूंदी में 52 हजार से ज्यादा किसानों को मिला खाद",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-impact-of-ffs-system-on-fertilizer-distribution-over-52000-farmers-in-bundi-received-fertilizer/",
+      "important": false
+    },
+    {
+      "id": "533a75fb",
+      "title": "मध्यप्रदेश के सात जिलों में अनेक स्थानों पर वर्षा की संभावना",
+      "summary": "मध्यप्रदेश के सात जिलों में अनेक स्थानों पर वर्षा की संभावना",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chances-of-rain-at-many-places-in-seven-districts-of-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "04a89332",
+      "title": "राजस्थान के किसानों के लिए बड़ी राहत, अटल भूजल योजना की 156 करोड़ रुपए की लंबित देनदारियों का भुगतान",
+      "summary": "राजस्थान के किसानों के लिए बड़ी राहत, अटल भूजल योजना की 156 करोड़ रुपए की लंबित देनदारियों का भुगतान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-relief-for-rajasthan-farmers-payment-of-%e2%82%b9156-crore-in-outstanding-dues-under-the-atal-bhujal-yojana/",
+      "important": false
+    },
+    {
+      "id": "2909f33b",
+      "title": "सीधी में 15 बीज विक्रेता पर सख्त कार्रवाई",
+      "summary": "सीधी में 15 बीज विक्रेता पर सख्त कार्रवाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/strict-action-taken-against-15-seed-sellers-in-sidhi/",
+      "important": false
+    },
     {
       "id": "98b2c162",
       "title": "गहरे समुद्र में मछली पालन पर मंथन, 17 सितंबर को गांधीनगर में राष्ट्रीय कार्यशाला",
@@ -506,50 +550,6 @@
       "date": "2026-09-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-14-september-2026/",
-      "important": false
-    },
-    {
-      "id": "0ea2d7e7",
-      "title": "आज का मक्का मंडी रेट (14 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (14 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-14-september-2026/",
-      "important": false
-    },
-    {
-      "id": "5d0e79fd",
-      "title": "आज का धान मंडी रेट (14 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (14 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-14-september-2026/",
-      "important": false
-    },
-    {
-      "id": "ea4d20e2",
-      "title": "आज का सोयाबीन मंडी रेट (14 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (14 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-14-september-2026/",
-      "important": false
-    },
-    {
-      "id": "06b68e48",
-      "title": "मध्यप्रदेश के 10 जिलों में भारी वर्षा का येलो अलर्ट जारी",
-      "summary": "मध्यप्रदेश के 10 जिलों में भारी वर्षा का येलो अलर्ट जारी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/yellow-alert-issued-for-heavy-rainfall-in-10-districts-of-madhya-pradesh/",
       "important": false
     }
   ]
