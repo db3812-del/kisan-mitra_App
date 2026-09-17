@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-17T11:22:23Z",
-  "new_count": 4,
+  "updated": "2026-09-17T16:39:46Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "440eaa58",
+      "title": "लखपति दीदी: ग्रामीण महिलाओं की आय 1 लाख रुपए तक पहुंचाने पर जोर, आजीविका के नए अवसरों पर चर्चा",
+      "summary": "लखपति दीदी: ग्रामीण महिलाओं की आय 1 लाख रुपए तक पहुंचाने पर जोर, आजीविका के नए अवसरों पर चर्चा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/lakhpati-didi-focus-on-raising-rural-womens-income-to-%e2%82%b91-lakh-discussion-on-new-livelihood-opportunities/",
+      "important": false
+    },
+    {
+      "id": "df9a8d45",
+      "title": "श्रीगंगानगर: किसानों को गुलाबी सुंडी और फसल रोगों से बचाव की वैज्ञानिक जानकारी दी",
+      "summary": "श्रीगंगानगर: किसानों को गुलाबी सुंडी और फसल रोगों से बचाव की वैज्ञानिक जानकारी दी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sri-ganganagar-farmers-provided-with-scientific-information-on-protecting-crops-against-the-pink-bollworm-and-crop-diseases/",
+      "important": false
+    },
+    {
+      "id": "ea97ccd2",
+      "title": "आज का धान मंडी रेट (17 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (17 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-17-september-2026/",
+      "important": false
+    },
+    {
+      "id": "8128cec1",
+      "title": "जनेकृविवि: सोयाबीन में फलियां कम और दाना भराव कमजोर हो तो अपनाएं ये उपाय",
+      "summary": "जनेकृविवि: सोयाबीन में फलियां कम और दाना भराव कमजोर हो तो अपनाएं ये उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jnkvv-adopt-these-measures-if-soybean-crops-show-poor-pod-formation-and-weak-grain-filling/",
+      "important": false
+    },
+    {
+      "id": "b9940a1b",
+      "title": "सीधी : धान मिलिंग में अनियमितता पर मिलर्स के विरुद्ध प्राथमिकी के निर्देश",
+      "summary": "सीधी : धान मिलिंग में अनियमितता पर मिलर्स के विरुद्ध प्राथमिकी के निर्देश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sidhi-orders-issued-to-register-firs-against-millers-for-irregularities-in-paddy-milling/",
+      "important": false
+    },
+    {
+      "id": "7c318675",
+      "title": "आज का सोयाबीन मंडी रेट (17 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (17 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/todays-soybean-mandi-rate-17-september-2026/",
+      "important": false
+    },
+    {
+      "id": "5fc59bcb",
+      "title": "सतना में 19 सितंबर को होगा बलराम कृषि महोत्सव, 1500 किसान होंगे शामिल",
+      "summary": "सतना में 19 सितंबर को होगा बलराम कृषि महोत्सव, 1500 किसान होंगे शामिल",
+      "level": "state",
+      "category": "market",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-to-be-held-in-satna-on-september-19-1500-farmers-to-participate/",
+      "important": false
+    },
+    {
+      "id": "14727157",
+      "title": "पीएम धन धान्य में सीधी देश में श्रेष्ठ",
+      "summary": "पीएम धन धान्य में सीधी देश में श्रेष्ठ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pm-dhan-dhanya-foremost-in-the-country/",
+      "important": false
+    },
     {
       "id": "6c6d86c1",
       "title": "राजस्थान: उर्वरक वितरण में एफएफएस व्यवस्था का असर, बूंदी में 52 हजार से ज्यादा किसानों को मिला खाद",
@@ -462,94 +550,6 @@
       "date": "2026-09-15",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/sehore-risk-of-specific-diseases-in-soybean-crops-scientists-recommend-fungicides-for-protection/",
-      "important": false
-    },
-    {
-      "id": "c5e2a2a0",
-      "title": "किसानों के लिए खुशखबरी! हल्दी की खेती पर मिलेगा अनुदान, जानें योजना और लाभ",
-      "summary": "किसानों के लिए खुशखबरी! हल्दी की खेती पर मिलेगा अनुदान, जानें योजना और लाभ",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/good-news-for-farmers-subsidy-available-for-turmeric-cultivation-learn-about-the-scheme-and-benefits/",
-      "important": false
-    },
-    {
-      "id": "b7e856c2",
-      "title": "मणिपुर में मिली हरे प्याज की नई किस्म ‘चिरू मारोई’, वैज्ञानिकों ने की पहचान",
-      "summary": "मणिपुर में मिली हरे प्याज की नई किस्म ‘चिरू मारोई’, वैज्ञानिकों ने की पहचान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/new-green-onion-variety-chiru-maroi-discovered-in-manipur-scientists-identify-it-show-alternatives/",
-      "important": false
-    },
-    {
-      "id": "66ab0c1a",
-      "title": "मार्कफेड के महाप्रबंधक श्री योगेश जोशी का हृदयाघात से निधन",
-      "summary": "मार्कफेड के महाप्रबंधक श्री योगेश जोशी का हृदयाघात से निधन",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/markfed-general-manager-shri-yogesh-joshi-passes-away-due-to-a-heart-attack/",
-      "important": false
-    },
-    {
-      "id": "3cb7bafb",
-      "title": "Pusa की 4 हाइब्रिड मक्का किस्में हैं खास, जानें खासियत और औसत उपज",
-      "summary": "Pusa की 4 हाइब्रिड मक्का किस्में हैं खास, जानें खासियत और औसत उपज",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/four-pusa-hybrid-maize-varieties-stand-out-learn-about-their-features-and-average-yields/",
-      "important": false
-    },
-    {
-      "id": "0a675e8f",
-      "title": "ब्रिक्स शिखर सम्मेलन में कृषि पर जोर: एग्रो-इकोलॉजी, डिजिटल एग्रीकल्चर और क्लाइमेट-रेजिलिएंट एग्रीकल्चर सहयोग के केंद्र ",
-      "summary": "ब्रिक्स शिखर सम्मेलन में कृषि पर जोर: एग्रो-इकोलॉजी, डिजिटल एग्रीकल्चर और क्लाइमेट-रेजिलिएंट एग्रीकल्चर सहयोग के केंद्र में",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/focus-on-agriculture-at-brics-summit-agro-ecology-digital-agriculture-and-climate-resilient-agriculture-at-the-core-of-cooperation/",
-      "important": false
-    },
-    {
-      "id": "324fec32",
-      "title": "एमबीए छोड़ खेती अपनाई, महासमुंद के मोहन चंद्राकर बने परंपरागत व जैविक धान के ब्रांड एंबेसडर",
-      "summary": "एमबीए छोड़ खेती अपनाई, महासमुंद के मोहन चंद्राकर बने परंपरागत व जैविक धान के ब्रांड एंबेसडर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/left-mba-to-take-up-farming-mahasamunds-mohan-chandrakar-becomes-brand-ambassador-for-traditional-and-organic-paddy/",
-      "important": false
-    },
-    {
-      "id": "9b3c172d",
-      "title": "धमतरी में धान की फसल पर तना छेदक, भूरा फुदका और ब्लास्ट का खतरा, कृषि विभाग ने बताई दवा और मात्रा",
-      "summary": "धमतरी में धान की फसल पर तना छेदक, भूरा फुदका और ब्लास्ट का खतरा, कृषि विभाग ने बताई दवा और मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/threat-of-stem-borer-brown-planthopper-and-blast-disease-to-the-paddy-crop-in-dhamtari-agriculture-department-specifies-the-pesticide-and-dosage/",
-      "important": false
-    },
-    {
-      "id": "7d6d4ac2",
-      "title": "आज का गेहूं मंडी रेट (14 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (14 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-14-september-2026/",
       "important": false
     }
   ]
