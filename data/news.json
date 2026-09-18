@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-18T04:08:05Z",
-  "new_count": 0,
+  "updated": "2026-09-18T10:56:16Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "f59ed019",
+      "title": "प्रधानमंत्री धन-धान्य कृषि योजना में सीधी देश में अव्वल",
+      "summary": "प्रधानमंत्री धन-धान्य कृषि योजना में सीधी देश में अव्वल",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ranked-first-in-the-country-under-the-pradhan-mantri-dhan-dhanya-krishi-yojana/",
+      "important": false
+    },
+    {
+      "id": "a4e2f6e5",
+      "title": "बालाघाट : धान की फसल में माहू का प्रकोप, कृषि विभाग ने किया निरीक्षण",
+      "summary": "बालाघाट : धान की फसल में माहू का प्रकोप, कृषि विभाग ने किया निरीक्षण",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-aphid-infestation-in-paddy-crop-agriculture-department-conducts-inspection/",
+      "important": false
+    },
+    {
+      "id": "938164e5",
+      "title": "भोपाल: दो पौधों से शुरू की ड्रैगन फ्रूट की खेती, अब 100 पौधों की बगिया तैयार",
+      "summary": "भोपाल: दो पौधों से शुरू की ड्रैगन फ्रूट की खेती, अब 100 पौधों की बगिया तैयार",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bhopal-dragon-fruit-cultivation-started-with-two-plants-an-orchard-of-100-plants-is-now-ready/",
+      "important": false
+    },
+    {
+      "id": "817b9475",
+      "title": "एमएसपी गारंटी को लेकर पंजाब किसानों ने पांच स्थानों पर रेल पटरियां रोकीं",
+      "summary": "एमएसपी गारंटी को लेकर पंजाब किसानों ने पांच स्थानों पर रेल पटरियां रोकीं",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/punjab-farmers-blocked-railway-tracks-at-five-locations-over-the-demand-for-an-msp-guarantee/",
+      "important": true
+    },
+    {
+      "id": "5edc66f3",
+      "title": "जबलपुर: फसलों की स्थिति एवं कीट-व्याधि प्रकोप की निगरानी हेतु दल गठित",
+      "summary": "जबलपुर: फसलों की स्थिति एवं कीट-व्याधि प्रकोप की निगरानी हेतु दल गठित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-team-constituted-to-monitor-crop-conditions-and-pest-disease-outbreaks/",
+      "important": false
+    },
+    {
+      "id": "e8d87b75",
+      "title": "पंजाब-हरियाणा के 2,550 किसानों को मृदा कार्बन क्रेडिट से ₹2.9 करोड़ का भुगतान, टिकाऊ खेती के लिए मिला प्रोत्साहन",
+      "summary": "पंजाब-हरियाणा के 2,550 किसानों को मृदा कार्बन क्रेडिट से ₹2.9 करोड़ का भुगतान, टिकाऊ खेती के लिए मिला प्रोत्साहन",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/2550-farmers-from-punjab-and-haryana-paid-%e2%82%b92-9-crore-for-soil-carbon-credits-received-an-incentive-for-sustainable-farming/",
+      "important": false
+    },
+    {
+      "id": "d9144c54",
+      "title": "बालाघाट : धान की फसल में रोग-कीट के प्रकोप पर कृषि विभाग की सलाह",
+      "summary": "बालाघाट : धान की फसल में रोग-कीट के प्रकोप पर कृषि विभाग की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-agriculture-department-issues-advisory-on-pest-and-disease-infestation-in-paddy-crop/",
+      "important": false
+    },
+    {
+      "id": "d7a1f4bc",
+      "title": "राजगढ़: वाटरशेड परियोजना से बदली खेती, 1 बीघा में 70 कटहल लगाए; ₹1.25 लाख तक अतिरिक्त आय की उम्मीद",
+      "summary": "राजगढ़: वाटरशेड परियोजना से बदली खेती, 1 बीघा में 70 कटहल लगाए; ₹1.25 लाख तक अतिरिक्त आय की उम्मीद",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajgarh-watershed-project-transforms-farming-70-jackfruit-trees-planted-on-one-bigha-additional-income-of-up-to-%e2%82%b91-25-lakh-expected/",
+      "important": false
+    },
     {
       "id": "440eaa58",
       "title": "लखपति दीदी: ग्रामीण महिलाओं की आय 1 लाख रुपए तक पहुंचाने पर जोर, आजीविका के नए अवसरों पर चर्चा",
@@ -462,94 +550,6 @@
       "date": "2026-09-16",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/dewas-officials-inspected-the-soybean-crop/",
-      "important": false
-    },
-    {
-      "id": "e93f0df9",
-      "title": "उज्जैन : प्राकृतिक खेती की मिसाल बना माधव कृषि फार्म",
-      "summary": "उज्जैन : प्राकृतिक खेती की मिसाल बना माधव कृषि फार्म",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ujjain-madhav-agriculture-farm-sets-an-example-of-natural-farming/",
-      "important": false
-    },
-    {
-      "id": "34487bfa",
-      "title": "आज का सोयाबीन मंडी रेट (15 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (15 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-15-september-2026/",
-      "important": false
-    },
-    {
-      "id": "c2c00c05",
-      "title": "NHB के नए नियमों के विरोध में दिल्ली में लामबंद हुए हाईटेक किसान",
-      "summary": "NHB के नए नियमों के विरोध में दिल्ली में लामबंद हुए हाईटेक किसान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/hi-tech-farmers-in-delhi-rally-against-new-nhb-norms/",
-      "important": false
-    },
-    {
-      "id": "54649a20",
-      "title": "आज का मक्का मंडी रेट (15 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (15 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-15-september-2026/",
-      "important": false
-    },
-    {
-      "id": "24717248",
-      "title": "मध्यप्रदेश के 7 जिलों में अनेक स्थानों पर वर्षा की संभावना",
-      "summary": "मध्यप्रदेश के 7 जिलों में अनेक स्थानों पर वर्षा की संभावना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/possibility-of-rain-at-several-places-across-seven-districts-of-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "65159cc4",
-      "title": "छिंदवाड़ा: टेमनी खुर्द पहुंचे कृषि विभाग के संचालक भार्गव, बायो रिसोर्स सेंटर का किया निरीक्षण",
-      "summary": "छिंदवाड़ा: टेमनी खुर्द पहुंचे कृषि विभाग के संचालक भार्गव, बायो रिसोर्स सेंटर का किया निरीक्षण",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-agriculture-department-director-bhargav-visited-temni-khurd-and-inspected-the-bio-resource-center/",
-      "important": false
-    },
-    {
-      "id": "d70ff1f9",
-      "title": "कृषि संचालक ने बैतूल जिले का किया भ्रमण",
-      "summary": "कृषि संचालक ने बैतूल जिले का किया भ्रमण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/director-of-agriculture-visited-betul-district/",
-      "important": false
-    },
-    {
-      "id": "462f76d9",
-      "title": "सीहोर: सोयाबीन की फसल में इन रोगों का खतरा, बचाव के लिए वैज्ञानिकों ने बताई फफूंदनाशक दवाएं",
-      "summary": "सीहोर: सोयाबीन की फसल में इन रोगों का खतरा, बचाव के लिए वैज्ञानिकों ने बताई फफूंदनाशक दवाएं",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-risk-of-specific-diseases-in-soybean-crops-scientists-recommend-fungicides-for-protection/",
       "important": false
     }
   ]
