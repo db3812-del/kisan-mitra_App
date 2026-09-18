@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-18T10:56:16Z",
+  "updated": "2026-09-18T16:10:48Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "d7d23907",
+      "title": "क्रॉपलाइफ इंडिया ने किसानों के लिए AI आधारित सलाह टूल विकसित करने पर दिया जोर",
+      "summary": "क्रॉपलाइफ इंडिया ने किसानों के लिए AI आधारित सलाह टूल विकसित करने पर दिया जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/croplife-india-emphasizes-developing-ai-based-advisory-tools-for-farmers/",
+      "important": false
+    },
+    {
+      "id": "04d6543b",
+      "title": "आज का गेहूं मंडी रेट (18 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (18 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-18-september-2026/",
+      "important": false
+    },
+    {
+      "id": "e49f21b0",
+      "title": "आज का मक्का मंडी रेट (18 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (18 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-18-september-2026/",
+      "important": false
+    },
+    {
+      "id": "a1677250",
+      "title": "आज का धान मंडी रेट (18 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (18 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-18-september-2026/",
+      "important": false
+    },
+    {
+      "id": "85541833",
+      "title": "आज का सोयाबीन मंडी रेट (18 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (18 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-18-september-2026/",
+      "important": false
+    },
+    {
+      "id": "9edfa86f",
+      "title": "झाबुआ, रतलाम, नीमच और श्योपुरकलां जिलों में भारी वर्षा की संभावना",
+      "summary": "झाबुआ, रतलाम, नीमच और श्योपुरकलां जिलों में भारी वर्षा की संभावना",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/possibility-of-heavy-rainfall-in-jhabua-ratlam-neemuch-and-sheopurkalan-districts/",
+      "important": false
+    },
+    {
+      "id": "c14cf821",
+      "title": "Weather Today: राजस्थान से मानसून की विदाई शुरू, अंडमान सागर में बनेगा लो प्रेशर; IMD ने जारी किया अपडेट",
+      "summary": "Weather Today: राजस्थान से मानसून की विदाई शुरू, अंडमान सागर में बनेगा लो प्रेशर; IMD ने जारी किया अपडेट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-monsoon-withdrawal-begins-from-rajasthan-low-pressure-area-to-form-over-andaman-sea-imd-issues-update/",
+      "important": false
+    },
+    {
+      "id": "86a17974",
+      "title": "सिवनी : सीताफल बनेगा किसानों की समृद्धि का आधार",
+      "summary": "सिवनी : सीताफल बनेगा किसानों की समृद्धि का आधार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/seoni-custard-apple-to-become-the-foundation-of-farmers-prosperity/",
+      "important": false
+    },
     {
       "id": "f59ed019",
       "title": "प्रधानमंत्री धन-धान्य कृषि योजना में सीधी देश में अव्वल",
@@ -462,94 +550,6 @@
       "date": "2026-09-16",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/madhav-agricultural-farm-in-ghinoda-emerges-as-a-model-of-natural-farming/",
-      "important": false
-    },
-    {
-      "id": "93c63342",
-      "title": "कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
-      "summary": "कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/given-the-low-rainfall-prioritize-low-water-consuming-crops-for-the-rabi-season/",
-      "important": false
-    },
-    {
-      "id": "e90fbdae",
-      "title": "तेलंगाना में किसानों की रायथु बीमा योजना बंद, 42 लाख से ज्यादा किसान बीमा कवर से बाहर",
-      "summary": "तेलंगाना में किसानों की रायथु बीमा योजना बंद, 42 लाख से ज्यादा किसान बीमा कवर से बाहर",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rythu-bima-scheme-for-farmers-discontinued-in-telangana-over-42-lakh-farmers-left-without-insurance-cover/",
-      "important": false
-    },
-    {
-      "id": "b811b1b6",
-      "title": "रबी सीजन 2026-27 की तैयारी तेज, शिवराज सिंह चौहान ने वैज्ञानिकों और किसानों को दिए सीधे संवाद के निर्देश",
-      "summary": "रबी सीजन 2026-27 की तैयारी तेज, शिवराज सिंह चौहान ने वैज्ञानिकों और किसानों को दिए सीधे संवाद के निर्देश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/preparations-for-the-2026-27-rabi-season-intensify-shivraj-singh-chouhan-directs-scientists-and-farmers-to-engage-in-direct-dialogue/",
-      "important": false
-    },
-    {
-      "id": "694a683f",
-      "title": "उज्जैन : कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
-      "summary": "उज्जैन : कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ujjain-prioritize-low-water-requirement-crops-for-the-rabi-season-given-the-low-rainfall/",
-      "important": false
-    },
-    {
-      "id": "14664a0c",
-      "title": "समर्थन मूल्य पर धान, ज्वार एवं बाजरा उपार्जन के लिये पंजीयन 10 अक्टूबर तक",
-      "summary": "समर्थन मूल्य पर धान, ज्वार एवं बाजरा उपार्जन के लिये पंजीयन 10 अक्टूबर तक",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/registration-for-the-procurement-of-paddy-sorghum-jowar-and-pearl-millet-bajra-at-the-support-price-is-open-until-october-10/",
-      "important": false
-    },
-    {
-      "id": "cf87e14e",
-      "title": "हरियाणा के किसान ने पांच किस्मों की हल्दी से बदली अपनी किस्मत",
-      "summary": "हरियाणा के किसान ने पांच किस्मों की हल्दी से बदली अपनी किस्मत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-haryana-farmer-transformed-his-fortunes-with-five-varieties-of-turmeric/",
-      "important": false
-    },
-    {
-      "id": "41cbb970",
-      "title": "छिंदवाड़ा: धान, ज्वार एवं बाजरा उपार्जन के लिए किसान पंजीयन आज से शुरू",
-      "summary": "छिंदवाड़ा: धान, ज्वार एवं बाजरा उपार्जन के लिए किसान पंजीयन आज से शुरू",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-farmer-registration-for-the-procurement-of-paddy-sorghum-and-pearl-millet-begins-today/",
-      "important": false
-    },
-    {
-      "id": "09c33970",
-      "title": "देवास : अधिकारियों ने किया सोयाबीन फसल का निरीक्षण",
-      "summary": "देवास : अधिकारियों ने किया सोयाबीन फसल का निरीक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dewas-officials-inspected-the-soybean-crop/",
       "important": false
     }
   ]
