@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-19T04:05:07Z",
-  "new_count": 0,
+  "updated": "2026-09-19T10:39:37Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "72b44ae3",
+      "title": "मध्यप्रदेश के सात जिलों में अनेक स्थानों पर वर्षा संभावित",
+      "summary": "मध्यप्रदेश के सात जिलों में अनेक स्थानों पर वर्षा संभावित",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rain-is-likely-at-several-places-across-seven-districts-of-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "3d29bdf1",
+      "title": "राजगढ़: बायोगैस ने घटाया महेंद्र का ईंधन खर्च, स्लरी के इस्तेमाल से खेती की लागत भी घटी",
+      "summary": "राजगढ़: बायोगैस ने घटाया महेंद्र का ईंधन खर्च, स्लरी के इस्तेमाल से खेती की लागत भी घटी",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajgarh-biogas-cuts-mahendras-fuel-expenses-use-of-slurry-also-reduces-farming-costs/",
+      "important": false
+    },
+    {
+      "id": "70e144cf",
+      "title": "यूपीआई के नए फ्रेमवर्क में ₹2,000 से अधिक के कृषि इनपुट भुगतान पर ₹5 MDR",
+      "summary": "यूपीआई के नए फ्रेमवर्क में ₹2,000 से अधिक के कृषि इनपुट भुगतान पर ₹5 MDR",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/%e2%82%b95-mdr-on-agricultural-input-payments-exceeding-%e2%82%b92000-under-the-new-upi-framework/",
+      "important": false
+    },
+    {
+      "id": "861c0756",
+      "title": "ड्राईलैंड कांग्रेस 2026: ICAR-ICRISAT साझेदारी के 50 साल पूरे, सूखे इलाकों में मजबूत खेती पर जोर",
+      "summary": "ड्राईलैंड कांग्रेस 2026: ICAR-ICRISAT साझेदारी के 50 साल पूरे, सूखे इलाकों में मजबूत खेती पर जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/dryland-congress-2026-marking-50-years-of-the-icar-icrisat-partnership-emphasis-on-robust-agriculture-in-dryland-areas/",
+      "important": false
+    },
+    {
+      "id": "0d0dd57a",
+      "title": "मध्यप्रदेश: इंदौर जिले में स्थापित होंगी 05 बायो इनपुट रिसोर्स सेंटर",
+      "summary": "मध्यप्रदेश: इंदौर जिले में स्थापित होंगी 05 बायो इनपुट रिसोर्स सेंटर",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-05-bio-input-resource-centres-to-be-set-up-in-indore-district/",
+      "important": false
+    },
+    {
+      "id": "e1debe8e",
+      "title": "छिंदवाड़ा: अदरक की खेती से मालामाल हुए कृपाराम, सिर्फ 60 हजार की लागत में कमाए 15 लाख; तकनीकी मार्गदर्शन बना सफलता का आध",
+      "summary": "छिंदवाड़ा: अदरक की खेती से मालामाल हुए कृपाराम, सिर्फ 60 हजार की लागत में कमाए 15 लाख; तकनीकी मार्गदर्शन बना सफलता का आधार",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-kriparam-strikes-it-rich-with-ginger-farming-earning-%e2%82%b915-lakh-on-an-investment-of-just-%e2%82%b960000-technical-guidance-paved-the-way-for-success/",
+      "important": false
+    },
+    {
+      "id": "de5dc48a",
+      "title": "मध्य प्रदेश में माइक्रो इरिगेशन विस्तार को गति देने उद्योग एकजुट",
+      "summary": "मध्य प्रदेश में माइक्रो इरिगेशन विस्तार को गति देने उद्योग एकजुट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/industry-unites-to-accelerate-micro-irrigation-expansion-in-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "21657ecd",
+      "title": "Weather Today: मानसून की वापसी के बीच कई राज्यों में बारिश का अलर्ट, बंगाल की खाड़ी में बनेगा निम्न दबाव; IMD ने जारी कि",
+      "summary": "Weather Today: मानसून की वापसी के बीच कई राज्यों में बारिश का अलर्ट, बंगाल की खाड़ी में बनेगा निम्न दबाव; IMD ने जारी किया अपडेट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weather-today-rain-alert-for-several-states-amidst-monsoon-withdrawal-low-pressure-area-to-form-over-the-bay-of-bengal-imd-issues-update/",
+      "important": false
+    },
     {
       "id": "d7d23907",
       "title": "क्रॉपलाइफ इंडिया ने किसानों के लिए AI आधारित सलाह टूल विकसित करने पर दिया जोर",
@@ -462,94 +550,6 @@
       "date": "2026-09-16",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-16-september-2026/",
-      "important": false
-    },
-    {
-      "id": "0939bddf",
-      "title": "आज का सोयाबीन मंडी रेट (16 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (16 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-16-september-2026/",
-      "important": false
-    },
-    {
-      "id": "2dcd3b0e",
-      "title": "Weather Today: देश के कई राज्यों में भारी बारिश का अलर्ट, बंगाल-सिक्किम से असम तक बरसेंगे बादल; जानें आज का मौसम",
-      "summary": "Weather Today: देश के कई राज्यों में भारी बारिश का अलर्ट, बंगाल-सिक्किम से असम तक बरसेंगे बादल; जानें आज का मौसम",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-heavy-rain-alert-for-several-states-rain-expected-from-bengal-and-sikkim-to-assam-check-todays-weather-forecast/",
-      "important": false
-    },
-    {
-      "id": "2cccf306",
-      "title": "पांढुर्ना जिले में ‘पर ड्रॉप मोर क्रॉप’ योजना के तहत ऑनलाइन आवेदन आमंत्रित",
-      "summary": "पांढुर्ना जिले में ‘पर ड्रॉप मोर क्रॉप’ योजना के तहत ऑनलाइन आवेदन आमंत्रित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/online-applications-invited-under-the-per-drop-more-crop-scheme-in-pandhurna-district/",
-      "important": false
-    },
-    {
-      "id": "ea8011c3",
-      "title": "नरवाई जलाने की समस्या के नियंत्रण में फसल अवशेषों का उचित प्रबंधन महत्वपूर्ण – संयुक्त संचालक श्री जितेंद्र सिंह",
-      "summary": "नरवाई जलाने की समस्या के नियंत्रण में फसल अवशेषों का उचित प्रबंधन महत्वपूर्ण – संयुक्त संचालक श्री जितेंद्र सिंह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/proper-management-of-crop-residues-is-crucial-for-controlling-the-problem-of-stubble-burning-joint-director-shri-jitendra-singh/",
-      "important": false
-    },
-    {
-      "id": "7904209b",
-      "title": "दमोह में किसानों की आय बढ़ाने पर जोर, 1.35 लाख हेक्टेयर तक सूक्ष्म सिंचाई का लक्ष्य",
-      "summary": "दमोह में किसानों की आय बढ़ाने पर जोर, 1.35 लाख हेक्टेयर तक सूक्ष्म सिंचाई का लक्ष्य",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/emphasis-on-increasing-the-income-of-farmers-in-damoh-target-of-micro-irrigation-up-to-1-35-lakh-hectares/",
-      "important": false
-    },
-    {
-      "id": "c80a762d",
-      "title": "मध्यप्रदेश के कई जिलों में सामान्य वर्षा की संभावना",
-      "summary": "मध्यप्रदेश के कई जिलों में सामान्य वर्षा की संभावना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/likelihood-of-normal-rainfall-in-several-districts-of-madhya-pradesh-3/",
-      "important": false
-    },
-    {
-      "id": "e8ba45fd",
-      "title": "सागर: आंधी-बारिश से मक्का और उड़द की फसल प्रभावित, मंत्री गोविंद राजपूत ने जल्द सर्वे के दिए निर्देश",
-      "summary": "सागर: आंधी-बारिश से मक्का और उड़द की फसल प्रभावित, मंत्री गोविंद राजपूत ने जल्द सर्वे के दिए निर्देश",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sagar-maize-and-black-gram-crops-affected-by-storms-and-rain-minister-govind-rajput-orders-immediate-survey/",
-      "important": false
-    },
-    {
-      "id": "218de8ec",
-      "title": "प्राकृतिक खेती की मिसाल बना घिनोदा का माधव कृषि फार्म",
-      "summary": "प्राकृतिक खेती की मिसाल बना घिनोदा का माधव कृषि फार्म",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhav-agricultural-farm-in-ghinoda-emerges-as-a-model-of-natural-farming/",
       "important": false
     }
   ]
