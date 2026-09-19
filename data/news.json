@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-19T10:39:37Z",
+  "updated": "2026-09-19T15:42:26Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "d0a3894a",
+      "title": "हिमाचल में प्राकृतिक खेती करने वाले किसानों को मिले 6.87 करोड़ रुपये, गेहूं-मक्का पर सबसे ज्यादा MSP",
+      "summary": "हिमाचल में प्राकृतिक खेती करने वाले किसानों को मिले 6.87 करोड़ रुपये, गेहूं-मक्का पर सबसे ज्यादा MSP",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-practicing-natural-farming-in-himachal-receive-%e2%82%b96-87-crore-highest-msp-for-wheat-and-maize/",
+      "important": true
+    },
+    {
+      "id": "878295b0",
+      "title": "गेहूं-गन्ने से घाटा तो बदला रास्ता, बस्ती के अरविंद अब सालाना कमा रहे 20-25 लाख रुपये",
+      "summary": "गेहूं-गन्ने से घाटा तो बदला रास्ता, बस्ती के अरविंद अब सालाना कमा रहे 20-25 लाख रुपये",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/switched-paths-after-losses-in-wheat-and-sugarcane-arvind-from-basti-now-earns-%e2%82%b920-25-lakh-annually/",
+      "important": false
+    },
+    {
+      "id": "db734b71",
+      "title": "देश में पहली बार किसानों को मिला “मिट्टी कार्बन” का पैसा, पंजाब-हरियाणा के 2,550 किसानों को 2.9 करोड़ रुपये",
+      "summary": "देश में पहली बार किसानों को मिला “मिट्टी कार्बन” का पैसा, पंजाब-हरियाणा के 2,550 किसानों को 2.9 करोड़ रुपये",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/for-the-first-time-in-the-country-farmers-receive-payment-for-soil-carbon-%e2%82%b92-9-crore-distributed-to-2550-farmers-in-punjab-and-haryana/",
+      "important": false
+    },
+    {
+      "id": "5ce38cf3",
+      "title": "बिहार में 86 कृषि यंत्रों पर 80% तक सब्सिडी, 30 सितंबर तक करें ऑनलाइन आवेदन",
+      "summary": "बिहार में 86 कृषि यंत्रों पर 80% तक सब्सिडी, 30 सितंबर तक करें ऑनलाइन आवेदन",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/up-to-80-subsidy-on-86-agricultural-implements-in-bihar-apply-online-by-september-30/",
+      "important": false
+    },
+    {
+      "id": "0901a12b",
+      "title": "आज का गेहूं मंडी रेट (19 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (19 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-19-september-2026/",
+      "important": false
+    },
+    {
+      "id": "6bd264f1",
+      "title": "आज का धान मंडी रेट (19 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (19 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-19-september-2026/",
+      "important": false
+    },
+    {
+      "id": "b2a1c164",
+      "title": "आज का मक्का मंडी रेट (19 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (19 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-19-september-2026/",
+      "important": false
+    },
+    {
+      "id": "4b54063e",
+      "title": "आज का सोयाबीन मंडी रेट (19 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (19 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-19-september-2026/",
+      "important": false
+    },
     {
       "id": "72b44ae3",
       "title": "मध्यप्रदेश के सात जिलों में अनेक स्थानों पर वर्षा संभावित",
@@ -462,94 +550,6 @@
       "date": "2026-09-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/seoni-preparations-underway-to-connect-gi-tagged-jumbo-custard-apples-to-national-and-international-markets-farmer-registration-is-in-progress/",
-      "important": false
-    },
-    {
-      "id": "b1009e10",
-      "title": "72 साल की उम्र में अमरूद की खेती से मिसाल बने ओडिशा के किसान पदन नायक",
-      "summary": "72 साल की उम्र में अमरूद की खेती से मिसाल बने ओडिशा के किसान पदन नायक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/padan-nayak-a-farmer-from-odisha-sets-an-example-with-guava-cultivation-at-the-age-of-72/",
-      "important": false
-    },
-    {
-      "id": "5e4f4c8d",
-      "title": "कटनी की रीता ने तकनीक से बदली मछली पालन की तस्वीर, 5 टन उत्पादन से मिला 2.10 लाख का मुनाफा",
-      "summary": "कटनी की रीता ने तकनीक से बदली मछली पालन की तस्वीर, 5 टन उत्पादन से मिला 2.10 लाख का मुनाफा",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rita-from-katni-transformed-the-face-of-fish-farming-using-technology-a-production-of-5-tonnes-yielded-a-profit-of-%e2%82%b92-10-lakh/",
-      "important": false
-    },
-    {
-      "id": "e97aab27",
-      "title": "MSP पर धान, ज्वार-बाजरा बेचने के लिए पंजीयन शुरू, 10 अक्टूबर तक करा सकेंगे किसान रजिस्ट्रेशन",
-      "summary": "MSP पर धान, ज्वार-बाजरा बेचने के लिए पंजीयन शुरू, 10 अक्टूबर तक करा सकेंगे किसान रजिस्ट्रेशन",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/registration-for-selling-paddy-sorghum-and-pearl-millet-at-msp-has-begun-farmers-can-register-until-october-10/",
-      "important": true
-    },
-    {
-      "id": "36ad0072",
-      "title": "छत्तीसगढ़ में हल्दी बीज वितरण में कथित गड़बड़ी की होगी जांच, कृषि मंत्री नेताम ने दिए निर्देश",
-      "summary": "छत्तीसगढ़ में हल्दी बीज वितरण में कथित गड़बड़ी की होगी जांच, कृषि मंत्री नेताम ने दिए निर्देश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/probe-ordered-into-alleged-irregularities-in-turmeric-seed-distribution-in-chhattisgarh-agriculture-minister-netam-issues-directives/",
-      "important": false
-    },
-    {
-      "id": "b1d4e06f",
-      "title": "विदिशा में किसान संगोष्ठी आयोजित, जैविक खेती, सोयाबीन फसल सुरक्षा और नरवाई प्रबंधन पर मिली तकनीकी जानकारी",
-      "summary": "विदिशा में किसान संगोष्ठी आयोजित, जैविक खेती, सोयाबीन फसल सुरक्षा और नरवाई प्रबंधन पर मिली तकनीकी जानकारी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-seminar-held-in-vidisha-technical-information-provided-on-organic-farming-soybean-crop-protection-and-crop-residue-management/",
-      "important": false
-    },
-    {
-      "id": "d4523366",
-      "title": "आज का गेहूं मंडी रेट (16 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (16 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-16-september-2026/",
-      "important": false
-    },
-    {
-      "id": "12da4c64",
-      "title": "आज का धान मंडी रेट (16 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (16 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-16-september-2026/",
-      "important": false
-    },
-    {
-      "id": "44946332",
-      "title": "आज का मक्का मंडी रेट (16 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (16 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-16-september-2026/",
       "important": false
     }
   ]
