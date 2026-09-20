@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-20T15:48:37Z",
-  "new_count": 0,
+  "updated": "2026-09-20T20:36:06Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "c67d907a",
+      "title": "छिंदवाड़ा: एकीकृत बागवानी विकास मिशन योजना का लाभ लें किसान, ऑनलाइन आवेदन आमंत्रित",
+      "summary": "छिंदवाड़ा: एकीकृत बागवानी विकास मिशन योजना का लाभ लें किसान, ऑनलाइन आवेदन आमंत्रित",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-09-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-farmers-urged-to-avail-benefits-of-the-mission-for-integrated-development-of-horticulture-scheme-online-applications-invited/",
+      "important": false
+    },
+    {
+      "id": "e6ca4d61",
+      "title": "जशपुर: एग्रीस्टैक से डिजिटल हुआ किसान का भूमि रिकॉर्ड, खाद-बीज से लेकर योजनाओं का लाभ लेना आसान",
+      "summary": "जशपुर: एग्रीस्टैक से डिजिटल हुआ किसान का भूमि रिकॉर्ड, खाद-बीज से लेकर योजनाओं का लाभ लेना आसान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jashpur-farmers-land-records-digitized-via-agristack-accessing-benefits-ranging-from-fertilizers-and-seeds-to-government-schemes-becomes-easier/",
+      "important": false
+    },
+    {
+      "id": "cfd2224c",
+      "title": "केंद्रीय कृषि मंत्री चौहान ने हैदराबाद में दक्षिणी राज्यों के लिए रबी रणनीति और नई योजनाओं का खाका रखा",
+      "summary": "केंद्रीय कृषि मंत्री चौहान ने हैदराबाद में दक्षिणी राज्यों के लिए रबी रणनीति और नई योजनाओं का खाका रखा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/union-agriculture-minister-chauhan-outlined-the-rabi-strategy-and-new-schemes-for-southern-states-in-hyderabad/",
+      "important": false
+    },
+    {
+      "id": "9d081767",
+      "title": "झारखंड में महिला किसान खुशहाली योजना शुरू, प्रति किसान ₹7 लाख तक मदद",
+      "summary": "झारखंड में महिला किसान खुशहाली योजना शुरू, प्रति किसान ₹7 लाख तक मदद",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mahila-kisan-khushhali-yojana-launched-in-jharkhand-assistance-of-up-to-%e2%82%b97-lakh-per-farmer/",
+      "important": false
+    },
+    {
+      "id": "e5445b7d",
+      "title": "नीमच: ₹1 लाख अनुदान से 2 हेक्टेयर में लगाया संतरे का बगीचा, अब हो रही ₹10 लाख तक की शानदार कमाई",
+      "summary": "नीमच: ₹1 लाख अनुदान से 2 हेक्टेयर में लगाया संतरे का बगीचा, अब हो रही ₹10 लाख तक की शानदार कमाई",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/neemuch-orange-orchard-established-on-2-hectares-with-a-%e2%82%b91-lakh-grant-now-yielding-impressive-earnings-of-up-to-%e2%82%b910-lakh/",
+      "important": false
+    },
+    {
+      "id": "0b7c1565",
+      "title": "कुशीनगर में रबी फसलों के प्रमाणित बीज पर 50% सब्सिडी, ऑनलाइन पंजीयन शुरू",
+      "summary": "कुशीनगर में रबी फसलों के प्रमाणित बीज पर 50% सब्सिडी, ऑनलाइन पंजीयन शुरू",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/50-subsidy-on-certified-seeds-for-rabi-crops-in-kushinagar-online-registration-begins/",
+      "important": false
+    },
+    {
+      "id": "576b5fab",
+      "title": "मंदसौर: बैंक की नौकरी छोड़ पॉलीहाउस में शुरू की पान की खेती, बदल गई किस्मत; अब दिल्ली तक पहुंच रही फसल",
+      "summary": "मंदसौर: बैंक की नौकरी छोड़ पॉलीहाउस में शुरू की पान की खेती, बदल गई किस्मत; अब दिल्ली तक पहुंच रही फसल",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-09-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/50-subsidy-on-certified-seeds-for-rabi-crops-in-kushinagar-online-registration-begins-2/",
+      "important": false
+    },
+    {
+      "id": "5e34cdef",
+      "title": "परंपरागत खेती छोड़ सब्जी की खेती अपनाई, जबलपुर के किसान सुरेश कुशवाहा कमा रहे ₹2 लाख महीना",
+      "summary": "परंपरागत खेती छोड़ सब्जी की खेती अपनाई, जबलपुर के किसान सुरेश कुशवाहा कमा रहे ₹2 लाख महीना",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shifting-from-traditional-farming-to-vegetable-cultivation-jabalpur-farmer-suresh-kushwaha-is-earning-%e2%82%b92-lakh-a-month/",
+      "important": false
+    },
     {
       "id": "41cf5584",
       "title": "सतना बेल्ट में नहरों से लाया जाएगा नर्मदा का पानी, बढ़ेगा सिंचाई का रकबा- सीएम मोहन यादव",
@@ -462,94 +550,6 @@
       "date": "2026-09-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-to-be-held-in-satna-on-september-19-1500-farmers-to-participate/",
-      "important": false
-    },
-    {
-      "id": "14727157",
-      "title": "पीएम धन धान्य में सीधी देश में श्रेष्ठ",
-      "summary": "पीएम धन धान्य में सीधी देश में श्रेष्ठ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pm-dhan-dhanya-foremost-in-the-country/",
-      "important": false
-    },
-    {
-      "id": "6c6d86c1",
-      "title": "राजस्थान: उर्वरक वितरण में एफएफएस व्यवस्था का असर, बूंदी में 52 हजार से ज्यादा किसानों को मिला खाद",
-      "summary": "राजस्थान: उर्वरक वितरण में एफएफएस व्यवस्था का असर, बूंदी में 52 हजार से ज्यादा किसानों को मिला खाद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-impact-of-ffs-system-on-fertilizer-distribution-over-52000-farmers-in-bundi-received-fertilizer/",
-      "important": false
-    },
-    {
-      "id": "533a75fb",
-      "title": "मध्यप्रदेश के सात जिलों में अनेक स्थानों पर वर्षा की संभावना",
-      "summary": "मध्यप्रदेश के सात जिलों में अनेक स्थानों पर वर्षा की संभावना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chances-of-rain-at-many-places-in-seven-districts-of-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "04a89332",
-      "title": "राजस्थान के किसानों के लिए बड़ी राहत, अटल भूजल योजना की 156 करोड़ रुपए की लंबित देनदारियों का भुगतान",
-      "summary": "राजस्थान के किसानों के लिए बड़ी राहत, अटल भूजल योजना की 156 करोड़ रुपए की लंबित देनदारियों का भुगतान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-relief-for-rajasthan-farmers-payment-of-%e2%82%b9156-crore-in-outstanding-dues-under-the-atal-bhujal-yojana/",
-      "important": false
-    },
-    {
-      "id": "2909f33b",
-      "title": "सीधी में 15 बीज विक्रेता पर सख्त कार्रवाई",
-      "summary": "सीधी में 15 बीज विक्रेता पर सख्त कार्रवाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/strict-action-taken-against-15-seed-sellers-in-sidhi/",
-      "important": false
-    },
-    {
-      "id": "98b2c162",
-      "title": "गहरे समुद्र में मछली पालन पर मंथन, 17 सितंबर को गांधीनगर में राष्ट्रीय कार्यशाला",
-      "summary": "गहरे समुद्र में मछली पालन पर मंथन, 17 सितंबर को गांधीनगर में राष्ट्रीय कार्यशाला",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/deliberations-on-deep-sea-fish-farming-national-workshop-in-gandhinagar-on-september-17/",
-      "important": false
-    },
-    {
-      "id": "d6d65be3",
-      "title": "बिहार बाढ़: केंद्रीय कृषि मंत्री शिवराज सिंह चौहान ने शुरू किया फसल नुकसान का हवाई-जमीनी सर्वेक्षण",
-      "summary": "बिहार बाढ़: केंद्रीय कृषि मंत्री शिवराज सिंह चौहान ने शुरू किया फसल नुकसान का हवाई-जमीनी सर्वेक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bihar-floods-union-agriculture-minister-shivraj-singh-chouhan-begins-aerial-and-ground-survey-of-crop-damage/",
-      "important": false
-    },
-    {
-      "id": "0643e67d",
-      "title": "बीकानेर: पॉलीहाउस-शेडनेट में सब्जी खेती को बढ़ावा देने पर जोर, लंबित अनुदान भुगतान के निर्देश",
-      "summary": "बीकानेर: पॉलीहाउस-शेडनेट में सब्जी खेती को बढ़ावा देने पर जोर, लंबित अनुदान भुगतान के निर्देश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bikaner-emphasis-on-promoting-vegetable-cultivation-in-polyhouses-and-shade-nets-instructions-issued-for-the-payment-of-pending-subsidies/",
       "important": false
     }
   ]
