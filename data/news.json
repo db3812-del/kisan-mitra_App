@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-20T04:24:25Z",
-  "new_count": 0,
+  "updated": "2026-09-20T11:02:13Z",
+  "new_count": 3,
   "articles": [
+    {
+      "id": "41cf5584",
+      "title": "सतना बेल्ट में नहरों से लाया जाएगा नर्मदा का पानी, बढ़ेगा सिंचाई का रकबा- सीएम मोहन यादव",
+      "summary": "सतना बेल्ट में नहरों से लाया जाएगा नर्मदा का पानी, बढ़ेगा सिंचाई का रकबा- सीएम मोहन यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/narmada-water-to-be-brought-to-satna-belt-via-canals-irrigation-area-to-increase-cm-mohan-yadav/",
+      "important": false
+    },
+    {
+      "id": "c5fd5aa5",
+      "title": "नागपुर के वैज्ञानिकों ने किया कपास फसल का निरीक्षण",
+      "summary": "नागपुर के वैज्ञानिकों ने किया कपास फसल का निरीक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/scientists-from-nagpur-inspected-the-cotton-crop/",
+      "important": false
+    },
+    {
+      "id": "7bbc8f82",
+      "title": "OPU-IVF तकनीक से जन्मा उत्तराखंड की बद्री नस्ल का पहला बछड़ा",
+      "summary": "OPU-IVF तकनीक से जन्मा उत्तराखंड की बद्री नस्ल का पहला बछड़ा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/first-calf-of-uttarakhands-badri-breed-born-using-opu-ivf-technology/",
+      "important": false
+    },
     {
       "id": "d0a3894a",
       "title": "हिमाचल में प्राकृतिक खेती करने वाले किसानों को मिले 6.87 करोड़ रुपये, गेहूं-मक्का पर सबसे ज्यादा MSP",
@@ -517,39 +550,6 @@
       "date": "2026-09-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/bikaner-emphasis-on-promoting-vegetable-cultivation-in-polyhouses-and-shade-nets-instructions-issued-for-the-payment-of-pending-subsidies/",
-      "important": false
-    },
-    {
-      "id": "26b26186",
-      "title": "बिहार में बाढ़ प्रभावित इलाकों में पहुंचे मंत्री शिवराज सिंह, किसानों से मिलकर फसल नुकसान का लिया जायजा",
-      "summary": "बिहार में बाढ़ प्रभावित इलाकों में पहुंचे मंत्री शिवराज सिंह, किसानों से मिलकर फसल नुकसान का लिया जायजा",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/minister-shivraj-singh-visited-flood-affected-areas-in-bihar-and-met-with-farmers-to-assess-crop-damage/",
-      "important": false
-    },
-    {
-      "id": "faa62524",
-      "title": "जबलपुर: खरीफ-रबी फसलों निगरानी के लिए जिला और ब्लॉक स्तर पर टीम गठित, कीट-व्याधि पर रखी जाएगी नजर",
-      "summary": "जबलपुर: खरीफ-रबी फसलों निगरानी के लिए जिला और ब्लॉक स्तर पर टीम गठित, कीट-व्याधि पर रखी जाएगी नजर",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jabalpur-teams-constituted-at-district-and-block-levels-to-monitor-kharif-and-rabi-crops-a-close-watch-will-be-kept-for-pests-and-diseases/",
-      "important": false
-    },
-    {
-      "id": "f1c7d830",
-      "title": "सिवनी: जीआई टैग वाले जम्बो सीताफल को राष्ट्रीय-अंतरराष्ट्रीय बाजार से जोड़ने की तैयारी, किसानों का हो रहा पंजीयन",
-      "summary": "सिवनी: जीआई टैग वाले जम्बो सीताफल को राष्ट्रीय-अंतरराष्ट्रीय बाजार से जोड़ने की तैयारी, किसानों का हो रहा पंजीयन",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seoni-preparations-underway-to-connect-gi-tagged-jumbo-custard-apples-to-national-and-international-markets-farmer-registration-is-in-progress/",
       "important": false
     }
   ]
