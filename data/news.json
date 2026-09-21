@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-21T04:22:13Z",
-  "new_count": 0,
+  "updated": "2026-09-21T12:29:35Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "15ff403c",
+      "title": "रबी सीजन में किसानों को निर्बाध एवं गुणवत्तापूर्ण विद्युत आपूर्ति सुनिश्चित करें – ऊर्जा सचिव",
+      "summary": "रबी सीजन में किसानों को निर्बाध एवं गुणवत्तापूर्ण विद्युत आपूर्ति सुनिश्चित करें – ऊर्जा सचिव",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ensure-uninterrupted-and-quality-power-supply-to-farmers-during-the-rabi-season-energy-secretary/",
+      "important": false
+    },
+    {
+      "id": "1d0315a9",
+      "title": "कटनी के विनोद ने अपनाया फसल विविधीकरण का आधुनिक मॉडल, अब सालाना कमा रहे ₹4-5 लाख",
+      "summary": "कटनी के विनोद ने अपनाया फसल विविधीकरण का आधुनिक मॉडल, अब सालाना कमा रहे ₹4-5 लाख",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/vinod-from-katni-adopts-a-modern-crop-diversification-model-now-earns-%e2%82%b94-5-lakh-annually/",
+      "important": false
+    },
+    {
+      "id": "2754c241",
+      "title": "देश के कई हिस्सों में मानसून विदाई की तैयारी",
+      "summary": "देश के कई हिस्सों में मानसून विदाई की तैयारी",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/monsoon-preparing-to-withdraw-from-many-parts-of-the-country/",
+      "important": false
+    },
+    {
+      "id": "58a3ae4b",
+      "title": "भारत के मसाला निर्यातकों को थाईलैंड के कीटनाशक अवशेष मानकों के पालन की सलाह",
+      "summary": "भारत के मसाला निर्यातकों को थाईलैंड के कीटनाशक अवशेष मानकों के पालन की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/indian-spice-exporters-advised-to-comply-with-thailands-pesticide-residue-standards/",
+      "important": false
+    },
+    {
+      "id": "d3c7581e",
+      "title": "आज का गेहूं मंडी रेट (21 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (21 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-21-september-2026/",
+      "important": false
+    },
+    {
+      "id": "cd25fbff",
+      "title": "आज का मक्का मंडी रेट (21 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (21 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-21-september-2026/",
+      "important": false
+    },
+    {
+      "id": "e5742c64",
+      "title": "आज का सोयाबीन मंडी रेट (21 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (21 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-21-september-2026/",
+      "important": false
+    },
+    {
+      "id": "2950f858",
+      "title": "भारत की एग्रोकेमिकल इंडस्ट्री बॉडी ने चीन पर निर्भरता घटाने के लिए 5,000-7,000 करोड़ रुपये की सरकारी स्कीम की मांग की",
+      "summary": "भारत की एग्रोकेमिकल इंडस्ट्री बॉडी ने चीन पर निर्भरता घटाने के लिए 5,000-7,000 करोड़ रुपये की सरकारी स्कीम की मांग की",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/indias-agrochemical-industry-body-has-sought-a-government-scheme-worth-%e2%82%b95000-7000-crore-to-reduce-dependence-on-china/",
+      "important": false
+    },
     {
       "id": "c67d907a",
       "title": "छिंदवाड़ा: एकीकृत बागवानी विकास मिशन योजना का लाभ लें किसान, ऑनलाइन आवेदन आमंत्रित",
@@ -462,94 +550,6 @@
       "date": "2026-09-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/balaghat-agriculture-department-issues-advisory-on-pest-and-disease-infestation-in-paddy-crop/",
-      "important": false
-    },
-    {
-      "id": "d7a1f4bc",
-      "title": "राजगढ़: वाटरशेड परियोजना से बदली खेती, 1 बीघा में 70 कटहल लगाए; ₹1.25 लाख तक अतिरिक्त आय की उम्मीद",
-      "summary": "राजगढ़: वाटरशेड परियोजना से बदली खेती, 1 बीघा में 70 कटहल लगाए; ₹1.25 लाख तक अतिरिक्त आय की उम्मीद",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajgarh-watershed-project-transforms-farming-70-jackfruit-trees-planted-on-one-bigha-additional-income-of-up-to-%e2%82%b91-25-lakh-expected/",
-      "important": false
-    },
-    {
-      "id": "440eaa58",
-      "title": "लखपति दीदी: ग्रामीण महिलाओं की आय 1 लाख रुपए तक पहुंचाने पर जोर, आजीविका के नए अवसरों पर चर्चा",
-      "summary": "लखपति दीदी: ग्रामीण महिलाओं की आय 1 लाख रुपए तक पहुंचाने पर जोर, आजीविका के नए अवसरों पर चर्चा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/lakhpati-didi-focus-on-raising-rural-womens-income-to-%e2%82%b91-lakh-discussion-on-new-livelihood-opportunities/",
-      "important": false
-    },
-    {
-      "id": "df9a8d45",
-      "title": "श्रीगंगानगर: किसानों को गुलाबी सुंडी और फसल रोगों से बचाव की वैज्ञानिक जानकारी दी",
-      "summary": "श्रीगंगानगर: किसानों को गुलाबी सुंडी और फसल रोगों से बचाव की वैज्ञानिक जानकारी दी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sri-ganganagar-farmers-provided-with-scientific-information-on-protecting-crops-against-the-pink-bollworm-and-crop-diseases/",
-      "important": false
-    },
-    {
-      "id": "ea97ccd2",
-      "title": "आज का धान मंडी रेट (17 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (17 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-17-september-2026/",
-      "important": false
-    },
-    {
-      "id": "8128cec1",
-      "title": "जनेकृविवि: सोयाबीन में फलियां कम और दाना भराव कमजोर हो तो अपनाएं ये उपाय",
-      "summary": "जनेकृविवि: सोयाबीन में फलियां कम और दाना भराव कमजोर हो तो अपनाएं ये उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jnkvv-adopt-these-measures-if-soybean-crops-show-poor-pod-formation-and-weak-grain-filling/",
-      "important": false
-    },
-    {
-      "id": "b9940a1b",
-      "title": "सीधी : धान मिलिंग में अनियमितता पर मिलर्स के विरुद्ध प्राथमिकी के निर्देश",
-      "summary": "सीधी : धान मिलिंग में अनियमितता पर मिलर्स के विरुद्ध प्राथमिकी के निर्देश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sidhi-orders-issued-to-register-firs-against-millers-for-irregularities-in-paddy-milling/",
-      "important": false
-    },
-    {
-      "id": "7c318675",
-      "title": "आज का सोयाबीन मंडी रेट (17 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (17 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/todays-soybean-mandi-rate-17-september-2026/",
-      "important": false
-    },
-    {
-      "id": "5fc59bcb",
-      "title": "सतना में 19 सितंबर को होगा बलराम कृषि महोत्सव, 1500 किसान होंगे शामिल",
-      "summary": "सतना में 19 सितंबर को होगा बलराम कृषि महोत्सव, 1500 किसान होंगे शामिल",
-      "level": "state",
-      "category": "market",
-      "date": "2026-09-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balram-agriculture-festival-to-be-held-in-satna-on-september-19-1500-farmers-to-participate/",
       "important": false
     }
   ]
