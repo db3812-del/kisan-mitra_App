@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-21T12:29:35Z",
+  "updated": "2026-09-21T21:52:17Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "567105f1",
+      "title": "सागर: किसान विवेक दुबे ने शुरू की जैविक खाद यूनिट, रोजाना 1 टन उत्पादन का लक्ष्य",
+      "summary": "सागर: किसान विवेक दुबे ने शुरू की जैविक खाद यूनिट, रोजाना 1 टन उत्पादन का लक्ष्य",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sagar-farmer-vivek-dubey-sets-up-organic-fertilizer-unit-aims-for-daily-production-of-1-tonne/",
+      "important": false
+    },
+    {
+      "id": "4c1a3f9e",
+      "title": "चीनी की स्टॉक-सीमा दोगुनी, त्योहारी सीजन से पहले सरकार का बड़ा फैसला, गन्ना किसानों की उम्मीदें बढ़ीं",
+      "summary": "चीनी की स्टॉक-सीमा दोगुनी, त्योहारी सीजन से पहले सरकार का बड़ा फैसला, गन्ना किसानों की उम्मीदें बढ़ीं",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/sugar-stock-limits-doubled-governments-major-decision-ahead-of-the-festive-season-boosts-hopes-for-sugarcane-farmers/",
+      "important": false
+    },
+    {
+      "id": "6e2b3742",
+      "title": "जशपुर: मिर्च की खेती से बदली किसान की किस्मत, सरकारी अनुदान की मदद से 1 लाख रुपए पहुंची आय",
+      "summary": "जशपुर: मिर्च की खेती से बदली किसान की किस्मत, सरकारी अनुदान की मदद से 1 लाख रुपए पहुंची आय",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jashpur-chilli-farming-transforms-farmers-fortunes-income-reaches-%e2%82%b91-lakh-with-the-help-of-government-subsidy/",
+      "important": false
+    },
+    {
+      "id": "ab7409f6",
+      "title": "भारी बारिश भी नहीं बिगाड़ सकी सोयाबीन की फसल, किसान ने मेड़-नाली पद्धति से बदली खेती",
+      "summary": "भारी बारिश भी नहीं बिगाड़ सकी सोयाबीन की फसल, किसान ने मेड़-नाली पद्धति से बदली खेती",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/even-heavy-rains-couldnt-damage-the-soybean-crop-a-farmer-transformed-his-farming-using-the-ridge-and-furrow-method/",
+      "important": false
+    },
+    {
+      "id": "e1f7c600",
+      "title": "मऊगंज: सब्जी की खेती से आत्मनिर्भर बनीं उमाकली, अब हर महीने कमा रहीं ₹15 हजार",
+      "summary": "मऊगंज: सब्जी की खेती से आत्मनिर्भर बनीं उमाकली, अब हर महीने कमा रहीं ₹15 हजार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mauganj-umakali-becomes-self-reliant-through-vegetable-farming-now-earns-%e2%82%b915000-per-month/",
+      "important": false
+    },
+    {
+      "id": "36307212",
+      "title": "मंडला: चिया की खेती ने बदली किसान तीरथ उईके की खेती की तस्वीर",
+      "summary": "मंडला: चिया की खेती ने बदली किसान तीरथ उईके की खेती की तस्वीर",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mandla-chia-cultivation-has-transformed-the-farming-landscape-for-farmer-tirath-uike/",
+      "important": false
+    },
+    {
+      "id": "d44aac5a",
+      "title": "टीकमगढ़: कृषि अधिकारियों ने खेतों का किया निरीक्षण, उड़द से लेकर मूंगफली फसल का लिया जायजा",
+      "summary": "टीकमगढ़: कृषि अधिकारियों ने खेतों का किया निरीक्षण, उड़द से लेकर मूंगफली फसल का लिया जायजा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/tikamgarh-agriculture-officials-inspected-the-fields-and-assessed-crops-ranging-from-black-gram-to-groundnut/",
+      "important": false
+    },
+    {
+      "id": "57578240",
+      "title": "MIDH योजना से बदली किसान की राह! ₹2.45 लाख अनुदान से मिला अपना ट्रैक्टर, खेती हुई आसान",
+      "summary": "MIDH योजना से बदली किसान की राह! ₹2.45 लाख अनुदान से मिला अपना ट्रैक्टर, खेती हुई आसान",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-09-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/midh-scheme-transforms-a-farmers-path-a-%e2%82%b92-45-lakh-subsidy-helped-him-acquire-his-own-tractor-making-farming-easier/",
+      "important": false
+    },
     {
       "id": "15ff403c",
       "title": "रबी सीजन में किसानों को निर्बाध एवं गुणवत्तापूर्ण विद्युत आपूर्ति सुनिश्चित करें – ऊर्जा सचिव",
@@ -462,94 +550,6 @@
       "date": "2026-09-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/weather-today-monsoon-withdrawal-begins-from-rajasthan-low-pressure-area-to-form-over-andaman-sea-imd-issues-update/",
-      "important": false
-    },
-    {
-      "id": "86a17974",
-      "title": "सिवनी : सीताफल बनेगा किसानों की समृद्धि का आधार",
-      "summary": "सिवनी : सीताफल बनेगा किसानों की समृद्धि का आधार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seoni-custard-apple-to-become-the-foundation-of-farmers-prosperity/",
-      "important": false
-    },
-    {
-      "id": "f59ed019",
-      "title": "प्रधानमंत्री धन-धान्य कृषि योजना में सीधी देश में अव्वल",
-      "summary": "प्रधानमंत्री धन-धान्य कृषि योजना में सीधी देश में अव्वल",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ranked-first-in-the-country-under-the-pradhan-mantri-dhan-dhanya-krishi-yojana/",
-      "important": false
-    },
-    {
-      "id": "a4e2f6e5",
-      "title": "बालाघाट : धान की फसल में माहू का प्रकोप, कृषि विभाग ने किया निरीक्षण",
-      "summary": "बालाघाट : धान की फसल में माहू का प्रकोप, कृषि विभाग ने किया निरीक्षण",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balaghat-aphid-infestation-in-paddy-crop-agriculture-department-conducts-inspection/",
-      "important": false
-    },
-    {
-      "id": "938164e5",
-      "title": "भोपाल: दो पौधों से शुरू की ड्रैगन फ्रूट की खेती, अब 100 पौधों की बगिया तैयार",
-      "summary": "भोपाल: दो पौधों से शुरू की ड्रैगन फ्रूट की खेती, अब 100 पौधों की बगिया तैयार",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bhopal-dragon-fruit-cultivation-started-with-two-plants-an-orchard-of-100-plants-is-now-ready/",
-      "important": false
-    },
-    {
-      "id": "817b9475",
-      "title": "एमएसपी गारंटी को लेकर पंजाब किसानों ने पांच स्थानों पर रेल पटरियां रोकीं",
-      "summary": "एमएसपी गारंटी को लेकर पंजाब किसानों ने पांच स्थानों पर रेल पटरियां रोकीं",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/punjab-farmers-blocked-railway-tracks-at-five-locations-over-the-demand-for-an-msp-guarantee/",
-      "important": true
-    },
-    {
-      "id": "5edc66f3",
-      "title": "जबलपुर: फसलों की स्थिति एवं कीट-व्याधि प्रकोप की निगरानी हेतु दल गठित",
-      "summary": "जबलपुर: फसलों की स्थिति एवं कीट-व्याधि प्रकोप की निगरानी हेतु दल गठित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jabalpur-team-constituted-to-monitor-crop-conditions-and-pest-disease-outbreaks/",
-      "important": false
-    },
-    {
-      "id": "e8d87b75",
-      "title": "पंजाब-हरियाणा के 2,550 किसानों को मृदा कार्बन क्रेडिट से ₹2.9 करोड़ का भुगतान, टिकाऊ खेती के लिए मिला प्रोत्साहन",
-      "summary": "पंजाब-हरियाणा के 2,550 किसानों को मृदा कार्बन क्रेडिट से ₹2.9 करोड़ का भुगतान, टिकाऊ खेती के लिए मिला प्रोत्साहन",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/2550-farmers-from-punjab-and-haryana-paid-%e2%82%b92-9-crore-for-soil-carbon-credits-received-an-incentive-for-sustainable-farming/",
-      "important": false
-    },
-    {
-      "id": "d9144c54",
-      "title": "बालाघाट : धान की फसल में रोग-कीट के प्रकोप पर कृषि विभाग की सलाह",
-      "summary": "बालाघाट : धान की फसल में रोग-कीट के प्रकोप पर कृषि विभाग की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balaghat-agriculture-department-issues-advisory-on-pest-and-disease-infestation-in-paddy-crop/",
       "important": false
     }
   ]
