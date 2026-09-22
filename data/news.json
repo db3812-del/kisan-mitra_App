@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-22T11:18:31Z",
-  "new_count": 0,
+  "updated": "2026-09-22T16:40:36Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "492c8847",
+      "title": "कृषि मंत्री के गढ़ में रिश्वतखोरी! सब्सिडी के लिए मंत्रालय का अधिकारी मांग रहा था लाखों",
+      "summary": "कृषि मंत्री के गढ़ में रिश्वतखोरी! सब्सिडी के लिए मंत्रालय का अधिकारी मांग रहा था लाखों",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/bribery-in-the-agriculture-ministers-stronghold-ministry-official-demanded-lakhs-for-a-subsidy/",
+      "important": false
+    },
+    {
+      "id": "bfc93b21",
+      "title": "आज का गेहूं मंडी रेट (22 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (22 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-22-september-2026/",
+      "important": false
+    },
+    {
+      "id": "f46b9e3c",
+      "title": "आज का धान मंडी रेट (22 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (22 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-22-september-2026/",
+      "important": false
+    },
+    {
+      "id": "09a2adbe",
+      "title": "आज का मक्का मंडी रेट (22 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (22 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-22-september-2026/",
+      "important": false
+    },
+    {
+      "id": "b18d117d",
+      "title": "भारत में विकसित पहला कीटनाशी पिऑक्सानिलिप्रोल को मंजूरी",
+      "summary": "भारत में विकसित पहला कीटनाशी पिऑक्सानिलिप्रोल को मंजूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/approval-for-pyoxaniliprole-the-first-insecticide-developed-in-india/",
+      "important": false
+    },
+    {
+      "id": "f58f5fba",
+      "title": "आज का सोयाबीन मंडी रेट (22 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (22 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-22-september-2026/",
+      "important": false
+    },
+    {
+      "id": "21b70a1a",
+      "title": "मध्यप्रदेश के कई जिलों में हल्की वर्षा संभावित",
+      "summary": "मध्यप्रदेश के कई जिलों में हल्की वर्षा संभावित",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/light-rain-is-likely-in-several-districts-of-madhya-pradesh/",
+      "important": false
+    },
     {
       "id": "567105f1",
       "title": "सागर: किसान विवेक दुबे ने शुरू की जैविक खाद यूनिट, रोजाना 1 टन उत्पादन का लक्ष्य",
@@ -473,83 +550,6 @@
       "date": "2026-09-19",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/weather-today-rain-alert-for-several-states-amidst-monsoon-withdrawal-low-pressure-area-to-form-over-the-bay-of-bengal-imd-issues-update/",
-      "important": false
-    },
-    {
-      "id": "d7d23907",
-      "title": "क्रॉपलाइफ इंडिया ने किसानों के लिए AI आधारित सलाह टूल विकसित करने पर दिया जोर",
-      "summary": "क्रॉपलाइफ इंडिया ने किसानों के लिए AI आधारित सलाह टूल विकसित करने पर दिया जोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/croplife-india-emphasizes-developing-ai-based-advisory-tools-for-farmers/",
-      "important": false
-    },
-    {
-      "id": "04d6543b",
-      "title": "आज का गेहूं मंडी रेट (18 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (18 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-18-september-2026/",
-      "important": false
-    },
-    {
-      "id": "e49f21b0",
-      "title": "आज का मक्का मंडी रेट (18 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (18 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-18-september-2026/",
-      "important": false
-    },
-    {
-      "id": "a1677250",
-      "title": "आज का धान मंडी रेट (18 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (18 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-18-september-2026/",
-      "important": false
-    },
-    {
-      "id": "85541833",
-      "title": "आज का सोयाबीन मंडी रेट (18 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (18 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-18-september-2026/",
-      "important": false
-    },
-    {
-      "id": "9edfa86f",
-      "title": "झाबुआ, रतलाम, नीमच और श्योपुरकलां जिलों में भारी वर्षा की संभावना",
-      "summary": "झाबुआ, रतलाम, नीमच और श्योपुरकलां जिलों में भारी वर्षा की संभावना",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/possibility-of-heavy-rainfall-in-jhabua-ratlam-neemuch-and-sheopurkalan-districts/",
-      "important": false
-    },
-    {
-      "id": "c14cf821",
-      "title": "Weather Today: राजस्थान से मानसून की विदाई शुरू, अंडमान सागर में बनेगा लो प्रेशर; IMD ने जारी किया अपडेट",
-      "summary": "Weather Today: राजस्थान से मानसून की विदाई शुरू, अंडमान सागर में बनेगा लो प्रेशर; IMD ने जारी किया अपडेट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-monsoon-withdrawal-begins-from-rajasthan-low-pressure-area-to-form-over-andaman-sea-imd-issues-update/",
       "important": false
     }
   ]
