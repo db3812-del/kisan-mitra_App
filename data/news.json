@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-23T11:12:21Z",
-  "new_count": 8,
+  "updated": "2026-09-23T16:34:26Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "456c4413",
+      "title": "आज का गेहूं मंडी रेट (23 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (23 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-23-september-2026/",
+      "important": false
+    },
+    {
+      "id": "923d2f65",
+      "title": "आज का मक्का मंडी रेट (23 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (23 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-23-september-2026/",
+      "important": false
+    },
+    {
+      "id": "fa8e89ac",
+      "title": "आज का धान मंडी रेट (23 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (23 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-23-september-2026/",
+      "important": false
+    },
+    {
+      "id": "9fed4248",
+      "title": "आज का सोयाबीन मंडी रेट (23 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (23 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-23-september-2026/",
+      "important": false
+    },
+    {
+      "id": "9fa3013e",
+      "title": "पारंपरिक विधि की तुलना में एसआरआई पद्धति से धान की रोपाई से मिले दोगुने कल्ले",
+      "summary": "पारंपरिक विधि की तुलना में एसआरआई पद्धति से धान की रोपाई से मिले दोगुने कल्ले",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/transplanting-paddy-using-the-sri-method-yielded-twice-as-many-tillers-compared-to-the-traditional-method/",
+      "important": false
+    },
+    {
+      "id": "83b1f880",
+      "title": "बाजरा उत्पादन की आधुनिक तकनीक सीखने 50 किसानों का दल राजस्थान रवाना",
+      "summary": "बाजरा उत्पादन की आधुनिक तकनीक सीखने 50 किसानों का दल राजस्थान रवाना",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-group-of-50-farmers-has-left-for-rajasthan-to-learn-modern-techniques-of-pearl-millet-cultivation/",
+      "important": false
+    },
+    {
+      "id": "93c63342",
+      "title": "कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
+      "summary": "कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/given-the-low-rainfall-prioritize-low-water-consuming-crops-for-the-rabi-season-2/",
+      "important": false
+    },
     {
       "id": "06866e1d",
       "title": "नंदी सीड्स के बिजनेस हेड बने श्री अनिल कोल्ते",
@@ -474,83 +551,6 @@
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/farmers-practicing-natural-farming-in-himachal-receive-%e2%82%b96-87-crore-highest-msp-for-wheat-and-maize/",
       "important": true
-    },
-    {
-      "id": "878295b0",
-      "title": "गेहूं-गन्ने से घाटा तो बदला रास्ता, बस्ती के अरविंद अब सालाना कमा रहे 20-25 लाख रुपये",
-      "summary": "गेहूं-गन्ने से घाटा तो बदला रास्ता, बस्ती के अरविंद अब सालाना कमा रहे 20-25 लाख रुपये",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/switched-paths-after-losses-in-wheat-and-sugarcane-arvind-from-basti-now-earns-%e2%82%b920-25-lakh-annually/",
-      "important": false
-    },
-    {
-      "id": "db734b71",
-      "title": "देश में पहली बार किसानों को मिला “मिट्टी कार्बन” का पैसा, पंजाब-हरियाणा के 2,550 किसानों को 2.9 करोड़ रुपये",
-      "summary": "देश में पहली बार किसानों को मिला “मिट्टी कार्बन” का पैसा, पंजाब-हरियाणा के 2,550 किसानों को 2.9 करोड़ रुपये",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/for-the-first-time-in-the-country-farmers-receive-payment-for-soil-carbon-%e2%82%b92-9-crore-distributed-to-2550-farmers-in-punjab-and-haryana/",
-      "important": false
-    },
-    {
-      "id": "5ce38cf3",
-      "title": "बिहार में 86 कृषि यंत्रों पर 80% तक सब्सिडी, 30 सितंबर तक करें ऑनलाइन आवेदन",
-      "summary": "बिहार में 86 कृषि यंत्रों पर 80% तक सब्सिडी, 30 सितंबर तक करें ऑनलाइन आवेदन",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/up-to-80-subsidy-on-86-agricultural-implements-in-bihar-apply-online-by-september-30/",
-      "important": false
-    },
-    {
-      "id": "0901a12b",
-      "title": "आज का गेहूं मंडी रेट (19 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (19 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-19-september-2026/",
-      "important": false
-    },
-    {
-      "id": "6bd264f1",
-      "title": "आज का धान मंडी रेट (19 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (19 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-19-september-2026/",
-      "important": false
-    },
-    {
-      "id": "b2a1c164",
-      "title": "आज का मक्का मंडी रेट (19 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (19 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-19-september-2026/",
-      "important": false
-    },
-    {
-      "id": "4b54063e",
-      "title": "आज का सोयाबीन मंडी रेट (19 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (19 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-19-september-2026/",
-      "important": false
     }
   ]
 }
