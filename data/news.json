@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-23T04:14:56Z",
-  "new_count": 0,
+  "updated": "2026-09-23T11:12:21Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "06866e1d",
+      "title": "नंदी सीड्स के बिजनेस हेड बने श्री अनिल कोल्ते",
+      "summary": "नंदी सीड्स के बिजनेस हेड बने श्री अनिल कोल्ते",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mr-anil-kolte-appointed-business-head-of-nandi-seeds/",
+      "important": false
+    },
+    {
+      "id": "974f8fbf",
+      "title": "शिवपुरी: उन्नत तकनीक से संवरी सोबरन सिंह की खेती",
+      "summary": "शिवपुरी: उन्नत तकनीक से संवरी सोबरन सिंह की खेती",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shivpuri-sobaran-singhs-farming-transformed-through-advanced-technology/",
+      "important": false
+    },
+    {
+      "id": "10ff3ecb",
+      "title": "बंगाल में मत्स्य पालन और जलीय कृषि को मिलेगा बढ़ावा, 6 जलाशयों के विकास के लिए ₹49.95 करोड़ की मंजूरी",
+      "summary": "बंगाल में मत्स्य पालन और जलीय कृषि को मिलेगा बढ़ावा, 6 जलाशयों के विकास के लिए ₹49.95 करोड़ की मंजूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/fisheries-and-aquaculture-in-bengal-to-get-a-boost-%e2%82%b949-95-crore-approved-for-the-development-of-6-water-bodies/",
+      "important": false
+    },
+    {
+      "id": "51e620e5",
+      "title": "अशोकनगर : आयुष्मान आरोग्य मंदिरों पर रोपे औषधीय पौधे",
+      "summary": "अशोकनगर : आयुष्मान आरोग्य मंदिरों पर रोपे औषधीय पौधे",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ashoknagar-medicinal-plants-planted-at-ayushman-arogya-mandirs/",
+      "important": false
+    },
+    {
+      "id": "7d448b87",
+      "title": "अनीता बाई ने एक हेक्टेयर में अपनाई अरहर की उन्नत खेती, वैज्ञानिक तकनीक से मिली शानदार फसल",
+      "summary": "अनीता बाई ने एक हेक्टेयर में अपनाई अरहर की उन्नत खेती, वैज्ञानिक तकनीक से मिली शानदार फसल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/anita-bai-adopted-advanced-pigeon-pea-arhar-cultivation-on-one-hectare-scientific-techniques-yielded-an-excellent-crop/",
+      "important": false
+    },
+    {
+      "id": "332d7dde",
+      "title": "दतिया : किसान सम्मान निधि बनी खेती का मजबूत सहारा",
+      "summary": "दतिया : किसान सम्मान निधि बनी खेती का मजबूत सहारा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/datia-kisan-samman-nidhi-becomes-a-strong-support-for-farming/",
+      "important": false
+    },
+    {
+      "id": "cb9b5efb",
+      "title": "समृद्ध किसान-समृद्ध प्रदेश की थीम पर मनाया जाएगा मध्यप्रदेश स्थापना दिवस: सीएम डॉ. यादव",
+      "summary": "समृद्ध किसान-समृद्ध प्रदेश की थीम पर मनाया जाएगा मध्यप्रदेश स्थापना दिवस: सीएम डॉ. यादव",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-foundation-day-to-be-celebrated-with-the-theme-prosperous-farmers-prosperous-state-cm-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "154c595a",
+      "title": "इफको अध्यक्ष श्री संघानी ग्लोबल बोर्ड के निर्देशक निर्वाचित",
+      "summary": "इफको अध्यक्ष श्री संघानी ग्लोबल बोर्ड के निर्देशक निर्वाचित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/iffco-chairman-mr-sanghani-elected-as-director-of-the-global-board/",
+      "important": false
+    },
     {
       "id": "492c8847",
       "title": "कृषि मंत्री के गढ़ में रिश्वतखोरी! सब्सिडी के लिए मंत्रालय का अधिकारी मांग रहा था लाखों",
@@ -462,94 +550,6 @@
       "date": "2026-09-19",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-19-september-2026/",
-      "important": false
-    },
-    {
-      "id": "72b44ae3",
-      "title": "मध्यप्रदेश के सात जिलों में अनेक स्थानों पर वर्षा संभावित",
-      "summary": "मध्यप्रदेश के सात जिलों में अनेक स्थानों पर वर्षा संभावित",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rain-is-likely-at-several-places-across-seven-districts-of-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "3d29bdf1",
-      "title": "राजगढ़: बायोगैस ने घटाया महेंद्र का ईंधन खर्च, स्लरी के इस्तेमाल से खेती की लागत भी घटी",
-      "summary": "राजगढ़: बायोगैस ने घटाया महेंद्र का ईंधन खर्च, स्लरी के इस्तेमाल से खेती की लागत भी घटी",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajgarh-biogas-cuts-mahendras-fuel-expenses-use-of-slurry-also-reduces-farming-costs/",
-      "important": false
-    },
-    {
-      "id": "70e144cf",
-      "title": "यूपीआई के नए फ्रेमवर्क में ₹2,000 से अधिक के कृषि इनपुट भुगतान पर ₹5 MDR",
-      "summary": "यूपीआई के नए फ्रेमवर्क में ₹2,000 से अधिक के कृषि इनपुट भुगतान पर ₹5 MDR",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/%e2%82%b95-mdr-on-agricultural-input-payments-exceeding-%e2%82%b92000-under-the-new-upi-framework/",
-      "important": false
-    },
-    {
-      "id": "861c0756",
-      "title": "ड्राईलैंड कांग्रेस 2026: ICAR-ICRISAT साझेदारी के 50 साल पूरे, सूखे इलाकों में मजबूत खेती पर जोर",
-      "summary": "ड्राईलैंड कांग्रेस 2026: ICAR-ICRISAT साझेदारी के 50 साल पूरे, सूखे इलाकों में मजबूत खेती पर जोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/dryland-congress-2026-marking-50-years-of-the-icar-icrisat-partnership-emphasis-on-robust-agriculture-in-dryland-areas/",
-      "important": false
-    },
-    {
-      "id": "0d0dd57a",
-      "title": "मध्यप्रदेश: इंदौर जिले में स्थापित होंगी 05 बायो इनपुट रिसोर्स सेंटर",
-      "summary": "मध्यप्रदेश: इंदौर जिले में स्थापित होंगी 05 बायो इनपुट रिसोर्स सेंटर",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-05-bio-input-resource-centres-to-be-set-up-in-indore-district/",
-      "important": false
-    },
-    {
-      "id": "e1debe8e",
-      "title": "छिंदवाड़ा: अदरक की खेती से मालामाल हुए कृपाराम, सिर्फ 60 हजार की लागत में कमाए 15 लाख; तकनीकी मार्गदर्शन बना सफलता का आध",
-      "summary": "छिंदवाड़ा: अदरक की खेती से मालामाल हुए कृपाराम, सिर्फ 60 हजार की लागत में कमाए 15 लाख; तकनीकी मार्गदर्शन बना सफलता का आधार",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-kriparam-strikes-it-rich-with-ginger-farming-earning-%e2%82%b915-lakh-on-an-investment-of-just-%e2%82%b960000-technical-guidance-paved-the-way-for-success/",
-      "important": false
-    },
-    {
-      "id": "de5dc48a",
-      "title": "मध्य प्रदेश में माइक्रो इरिगेशन विस्तार को गति देने उद्योग एकजुट",
-      "summary": "मध्य प्रदेश में माइक्रो इरिगेशन विस्तार को गति देने उद्योग एकजुट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/industry-unites-to-accelerate-micro-irrigation-expansion-in-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "21657ecd",
-      "title": "Weather Today: मानसून की वापसी के बीच कई राज्यों में बारिश का अलर्ट, बंगाल की खाड़ी में बनेगा निम्न दबाव; IMD ने जारी कि",
-      "summary": "Weather Today: मानसून की वापसी के बीच कई राज्यों में बारिश का अलर्ट, बंगाल की खाड़ी में बनेगा निम्न दबाव; IMD ने जारी किया अपडेट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weather-today-rain-alert-for-several-states-amidst-monsoon-withdrawal-low-pressure-area-to-form-over-the-bay-of-bengal-imd-issues-update/",
       "important": false
     }
   ]
