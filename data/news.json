@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-24T04:10:36Z",
-  "new_count": 0,
+  "updated": "2026-09-24T11:27:51Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "cecbdc93",
+      "title": "हरियाणा: ‘मेरी फसल मेरा ब्यौरा’ पोर्टल फिर खुला, वंचित किसान 27 सितंबर तक करा सकेंगे खरीफ पंजीकरण",
+      "summary": "हरियाणा: ‘मेरी फसल मेरा ब्यौरा’ पोर्टल फिर खुला, वंचित किसान 27 सितंबर तक करा सकेंगे खरीफ पंजीकरण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/haryana-meri-fasal-mera-byora-portal-reopens-farmers-who-missed-out-can-register-for-kharif-crops-until-september-27/",
+      "important": false
+    },
+    {
+      "id": "da5f58b2",
+      "title": "तमिलनाडु: सहकारी समितियों को फसल लोन वसूली रोकने का आदेश, 30 सितंबर तक पात्र किसानों को मिलेगा नया कर्ज",
+      "summary": "तमिलनाडु: सहकारी समितियों को फसल लोन वसूली रोकने का आदेश, 30 सितंबर तक पात्र किसानों को मिलेगा नया कर्ज",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/tamil-nadu-order-issued-to-cooperative-societies-to-halt-crop-loan-recovery-eligible-farmers-to-receive-new-loans-by-september-30/",
+      "important": false
+    },
+    {
+      "id": "56642dfe",
+      "title": "राजस्थान के जालोर में मरुभूमि को बनाया खजूर का बाग, किसान केहराराम चौधरी कमा रहे सालाना 30 लाख रुपये",
+      "summary": "राजस्थान के जालोर में मरुभूमि को बनाया खजूर का बाग, किसान केहराराम चौधरी कमा रहे सालाना 30 लाख रुपये",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/desert-land-transformed-into-a-date-palm-orchard-in-jalore-rajasthan-farmer-kehararam-choudhary-earns-%e2%82%b930-lakh-annually/",
+      "important": false
+    },
+    {
+      "id": "a12f2926",
+      "title": "हड़िया बेचना छोड़ शुरू किया मुर्गी पालन, झारखंड की सरस्वती कुजूर बनीं आत्मनिर्भर उद्यमी",
+      "summary": "हड़िया बेचना छोड़ शुरू किया मुर्गी पालन, झारखंड की सरस्वती कुजूर बनीं आत्मनिर्भर उद्यमी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gave-up-selling-hadiya-to-start-poultry-farming-jharkhands-saraswati-kujur-became-a-self-reliant-entrepreneur/",
+      "important": false
+    },
+    {
+      "id": "f8580ba7",
+      "title": "चित्रकूट में धान की फसल पर पत्ती लपेटक कीट और झुलसा रोग का हमला, कृषि वैज्ञानिकों ने बताई दवा और मात्रा",
+      "summary": "चित्रकूट में धान की फसल पर पत्ती लपेटक कीट और झुलसा रोग का हमला, कृषि वैज्ञानिकों ने बताई दवा और मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/paddy-crops-in-chitrakoot-hit-by-leaf-folder-pest-and-blight-disease-agricultural-scientists-recommend-remedies-and-dosage/",
+      "important": false
+    },
+    {
+      "id": "1d138012",
+      "title": "शहडोल : वन तुलसी की बढ़ी मांग, ग्रामीणों के लिए आय का नया अवसर",
+      "summary": "शहडोल : वन तुलसी की बढ़ी मांग, ग्रामीणों के लिए आय का नया अवसर",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shahdol-rising-demand-for-van-tulsi-creates-a-new-income-opportunity-for-villagers/",
+      "important": false
+    },
+    {
+      "id": "896aff2c",
+      "title": "बड़वानी के 25 प्रगतिशील किसान  बेंगलुरु में सीखेंगे प्राकृतिक खेती के गुर",
+      "summary": "बड़वानी के 25 प्रगतिशील किसान  बेंगलुरु में सीखेंगे प्राकृतिक खेती के गुर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/25-progressive-farmers-from-barwani-to-learn-the-nuances-of-natural-farming-in-bengaluru/",
+      "important": false
+    },
+    {
+      "id": "9b3d7f8f",
+      "title": "झाबुआ : भिण्डी की खेती बनी आय बढ़ाने का माध्यम",
+      "summary": "झाबुआ : भिण्डी की खेती बनी आय बढ़ाने का माध्यम",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jhabua-okra-cultivation-becomes-a-means-to-boost-income/",
+      "important": false
+    },
     {
       "id": "456c4413",
       "title": "आज का गेहूं मंडी रेट (23 सितंबर 2026)",
@@ -463,94 +551,6 @@
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/mahila-kisan-khushhali-yojana-launched-in-jharkhand-assistance-of-up-to-%e2%82%b97-lakh-per-farmer/",
       "important": false
-    },
-    {
-      "id": "e5445b7d",
-      "title": "नीमच: ₹1 लाख अनुदान से 2 हेक्टेयर में लगाया संतरे का बगीचा, अब हो रही ₹10 लाख तक की शानदार कमाई",
-      "summary": "नीमच: ₹1 लाख अनुदान से 2 हेक्टेयर में लगाया संतरे का बगीचा, अब हो रही ₹10 लाख तक की शानदार कमाई",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/neemuch-orange-orchard-established-on-2-hectares-with-a-%e2%82%b91-lakh-grant-now-yielding-impressive-earnings-of-up-to-%e2%82%b910-lakh/",
-      "important": false
-    },
-    {
-      "id": "0b7c1565",
-      "title": "कुशीनगर में रबी फसलों के प्रमाणित बीज पर 50% सब्सिडी, ऑनलाइन पंजीयन शुरू",
-      "summary": "कुशीनगर में रबी फसलों के प्रमाणित बीज पर 50% सब्सिडी, ऑनलाइन पंजीयन शुरू",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/50-subsidy-on-certified-seeds-for-rabi-crops-in-kushinagar-online-registration-begins/",
-      "important": false
-    },
-    {
-      "id": "576b5fab",
-      "title": "मंदसौर: बैंक की नौकरी छोड़ पॉलीहाउस में शुरू की पान की खेती, बदल गई किस्मत; अब दिल्ली तक पहुंच रही फसल",
-      "summary": "मंदसौर: बैंक की नौकरी छोड़ पॉलीहाउस में शुरू की पान की खेती, बदल गई किस्मत; अब दिल्ली तक पहुंच रही फसल",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-09-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/50-subsidy-on-certified-seeds-for-rabi-crops-in-kushinagar-online-registration-begins-2/",
-      "important": false
-    },
-    {
-      "id": "5e34cdef",
-      "title": "परंपरागत खेती छोड़ सब्जी की खेती अपनाई, जबलपुर के किसान सुरेश कुशवाहा कमा रहे ₹2 लाख महीना",
-      "summary": "परंपरागत खेती छोड़ सब्जी की खेती अपनाई, जबलपुर के किसान सुरेश कुशवाहा कमा रहे ₹2 लाख महीना",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shifting-from-traditional-farming-to-vegetable-cultivation-jabalpur-farmer-suresh-kushwaha-is-earning-%e2%82%b92-lakh-a-month/",
-      "important": false
-    },
-    {
-      "id": "41cf5584",
-      "title": "सतना बेल्ट में नहरों से लाया जाएगा नर्मदा का पानी, बढ़ेगा सिंचाई का रकबा- सीएम मोहन यादव",
-      "summary": "सतना बेल्ट में नहरों से लाया जाएगा नर्मदा का पानी, बढ़ेगा सिंचाई का रकबा- सीएम मोहन यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/narmada-water-to-be-brought-to-satna-belt-via-canals-irrigation-area-to-increase-cm-mohan-yadav/",
-      "important": false
-    },
-    {
-      "id": "c5fd5aa5",
-      "title": "नागपुर के वैज्ञानिकों ने किया कपास फसल का निरीक्षण",
-      "summary": "नागपुर के वैज्ञानिकों ने किया कपास फसल का निरीक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/scientists-from-nagpur-inspected-the-cotton-crop/",
-      "important": false
-    },
-    {
-      "id": "7bbc8f82",
-      "title": "OPU-IVF तकनीक से जन्मा उत्तराखंड की बद्री नस्ल का पहला बछड़ा",
-      "summary": "OPU-IVF तकनीक से जन्मा उत्तराखंड की बद्री नस्ल का पहला बछड़ा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/first-calf-of-uttarakhands-badri-breed-born-using-opu-ivf-technology/",
-      "important": false
-    },
-    {
-      "id": "d0a3894a",
-      "title": "हिमाचल में प्राकृतिक खेती करने वाले किसानों को मिले 6.87 करोड़ रुपये, गेहूं-मक्का पर सबसे ज्यादा MSP",
-      "summary": "हिमाचल में प्राकृतिक खेती करने वाले किसानों को मिले 6.87 करोड़ रुपये, गेहूं-मक्का पर सबसे ज्यादा MSP",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-practicing-natural-farming-in-himachal-receive-%e2%82%b96-87-crore-highest-msp-for-wheat-and-maize/",
-      "important": true
     }
   ]
 }
