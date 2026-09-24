@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-24T11:27:51Z",
+  "updated": "2026-09-24T16:53:47Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "4bb994a0",
+      "title": "रायपुर : सरगुजा के अन्नदाताओं को बड़ी सौगात, खुलेंगे 7 नए धान उपार्जन केंद्र; घर के नजदीक मिलेगी धान बेचने की सुविधा",
+      "summary": "रायपुर : सरगुजा के अन्नदाताओं को बड़ी सौगात, खुलेंगे 7 नए धान उपार्जन केंद्र; घर के नजदीक मिलेगी धान बेचने की सुविधा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-a-major-boon-for-the-farmers-of-surguja-7-new-paddy-procurement-centers-to-open-facility-to-sell-paddy-close-to-home/",
+      "important": false
+    },
+    {
+      "id": "c292f843",
+      "title": "जबलपुर: जैविक कृषि और एकीकृत कृषि से समृद्धि की नई इबारत लिखते उमेश सिंह",
+      "summary": "जबलपुर: जैविक कृषि और एकीकृत कृषि से समृद्धि की नई इबारत लिखते उमेश सिंह",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-umesh-singh-scripting-a-new-success-story-through-organic-and-integrated-farming/",
+      "important": false
+    },
+    {
+      "id": "986e0c5a",
+      "title": "शहडोल: किसानों को बताया दलहन, धान एवं मिर्च फसलों में कीट-व्याधि प्रबंधन",
+      "summary": "शहडोल: किसानों को बताया दलहन, धान एवं मिर्च फसलों में कीट-व्याधि प्रबंधन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shahdol-farmers-briefed-on-pest-and-disease-management-for-pulse-paddy-and-chili-crops/",
+      "important": false
+    },
+    {
+      "id": "874b949f",
+      "title": "सीधी में बढ़ रहा मिलेट का दायरा, 4,500 हेक्टेयर में रागी-कोदो की खेती को बढ़ावा: सीएम मोहन यादव",
+      "summary": "सीधी में बढ़ रहा मिलेट का दायरा, 4,500 हेक्टेयर में रागी-कोदो की खेती को बढ़ावा: सीएम मोहन यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/millet-cultivation-expanding-in-sidhi-promotion-of-ragi-and-kodo-farming-across-4500-hectares-cm-mohan-yadav/",
+      "important": false
+    },
+    {
+      "id": "a55fda7b",
+      "title": "MSP पर धान-ज्वार-बाजरा बेचने के लिए पंजीयन जारी, अब तक 13,508 किसान जुड़े; 10 अक्टूबर अंतिम तारीख",
+      "summary": "MSP पर धान-ज्वार-बाजरा बेचने के लिए पंजीयन जारी, अब तक 13,508 किसान जुड़े; 10 अक्टूबर अंतिम तारीख",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/registration-open-for-selling-paddy-jowar-and-bajra-at-msp-13508-farmers-have-registered-so-far-october-10-is-the-deadline/",
+      "important": true
+    },
+    {
+      "id": "ccdc2c04",
+      "title": "शहडोल: सर्वोत्तम कृषक पुरस्कार हेतु 30 सितम्बर तक आवेदन आमंत्रित",
+      "summary": "शहडोल: सर्वोत्तम कृषक पुरस्कार हेतु 30 सितम्बर तक आवेदन आमंत्रित",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shahdol-applications-invited-for-the-best-farmer-award-until-september-30/",
+      "important": false
+    },
+    {
+      "id": "b271b502",
+      "title": "जबलपुर: अरहर, उड़द और मसूर की खेती बढ़ाने की तैयारी, NCCF ने शुरू किया डोर-टू-डोर आउटरीच अभियान",
+      "summary": "जबलपुर: अरहर, उड़द और मसूर की खेती बढ़ाने की तैयारी, NCCF ने शुरू किया डोर-टू-डोर आउटरीच अभियान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-preparations-underway-to-boost-cultivation-of-arhar-urad-and-masoor-nccf-launches-door-to-door-outreach-campaign/",
+      "important": false
+    },
+    {
+      "id": "262dec4b",
+      "title": "जबलपुर: पारंपरिक विधि की तुलना में एसआरआई पद्धति से धान की रोपाई से मिले दोगुने कल्ले",
+      "summary": "जबलपुर: पारंपरिक विधि की तुलना में एसआरआई पद्धति से धान की रोपाई से मिले दोगुने कल्ले",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-09-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-paddy-transplantation-using-the-sri-method-yielded-twice-as-many-tillers-compared-to-the-traditional-method/",
+      "important": false
+    },
     {
       "id": "cecbdc93",
       "title": "हरियाणा: ‘मेरी फसल मेरा ब्यौरा’ पोर्टल फिर खुला, वंचित किसान 27 सितंबर तक करा सकेंगे खरीफ पंजीकरण",
@@ -462,94 +550,6 @@
       "date": "2026-09-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/indian-spice-exporters-advised-to-comply-with-thailands-pesticide-residue-standards/",
-      "important": false
-    },
-    {
-      "id": "d3c7581e",
-      "title": "आज का गेहूं मंडी रेट (21 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (21 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-21-september-2026/",
-      "important": false
-    },
-    {
-      "id": "cd25fbff",
-      "title": "आज का मक्का मंडी रेट (21 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (21 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-21-september-2026/",
-      "important": false
-    },
-    {
-      "id": "e5742c64",
-      "title": "आज का सोयाबीन मंडी रेट (21 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (21 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-21-september-2026/",
-      "important": false
-    },
-    {
-      "id": "2950f858",
-      "title": "भारत की एग्रोकेमिकल इंडस्ट्री बॉडी ने चीन पर निर्भरता घटाने के लिए 5,000-7,000 करोड़ रुपये की सरकारी स्कीम की मांग की",
-      "summary": "भारत की एग्रोकेमिकल इंडस्ट्री बॉडी ने चीन पर निर्भरता घटाने के लिए 5,000-7,000 करोड़ रुपये की सरकारी स्कीम की मांग की",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/indias-agrochemical-industry-body-has-sought-a-government-scheme-worth-%e2%82%b95000-7000-crore-to-reduce-dependence-on-china/",
-      "important": false
-    },
-    {
-      "id": "c67d907a",
-      "title": "छिंदवाड़ा: एकीकृत बागवानी विकास मिशन योजना का लाभ लें किसान, ऑनलाइन आवेदन आमंत्रित",
-      "summary": "छिंदवाड़ा: एकीकृत बागवानी विकास मिशन योजना का लाभ लें किसान, ऑनलाइन आवेदन आमंत्रित",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-09-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-farmers-urged-to-avail-benefits-of-the-mission-for-integrated-development-of-horticulture-scheme-online-applications-invited/",
-      "important": false
-    },
-    {
-      "id": "e6ca4d61",
-      "title": "जशपुर: एग्रीस्टैक से डिजिटल हुआ किसान का भूमि रिकॉर्ड, खाद-बीज से लेकर योजनाओं का लाभ लेना आसान",
-      "summary": "जशपुर: एग्रीस्टैक से डिजिटल हुआ किसान का भूमि रिकॉर्ड, खाद-बीज से लेकर योजनाओं का लाभ लेना आसान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jashpur-farmers-land-records-digitized-via-agristack-accessing-benefits-ranging-from-fertilizers-and-seeds-to-government-schemes-becomes-easier/",
-      "important": false
-    },
-    {
-      "id": "cfd2224c",
-      "title": "केंद्रीय कृषि मंत्री चौहान ने हैदराबाद में दक्षिणी राज्यों के लिए रबी रणनीति और नई योजनाओं का खाका रखा",
-      "summary": "केंद्रीय कृषि मंत्री चौहान ने हैदराबाद में दक्षिणी राज्यों के लिए रबी रणनीति और नई योजनाओं का खाका रखा",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/union-agriculture-minister-chauhan-outlined-the-rabi-strategy-and-new-schemes-for-southern-states-in-hyderabad/",
-      "important": false
-    },
-    {
-      "id": "9d081767",
-      "title": "झारखंड में महिला किसान खुशहाली योजना शुरू, प्रति किसान ₹7 लाख तक मदद",
-      "summary": "झारखंड में महिला किसान खुशहाली योजना शुरू, प्रति किसान ₹7 लाख तक मदद",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mahila-kisan-khushhali-yojana-launched-in-jharkhand-assistance-of-up-to-%e2%82%b97-lakh-per-farmer/",
       "important": false
     }
   ]
