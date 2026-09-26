@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-26T04:27:51Z",
+  "updated": "2026-09-26T11:08:09Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "b3f1de2a",
+      "title": "गुजरात में कपास पर सफेद मक्खी और जड़ सड़न का खतरा, कृषि मौसम विभाग ने दी दवा की सलाह",
+      "summary": "गुजरात में कपास पर सफेद मक्खी और जड़ सड़न का खतरा, कृषि मौसम विभाग ने दी दवा की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-whitefly-and-root-rot-in-gujarats-cotton-crop-agricultural-meteorology-department-advises-pesticide-application/",
+      "important": false
+    },
+    {
+      "id": "5f0c7478",
+      "title": "राजस्थान में मूंग की बंपर आवक, फिर भी किसानों को एमएसपी से कम दाम",
+      "summary": "राजस्थान में मूंग की बंपर आवक, फिर भी किसानों को एमएसपी से कम दाम",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bumper-arrival-of-moong-in-rajasthan-yet-farmers-get-prices-below-msp/",
+      "important": true
+    },
+    {
+      "id": "3a43c9d1",
+      "title": "छोटे किसानों को अब 6 प्रतिशत ब्याज पर मिलेगा 10 लाख तक का कृषि ऋण",
+      "summary": "छोटे किसानों को अब 6 प्रतिशत ब्याज पर मिलेगा 10 लाख तक का कृषि ऋण",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/small-farmers-will-now-get-agricultural-loans-of-up-to-%e2%82%b910-lakh-at-6-percent-interest/",
+      "important": false
+    },
+    {
+      "id": "d449d0e8",
+      "title": "90 दिन में तैयार होने वाली तोरिया बनी किसानों के लिए कमाई का नया विकल्प",
+      "summary": "90 दिन में तैयार होने वाली तोरिया बनी किसानों के लिए कमाई का नया विकल्प",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/small-farmers-will-now-get-agricultural-loans-of-up-to-%e2%82%b910-lakh-at-6-percent-interest-2/",
+      "important": false
+    },
+    {
+      "id": "5b2207d5",
+      "title": "धान पककर तैयार, किसान बोले- 1 अक्टूबर का इंतजार क्यों? जल्द शुरू हो सरकारी खरीद",
+      "summary": "धान पककर तैयार, किसान बोले- 1 अक्टूबर का इंतजार क्यों? जल्द शुरू हो सरकारी खरीद",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/paddy-crop-ready-farmers-ask-why-wait-until-october-1-government-procurement-should-start-early/",
+      "important": false
+    },
+    {
+      "id": "a77e4aee",
+      "title": "सरकारी नौकरी नहीं मिली तो खेती को बनाया रोजगार, अब रोम में सम्मानित होंगी मिजोरम की ‘स्ट्रॉबेरी वुमन’",
+      "summary": "सरकारी नौकरी नहीं मिली तो खेती को बनाया रोजगार, अब रोम में सम्मानित होंगी मिजोरम की ‘स्ट्रॉबेरी वुमन’",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/turned-to-farming-after-failing-to-secure-a-government-job-mizorams-strawberry-woman-to-be-honoured-in-rome/",
+      "important": false
+    },
+    {
+      "id": "cce40a8f",
+      "title": "कृषक पुरस्कार के आवेदन आमंत्रित",
+      "summary": "कृषक पुरस्कार के आवेदन आमंत्रित",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/applications-invited-for-farmer-awards/",
+      "important": false
+    },
+    {
+      "id": "47e42e65",
+      "title": "बलराम कृषि महोत्सव में श्रीअन्न फसलों पर जौर मुख्यमंत्री का वर्चुअल किसानों से संवाद",
+      "summary": "बलराम कृषि महोत्सव में श्रीअन्न फसलों पर जौर मुख्यमंत्री का वर्चुअल किसानों से संवाद",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chief-ministers-virtual-interaction-with-farmers-on-shrianna-crops-at-balram-krishi-mahotsav/",
+      "important": false
+    },
     {
       "id": "db5d0944",
       "title": "इंदौर: धान, ज्वार एवं बाजरा उपार्जन के लिये 13 हजार से अधिक किसानों ने कराया पंजीयन",
@@ -462,94 +550,6 @@
       "date": "2026-09-22",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-22-september-2026/",
-      "important": false
-    },
-    {
-      "id": "09a2adbe",
-      "title": "आज का मक्का मंडी रेट (22 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (22 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-22-september-2026/",
-      "important": false
-    },
-    {
-      "id": "b18d117d",
-      "title": "भारत में विकसित पहला कीटनाशी पिऑक्सानिलिप्रोल को मंजूरी",
-      "summary": "भारत में विकसित पहला कीटनाशी पिऑक्सानिलिप्रोल को मंजूरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/approval-for-pyoxaniliprole-the-first-insecticide-developed-in-india/",
-      "important": false
-    },
-    {
-      "id": "f58f5fba",
-      "title": "आज का सोयाबीन मंडी रेट (22 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (22 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-22-september-2026/",
-      "important": false
-    },
-    {
-      "id": "21b70a1a",
-      "title": "मध्यप्रदेश के कई जिलों में हल्की वर्षा संभावित",
-      "summary": "मध्यप्रदेश के कई जिलों में हल्की वर्षा संभावित",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/light-rain-is-likely-in-several-districts-of-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "567105f1",
-      "title": "सागर: किसान विवेक दुबे ने शुरू की जैविक खाद यूनिट, रोजाना 1 टन उत्पादन का लक्ष्य",
-      "summary": "सागर: किसान विवेक दुबे ने शुरू की जैविक खाद यूनिट, रोजाना 1 टन उत्पादन का लक्ष्य",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sagar-farmer-vivek-dubey-sets-up-organic-fertilizer-unit-aims-for-daily-production-of-1-tonne/",
-      "important": false
-    },
-    {
-      "id": "4c1a3f9e",
-      "title": "चीनी की स्टॉक-सीमा दोगुनी, त्योहारी सीजन से पहले सरकार का बड़ा फैसला, गन्ना किसानों की उम्मीदें बढ़ीं",
-      "summary": "चीनी की स्टॉक-सीमा दोगुनी, त्योहारी सीजन से पहले सरकार का बड़ा फैसला, गन्ना किसानों की उम्मीदें बढ़ीं",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/sugar-stock-limits-doubled-governments-major-decision-ahead-of-the-festive-season-boosts-hopes-for-sugarcane-farmers/",
-      "important": false
-    },
-    {
-      "id": "6e2b3742",
-      "title": "जशपुर: मिर्च की खेती से बदली किसान की किस्मत, सरकारी अनुदान की मदद से 1 लाख रुपए पहुंची आय",
-      "summary": "जशपुर: मिर्च की खेती से बदली किसान की किस्मत, सरकारी अनुदान की मदद से 1 लाख रुपए पहुंची आय",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jashpur-chilli-farming-transforms-farmers-fortunes-income-reaches-%e2%82%b91-lakh-with-the-help-of-government-subsidy/",
-      "important": false
-    },
-    {
-      "id": "ab7409f6",
-      "title": "भारी बारिश भी नहीं बिगाड़ सकी सोयाबीन की फसल, किसान ने मेड़-नाली पद्धति से बदली खेती",
-      "summary": "भारी बारिश भी नहीं बिगाड़ सकी सोयाबीन की फसल, किसान ने मेड़-नाली पद्धति से बदली खेती",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/even-heavy-rains-couldnt-damage-the-soybean-crop-a-farmer-transformed-his-farming-using-the-ridge-and-furrow-method/",
       "important": false
     }
   ]
