@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-25T21:21:38Z",
-  "new_count": 0,
+  "updated": "2026-09-26T04:27:51Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "db5d0944",
+      "title": "इंदौर: धान, ज्वार एवं बाजरा उपार्जन के लिये 13 हजार से अधिक किसानों ने कराया पंजीयन",
+      "summary": "इंदौर: धान, ज्वार एवं बाजरा उपार्जन के लिये 13 हजार से अधिक किसानों ने कराया पंजीयन",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/indore-over-13000-farmers-have-registered-for-the-procurement-of-paddy-sorghum-jowar-and-pearl-millet-bajra/",
+      "important": false
+    },
+    {
+      "id": "608a6c91",
+      "title": "किसान कृषि की नई तकनीक, फसल विविधीकरण और खाद्य प्रसंस्करण गतिविधियों को अपनाएं : मुख्यमंत्री डॉ. यादव",
+      "summary": "किसान कृषि की नई तकनीक, फसल विविधीकरण और खाद्य प्रसंस्करण गतिविधियों को अपनाएं : मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-should-adopt-new-agricultural-techniques-crop-diversification-and-food-processing-activities-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "498c5e2c",
+      "title": "रायपुर: जैविक कचरे से बनेगी खाद, ग्रामीणों को कम्पोस्टिंग और वर्मी कम्पोस्टिंग की दी जानकारी",
+      "summary": "रायपुर: जैविक कचरे से बनेगी खाद, ग्रामीणों को कम्पोस्टिंग और वर्मी कम्पोस्टिंग की दी जानकारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-manure-to-be-produced-from-organic-waste-villagers-informed-about-composting-and-vermicomposting/",
+      "important": false
+    },
+    {
+      "id": "7c2c71c1",
+      "title": "अंडमान में खरीफ 2026 फील्ड डे, उन्नत धान किस्मों और बीज उत्पादन तकनीकों का किया प्रदर्शन",
+      "summary": "अंडमान में खरीफ 2026 फील्ड डे, उन्नत धान किस्मों और बीज उत्पादन तकनीकों का किया प्रदर्शन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/kharif-2026-field-day-in-andaman-advanced-paddy-varieties-and-seed-production-techniques-demonstrated/",
+      "important": false
+    },
+    {
+      "id": "0d7c6ad2",
+      "title": "कम वर्षा की स्थिति में कम पानी वाली फसलों का चयन करें किसान – संयुक्त संचालक कृषि इंदौर",
+      "summary": "कम वर्षा की स्थिति में कम पानी वाली फसलों का चयन करें किसान – संयुक्त संचालक कृषि इंदौर",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-should-choose-low-water-consuming-crops-in-case-of-scanty-rainfall-joint-director-of-agriculture-indore/",
+      "important": false
+    },
+    {
+      "id": "cab584b0",
+      "title": "धानुका एग्रीटेक ने धान की फसल के लिए ‘पोलिन’ फफूंदनाशी लॉन्च किया",
+      "summary": "धानुका एग्रीटेक ने धान की फसल के लिए ‘पोलिन’ फफूंदनाशी लॉन्च किया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/dhanuka-agritech-has-launched-the-polin-fungicide-for-paddy-crops/",
+      "important": false
+    },
+    {
+      "id": "c043ca1f",
+      "title": "मध्यप्रदेश के 15 जिलों में भारी वर्षा का येलो अलर्ट जारी",
+      "summary": "मध्यप्रदेश के 15 जिलों में भारी वर्षा का येलो अलर्ट जारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/yellow-alert-issued-for-heavy-rainfall-in-15-districts-of-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "97cdd81a",
+      "title": "‘अमारा राजा बेटर वे अवार्ड्स’ के लिए 11 नवंबर तक आवेदन आमंत्रित",
+      "summary": "‘अमारा राजा बेटर वे अवार्ड्स’ के लिए 11 नवंबर तक आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/applications-invited-for-amara-raja-better-way-awards-until-november-11/",
+      "important": false
+    },
     {
       "id": "4bb994a0",
       "title": "रायपुर : सरगुजा के अन्नदाताओं को बड़ी सौगात, खुलेंगे 7 नए धान उपार्जन केंद्र; घर के नजदीक मिलेगी धान बेचने की सुविधा",
@@ -462,94 +550,6 @@
       "date": "2026-09-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/even-heavy-rains-couldnt-damage-the-soybean-crop-a-farmer-transformed-his-farming-using-the-ridge-and-furrow-method/",
-      "important": false
-    },
-    {
-      "id": "e1f7c600",
-      "title": "मऊगंज: सब्जी की खेती से आत्मनिर्भर बनीं उमाकली, अब हर महीने कमा रहीं ₹15 हजार",
-      "summary": "मऊगंज: सब्जी की खेती से आत्मनिर्भर बनीं उमाकली, अब हर महीने कमा रहीं ₹15 हजार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mauganj-umakali-becomes-self-reliant-through-vegetable-farming-now-earns-%e2%82%b915000-per-month/",
-      "important": false
-    },
-    {
-      "id": "36307212",
-      "title": "मंडला: चिया की खेती ने बदली किसान तीरथ उईके की खेती की तस्वीर",
-      "summary": "मंडला: चिया की खेती ने बदली किसान तीरथ उईके की खेती की तस्वीर",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mandla-chia-cultivation-has-transformed-the-farming-landscape-for-farmer-tirath-uike/",
-      "important": false
-    },
-    {
-      "id": "d44aac5a",
-      "title": "टीकमगढ़: कृषि अधिकारियों ने खेतों का किया निरीक्षण, उड़द से लेकर मूंगफली फसल का लिया जायजा",
-      "summary": "टीकमगढ़: कृषि अधिकारियों ने खेतों का किया निरीक्षण, उड़द से लेकर मूंगफली फसल का लिया जायजा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/tikamgarh-agriculture-officials-inspected-the-fields-and-assessed-crops-ranging-from-black-gram-to-groundnut/",
-      "important": false
-    },
-    {
-      "id": "57578240",
-      "title": "MIDH योजना से बदली किसान की राह! ₹2.45 लाख अनुदान से मिला अपना ट्रैक्टर, खेती हुई आसान",
-      "summary": "MIDH योजना से बदली किसान की राह! ₹2.45 लाख अनुदान से मिला अपना ट्रैक्टर, खेती हुई आसान",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/midh-scheme-transforms-a-farmers-path-a-%e2%82%b92-45-lakh-subsidy-helped-him-acquire-his-own-tractor-making-farming-easier/",
-      "important": false
-    },
-    {
-      "id": "15ff403c",
-      "title": "रबी सीजन में किसानों को निर्बाध एवं गुणवत्तापूर्ण विद्युत आपूर्ति सुनिश्चित करें – ऊर्जा सचिव",
-      "summary": "रबी सीजन में किसानों को निर्बाध एवं गुणवत्तापूर्ण विद्युत आपूर्ति सुनिश्चित करें – ऊर्जा सचिव",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ensure-uninterrupted-and-quality-power-supply-to-farmers-during-the-rabi-season-energy-secretary/",
-      "important": false
-    },
-    {
-      "id": "1d0315a9",
-      "title": "कटनी के विनोद ने अपनाया फसल विविधीकरण का आधुनिक मॉडल, अब सालाना कमा रहे ₹4-5 लाख",
-      "summary": "कटनी के विनोद ने अपनाया फसल विविधीकरण का आधुनिक मॉडल, अब सालाना कमा रहे ₹4-5 लाख",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vinod-from-katni-adopts-a-modern-crop-diversification-model-now-earns-%e2%82%b94-5-lakh-annually/",
-      "important": false
-    },
-    {
-      "id": "2754c241",
-      "title": "देश के कई हिस्सों में मानसून विदाई की तैयारी",
-      "summary": "देश के कई हिस्सों में मानसून विदाई की तैयारी",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/monsoon-preparing-to-withdraw-from-many-parts-of-the-country/",
-      "important": false
-    },
-    {
-      "id": "58a3ae4b",
-      "title": "भारत के मसाला निर्यातकों को थाईलैंड के कीटनाशक अवशेष मानकों के पालन की सलाह",
-      "summary": "भारत के मसाला निर्यातकों को थाईलैंड के कीटनाशक अवशेष मानकों के पालन की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/indian-spice-exporters-advised-to-comply-with-thailands-pesticide-residue-standards/",
       "important": false
     }
   ]
