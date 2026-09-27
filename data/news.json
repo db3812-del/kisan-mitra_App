@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-27T11:46:29Z",
-  "new_count": 0,
+  "updated": "2026-09-27T16:44:58Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "695b9c65",
+      "title": "कर्नाटक की GI टैग वाली ‘गुलबर्गा तुअर दाल’ की पहली खेप पहुंची मालदीव, एपीडा के जरिए किसानों को मिले 30% ज्यादा दाम",
+      "summary": "कर्नाटक की GI टैग वाली ‘गुलबर्गा तुअर दाल’ की पहली खेप पहुंची मालदीव, एपीडा के जरिए किसानों को मिले 30% ज्यादा दाम",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/first-consignment-of-karnatakas-gi-tagged-gulbarga-tur-dal-reaches-maldives-farmers-receive-30-higher-prices-through-apeda/",
+      "important": false
+    },
+    {
+      "id": "ec0a5eac",
+      "title": "छिंदवाड़ा में लगा 42वां साप्ताहिक जैविक हाट",
+      "summary": "छिंदवाड़ा में लगा 42वां साप्ताहिक जैविक हाट",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/42nd-weekly-organic-market-held-in-chhindwara/",
+      "important": false
+    },
+    {
+      "id": "16420cb0",
+      "title": "फसल नुकसान के पंचनामे पर सूचना आयोग का शिकंजा, तहसीलदार पर ₹25 हजार की शास्ति",
+      "summary": "फसल नुकसान के पंचनामे पर सूचना आयोग का शिकंजा, तहसीलदार पर ₹25 हजार की शास्ति",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/information-commission-cracks-down-on-crop-loss-assessment-reports-%e2%82%b925000-penalty-imposed-on-tehsildar/",
+      "important": false
+    },
+    {
+      "id": "4ce6f332",
+      "title": "राष्ट्रीय रबी सम्मेलन 28-29 सितंबर को नई दिल्ली में",
+      "summary": "राष्ट्रीय रबी सम्मेलन 28-29 सितंबर को नई दिल्ली में",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/national-rabi-conference-in-new-delhi-on-september-28-29/",
+      "important": false
+    },
+    {
+      "id": "66f543a6",
+      "title": "मध्यप्रदेश के 13 जिलों में अति भारी वर्षा का ऑरेंज अलर्ट",
+      "summary": "मध्यप्रदेश के 13 जिलों में अति भारी वर्षा का ऑरेंज अलर्ट",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/orange-alert-for-extremely-heavy-rainfall-in-13-districts-of-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "6a5fa60c",
+      "title": "गुजरात में 63 लाख से ज्यादा किसानों ने कराया फार्मर रजिस्ट्री में पंजीकरण",
+      "summary": "गुजरात में 63 लाख से ज्यादा किसानों ने कराया फार्मर रजिस्ट्री में पंजीकरण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/more-than-63-lakh-farmers-in-gujarat-have-registered-in-the-farmer-registry/",
+      "important": false
+    },
+    {
+      "id": "f23ecb47",
+      "title": "पंजाब में गन्ना किसानों को मशीनीकरण पर 40 प्रतिशत सब्सिडी, 12 जिले शामिल",
+      "summary": "पंजाब में गन्ना किसानों को मशीनीकरण पर 40 प्रतिशत सब्सिडी, 12 जिले शामिल",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/40-subsidy-on-mechanization-for-sugarcane-farmers-in-punjab-12-districts-included/",
+      "important": false
+    },
+    {
+      "id": "5f813cd2",
+      "title": "खाद्य तेलों पर आयात शुल्क घटा, सूरजमुखी तेल पर अब शून्य शुल्क",
+      "summary": "खाद्य तेलों पर आयात शुल्क घटा, सूरजमुखी तेल पर अब शून्य शुल्क",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/import-duty-on-edible-oils-reduced-zero-duty-on-sunflower-oil-now/",
+      "important": false
+    },
     {
       "id": "b3f1de2a",
       "title": "गुजरात में कपास पर सफेद मक्खी और जड़ सड़न का खतरा, कृषि मौसम विभाग ने दी दवा की सलाह",
@@ -462,94 +550,6 @@
       "date": "2026-09-23",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/fisheries-and-aquaculture-in-bengal-to-get-a-boost-%e2%82%b949-95-crore-approved-for-the-development-of-6-water-bodies/",
-      "important": false
-    },
-    {
-      "id": "51e620e5",
-      "title": "अशोकनगर : आयुष्मान आरोग्य मंदिरों पर रोपे औषधीय पौधे",
-      "summary": "अशोकनगर : आयुष्मान आरोग्य मंदिरों पर रोपे औषधीय पौधे",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ashoknagar-medicinal-plants-planted-at-ayushman-arogya-mandirs/",
-      "important": false
-    },
-    {
-      "id": "7d448b87",
-      "title": "अनीता बाई ने एक हेक्टेयर में अपनाई अरहर की उन्नत खेती, वैज्ञानिक तकनीक से मिली शानदार फसल",
-      "summary": "अनीता बाई ने एक हेक्टेयर में अपनाई अरहर की उन्नत खेती, वैज्ञानिक तकनीक से मिली शानदार फसल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/anita-bai-adopted-advanced-pigeon-pea-arhar-cultivation-on-one-hectare-scientific-techniques-yielded-an-excellent-crop/",
-      "important": false
-    },
-    {
-      "id": "332d7dde",
-      "title": "दतिया : किसान सम्मान निधि बनी खेती का मजबूत सहारा",
-      "summary": "दतिया : किसान सम्मान निधि बनी खेती का मजबूत सहारा",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/datia-kisan-samman-nidhi-becomes-a-strong-support-for-farming/",
-      "important": false
-    },
-    {
-      "id": "cb9b5efb",
-      "title": "समृद्ध किसान-समृद्ध प्रदेश की थीम पर मनाया जाएगा मध्यप्रदेश स्थापना दिवस: सीएम डॉ. यादव",
-      "summary": "समृद्ध किसान-समृद्ध प्रदेश की थीम पर मनाया जाएगा मध्यप्रदेश स्थापना दिवस: सीएम डॉ. यादव",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-foundation-day-to-be-celebrated-with-the-theme-prosperous-farmers-prosperous-state-cm-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "154c595a",
-      "title": "इफको अध्यक्ष श्री संघानी ग्लोबल बोर्ड के निर्देशक निर्वाचित",
-      "summary": "इफको अध्यक्ष श्री संघानी ग्लोबल बोर्ड के निर्देशक निर्वाचित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/iffco-chairman-mr-sanghani-elected-as-director-of-the-global-board/",
-      "important": false
-    },
-    {
-      "id": "492c8847",
-      "title": "कृषि मंत्री के गढ़ में रिश्वतखोरी! सब्सिडी के लिए मंत्रालय का अधिकारी मांग रहा था लाखों",
-      "summary": "कृषि मंत्री के गढ़ में रिश्वतखोरी! सब्सिडी के लिए मंत्रालय का अधिकारी मांग रहा था लाखों",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/bribery-in-the-agriculture-ministers-stronghold-ministry-official-demanded-lakhs-for-a-subsidy/",
-      "important": false
-    },
-    {
-      "id": "bfc93b21",
-      "title": "आज का गेहूं मंडी रेट (22 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (22 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-22-september-2026/",
-      "important": false
-    },
-    {
-      "id": "f46b9e3c",
-      "title": "आज का धान मंडी रेट (22 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (22 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-22-september-2026/",
       "important": false
     }
   ]
