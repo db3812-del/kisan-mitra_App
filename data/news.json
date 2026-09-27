@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-27T16:44:58Z",
-  "new_count": 8,
+  "updated": "2026-09-27T21:10:25Z",
+  "new_count": 4,
   "articles": [
+    {
+      "id": "d0e3912a",
+      "title": "छत्तीसगढ़ के गुलाब पटेल ने मछली पालन से कमाए 10-15 लाख रुपये सालाना",
+      "summary": "छत्तीसगढ़ के गुलाब पटेल ने मछली पालन से कमाए 10-15 लाख रुपये सालाना",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gulab-patel-from-chhattisgarh-earns-%e2%82%b910-15-lakh-annually-from-fish-farming/",
+      "important": false
+    },
+    {
+      "id": "20194e67",
+      "title": "हिमाचल में अदरक की फसल पर फाइलोस्टिक्टा ब्लाइट का हमला, केवीके ने बताई दवा और मात्रा",
+      "summary": "हिमाचल में अदरक की फसल पर फाइलोस्टिक्टा ब्लाइट का हमला, केवीके ने बताई दवा और मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/phyllosticta-blight-attacks-ginger-crop-in-himachal-kvk-specifies-remedy-and-dosage/",
+      "important": false
+    },
+    {
+      "id": "8ff4f2e0",
+      "title": "जीविका से जुड़ी रीना देवी ने ड्रैगन फ्रूट की खेती से बदली किस्मत, अब सालाना 7-8 लाख की कमाई",
+      "summary": "जीविका से जुड़ी रीना देवी ने ड्रैगन फ्रूट की खेती से बदली किस्मत, अब सालाना 7-8 लाख की कमाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/reena-devi-associated-with-the-jeevika-initiative-transformed-her-fortunes-through-dragon-fruit-farming-she-now-earns-%e2%82%b97-8-lakh-annually/",
+      "important": false
+    },
+    {
+      "id": "36157f56",
+      "title": "पीएम फसल बीमा में राजस्थान का बेहतर प्रदर्शन, देश में चौथा स्थान; किसानों को ₹35,600 करोड़ के क्लेम का भुगतान",
+      "summary": "पीएम फसल बीमा में राजस्थान का बेहतर प्रदर्शन, देश में चौथा स्थान; किसानों को ₹35,600 करोड़ के क्लेम का भुगतान",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-performs-well-in-pm-crop-insurance-scheme-securing-fourth-place-nationwide-farmers-paid-claims-worth-%e2%82%b935600-crore/",
+      "important": false
+    },
     {
       "id": "695b9c65",
       "title": "कर्नाटक की GI टैग वाली ‘गुलबर्गा तुअर दाल’ की पहली खेप पहुंची मालदीव, एपीडा के जरिए किसानों को मिले 30% ज्यादा दाम",
@@ -506,50 +550,6 @@
       "date": "2026-09-23",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/a-group-of-50-farmers-has-left-for-rajasthan-to-learn-modern-techniques-of-pearl-millet-cultivation/",
-      "important": false
-    },
-    {
-      "id": "93c63342",
-      "title": "कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
-      "summary": "कम वर्षा को देखते हुए रबी में कम पानी वाली फसलों को दें प्राथमिकता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/given-the-low-rainfall-prioritize-low-water-consuming-crops-for-the-rabi-season-2/",
-      "important": false
-    },
-    {
-      "id": "06866e1d",
-      "title": "नंदी सीड्स के बिजनेस हेड बने श्री अनिल कोल्ते",
-      "summary": "नंदी सीड्स के बिजनेस हेड बने श्री अनिल कोल्ते",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mr-anil-kolte-appointed-business-head-of-nandi-seeds/",
-      "important": false
-    },
-    {
-      "id": "974f8fbf",
-      "title": "शिवपुरी: उन्नत तकनीक से संवरी सोबरन सिंह की खेती",
-      "summary": "शिवपुरी: उन्नत तकनीक से संवरी सोबरन सिंह की खेती",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shivpuri-sobaran-singhs-farming-transformed-through-advanced-technology/",
-      "important": false
-    },
-    {
-      "id": "10ff3ecb",
-      "title": "बंगाल में मत्स्य पालन और जलीय कृषि को मिलेगा बढ़ावा, 6 जलाशयों के विकास के लिए ₹49.95 करोड़ की मंजूरी",
-      "summary": "बंगाल में मत्स्य पालन और जलीय कृषि को मिलेगा बढ़ावा, 6 जलाशयों के विकास के लिए ₹49.95 करोड़ की मंजूरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/fisheries-and-aquaculture-in-bengal-to-get-a-boost-%e2%82%b949-95-crore-approved-for-the-development-of-6-water-bodies/",
       "important": false
     }
   ]
