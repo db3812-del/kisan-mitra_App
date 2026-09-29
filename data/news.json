@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-29T12:30:59Z",
-  "new_count": 8,
+  "updated": "2026-09-29T22:05:11Z",
+  "new_count": 2,
   "articles": [
+    {
+      "id": "1fe2b479",
+      "title": "आंध्र प्रदेश में इस बार 37 लाख टन धान खरीदेगी सरकार, राज्यभर में खुलेंगे 2,619 खरीद केंद्र",
+      "summary": "आंध्र प्रदेश में इस बार 37 लाख टन धान खरीदेगी सरकार, राज्यभर में खुलेंगे 2,619 खरीद केंद्र",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-government-will-procure-3-7-million-tonnes-of-paddy-in-andhra-pradesh-this-time-2619-procurement-centers-will-be-opened-across-the-state/",
+      "important": false
+    },
+    {
+      "id": "5cddbb35",
+      "title": "बिहार में किसानों को फेरोमोन ट्रैप और स्टिकी ट्रैप पर मिलेगी 75 प्रतिशत तक सब्सिडी",
+      "summary": "बिहार में किसानों को फेरोमोन ट्रैप और स्टिकी ट्रैप पर मिलेगी 75 प्रतिशत तक सब्सिडी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-bihar-will-receive-a-subsidy-of-up-to-75-percent-on-pheromone-traps-and-sticky-traps/",
+      "important": false
+    },
     {
       "id": "7e8da2e2",
       "title": "आज का गेहूं मंडी रेट (29 सितंबर 2026)",
@@ -528,28 +550,6 @@
       "date": "2026-09-24",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/millet-cultivation-expanding-in-sidhi-promotion-of-ragi-and-kodo-farming-across-4500-hectares-cm-mohan-yadav/",
-      "important": false
-    },
-    {
-      "id": "a55fda7b",
-      "title": "MSP पर धान-ज्वार-बाजरा बेचने के लिए पंजीयन जारी, अब तक 13,508 किसान जुड़े; 10 अक्टूबर अंतिम तारीख",
-      "summary": "MSP पर धान-ज्वार-बाजरा बेचने के लिए पंजीयन जारी, अब तक 13,508 किसान जुड़े; 10 अक्टूबर अंतिम तारीख",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/registration-open-for-selling-paddy-jowar-and-bajra-at-msp-13508-farmers-have-registered-so-far-october-10-is-the-deadline/",
-      "important": true
-    },
-    {
-      "id": "ccdc2c04",
-      "title": "शहडोल: सर्वोत्तम कृषक पुरस्कार हेतु 30 सितम्बर तक आवेदन आमंत्रित",
-      "summary": "शहडोल: सर्वोत्तम कृषक पुरस्कार हेतु 30 सितम्बर तक आवेदन आमंत्रित",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shahdol-applications-invited-for-the-best-farmer-award-until-september-30/",
       "important": false
     }
   ]
