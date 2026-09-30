@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-30T05:00:56Z",
-  "new_count": 0,
+  "updated": "2026-09-30T12:15:59Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "b5119d56",
+      "title": "मध्यप्रदेश बीज संघ बनेगा देश का अग्रणी संस्थान: पैक्स-एफपीओ के जरिए किसानों तक पहुंचेंगे गुणवत्तापूर्ण बीज",
+      "summary": "मध्यप्रदेश बीज संघ बनेगा देश का अग्रणी संस्थान: पैक्स-एफपीओ के जरिए किसानों तक पहुंचेंगे गुणवत्तापूर्ण बीज",
+      "level": "state",
+      "category": "general",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-seed-federation-to-become-the-countrys-leading-institution-quality-seeds-to-reach-farmers-via-pacs-and-fpos/",
+      "important": false
+    },
+    {
+      "id": "7591bc55",
+      "title": "न्यू हॉलैंड ने छत्तीसगढ़ में 3230 TX ट्रैक्टर लॉन्च किया",
+      "summary": "न्यू हॉलैंड ने छत्तीसगढ़ में 3230 TX ट्रैक्टर लॉन्च किया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/new-holland-launched-the-3230-tx-tractor-in-chhattisgarh/",
+      "important": false
+    },
+    {
+      "id": "c4a2aceb",
+      "title": "MSP से कम बिकने नहीं देंगे उपज: दाल-तिलहन खरीद में देरी पर NAFED और NCCF खुद उतरेंगे मैदान में",
+      "summary": "MSP से कम बिकने नहीं देंगे उपज: दाल-तिलहन खरीद में देरी पर NAFED और NCCF खुद उतरेंगे मैदान में",
+      "level": "central",
+      "category": "price",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/wont-let-produce-sell-below-msp-nafed-and-nccf-to-step-in-directly-amid-delays-in-pulse-and-oilseed-procurement/",
+      "important": true
+    },
+    {
+      "id": "4129567b",
+      "title": "2015 के बाद खाद्यान्न उत्पादन में बड़ा उछाल, वार्षिक वृद्धि दर बढ़कर 8.4 मिलियन टन पहुंची: मंत्री शिवराज सिंह चौहान",
+      "summary": "2015 के बाद खाद्यान्न उत्पादन में बड़ा उछाल, वार्षिक वृद्धि दर बढ़कर 8.4 मिलियन टन पहुंची: मंत्री शिवराज सिंह चौहान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/significant-surge-in-food-grain-production-since-2015-annual-growth-rate-reached-8-4-million-tonnes-minister-shivraj-singh-chouhan/",
+      "important": false
+    },
+    {
+      "id": "f0b95149",
+      "title": "आज का गेहूं मंडी रेट (30 सितंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (30 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-30-september-2026/",
+      "important": false
+    },
+    {
+      "id": "41ea1374",
+      "title": "आज का धान मंडी रेट (30 सितंबर 2026)",
+      "summary": "आज का धान मंडी रेट (30 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-30-september-2026/",
+      "important": false
+    },
+    {
+      "id": "3909963c",
+      "title": "आज का मक्का मंडी रेट (30 सितंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (30 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-30-september-2026/",
+      "important": false
+    },
     {
       "id": "1fe2b479",
       "title": "आंध्र प्रदेश में इस बार 37 लाख टन धान खरीदेगी सरकार, राज्यभर में खुलेंगे 2,619 खरीद केंद्र",
@@ -473,83 +550,6 @@
       "date": "2026-09-26",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/farmers-should-choose-low-water-consuming-crops-in-case-of-scanty-rainfall-joint-director-of-agriculture-indore/",
-      "important": false
-    },
-    {
-      "id": "cab584b0",
-      "title": "धानुका एग्रीटेक ने धान की फसल के लिए ‘पोलिन’ फफूंदनाशी लॉन्च किया",
-      "summary": "धानुका एग्रीटेक ने धान की फसल के लिए ‘पोलिन’ फफूंदनाशी लॉन्च किया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/dhanuka-agritech-has-launched-the-polin-fungicide-for-paddy-crops/",
-      "important": false
-    },
-    {
-      "id": "c043ca1f",
-      "title": "मध्यप्रदेश के 15 जिलों में भारी वर्षा का येलो अलर्ट जारी",
-      "summary": "मध्यप्रदेश के 15 जिलों में भारी वर्षा का येलो अलर्ट जारी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/yellow-alert-issued-for-heavy-rainfall-in-15-districts-of-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "97cdd81a",
-      "title": "‘अमारा राजा बेटर वे अवार्ड्स’ के लिए 11 नवंबर तक आवेदन आमंत्रित",
-      "summary": "‘अमारा राजा बेटर वे अवार्ड्स’ के लिए 11 नवंबर तक आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/applications-invited-for-amara-raja-better-way-awards-until-november-11/",
-      "important": false
-    },
-    {
-      "id": "4bb994a0",
-      "title": "रायपुर : सरगुजा के अन्नदाताओं को बड़ी सौगात, खुलेंगे 7 नए धान उपार्जन केंद्र; घर के नजदीक मिलेगी धान बेचने की सुविधा",
-      "summary": "रायपुर : सरगुजा के अन्नदाताओं को बड़ी सौगात, खुलेंगे 7 नए धान उपार्जन केंद्र; घर के नजदीक मिलेगी धान बेचने की सुविधा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-a-major-boon-for-the-farmers-of-surguja-7-new-paddy-procurement-centers-to-open-facility-to-sell-paddy-close-to-home/",
-      "important": false
-    },
-    {
-      "id": "c292f843",
-      "title": "जबलपुर: जैविक कृषि और एकीकृत कृषि से समृद्धि की नई इबारत लिखते उमेश सिंह",
-      "summary": "जबलपुर: जैविक कृषि और एकीकृत कृषि से समृद्धि की नई इबारत लिखते उमेश सिंह",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jabalpur-umesh-singh-scripting-a-new-success-story-through-organic-and-integrated-farming/",
-      "important": false
-    },
-    {
-      "id": "986e0c5a",
-      "title": "शहडोल: किसानों को बताया दलहन, धान एवं मिर्च फसलों में कीट-व्याधि प्रबंधन",
-      "summary": "शहडोल: किसानों को बताया दलहन, धान एवं मिर्च फसलों में कीट-व्याधि प्रबंधन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shahdol-farmers-briefed-on-pest-and-disease-management-for-pulse-paddy-and-chili-crops/",
-      "important": false
-    },
-    {
-      "id": "874b949f",
-      "title": "सीधी में बढ़ रहा मिलेट का दायरा, 4,500 हेक्टेयर में रागी-कोदो की खेती को बढ़ावा: सीएम मोहन यादव",
-      "summary": "सीधी में बढ़ रहा मिलेट का दायरा, 4,500 हेक्टेयर में रागी-कोदो की खेती को बढ़ावा: सीएम मोहन यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/millet-cultivation-expanding-in-sidhi-promotion-of-ragi-and-kodo-farming-across-4500-hectares-cm-mohan-yadav/",
       "important": false
     }
   ]
