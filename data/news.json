@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-30T12:15:59Z",
-  "new_count": 7,
+  "updated": "2026-09-30T22:04:32Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "29663808",
+      "title": "आज का सोयाबीन मंडी रेट (30 सितंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (30 सितंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-30-september-2026/",
+      "important": false
+    },
+    {
+      "id": "edf3a495",
+      "title": "गुजरात में मूंगफली की फली विकास अवस्था में सफेद लट व चूसक कीट का खतरा, तुरंत करें यह छिड़काव",
+      "summary": "गुजरात में मूंगफली की फली विकास अवस्था में सफेद लट व चूसक कीट का खतरा, तुरंत करें यह छिड़काव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-white-grubs-and-sucking-pests-during-the-groundnut-pod-development-stage-in-gujarat-carry-out-this-spray-immediately/",
+      "important": false
+    },
+    {
+      "id": "41ebd259",
+      "title": "फसल बीमा योजना में राजस्थान को मिला देश में चौथा स्थान, किसानों को 35,600 करोड़ के क्लेम",
+      "summary": "फसल बीमा योजना में राजस्थान को मिला देश में चौथा स्थान, किसानों को 35,600 करोड़ के क्लेम",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-ranks-fourth-in-the-country-in-the-crop-insurance-scheme-farmers-receive-claims-worth-%e2%82%b935600-crore/",
+      "important": false
+    },
+    {
+      "id": "4a29fdc7",
+      "title": "मध्य प्रदेश में फसल अवशेष प्रबंधन यंत्रों पर 50% सब्सिडी, 6 अक्टूबर आवेदन की अंतिम तारीख",
+      "summary": "मध्य प्रदेश में फसल अवशेष प्रबंधन यंत्रों पर 50% सब्सिडी, 6 अक्टूबर आवेदन की अंतिम तारीख",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/50-subsidy-on-crop-residue-management-machinery-in-madhya-pradesh-october-6-is-the-last-date-to-apply/",
+      "important": true
+    },
+    {
+      "id": "3727b3fb",
+      "title": "पश्चिम बंगाल के सुब्रत महेश ड्रैगन फ्रूट से कमा रहे सालाना 12.5 लाख रुपए से ज्यादा",
+      "summary": "पश्चिम बंगाल के सुब्रत महेश ड्रैगन फ्रूट से कमा रहे सालाना 12.5 लाख रुपए से ज्यादा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/subrata-mahesh-from-west-bengal-is-earning-over-%e2%82%b912-5-lakh-annually-from-dragon-fruit/",
+      "important": false
+    },
+    {
+      "id": "d5f1828c",
+      "title": "अलवर के महेंद्र ने पॉलीहाउस में खीरे की खेती से बदली तस्वीर, 10 परिवारों को मिला रोजगार",
+      "summary": "अलवर के महेंद्र ने पॉलीहाउस में खीरे की खेती से बदली तस्वीर, 10 परिवारों को मिला रोजगार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mahendra-from-alwar-transformed-his-fortunes-through-polyhouse-cucumber-farming-10-families-gained-employment/",
+      "important": false
+    },
+    {
+      "id": "b06a44f7",
+      "title": "मध्य प्रदेश के 13 जिलों में हल्की वर्षा/बौछारें संभावित",
+      "summary": "मध्य प्रदेश के 13 जिलों में हल्की वर्षा/बौछारें संभावित",
+      "level": "state",
+      "category": "price",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/light-rain-showers-likely-in-13-districts-of-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "f007c5f9",
+      "title": "छत्तीसगढ़ के कृषि विकास के लिए केंद्र ने जारी किए ₹181.99 करोड़, किसानों को मिलेगा लाभ",
+      "summary": "छत्तीसगढ़ के कृषि विकास के लिए केंद्र ने जारी किए ₹181.99 करोड़, किसानों को मिलेगा लाभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-09-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/centre-releases-%e2%82%b9181-99-crore-for-chhattisgarhs-agricultural-development-farmers-to-benefit/",
+      "important": false
+    },
     {
       "id": "b5119d56",
       "title": "मध्यप्रदेश बीज संघ बनेगा देश का अग्रणी संस्थान: पैक्स-एफपीओ के जरिए किसानों तक पहुंचेंगे गुणवत्तापूर्ण बीज",
@@ -462,94 +550,6 @@
       "date": "2026-09-26",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/paddy-crop-ready-farmers-ask-why-wait-until-october-1-government-procurement-should-start-early/",
-      "important": false
-    },
-    {
-      "id": "a77e4aee",
-      "title": "सरकारी नौकरी नहीं मिली तो खेती को बनाया रोजगार, अब रोम में सम्मानित होंगी मिजोरम की ‘स्ट्रॉबेरी वुमन’",
-      "summary": "सरकारी नौकरी नहीं मिली तो खेती को बनाया रोजगार, अब रोम में सम्मानित होंगी मिजोरम की ‘स्ट्रॉबेरी वुमन’",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/turned-to-farming-after-failing-to-secure-a-government-job-mizorams-strawberry-woman-to-be-honoured-in-rome/",
-      "important": false
-    },
-    {
-      "id": "cce40a8f",
-      "title": "कृषक पुरस्कार के आवेदन आमंत्रित",
-      "summary": "कृषक पुरस्कार के आवेदन आमंत्रित",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/applications-invited-for-farmer-awards/",
-      "important": false
-    },
-    {
-      "id": "47e42e65",
-      "title": "बलराम कृषि महोत्सव में श्रीअन्न फसलों पर जौर मुख्यमंत्री का वर्चुअल किसानों से संवाद",
-      "summary": "बलराम कृषि महोत्सव में श्रीअन्न फसलों पर जौर मुख्यमंत्री का वर्चुअल किसानों से संवाद",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chief-ministers-virtual-interaction-with-farmers-on-shrianna-crops-at-balram-krishi-mahotsav/",
-      "important": false
-    },
-    {
-      "id": "db5d0944",
-      "title": "इंदौर: धान, ज्वार एवं बाजरा उपार्जन के लिये 13 हजार से अधिक किसानों ने कराया पंजीयन",
-      "summary": "इंदौर: धान, ज्वार एवं बाजरा उपार्जन के लिये 13 हजार से अधिक किसानों ने कराया पंजीयन",
-      "level": "state",
-      "category": "price",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/indore-over-13000-farmers-have-registered-for-the-procurement-of-paddy-sorghum-jowar-and-pearl-millet-bajra/",
-      "important": false
-    },
-    {
-      "id": "608a6c91",
-      "title": "किसान कृषि की नई तकनीक, फसल विविधीकरण और खाद्य प्रसंस्करण गतिविधियों को अपनाएं : मुख्यमंत्री डॉ. यादव",
-      "summary": "किसान कृषि की नई तकनीक, फसल विविधीकरण और खाद्य प्रसंस्करण गतिविधियों को अपनाएं : मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-should-adopt-new-agricultural-techniques-crop-diversification-and-food-processing-activities-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "498c5e2c",
-      "title": "रायपुर: जैविक कचरे से बनेगी खाद, ग्रामीणों को कम्पोस्टिंग और वर्मी कम्पोस्टिंग की दी जानकारी",
-      "summary": "रायपुर: जैविक कचरे से बनेगी खाद, ग्रामीणों को कम्पोस्टिंग और वर्मी कम्पोस्टिंग की दी जानकारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-manure-to-be-produced-from-organic-waste-villagers-informed-about-composting-and-vermicomposting/",
-      "important": false
-    },
-    {
-      "id": "7c2c71c1",
-      "title": "अंडमान में खरीफ 2026 फील्ड डे, उन्नत धान किस्मों और बीज उत्पादन तकनीकों का किया प्रदर्शन",
-      "summary": "अंडमान में खरीफ 2026 फील्ड डे, उन्नत धान किस्मों और बीज उत्पादन तकनीकों का किया प्रदर्शन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/kharif-2026-field-day-in-andaman-advanced-paddy-varieties-and-seed-production-techniques-demonstrated/",
-      "important": false
-    },
-    {
-      "id": "0d7c6ad2",
-      "title": "कम वर्षा की स्थिति में कम पानी वाली फसलों का चयन करें किसान – संयुक्त संचालक कृषि इंदौर",
-      "summary": "कम वर्षा की स्थिति में कम पानी वाली फसलों का चयन करें किसान – संयुक्त संचालक कृषि इंदौर",
-      "level": "state",
-      "category": "general",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-should-choose-low-water-consuming-crops-in-case-of-scanty-rainfall-joint-director-of-agriculture-indore/",
       "important": false
     }
   ]
