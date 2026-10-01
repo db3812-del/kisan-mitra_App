@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-01T12:51:00Z",
-  "new_count": 0,
+  "updated": "2026-10-01T22:31:42Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "d8bb02d3",
+      "title": "कीट नियंत्रण के लिए किसानों को 75 प्रतिशत तक अनुदान",
+      "summary": "कीट नियंत्रण के लिए किसानों को 75 प्रतिशत तक अनुदान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/subsidy-of-up-to-75-percent-for-farmers-for-pest-control/",
+      "important": false
+    },
+    {
+      "id": "8cf9136f",
+      "title": "आज का गेहूं मंडी रेट (01 अक्टूबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (01 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-01-october-2026/",
+      "important": false
+    },
+    {
+      "id": "9a1083c4",
+      "title": "आज का मक्का मंडी रेट (01 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (01 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-01-october-2026/",
+      "important": false
+    },
+    {
+      "id": "6b2a7ec4",
+      "title": "आज का धान मंडी रेट (01 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (01 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-01-october-2026/",
+      "important": false
+    },
+    {
+      "id": "5dec5adb",
+      "title": "आज का सोयाबीन मंडी रेट (01 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (01 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-01-october-2026/",
+      "important": false
+    },
+    {
+      "id": "d52283d4",
+      "title": "आलीराजपुर: प्राकृतिक खेती अपनाकर खेती की लागत घटा रहे महेश माली, हो रही अतिरिक्त बचत",
+      "summary": "आलीराजपुर: प्राकृतिक खेती अपनाकर खेती की लागत घटा रहे महेश माली, हो रही अतिरिक्त बचत",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/alirajpur-mahesh-mali-is-reducing-farming-costs-by-adopting-natural-farming-and-generating-extra-savings/",
+      "important": false
+    },
+    {
+      "id": "c6956eb5",
+      "title": "जिला कांग्रेस कमेटी पांढुर्ना ने राष्ट्रपति के नाम ज्ञापन सौंपा",
+      "summary": "जिला कांग्रेस कमेटी पांढुर्ना ने राष्ट्रपति के नाम ज्ञापन सौंपा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-pandhurna-district-congress-committee-submitted-a-memorandum-addressed-to-the-president/",
+      "important": false
+    },
+    {
+      "id": "0f7f3b19",
+      "title": "एरिस एग्रो ने गुजरात में नई इकाई के साथ विनिर्माण क्षमता बढ़ाकर 1,01,400 मीट्रिक टन की",
+      "summary": "एरिस एग्रो ने गुजरात में नई इकाई के साथ विनिर्माण क्षमता बढ़ाकर 1,01,400 मीट्रिक टन की",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-01",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/eris-agro-has-increased-its-manufacturing-capacity-to-101400-metric-tonnes-with-a-new-unit-in-gujarat/",
+      "important": false
+    },
     {
       "id": "29663808",
       "title": "आज का सोयाबीन मंडी रेट (30 सितंबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-09-27",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/orange-alert-for-extremely-heavy-rainfall-in-13-districts-of-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "6a5fa60c",
-      "title": "गुजरात में 63 लाख से ज्यादा किसानों ने कराया फार्मर रजिस्ट्री में पंजीकरण",
-      "summary": "गुजरात में 63 लाख से ज्यादा किसानों ने कराया फार्मर रजिस्ट्री में पंजीकरण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/more-than-63-lakh-farmers-in-gujarat-have-registered-in-the-farmer-registry/",
-      "important": false
-    },
-    {
-      "id": "f23ecb47",
-      "title": "पंजाब में गन्ना किसानों को मशीनीकरण पर 40 प्रतिशत सब्सिडी, 12 जिले शामिल",
-      "summary": "पंजाब में गन्ना किसानों को मशीनीकरण पर 40 प्रतिशत सब्सिडी, 12 जिले शामिल",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/40-subsidy-on-mechanization-for-sugarcane-farmers-in-punjab-12-districts-included/",
-      "important": false
-    },
-    {
-      "id": "5f813cd2",
-      "title": "खाद्य तेलों पर आयात शुल्क घटा, सूरजमुखी तेल पर अब शून्य शुल्क",
-      "summary": "खाद्य तेलों पर आयात शुल्क घटा, सूरजमुखी तेल पर अब शून्य शुल्क",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/import-duty-on-edible-oils-reduced-zero-duty-on-sunflower-oil-now/",
-      "important": false
-    },
-    {
-      "id": "b3f1de2a",
-      "title": "गुजरात में कपास पर सफेद मक्खी और जड़ सड़न का खतरा, कृषि मौसम विभाग ने दी दवा की सलाह",
-      "summary": "गुजरात में कपास पर सफेद मक्खी और जड़ सड़न का खतरा, कृषि मौसम विभाग ने दी दवा की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-whitefly-and-root-rot-in-gujarats-cotton-crop-agricultural-meteorology-department-advises-pesticide-application/",
-      "important": false
-    },
-    {
-      "id": "5f0c7478",
-      "title": "राजस्थान में मूंग की बंपर आवक, फिर भी किसानों को एमएसपी से कम दाम",
-      "summary": "राजस्थान में मूंग की बंपर आवक, फिर भी किसानों को एमएसपी से कम दाम",
-      "level": "central",
-      "category": "price",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bumper-arrival-of-moong-in-rajasthan-yet-farmers-get-prices-below-msp/",
-      "important": true
-    },
-    {
-      "id": "3a43c9d1",
-      "title": "छोटे किसानों को अब 6 प्रतिशत ब्याज पर मिलेगा 10 लाख तक का कृषि ऋण",
-      "summary": "छोटे किसानों को अब 6 प्रतिशत ब्याज पर मिलेगा 10 लाख तक का कृषि ऋण",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/small-farmers-will-now-get-agricultural-loans-of-up-to-%e2%82%b910-lakh-at-6-percent-interest/",
-      "important": false
-    },
-    {
-      "id": "d449d0e8",
-      "title": "90 दिन में तैयार होने वाली तोरिया बनी किसानों के लिए कमाई का नया विकल्प",
-      "summary": "90 दिन में तैयार होने वाली तोरिया बनी किसानों के लिए कमाई का नया विकल्प",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/small-farmers-will-now-get-agricultural-loans-of-up-to-%e2%82%b910-lakh-at-6-percent-interest-2/",
-      "important": false
-    },
-    {
-      "id": "5b2207d5",
-      "title": "धान पककर तैयार, किसान बोले- 1 अक्टूबर का इंतजार क्यों? जल्द शुरू हो सरकारी खरीद",
-      "summary": "धान पककर तैयार, किसान बोले- 1 अक्टूबर का इंतजार क्यों? जल्द शुरू हो सरकारी खरीद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/paddy-crop-ready-farmers-ask-why-wait-until-october-1-government-procurement-should-start-early/",
       "important": false
     }
   ]
