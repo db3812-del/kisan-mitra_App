@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-03T04:46:40Z",
-  "new_count": 0,
+  "updated": "2026-10-03T11:25:07Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "2a60ae14",
+      "title": "सोयाबीन किसानों के लिए राहत, भावांतर योजना में पंजीयन शुरू; इन केंद्रों पर मुफ्त में करा सकेंगे रजिस्ट्रेशन",
+      "summary": "सोयाबीन किसानों के लिए राहत, भावांतर योजना में पंजीयन शुरू; इन केंद्रों पर मुफ्त में करा सकेंगे रजिस्ट्रेशन",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/relief-for-soybean-farmers-registration-for-the-bhavantar-scheme-has-begun-registration-can-be-done-free-of-charge-at-these-centers/",
+      "important": false
+    },
+    {
+      "id": "3fb6ac60",
+      "title": "रबी फसलों की एमएसपी बढ़ी, अब चुनौती किसानों तक लाभ पहुंचाने की",
+      "summary": "रबी फसलों की एमएसपी बढ़ी, अब चुनौती किसानों तक लाभ पहुंचाने की",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/msp-for-rabi-crops-raised-the-challenge-now-is-to-ensure-the-benefits-reach-the-farmers/",
+      "important": true
+    },
+    {
+      "id": "3f3e0c4c",
+      "title": "अब मंडी जाने से पहले किसान जान सकेंगे भाव, यूपी की 251 मंडियां एगमार्कनेट 2.0 से जुड़ीं",
+      "summary": "अब मंडी जाने से पहले किसान जान सकेंगे भाव, यूपी की 251 मंडियां एगमार्कनेट 2.0 से जुड़ीं",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-will-now-be-able-to-check-prices-before-visiting-the-mandi-251-mandis-in-up-have-been-linked-to-agmarknet-2-0/",
+      "important": false
+    },
+    {
+      "id": "6d865c54",
+      "title": "बिहार में औषधीय खेती को बढ़ावा, 100 हेक्टेयर में एलोवेरा से शतावरी तक की खेती",
+      "summary": "बिहार में औषधीय खेती को बढ़ावा, 100 हेक्टेयर में एलोवेरा से शतावरी तक की खेती",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/promotion-of-medicinal-farming-in-bihar-cultivation-of-crops-ranging-from-aloe-vera-to-shatavari-across-100-hectares/",
+      "important": false
+    },
+    {
+      "id": "a09dc222",
+      "title": "फल-सब्जी से फूलों तक खेती पर अनुदान, हरियाणा में बागवानी किसानों के लिए सहायता योजना",
+      "summary": "फल-सब्जी से फूलों तक खेती पर अनुदान, हरियाणा में बागवानी किसानों के लिए सहायता योजना",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/subsidies-on-farming-ranging-from-fruits-and-vegetables-to-flowers-assistance-scheme-for-horticulture-farmers-in-haryana/",
+      "important": false
+    },
+    {
+      "id": "f788080b",
+      "title": "नमो ड्रोन दीदी योजना से बदली खेती की तस्वीर, गोदावरी साहू एक दिन में 20-25 एकड़ में कर रहीं छिड़काव",
+      "summary": "नमो ड्रोन दीदी योजना से बदली खेती की तस्वीर, गोदावरी साहू एक दिन में 20-25 एकड़ में कर रहीं छिड़काव",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/namo-drone-didi-scheme-transforms-the-agricultural-landscape-godavari-sahu-is-spraying-20-25-acres-in-a-single-day/",
+      "important": false
+    },
+    {
+      "id": "e0f81807",
+      "title": "कर्नाटक में सूखे को लेकर मल्लिकार्जुन  खड़गे ने पीएम मोदी को लिखी चिट्ठी, ₹3,705 करोड़ की मदद समेत रखीं 6 मांगें",
+      "summary": "कर्नाटक में सूखे को लेकर मल्लिकार्जुन  खड़गे ने पीएम मोदी को लिखी चिट्ठी, ₹3,705 करोड़ की मदद समेत रखीं 6 मांगें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/mallikarjun-kharge-writes-to-pm-modi-regarding-the-drought-in-karnataka-puts-forward-six-demands-including-financial-assistance-of-%e2%82%b93705-crore/",
+      "important": false
+    },
     {
       "id": "ef227144",
       "title": "कृषि विज्ञान केन्द्र, खरगोन के  वैज्ञानिक डॉ. सिंह सम्मानित",
@@ -473,83 +550,6 @@
       "date": "2026-09-29",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/threat-of-fly-speck-and-sooty-blotch-diseases-looms-over-himachals-apple-orchards-learn-how-to-protect-against-them/",
-      "important": false
-    },
-    {
-      "id": "8198ee72",
-      "title": "करेले की उन्नत खेती से महासमुंद के किसान नारायण प्रसाद वर्मा ने कमाया प्रति एकड़ एक लाख से ज्यादा मुनाफा",
-      "summary": "करेले की उन्नत खेती से महासमुंद के किसान नारायण प्रसाद वर्मा ने कमाया प्रति एकड़ एक लाख से ज्यादा मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/narayan-prasad-verma-a-farmer-from-mahasamund-earned-a-profit-of-over-one-lakh-rupees-per-acre-through-advanced-bitter-gourd-cultivation/",
-      "important": false
-    },
-    {
-      "id": "527f53fa",
-      "title": "छिंदवाड़ा : प्रधानमंत्री मत्स्य किसान समृद्धि सह योजना : ऑनलाइन आवेदन प्रक्रिया शुरू",
-      "summary": "छिंदवाड़ा : प्रधानमंत्री मत्स्य किसान समृद्धि सह योजना : ऑनलाइन आवेदन प्रक्रिया शुरू",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-pradhan-mantri-matsya-kisan-samriddhi-sah-yojana-online-application-process-begins/",
-      "important": false
-    },
-    {
-      "id": "793cdbaf",
-      "title": "पश्चिम बंगाल में धान की फसल पर तना बेधक और खैरा रोग का खतरा, IMD ने दी सलाह",
-      "summary": "पश्चिम बंगाल में धान की फसल पर तना बेधक और खैरा रोग का खतरा, IMD ने दी सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-stem-borer-and-khaira-disease-to-paddy-crops-in-west-bengal-imd-issues-advisory/",
-      "important": false
-    },
-    {
-      "id": "d83f78ff",
-      "title": "केरल में धान खरीद के लिए किसान पंजीयन की अंतिम तारीख भी 30 सितंबर",
-      "summary": "केरल में धान खरीद के लिए किसान पंजीयन की अंतिम तारीख भी 30 सितंबर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/the-deadline-for-farmer-registration-for-paddy-procurement-in-kerala-is-also-september-30/",
-      "important": true
-    },
-    {
-      "id": "596d6b1b",
-      "title": "एग्रीस्टैक किसान रजिस्ट्री की डेडलाइन 30 सितंबर, बिना पंजीयन अटकेगी पीएम-किसान किस्त",
-      "summary": "एग्रीस्टैक किसान रजिस्ट्री की डेडलाइन 30 सितंबर, बिना पंजीयन अटकेगी पीएम-किसान किस्त",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/deadline-for-agristack-farmer-registry-is-september-30-pm-kisan-installment-will-be-stalled-without-registration/",
-      "important": true
-    },
-    {
-      "id": "f640310c",
-      "title": "बस्तर के किसान ने मछली बीज उत्पादन से दो महीने में कमाए 30 हजार रुपये",
-      "summary": "बस्तर के किसान ने मछली बीज उत्पादन से दो महीने में कमाए 30 हजार रुपये",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bastar-farmer-earned-rs-30-thousand-in-two-months-from-fish-seed-production/",
-      "important": false
-    },
-    {
-      "id": "746c9e53",
-      "title": "पद्मश्री “दादा लाड” की तकनीक से कपास की उपज तीन गुना, आय में 40 फीसदी तक इजाफा",
-      "summary": "पद्मश्री “दादा लाड” की तकनीक से कपास की उपज तीन गुना, आय में 40 फीसदी तक इजाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/cotton-yield-triples-and-income-rises-by-up-to-40-using-padma-shri-dada-lads-technique/",
       "important": false
     }
   ]
