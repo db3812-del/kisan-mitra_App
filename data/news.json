@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-03T11:25:07Z",
-  "new_count": 7,
+  "updated": "2026-10-03T16:01:40Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "3abbb82f",
+      "title": "आज का गेहूं मंडी रेट (03 अक्टूबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (03 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-03-october-2026/",
+      "important": false
+    },
+    {
+      "id": "7082ab55",
+      "title": "आज का मक्का मंडी रेट (03 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (03 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-03-october-2026/",
+      "important": false
+    },
+    {
+      "id": "8337233b",
+      "title": "आज का धान मंडी रेट (03 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (03 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-03-october-2026/",
+      "important": false
+    },
+    {
+      "id": "bd5be911",
+      "title": "1 एकड़ में आम का बाग, साथ में सब्जियों की खेती; उमरिया के सूर्यपाल को मिल रही 20 हजार तक अतिरिक्त आय",
+      "summary": "1 एकड़ में आम का बाग, साथ में सब्जियों की खेती; उमरिया के सूर्यपाल को मिल रही 20 हजार तक अतिरिक्त आय",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mango-orchard-on-one-acre-combined-with-vegetable-farming-suryapal-from-umaria-is-earning-an-additional-income-of-up-to-%e2%82%b920000/",
+      "important": false
+    },
+    {
+      "id": "77fd7d4d",
+      "title": "आज का सोयाबीन मंडी रेट (03 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (03 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-03-october-2026/",
+      "important": false
+    },
+    {
+      "id": "66bd5d43",
+      "title": "हरदा के किसान ने अपनाई ड्रिप-मल्चिंग तकनीक, 2.25 एकड़ में मिर्च की खेती से कमाए 4.50 लाख रुपए",
+      "summary": "हरदा के किसान ने अपनाई ड्रिप-मल्चिंग तकनीक, 2.25 एकड़ में मिर्च की खेती से कमाए 4.50 लाख रुपए",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/harda-farmer-adopts-drip-mulching-technique-earns-%e2%82%b94-50-lakh-from-chilli-cultivation-on-2-25-acres/",
+      "important": false
+    },
+    {
+      "id": "b4664d8d",
+      "title": "देवास की बबीता चौधरी बनीं आत्मनिर्भर, कृषि-पशुपालन से कमा रहीं 1.65 लाख रुपए",
+      "summary": "देवास की बबीता चौधरी बनीं आत्मनिर्भर, कृषि-पशुपालन से कमा रहीं 1.65 लाख रुपए",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dewass-babita-chaudhary-becomes-self-reliant-earning-%e2%82%b91-65-lakh-from-agriculture-and-animal-husbandry/",
+      "important": false
+    },
+    {
+      "id": "a604f2a9",
+      "title": "अल्प वर्षा की स्थिति में रबी फसलों के लिए मैदानी अमले को दिया प्रशिक्षण",
+      "summary": "अल्प वर्षा की स्थिति में रबी फसलों के लिए मैदानी अमले को दिया प्रशिक्षण",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/training-provided-to-field-staff-for-rabi-crops-in-the-event-of-scanty-rainfall/",
+      "important": false
+    },
     {
       "id": "2a60ae14",
       "title": "सोयाबीन किसानों के लिए राहत, भावांतर योजना में पंजीयन शुरू; इन केंद्रों पर मुफ्त में करा सकेंगे रजिस्ट्रेशन",
@@ -462,94 +550,6 @@
       "date": "2026-09-29",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/the-government-will-procure-3-7-million-tonnes-of-paddy-in-andhra-pradesh-this-time-2619-procurement-centers-will-be-opened-across-the-state/",
-      "important": false
-    },
-    {
-      "id": "5cddbb35",
-      "title": "बिहार में किसानों को फेरोमोन ट्रैप और स्टिकी ट्रैप पर मिलेगी 75 प्रतिशत तक सब्सिडी",
-      "summary": "बिहार में किसानों को फेरोमोन ट्रैप और स्टिकी ट्रैप पर मिलेगी 75 प्रतिशत तक सब्सिडी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-bihar-will-receive-a-subsidy-of-up-to-75-percent-on-pheromone-traps-and-sticky-traps/",
-      "important": false
-    },
-    {
-      "id": "7e8da2e2",
-      "title": "आज का गेहूं मंडी रेट (29 सितंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (29 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-29-september-2026/",
-      "important": false
-    },
-    {
-      "id": "00caccfa",
-      "title": "आज का सोयाबीन मंडी रेट (29 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (29 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-29-september-2026/",
-      "important": false
-    },
-    {
-      "id": "1a84a7fa",
-      "title": "आज का धान मंडी रेट (29 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (29 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-29-september-2026/",
-      "important": false
-    },
-    {
-      "id": "7344b9fb",
-      "title": "आज का मक्का मंडी रेट (29 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (29 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-29-september-2026/",
-      "important": false
-    },
-    {
-      "id": "f3a646b7",
-      "title": "बेरोजगार युवाओं के लिए वरदान: ढींगरी (ऑयस्टर) मशरूम की खेती",
-      "summary": "बेरोजगार युवाओं के लिए वरदान: ढींगरी (ऑयस्टर) मशरूम की खेती",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-boon-for-unemployed-youth-dhingri-oyster-mushroom-cultivation/",
-      "important": false
-    },
-    {
-      "id": "6ba56713",
-      "title": "धान की बाली बनने के समय ब्लास्ट और जीवाणु झुलसा रोग का खतरा, जानें सही दवा और मात्रा",
-      "summary": "धान की बाली बनने के समय ब्लास्ट और जीवाणु झुलसा रोग का खतरा, जानें सही दवा और मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/risk-of-blast-and-bacterial-blight-during-the-paddy-ear-formation-stage-learn-about-the-right-pesticides-and-dosage/",
-      "important": false
-    },
-    {
-      "id": "daacb7da",
-      "title": "हिमाचल के सेब बागानों पर मंडराया फ्लाई स्पेक और सूटी ब्लॉच रोग का खतरा, जानें बचाव का तरीका",
-      "summary": "हिमाचल के सेब बागानों पर मंडराया फ्लाई स्पेक और सूटी ब्लॉच रोग का खतरा, जानें बचाव का तरीका",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/threat-of-fly-speck-and-sooty-blotch-diseases-looms-over-himachals-apple-orchards-learn-how-to-protect-against-them/",
       "important": false
     }
   ]
