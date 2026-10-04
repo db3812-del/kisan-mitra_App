@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-04T05:19:11Z",
-  "new_count": 0,
+  "updated": "2026-10-04T12:06:02Z",
+  "new_count": 3,
   "articles": [
+    {
+      "id": "6df914e3",
+      "title": "लहसुन की खेती से होगी अच्छी कमाई! उगा लें ये 12 उन्नत किस्में, 250 क्विंटल तक मिलेगी उपज, जानें खासियत",
+      "summary": "लहसुन की खेती से होगी अच्छी कमाई! उगा लें ये 12 उन्नत किस्में, 250 क्विंटल तक मिलेगी उपज, जानें खासियत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/earn-good-profits-from-garlic-farming-grow-these-12-improved-varieties-to-get-a-yield-of-up-to-250-quintals-learn-about-their-features/",
+      "important": false
+    },
+    {
+      "id": "b81d39e3",
+      "title": "सोयाबीन बीज के भंडारण में न करें ये गलतियां, नमी और फफूंद से बचाने का जानें सही तरीका",
+      "summary": "सोयाबीन बीज के भंडारण में न करें ये गलतियां, नमी और फफूंद से बचाने का जानें सही तरीका",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/avoid-these-mistakes-when-storing-soybean-seeds-learn-the-right-way-to-protect-them-from-moisture-and-fungus/",
+      "important": false
+    },
+    {
+      "id": "3414ef63",
+      "title": "मध्यप्रदेश में दूध उत्पादन बढ़ाने की बड़ी तैयारी, 50 लाख लीटर रोज का लक्ष्य; गौपालकों को मिली करोड़ों की सौगात",
+      "summary": "मध्यप्रदेश में दूध उत्पादन बढ़ाने की बड़ी तैयारी, 50 लाख लीटर रोज का लक्ष्य; गौपालकों को मिली करोड़ों की सौगात",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/major-push-to-boost-milk-production-in-madhya-pradesh-target-set-at-50-lakh-liters-daily-cattle-rearers-receive-a-massive-gift-worth-crores/",
+      "important": false
+    },
     {
       "id": "3abbb82f",
       "title": "आज का गेहूं मंडी रेट (03 अक्टूबर 2026)",
@@ -517,39 +550,6 @@
       "date": "2026-09-30",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-30-september-2026/",
-      "important": false
-    },
-    {
-      "id": "41ea1374",
-      "title": "आज का धान मंडी रेट (30 सितंबर 2026)",
-      "summary": "आज का धान मंडी रेट (30 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-30-september-2026/",
-      "important": false
-    },
-    {
-      "id": "3909963c",
-      "title": "आज का मक्का मंडी रेट (30 सितंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (30 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-30-september-2026/",
-      "important": false
-    },
-    {
-      "id": "1fe2b479",
-      "title": "आंध्र प्रदेश में इस बार 37 लाख टन धान खरीदेगी सरकार, राज्यभर में खुलेंगे 2,619 खरीद केंद्र",
-      "summary": "आंध्र प्रदेश में इस बार 37 लाख टन धान खरीदेगी सरकार, राज्यभर में खुलेंगे 2,619 खरीद केंद्र",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-government-will-procure-3-7-million-tonnes-of-paddy-in-andhra-pradesh-this-time-2619-procurement-centers-will-be-opened-across-the-state/",
       "important": false
     }
   ]
