@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-05T05:02:29Z",
+  "updated": "2026-10-05T14:11:03Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "de9b30fe",
+      "title": "गया के अजय कुमार मेहता: एक तालाब से मछली भी, मोती भी",
+      "summary": "गया के अजय कुमार मेहता: एक तालाब से मछली भी, मोती भी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ajay-kumar-mehta-from-gaya-harvesting-both-fish-and-pearls-from-a-single-pond/",
+      "important": false
+    },
+    {
+      "id": "d8b20e09",
+      "title": "नोएडा की अंतरा कुमारी ने पॉलीहाउस में शुरू की संरक्षित खेती",
+      "summary": "नोएडा की अंतरा कुमारी ने पॉलीहाउस में शुरू की संरक्षित खेती",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/antara-kumari-from-noida-has-started-protected-farming-in-a-polyhouse/",
+      "important": false
+    },
+    {
+      "id": "680e2c05",
+      "title": "श्रावस्ती में धान पर भूरा फुदका और गंधी बग का खतरा, कृषि विभाग ने जारी की सलाह",
+      "summary": "श्रावस्ती में धान पर भूरा फुदका और गंधी बग का खतरा, कृषि विभाग ने जारी की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-brown-planthopper-and-gundhi-bug-infestation-on-paddy-in-shravasti-agriculture-department-issues-advisory/",
+      "important": false
+    },
+    {
+      "id": "3bec885c",
+      "title": "आज का गेहूं मंडी रेट (05 अक्टूबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (05 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-05-october-2026/",
+      "important": false
+    },
+    {
+      "id": "9e1987f2",
+      "title": "आज का धान मंडी रेट (05 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (05 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-05-october-2026/",
+      "important": false
+    },
+    {
+      "id": "a01be0d7",
+      "title": "आज का मक्का मंडी रेट (05 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (05 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-05-october-2026/",
+      "important": false
+    },
+    {
+      "id": "67e0207b",
+      "title": "मध्य प्रदेश में अगले साल 1 लाख नए पदों पर होगी भर्ती, अब हर साल होगी डीपीसी,: मुख्यमंत्री डॉ. यादव",
+      "summary": "मध्य प्रदेश में अगले साल 1 लाख नए पदों पर होगी भर्ती, अब हर साल होगी डीपीसी,: मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/recruitment-for-1-lakh-new-posts-to-take-place-in-madhya-pradesh-next-year-dpc-to-be-held-annually-from-now-on-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "90ca009f",
+      "title": "आज का सोयाबीन मंडी रेट (05 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (05 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-05-october-2026/",
+      "important": false
+    },
     {
       "id": "2c1d8700",
       "title": "नर्मदापुरम में प्राकृतिक खेती कार्यशाला सह मेला, 700 से अधिक किसान हुए शामिल; नई कृषि तकनीकों की मिली जानकारी",
@@ -462,94 +550,6 @@
       "date": "2026-10-01",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-01-october-2026/",
-      "important": false
-    },
-    {
-      "id": "d52283d4",
-      "title": "आलीराजपुर: प्राकृतिक खेती अपनाकर खेती की लागत घटा रहे महेश माली, हो रही अतिरिक्त बचत",
-      "summary": "आलीराजपुर: प्राकृतिक खेती अपनाकर खेती की लागत घटा रहे महेश माली, हो रही अतिरिक्त बचत",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/alirajpur-mahesh-mali-is-reducing-farming-costs-by-adopting-natural-farming-and-generating-extra-savings/",
-      "important": false
-    },
-    {
-      "id": "c6956eb5",
-      "title": "जिला कांग्रेस कमेटी पांढुर्ना ने राष्ट्रपति के नाम ज्ञापन सौंपा",
-      "summary": "जिला कांग्रेस कमेटी पांढुर्ना ने राष्ट्रपति के नाम ज्ञापन सौंपा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-pandhurna-district-congress-committee-submitted-a-memorandum-addressed-to-the-president/",
-      "important": false
-    },
-    {
-      "id": "0f7f3b19",
-      "title": "एरिस एग्रो ने गुजरात में नई इकाई के साथ विनिर्माण क्षमता बढ़ाकर 1,01,400 मीट्रिक टन की",
-      "summary": "एरिस एग्रो ने गुजरात में नई इकाई के साथ विनिर्माण क्षमता बढ़ाकर 1,01,400 मीट्रिक टन की",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/eris-agro-has-increased-its-manufacturing-capacity-to-101400-metric-tonnes-with-a-new-unit-in-gujarat/",
-      "important": false
-    },
-    {
-      "id": "29663808",
-      "title": "आज का सोयाबीन मंडी रेट (30 सितंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (30 सितंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-09-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-30-september-2026/",
-      "important": false
-    },
-    {
-      "id": "edf3a495",
-      "title": "गुजरात में मूंगफली की फली विकास अवस्था में सफेद लट व चूसक कीट का खतरा, तुरंत करें यह छिड़काव",
-      "summary": "गुजरात में मूंगफली की फली विकास अवस्था में सफेद लट व चूसक कीट का खतरा, तुरंत करें यह छिड़काव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-white-grubs-and-sucking-pests-during-the-groundnut-pod-development-stage-in-gujarat-carry-out-this-spray-immediately/",
-      "important": false
-    },
-    {
-      "id": "41ebd259",
-      "title": "फसल बीमा योजना में राजस्थान को मिला देश में चौथा स्थान, किसानों को 35,600 करोड़ के क्लेम",
-      "summary": "फसल बीमा योजना में राजस्थान को मिला देश में चौथा स्थान, किसानों को 35,600 करोड़ के क्लेम",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-09-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-ranks-fourth-in-the-country-in-the-crop-insurance-scheme-farmers-receive-claims-worth-%e2%82%b935600-crore/",
-      "important": false
-    },
-    {
-      "id": "4a29fdc7",
-      "title": "मध्य प्रदेश में फसल अवशेष प्रबंधन यंत्रों पर 50% सब्सिडी, 6 अक्टूबर आवेदन की अंतिम तारीख",
-      "summary": "मध्य प्रदेश में फसल अवशेष प्रबंधन यंत्रों पर 50% सब्सिडी, 6 अक्टूबर आवेदन की अंतिम तारीख",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-09-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/50-subsidy-on-crop-residue-management-machinery-in-madhya-pradesh-october-6-is-the-last-date-to-apply/",
-      "important": true
-    },
-    {
-      "id": "3727b3fb",
-      "title": "पश्चिम बंगाल के सुब्रत महेश ड्रैगन फ्रूट से कमा रहे सालाना 12.5 लाख रुपए से ज्यादा",
-      "summary": "पश्चिम बंगाल के सुब्रत महेश ड्रैगन फ्रूट से कमा रहे सालाना 12.5 लाख रुपए से ज्यादा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-09-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/subrata-mahesh-from-west-bengal-is-earning-over-%e2%82%b912-5-lakh-annually-from-dragon-fruit/",
       "important": false
     }
   ]
