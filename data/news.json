@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-05T14:11:03Z",
+  "updated": "2026-10-05T23:55:09Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "1d1a52e7",
+      "title": "भूजल बचाने के लिए धान-गेहूं छोड़ा, अब सब्जी नर्सरी से सालाना 8-10 लाख पौधे तैयार कर रहे सिरसा के किसान",
+      "summary": "भूजल बचाने के लिए धान-गेहूं छोड़ा, अब सब्जी नर्सरी से सालाना 8-10 लाख पौधे तैयार कर रहे सिरसा के किसान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sirsa-farmers-have-moved-away-from-paddy-and-wheat-to-conserve-groundwater-they-are-now-producing-8-10-lakh-saplings-annually-in-vegetable-nurseries/",
+      "important": false
+    },
+    {
+      "id": "41d33969",
+      "title": "भोपाल में श्वेत क्रांति 2.0 का आगाज़, गौशालाओं को 101 करोड़ और उज्जैन में 255 करोड़ का डेयरी प्लांट",
+      "summary": "भोपाल में श्वेत क्रांति 2.0 का आगाज़, गौशालाओं को 101 करोड़ और उज्जैन में 255 करोड़ का डेयरी प्लांट",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/white-revolution-2-0-launched-in-bhopal-%e2%82%b9101-crore-for-cow-shelters-and-a-%e2%82%b9255-crore-dairy-plant-in-ujjain/",
+      "important": false
+    },
+    {
+      "id": "05ae4bf7",
+      "title": "गुजरात में रबी सीजन के लिए आई-खेदूत पोर्टल खुला, खरीफ पंजीयन की तारीख 24 अक्टूबर तक बढ़ी",
+      "summary": "गुजरात में रबी सीजन के लिए आई-खेदूत पोर्टल खुला, खरीफ पंजीयन की तारीख 24 अक्टूबर तक बढ़ी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/i-khedut-portal-opened-for-the-rabi-season-in-gujarat-kharif-registration-deadline-extended-to-october-24/",
+      "important": true
+    },
+    {
+      "id": "cb97fa01",
+      "title": "सोशल मीडिया की अमर्यादित भाषा से सामाजिक बिखराव का खतरा : सांसद आलोक शर्मा",
+      "summary": "सोशल मीडिया की अमर्यादित भाषा से सामाजिक बिखराव का खतरा : सांसद आलोक शर्मा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-social-fragmentation-due-to-unrestrained-language-on-social-media-mp-alok-sharma/",
+      "important": false
+    },
+    {
+      "id": "01a76e00",
+      "title": "शिवपुरी: साप्ताहिक जैविक हाट बाजार में खूब हुई खरीदारी",
+      "summary": "शिवपुरी: साप्ताहिक जैविक हाट बाजार में खूब हुई खरीदारी",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shivpuri-brisk-shopping-at-the-weekly-organic-market/",
+      "important": false
+    },
+    {
+      "id": "97dfa35a",
+      "title": "गुना कलेक्टर ने देखा ड्रिप-मल्चिंग से मिर्च की खेती का मॉडल",
+      "summary": "गुना कलेक्टर ने देखा ड्रिप-मल्चिंग से मिर्च की खेती का मॉडल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/guna-collector-inspected-the-model-of-chilli-cultivation-using-drip-irrigation-and-mulching/",
+      "important": false
+    },
+    {
+      "id": "e04bfdd1",
+      "title": "रायलसीमा में कृषि का मेगा मिशन: ₹1 लाख करोड़ से बनेगा ग्लोबल हॉर्टिकल्चर हब",
+      "summary": "रायलसीमा में कृषि का मेगा मिशन: ₹1 लाख करोड़ से बनेगा ग्लोबल हॉर्टिकल्चर हब",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mega-mission-for-agriculture-in-rayalaseema-%e2%82%b91-lakh-crore-to-create-global-horticulture-hub/",
+      "important": false
+    },
+    {
+      "id": "7ee018b4",
+      "title": "3 लाख से अधिक किसानों ने कराया पंजीयन: मंत्री श्री राजपूत",
+      "summary": "3 लाख से अधिक किसानों ने कराया पंजीयन: मंत्री श्री राजपूत",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/over-3-lakh-farmers-have-registered-minister-shri-rajput/",
+      "important": false
+    },
     {
       "id": "de9b30fe",
       "title": "गया के अजय कुमार मेहता: एक तालाब से मछली भी, मोती भी",
@@ -462,94 +550,6 @@
       "date": "2026-10-02",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/115th-meeting-of-the-fisheries-federation-2027-28-budget-approved-focus-on-fishermens-welfare-schemes-and-boosting-production/",
-      "important": false
-    },
-    {
-      "id": "d966f1de",
-      "title": "इफको “स्वच्छता ही सेवा” अभियान में शामिल",
-      "summary": "इफको “स्वच्छता ही सेवा” अभियान में शामिल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/iffco-joins-the-swachhata-hi-seva-campaign/",
-      "important": false
-    },
-    {
-      "id": "c2a73865",
-      "title": "कम पानी अधिक उत्पादन किस्मे अपनाएं – जेडीए श्री सिंह",
-      "summary": "कम पानी अधिक उत्पादन किस्मे अपनाएं – जेडीए श्री सिंह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/adopt-low-water-high-yield-varieties-jda-shri-singh/",
-      "important": false
-    },
-    {
-      "id": "7117aaf9",
-      "title": "रबी सीजन में मध्य प्रदेश के किसानों को नहीं होगी बिजली की कमी, ऊर्जा मंत्री ने उत्पादन की समीक्षा कर दिए निर्देश",
-      "summary": "रबी सीजन में मध्य प्रदेश के किसानों को नहीं होगी बिजली की कमी, ऊर्जा मंत्री ने उत्पादन की समीक्षा कर दिए निर्देश",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-madhya-pradesh-will-not-face-a-power-shortage-during-the-rabi-season-the-energy-minister-issued-directives-after-reviewing-generation/",
-      "important": false
-    },
-    {
-      "id": "d8bb02d3",
-      "title": "कीट नियंत्रण के लिए किसानों को 75 प्रतिशत तक अनुदान",
-      "summary": "कीट नियंत्रण के लिए किसानों को 75 प्रतिशत तक अनुदान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/subsidy-of-up-to-75-percent-for-farmers-for-pest-control/",
-      "important": false
-    },
-    {
-      "id": "8cf9136f",
-      "title": "आज का गेहूं मंडी रेट (01 अक्टूबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (01 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-01-october-2026/",
-      "important": false
-    },
-    {
-      "id": "9a1083c4",
-      "title": "आज का मक्का मंडी रेट (01 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (01 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-01-october-2026/",
-      "important": false
-    },
-    {
-      "id": "6b2a7ec4",
-      "title": "आज का धान मंडी रेट (01 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (01 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-01-october-2026/",
-      "important": false
-    },
-    {
-      "id": "5dec5adb",
-      "title": "आज का सोयाबीन मंडी रेट (01 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (01 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-01",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-01-october-2026/",
       "important": false
     }
   ]
