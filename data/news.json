@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-06T05:49:34Z",
-  "new_count": 0,
+  "updated": "2026-10-06T13:07:31Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "6dac0798",
+      "title": "विदिशा: खेतों में पहुंची ICAR-राष्ट्रीय सोयाबीन अनुसंधान संस्थान की टीम, फसल और कीट-रोग का लिया जायजा",
+      "summary": "विदिशा: खेतों में पहुंची ICAR-राष्ट्रीय सोयाबीन अनुसंधान संस्थान की टीम, फसल और कीट-रोग का लिया जायजा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/vidisha-a-team-from-the-icar-indian-institute-of-soybean-research-visited-the-fields-to-assess-the-crops-and-check-for-pests-and-diseases/",
+      "important": false
+    },
+    {
+      "id": "3b1b7339",
+      "title": "भाजपा ,कांग्रेस और भाकिसं ने पांढुर्ना जिले को सूखाग्रस्त घोषित करने की मांग की",
+      "summary": "भाजपा ,कांग्रेस और भाकिसं ने पांढुर्ना जिले को सूखाग्रस्त घोषित करने की मांग की",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-bjp-congress-and-bks-have-demanded-that-pandhurna-district-be-declared-drought-hit/",
+      "important": false
+    },
+    {
+      "id": "cbfe3a28",
+      "title": "भोपाल: बकरी पालन ने आत्मनिर्भर बनीं सुल्तान बी, हर महीने 10-12 हजार रुपए की कर रही कमाई",
+      "summary": "भोपाल: बकरी पालन ने आत्मनिर्भर बनीं सुल्तान बी, हर महीने 10-12 हजार रुपए की कर रही कमाई",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bhopal-sultan-bi-becomes-self-reliant-through-goat-farming-earns-%e2%82%b910000-12000-per-month/",
+      "important": false
+    },
+    {
+      "id": "fa51b981",
+      "title": "आज का गेहूं मंडी रेट (06 अक्टूबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (06 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-06-october-2026/",
+      "important": false
+    },
+    {
+      "id": "f4fe9361",
+      "title": "आज का मक्का मंडी रेट (06 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (06 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-06-october-2026/",
+      "important": false
+    },
+    {
+      "id": "b1732265",
+      "title": "आज का धान मंडी रेट (06 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (06 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-06-october-2026/",
+      "important": false
+    },
+    {
+      "id": "fb7e2fc9",
+      "title": "आज का सोयाबीन मंडी रेट (06 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (06 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-06-october-2026/",
+      "important": false
+    },
+    {
+      "id": "0d82b898",
+      "title": "भारत-नीदरलैंड्स की कृषि साझेदारी नई ऊंचाई पर, बीज और बागवानी तकनीक पर बनेगी साझा कार्ययोजना",
+      "summary": "भारत-नीदरलैंड्स की कृषि साझेदारी नई ऊंचाई पर, बीज और बागवानी तकनीक पर बनेगी साझा कार्ययोजना",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/india-netherlands-agricultural-partnership-reaches-new-heights-joint-action-plan-on-seed-and-horticulture-technology-to-be-formulated/",
+      "important": false
+    },
     {
       "id": "1d1a52e7",
       "title": "भूजल बचाने के लिए धान-गेहूं छोड़ा, अब सब्जी नर्सरी से सालाना 8-10 लाख पौधे तैयार कर रहे सिरसा के किसान",
@@ -462,94 +550,6 @@
       "date": "2026-10-03",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/mallikarjun-kharge-writes-to-pm-modi-regarding-the-drought-in-karnataka-puts-forward-six-demands-including-financial-assistance-of-%e2%82%b93705-crore/",
-      "important": false
-    },
-    {
-      "id": "ef227144",
-      "title": "कृषि विज्ञान केन्द्र, खरगोन के  वैज्ञानिक डॉ. सिंह सम्मानित",
-      "summary": "कृषि विज्ञान केन्द्र, खरगोन के  वैज्ञानिक डॉ. सिंह सम्मानित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dr-singh-scientist-at-krishi-vigyan-kendra-khargone-honoured/",
-      "important": false
-    },
-    {
-      "id": "a2282031",
-      "title": "गेहूं, चना, सरसों समेत 6 रबी फसलों की MSP बढ़ी, सीएम मोहन यादव ने किसानों को दी बधाई",
-      "summary": "गेहूं, चना, सरसों समेत 6 रबी फसलों की MSP बढ़ी, सीएम मोहन यादव ने किसानों को दी बधाई",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/msp-hiked-for-six-rabi-crops-including-wheat-gram-and-mustard-cm-mohan-yadav-congratulates-farmers/",
-      "important": true
-    },
-    {
-      "id": "16420cb0",
-      "title": "फसल नुकसान के पंचनामे पर सूचना आयोग का शिकंजा, तहसीलदार पर ₹25 हजार की शास्ति",
-      "summary": "फसल नुकसान के पंचनामे पर सूचना आयोग का शिकंजा, तहसीलदार पर ₹25 हजार की शास्ति",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/information-commission-cracks-down-on-crop-loss-assessment-reports-%e2%82%b925000-penalty-imposed-on-tehsildar/",
-      "important": false
-    },
-    {
-      "id": "5df1f8e9",
-      "title": "वर्मी कम्पोस्ट से खेती की लागत 30% घटी, किसान को मिल रही ₹20 हजार तक अतिरिक्त आय",
-      "summary": "वर्मी कम्पोस्ट से खेती की लागत 30% घटी, किसान को मिल रही ₹20 हजार तक अतिरिक्त आय",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farming-costs-reduced-by-30-with-vermicompost-farmers-earning-up-to-%e2%82%b920000-in-additional-income/",
-      "important": false
-    },
-    {
-      "id": "c304f2cd",
-      "title": "राजस्थान: खेत में फसल अवशेष जलाया तो लगेगा ₹30 हजार तक जुर्माना, रोकथाम के लिए बनी समिति",
-      "summary": "राजस्थान: खेत में फसल अवशेष जलाया तो लगेगा ₹30 हजार तक जुर्माना, रोकथाम के लिए बनी समिति",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-fine-of-up-to-%e2%82%b930000-for-burning-crop-residue-in-fields-committee-formed-to-curb-the-practice/",
-      "important": false
-    },
-    {
-      "id": "27fb02d9",
-      "title": "मध्य प्रदेश का मौसम मुख्यतः शुष्क",
-      "summary": "मध्य प्रदेश का मौसम मुख्यतः शुष्क",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-weather-in-madhya-pradesh-is-mainly-dry/",
-      "important": false
-    },
-    {
-      "id": "6d052c5c",
-      "title": "गेहूं-चावल के सुरक्षित भंडारण के लिए नई तकनीक पर होगा शोध, ICAR-FCI ने किया समझौता",
-      "summary": "गेहूं-चावल के सुरक्षित भंडारण के लिए नई तकनीक पर होगा शोध, ICAR-FCI ने किया समझौता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/research-to-be-conducted-on-new-technology-for-safe-storage-of-wheat-and-rice-icar-and-fci-sign-agreement/",
-      "important": false
-    },
-    {
-      "id": "0a8aab57",
-      "title": "मत्स्य महासंघ की 115वीं बैठक: 2027-28 के बजट को मंजूरी, मछुआ कल्याण योजनाओं और उत्पादन बढ़ाने पर जोर",
-      "summary": "मत्स्य महासंघ की 115वीं बैठक: 2027-28 के बजट को मंजूरी, मछुआ कल्याण योजनाओं और उत्पादन बढ़ाने पर जोर",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-10-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/115th-meeting-of-the-fisheries-federation-2027-28-budget-approved-focus-on-fishermens-welfare-schemes-and-boosting-production/",
       "important": false
     }
   ]
