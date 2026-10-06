@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-06T13:07:31Z",
+  "updated": "2026-10-06T22:32:47Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "5c0cd7f8",
+      "title": "मध्यप्रदेश: कोदो-कुटकी बेचने के लिए किसान पंजीयन आज से शुरू, जानें भाव और अंतिम तारीख",
+      "summary": "मध्यप्रदेश: कोदो-कुटकी बेचने के लिए किसान पंजीयन आज से शुरू, जानें भाव और अंतिम तारीख",
+      "level": "state",
+      "category": "price",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-farmer-registration-for-selling-kodo-kutki-begins-today-check-rates-and-the-deadline/",
+      "important": true
+    },
+    {
+      "id": "2515e2fb",
+      "title": "जबलपुर: धान के पंजीयन में आ रही समस्या के समाधान के लिए कंट्रोल रूम स्थापित",
+      "summary": "जबलपुर: धान के पंजीयन में आ रही समस्या के समाधान के लिए कंट्रोल रूम स्थापित",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-control-room-set-up-to-resolve-issues-regarding-paddy-registration/",
+      "important": false
+    },
+    {
+      "id": "dcb40dd0",
+      "title": "जबलपुर : केंद्रीय गृह मंत्री ने कृषक तन्मय दास के समन्वित कृषि मॉडल को सराहा",
+      "summary": "जबलपुर : केंद्रीय गृह मंत्री ने कृषक तन्मय दास के समन्वित कृषि मॉडल को सराहा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jabalpur-union-home-minister-praises-farmer-tanmay-dass-integrated-farming-model/",
+      "important": false
+    },
+    {
+      "id": "b0f8f829",
+      "title": "डिंडोरी : धान एवं अन्य फसलों के लिए कृषि विभाग ने किसानों को दी सलाह",
+      "summary": "डिंडोरी : धान एवं अन्य फसलों के लिए कृषि विभाग ने किसानों को दी सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-agriculture-department-issues-advisory-to-farmers-regarding-paddy-and-other-crops/",
+      "important": false
+    },
+    {
+      "id": "45c0f3d8",
+      "title": "डिंडोरी: मत्स्य पालन से आत्मनिर्भर बने गंगा सिंह",
+      "summary": "डिंडोरी: मत्स्य पालन से आत्मनिर्भर बने गंगा सिंह",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-ganga-singh-becomes-self-reliant-through-fish-farming/",
+      "important": false
+    },
+    {
+      "id": "42144c92",
+      "title": "मंडला: संयुक्त संचालक मत्स्य ने मत्स्य बीज प्रक्षेत्र का किया निरीक्षण",
+      "summary": "मंडला: संयुक्त संचालक मत्स्य ने मत्स्य बीज प्रक्षेत्र का किया निरीक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mandla-joint-director-of-fisheries-inspected-the-fish-seed-farm/",
+      "important": false
+    },
+    {
+      "id": "3e0a6811",
+      "title": "बालाघाट में तिल की खेती को बढ़ावा देने की दिशा में हुई पहल",
+      "summary": "बालाघाट में तिल की खेती को बढ़ावा देने की दिशा में हुई पहल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/initiative-taken-to-promote-sesame-cultivation-in-balaghat/",
+      "important": false
+    },
+    {
+      "id": "2881354a",
+      "title": "मंडला: कोदो-कुटकी उपार्जन के लिए किसान पंजीयन 6 अक्टूबर से प्रारंभ",
+      "summary": "मंडला: कोदो-कुटकी उपार्जन के लिए किसान पंजीयन 6 अक्टूबर से प्रारंभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mandla-farmer-registration-for-kodo-kutki-procurement-begins-on-october-6/",
+      "important": false
+    },
     {
       "id": "6dac0798",
       "title": "विदिशा: खेतों में पहुंची ICAR-राष्ट्रीय सोयाबीन अनुसंधान संस्थान की टीम, फसल और कीट-रोग का लिया जायजा",
@@ -462,94 +550,6 @@
       "date": "2026-10-03",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/dewass-babita-chaudhary-becomes-self-reliant-earning-%e2%82%b91-65-lakh-from-agriculture-and-animal-husbandry/",
-      "important": false
-    },
-    {
-      "id": "a604f2a9",
-      "title": "अल्प वर्षा की स्थिति में रबी फसलों के लिए मैदानी अमले को दिया प्रशिक्षण",
-      "summary": "अल्प वर्षा की स्थिति में रबी फसलों के लिए मैदानी अमले को दिया प्रशिक्षण",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/training-provided-to-field-staff-for-rabi-crops-in-the-event-of-scanty-rainfall/",
-      "important": false
-    },
-    {
-      "id": "2a60ae14",
-      "title": "सोयाबीन किसानों के लिए राहत, भावांतर योजना में पंजीयन शुरू; इन केंद्रों पर मुफ्त में करा सकेंगे रजिस्ट्रेशन",
-      "summary": "सोयाबीन किसानों के लिए राहत, भावांतर योजना में पंजीयन शुरू; इन केंद्रों पर मुफ्त में करा सकेंगे रजिस्ट्रेशन",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/relief-for-soybean-farmers-registration-for-the-bhavantar-scheme-has-begun-registration-can-be-done-free-of-charge-at-these-centers/",
-      "important": false
-    },
-    {
-      "id": "3fb6ac60",
-      "title": "रबी फसलों की एमएसपी बढ़ी, अब चुनौती किसानों तक लाभ पहुंचाने की",
-      "summary": "रबी फसलों की एमएसपी बढ़ी, अब चुनौती किसानों तक लाभ पहुंचाने की",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/msp-for-rabi-crops-raised-the-challenge-now-is-to-ensure-the-benefits-reach-the-farmers/",
-      "important": true
-    },
-    {
-      "id": "3f3e0c4c",
-      "title": "अब मंडी जाने से पहले किसान जान सकेंगे भाव, यूपी की 251 मंडियां एगमार्कनेट 2.0 से जुड़ीं",
-      "summary": "अब मंडी जाने से पहले किसान जान सकेंगे भाव, यूपी की 251 मंडियां एगमार्कनेट 2.0 से जुड़ीं",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-will-now-be-able-to-check-prices-before-visiting-the-mandi-251-mandis-in-up-have-been-linked-to-agmarknet-2-0/",
-      "important": false
-    },
-    {
-      "id": "6d865c54",
-      "title": "बिहार में औषधीय खेती को बढ़ावा, 100 हेक्टेयर में एलोवेरा से शतावरी तक की खेती",
-      "summary": "बिहार में औषधीय खेती को बढ़ावा, 100 हेक्टेयर में एलोवेरा से शतावरी तक की खेती",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/promotion-of-medicinal-farming-in-bihar-cultivation-of-crops-ranging-from-aloe-vera-to-shatavari-across-100-hectares/",
-      "important": false
-    },
-    {
-      "id": "a09dc222",
-      "title": "फल-सब्जी से फूलों तक खेती पर अनुदान, हरियाणा में बागवानी किसानों के लिए सहायता योजना",
-      "summary": "फल-सब्जी से फूलों तक खेती पर अनुदान, हरियाणा में बागवानी किसानों के लिए सहायता योजना",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/subsidies-on-farming-ranging-from-fruits-and-vegetables-to-flowers-assistance-scheme-for-horticulture-farmers-in-haryana/",
-      "important": false
-    },
-    {
-      "id": "f788080b",
-      "title": "नमो ड्रोन दीदी योजना से बदली खेती की तस्वीर, गोदावरी साहू एक दिन में 20-25 एकड़ में कर रहीं छिड़काव",
-      "summary": "नमो ड्रोन दीदी योजना से बदली खेती की तस्वीर, गोदावरी साहू एक दिन में 20-25 एकड़ में कर रहीं छिड़काव",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/namo-drone-didi-scheme-transforms-the-agricultural-landscape-godavari-sahu-is-spraying-20-25-acres-in-a-single-day/",
-      "important": false
-    },
-    {
-      "id": "e0f81807",
-      "title": "कर्नाटक में सूखे को लेकर मल्लिकार्जुन  खड़गे ने पीएम मोदी को लिखी चिट्ठी, ₹3,705 करोड़ की मदद समेत रखीं 6 मांगें",
-      "summary": "कर्नाटक में सूखे को लेकर मल्लिकार्जुन  खड़गे ने पीएम मोदी को लिखी चिट्ठी, ₹3,705 करोड़ की मदद समेत रखीं 6 मांगें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/mallikarjun-kharge-writes-to-pm-modi-regarding-the-drought-in-karnataka-puts-forward-six-demands-including-financial-assistance-of-%e2%82%b93705-crore/",
       "important": false
     }
   ]
