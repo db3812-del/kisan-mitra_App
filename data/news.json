@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-07T05:21:49Z",
-  "new_count": 0,
+  "updated": "2026-10-07T13:01:55Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "49494358",
+      "title": "एमएससी-पीएचडी के बाद सीधी के किसान ने खेती को बनाया करियर, अब 1 एकड़ से 15 लाख तक हो रही कमाई",
+      "summary": "एमएससी-पीएचडी के बाद सीधी के किसान ने खेती को बनाया करियर, अब 1 एकड़ से 15 लाख तक हो रही कमाई",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/after-completing-an-msc-phd-a-farmer-from-sidhi-turned-farming-into-a-career-now-earning-up-to-%e2%82%b915-lakh-from-one-acre/",
+      "important": false
+    },
+    {
+      "id": "c453b942",
+      "title": "आज का गेहूं मंडी रेट (07 अक्टूबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (07 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-07-october-2026/",
+      "important": false
+    },
+    {
+      "id": "b4129ec7",
+      "title": "आज का मक्का मंडी रेट (07 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (07 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-07-october-2026/",
+      "important": false
+    },
+    {
+      "id": "416d66ee",
+      "title": "आज का धान मंडी रेट (07 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (07 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-07-october-2026/",
+      "important": false
+    },
+    {
+      "id": "f56484da",
+      "title": "रीवा: फार्मर रजिस्ट्री कराने पर ही मिलेगा समर्थन मूल्य में उपार्जन का मौका",
+      "summary": "रीवा: फार्मर रजिस्ट्री कराने पर ही मिलेगा समर्थन मूल्य में उपार्जन का मौका",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rewa-opportunity-for-procurement-at-support-price-available-only-upon-farmer-registration/",
+      "important": false
+    },
+    {
+      "id": "6a567ed4",
+      "title": "किसान कृष्णकांत ने थाईलैंड के ‘बनाना मैंगो’ से लिखी तरक्की की नई इबारत",
+      "summary": "किसान कृष्णकांत ने थाईलैंड के ‘बनाना मैंगो’ से लिखी तरक्की की नई इबारत",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmer-krishnakant-wrote-a-new-chapter-of-progress-with-thailands-banana-mango/",
+      "important": false
+    },
+    {
+      "id": "ebe36dd6",
+      "title": "आज का सोयाबीन मंडी रेट (07 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (07 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-07-october-2026/",
+      "important": false
+    },
+    {
+      "id": "0afe6b72",
+      "title": "मुरैना: 1 नवंबर से रबी फसलों के लिए मिलेगा पानी, चंबल नहरों की 20 अक्टूबर तक होगी सफाई",
+      "summary": "मुरैना: 1 नवंबर से रबी फसलों के लिए मिलेगा पानी, चंबल नहरों की 20 अक्टूबर तक होगी सफाई",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/morena-water-for-rabi-crops-to-be-available-from-november-1-chambal-canals-to-be-cleaned-by-october-20/",
+      "important": false
+    },
     {
       "id": "5c0cd7f8",
       "title": "मध्यप्रदेश: कोदो-कुटकी बेचने के लिए किसान पंजीयन आज से शुरू, जानें भाव और अंतिम तारीख",
@@ -462,94 +550,6 @@
       "date": "2026-10-04",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/uncategorized/avoid-these-mistakes-when-storing-soybean-seeds-learn-the-right-way-to-protect-them-from-moisture-and-fungus/",
-      "important": false
-    },
-    {
-      "id": "3414ef63",
-      "title": "मध्यप्रदेश में दूध उत्पादन बढ़ाने की बड़ी तैयारी, 50 लाख लीटर रोज का लक्ष्य; गौपालकों को मिली करोड़ों की सौगात",
-      "summary": "मध्यप्रदेश में दूध उत्पादन बढ़ाने की बड़ी तैयारी, 50 लाख लीटर रोज का लक्ष्य; गौपालकों को मिली करोड़ों की सौगात",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/major-push-to-boost-milk-production-in-madhya-pradesh-target-set-at-50-lakh-liters-daily-cattle-rearers-receive-a-massive-gift-worth-crores/",
-      "important": false
-    },
-    {
-      "id": "3abbb82f",
-      "title": "आज का गेहूं मंडी रेट (03 अक्टूबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (03 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-03-october-2026/",
-      "important": false
-    },
-    {
-      "id": "7082ab55",
-      "title": "आज का मक्का मंडी रेट (03 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (03 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-03-october-2026/",
-      "important": false
-    },
-    {
-      "id": "8337233b",
-      "title": "आज का धान मंडी रेट (03 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (03 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-03-october-2026/",
-      "important": false
-    },
-    {
-      "id": "bd5be911",
-      "title": "1 एकड़ में आम का बाग, साथ में सब्जियों की खेती; उमरिया के सूर्यपाल को मिल रही 20 हजार तक अतिरिक्त आय",
-      "summary": "1 एकड़ में आम का बाग, साथ में सब्जियों की खेती; उमरिया के सूर्यपाल को मिल रही 20 हजार तक अतिरिक्त आय",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mango-orchard-on-one-acre-combined-with-vegetable-farming-suryapal-from-umaria-is-earning-an-additional-income-of-up-to-%e2%82%b920000/",
-      "important": false
-    },
-    {
-      "id": "77fd7d4d",
-      "title": "आज का सोयाबीन मंडी रेट (03 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (03 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-03-october-2026/",
-      "important": false
-    },
-    {
-      "id": "66bd5d43",
-      "title": "हरदा के किसान ने अपनाई ड्रिप-मल्चिंग तकनीक, 2.25 एकड़ में मिर्च की खेती से कमाए 4.50 लाख रुपए",
-      "summary": "हरदा के किसान ने अपनाई ड्रिप-मल्चिंग तकनीक, 2.25 एकड़ में मिर्च की खेती से कमाए 4.50 लाख रुपए",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/harda-farmer-adopts-drip-mulching-technique-earns-%e2%82%b94-50-lakh-from-chilli-cultivation-on-2-25-acres/",
-      "important": false
-    },
-    {
-      "id": "b4664d8d",
-      "title": "देवास की बबीता चौधरी बनीं आत्मनिर्भर, कृषि-पशुपालन से कमा रहीं 1.65 लाख रुपए",
-      "summary": "देवास की बबीता चौधरी बनीं आत्मनिर्भर, कृषि-पशुपालन से कमा रहीं 1.65 लाख रुपए",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dewass-babita-chaudhary-becomes-self-reliant-earning-%e2%82%b91-65-lakh-from-agriculture-and-animal-husbandry/",
       "important": false
     }
   ]
