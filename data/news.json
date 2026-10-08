@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-07T22:56:24Z",
-  "new_count": 0,
+  "updated": "2026-10-08T05:30:45Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "df2373ef",
+      "title": "निमाड़ में बीटी कपास पर गुलाबी सुंडी का प्रकोप, आठ बार छिड़काव के बाद भी राहत नहीं",
+      "summary": "निमाड़ में बीटी कपास पर गुलाबी सुंडी का प्रकोप, आठ बार छिड़काव के बाद भी राहत नहीं",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pink-bollworm-infestation-on-bt-cotton-in-nimar-no-relief-even-after-eight-rounds-of-spraying/",
+      "important": false
+    },
+    {
+      "id": "272934eb",
+      "title": "भदोही में धान की फसल में जीवाणु झुलसा और खैरा रोग का प्रकोप, कृषि विभाग ने जारी की एडवाइजरी",
+      "summary": "भदोही में धान की फसल में जीवाणु झुलसा और खैरा रोग का प्रकोप, कृषि विभाग ने जारी की एडवाइजरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/outbreak-of-bacterial-blight-and-khaira-disease-in-paddy-crops-in-bhadohi-agriculture-department-issues-advisory/",
+      "important": false
+    },
+    {
+      "id": "09d868fd",
+      "title": "महाराष्ट्र में सूखे का संकट गहराया, 16 अक्टूबर से राज्यव्यापी जल कटौती",
+      "summary": "महाराष्ट्र में सूखे का संकट गहराया, 16 अक्टूबर से राज्यव्यापी जल कटौती",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/drought-crisis-deepens-in-maharashtra-state-wide-water-cuts-from-october-16/",
+      "important": false
+    },
+    {
+      "id": "0864b59b",
+      "title": "नर्मदापुरम : नहरों की साफ-सफाई के लिए चलाया जा रहा विशेष अभियान",
+      "summary": "नर्मदापुरम : नहरों की साफ-सफाई के लिए चलाया जा रहा विशेष अभियान",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/narmadapuram-special-campaign-underway-for-cleaning-canals/",
+      "important": false
+    },
+    {
+      "id": "8a9db226",
+      "title": "हरदा : कृषि विज्ञान केंद्र ने नरवाई प्रबंधन के लिये किसानों को दी सलाह",
+      "summary": "हरदा : कृषि विज्ञान केंद्र ने नरवाई प्रबंधन के लिये किसानों को दी सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/harda-krishi-vigyan-kendra-advises-farmers-on-crop-residue-management/",
+      "important": false
+    },
+    {
+      "id": "922d06ec",
+      "title": "सीधी : डॉ विपिन ने उद्यानिकी फसलों की उन्नत खेती को बनाया आय का स्रोत",
+      "summary": "सीधी : डॉ विपिन ने उद्यानिकी फसलों की उन्नत खेती को बनाया आय का स्रोत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sidhi-dr-vipin-turns-advanced-cultivation-of-horticultural-crops-into-a-source-of-income/",
+      "important": false
+    },
+    {
+      "id": "b595854d",
+      "title": "पानी की उपलब्धता के आधार पर ही फसल लेने किसानों को करें जागरूक- कलेक्टर बैतूल",
+      "summary": "पानी की उपलब्धता के आधार पर ही फसल लेने किसानों को करें जागरूक- कलेक्टर बैतूल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/create-awareness-among-farmers-to-cultivate-crops-based-on-water-availability-betul-collector/",
+      "important": false
+    },
+    {
+      "id": "da23df74",
+      "title": "पशुधन से समृद्धि की ओर बढ़ता नीमच",
+      "summary": "पशुधन से समृद्धि की ओर बढ़ता नीमच",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/neemuch-moves-towards-prosperity-through-livestock/",
+      "important": false
+    },
     {
       "id": "49494358",
       "title": "एमएससी-पीएचडी के बाद सीधी के किसान ने खेती को बनाया करियर, अब 1 एकड़ से 15 लाख तक हो रही कमाई",
@@ -462,94 +550,6 @@
       "date": "2026-10-05",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/nagalands-vesalu-puro-carves-a-niche-in-floriculture-mentioned-in-mann-ki-baat/",
-      "important": false
-    },
-    {
-      "id": "bc6f3af7",
-      "title": "गुजरात: कपास किसान ऐप पर MSP पंजीयन जारी, 31 अक्टूबर तक मौका",
-      "summary": "गुजरात: कपास किसान ऐप पर MSP पंजीयन जारी, 31 अक्टूबर तक मौका",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/gujarat-msp-registration-for-cotton-farmers-continues-on-the-app-window-open-until-october-31/",
-      "important": true
-    },
-    {
-      "id": "80e69969",
-      "title": "मध्य प्रदेश: सोयाबीन भावांतर योजना का पंजीयन आज से शुरू, 17 अक्टूबर तक मौका",
-      "summary": "मध्य प्रदेश: सोयाबीन भावांतर योजना का पंजीयन आज से शुरू, 17 अक्टूबर तक मौका",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-registration-for-the-soybean-bhavantar-yojana-begins-today-window-open-until-october-17/",
-      "important": false
-    },
-    {
-      "id": "2e658e0e",
-      "title": "कर्नाटक में सूखे का संकट और गहराया, 46,324 करोड़ के नुकसान का अनुमान; केंद्रीय दल ने आज से शुरू किया सर्वेक्षण",
-      "summary": "कर्नाटक में सूखे का संकट और गहराया, 46,324 करोड़ के नुकसान का अनुमान; केंद्रीय दल ने आज से शुरू किया सर्वेक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/drought-crisis-deepens-in-karnataka-losses-estimated-at-%e2%82%b946324-crore-central-team-begins-survey-today/",
-      "important": false
-    },
-    {
-      "id": "4fa2df05",
-      "title": "रीवा: धान, रागी और दलहन में पत्ती लपेटक कीट का प्रकोप, वैज्ञानिकों ने बताए बचाव के उपाय",
-      "summary": "रीवा: धान, रागी और दलहन में पत्ती लपेटक कीट का प्रकोप, वैज्ञानिकों ने बताए बचाव के उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rewa-leaf-folder-pest-infestation-in-paddy-ragi-and-pulses-scientists-suggest-control-measures/",
-      "important": false
-    },
-    {
-      "id": "a157894e",
-      "title": "हरियाणा: ड्रोन दीदी बनकर नूंह की लक्ष्मी ने बदली अपनी पहचान",
-      "summary": "हरियाणा: ड्रोन दीदी बनकर नूंह की लक्ष्मी ने बदली अपनी पहचान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/haryana-lakshmi-from-nuh-transforms-her-identity-by-becoming-a-drone-didi/",
-      "important": false
-    },
-    {
-      "id": "4afd5c1d",
-      "title": "ICAR और FCI ने अनाज भंडारण में कीट नियंत्रण के लिए मिलाया हाथ",
-      "summary": "ICAR और FCI ने अनाज भंडारण में कीट नियंत्रण के लिए मिलाया हाथ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/icar-and-fci-join-hands-for-pest-control-in-grain-storage/",
-      "important": false
-    },
-    {
-      "id": "6df914e3",
-      "title": "लहसुन की खेती से होगी अच्छी कमाई! उगा लें ये 12 उन्नत किस्में, 250 क्विंटल तक मिलेगी उपज, जानें खासियत",
-      "summary": "लहसुन की खेती से होगी अच्छी कमाई! उगा लें ये 12 उन्नत किस्में, 250 क्विंटल तक मिलेगी उपज, जानें खासियत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/earn-good-profits-from-garlic-farming-grow-these-12-improved-varieties-to-get-a-yield-of-up-to-250-quintals-learn-about-their-features/",
-      "important": false
-    },
-    {
-      "id": "b81d39e3",
-      "title": "सोयाबीन बीज के भंडारण में न करें ये गलतियां, नमी और फफूंद से बचाने का जानें सही तरीका",
-      "summary": "सोयाबीन बीज के भंडारण में न करें ये गलतियां, नमी और फफूंद से बचाने का जानें सही तरीका",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/avoid-these-mistakes-when-storing-soybean-seeds-learn-the-right-way-to-protect-them-from-moisture-and-fungus/",
       "important": false
     }
   ]
