@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-08T05:30:45Z",
+  "updated": "2026-10-08T13:09:08Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "dfda098c",
+      "title": "बदलते मौसम में चने की बंपर पैदावार: उन्नत किस्म, तकनीक और संपूर्ण फसल प्रबंधन",
+      "summary": "बदलते मौसम में चने की बंपर पैदावार: उन्नत किस्म, तकनीक और संपूर्ण फसल प्रबंधन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bumper-gram-yield-amidst-changing-weather-improved-varieties-technology-and-comprehensive-crop-management/",
+      "important": false
+    },
+    {
+      "id": "857932fa",
+      "title": "नेचुरल फार्मिंग की पढ़ाई करेंगे देश के छात्र: ICAR ला रहा PG-PhD कोर्स, विशेषज्ञों से मांगे सुझाव",
+      "summary": "नेचुरल फार्मिंग की पढ़ाई करेंगे देश के छात्र: ICAR ला रहा PG-PhD कोर्स, विशेषज्ञों से मांगे सुझाव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/students-across-the-country-to-study-natural-farming-icar-introducing-pg-and-phd-courses-seeks-suggestions-from-experts/",
+      "important": false
+    },
+    {
+      "id": "d80e4f84",
+      "title": "वृंदावन ग्राम में उन्नत नस्ल के पशुओं की प्रतियोगिता आयोजित करें : मुख्यमंत्री डॉ. यादव",
+      "summary": "वृंदावन ग्राम में उन्नत नस्ल के पशुओं की प्रतियोगिता आयोजित करें : मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/organize-a-competition-for-improved-breeds-of-livestock-in-vrindavan-village-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "d629edaa",
+      "title": "गुना: आरोन मंडी में आगामी खरीदी की तैयारी, व्यवस्थाओं में सुधार के लिए अधिकारियों ने दिए निर्देश",
+      "summary": "गुना: आरोन मंडी में आगामी खरीदी की तैयारी, व्यवस्थाओं में सुधार के लिए अधिकारियों ने दिए निर्देश",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/guna-preparations-for-upcoming-procurement-at-aaron-mandi-officials-issue-directives-to-improve-arrangements/",
+      "important": false
+    },
+    {
+      "id": "1c630cf6",
+      "title": "रिफॉर्म उत्सव 2026: विदिशा में इफको ने आयोजित की किसान सभा, जुटे कई विशेषज्ञ",
+      "summary": "रिफॉर्म उत्सव 2026: विदिशा में इफको ने आयोजित की किसान सभा, जुटे कई विशेषज्ञ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/reform-utsav-2026-iffco-organized-a-farmers-meet-in-vidisha-numerous-experts-participated/",
+      "important": false
+    },
+    {
+      "id": "2dd364c3",
+      "title": "छिंदवाड़ा : कामधेनु योजना से पशुपालन बना लाभ का व्यवसाय",
+      "summary": "छिंदवाड़ा : कामधेनु योजना से पशुपालन बना लाभ का व्यवसाय",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/animal-husbandry/chhindwara-animal-husbandry-becomes-a-profitable-business-under-the-kamdhenu-scheme/",
+      "important": false
+    },
+    {
+      "id": "f5ac5c6a",
+      "title": "सोयाबीन कटाई के बाद नरवाई नहीं जलाएं किसान, पर्यावरण और मिट्टी की उर्वरा शक्ति को बचाएं",
+      "summary": "सोयाबीन कटाई के बाद नरवाई नहीं जलाएं किसान, पर्यावरण और मिट्टी की उर्वरा शक्ति को बचाएं",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-should-not-burn-crop-residue-after-soybean-harvesting-protect-the-environment-and-soil-fertility/",
+      "important": false
+    },
+    {
+      "id": "6fa1a4f2",
+      "title": "ग्वालियर: खेत तालाब योजना से बदली किसान भोलाराम की खेती, अब साल में ले रहे दो फसलें",
+      "summary": "ग्वालियर: खेत तालाब योजना से बदली किसान भोलाराम की खेती, अब साल में ले रहे दो फसलें",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gwalior-farm-pond-scheme-transforms-farmer-bholarams-agriculture-he-now-harvests-two-crops-a-year/",
+      "important": false
+    },
     {
       "id": "df2373ef",
       "title": "निमाड़ में बीटी कपास पर गुलाबी सुंडी का प्रकोप, आठ बार छिड़काव के बाद भी राहत नहीं",
@@ -462,94 +550,6 @@
       "date": "2026-10-05",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/antara-kumari-from-noida-has-started-protected-farming-in-a-polyhouse/",
-      "important": false
-    },
-    {
-      "id": "680e2c05",
-      "title": "श्रावस्ती में धान पर भूरा फुदका और गंधी बग का खतरा, कृषि विभाग ने जारी की सलाह",
-      "summary": "श्रावस्ती में धान पर भूरा फुदका और गंधी बग का खतरा, कृषि विभाग ने जारी की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-brown-planthopper-and-gundhi-bug-infestation-on-paddy-in-shravasti-agriculture-department-issues-advisory/",
-      "important": false
-    },
-    {
-      "id": "3bec885c",
-      "title": "आज का गेहूं मंडी रेट (05 अक्टूबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (05 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-05-october-2026/",
-      "important": false
-    },
-    {
-      "id": "9e1987f2",
-      "title": "आज का धान मंडी रेट (05 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (05 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-05-october-2026/",
-      "important": false
-    },
-    {
-      "id": "a01be0d7",
-      "title": "आज का मक्का मंडी रेट (05 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (05 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-05-october-2026/",
-      "important": false
-    },
-    {
-      "id": "67e0207b",
-      "title": "मध्य प्रदेश में अगले साल 1 लाख नए पदों पर होगी भर्ती, अब हर साल होगी डीपीसी,: मुख्यमंत्री डॉ. यादव",
-      "summary": "मध्य प्रदेश में अगले साल 1 लाख नए पदों पर होगी भर्ती, अब हर साल होगी डीपीसी,: मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/recruitment-for-1-lakh-new-posts-to-take-place-in-madhya-pradesh-next-year-dpc-to-be-held-annually-from-now-on-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "90ca009f",
-      "title": "आज का सोयाबीन मंडी रेट (05 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (05 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-05-october-2026/",
-      "important": false
-    },
-    {
-      "id": "2c1d8700",
-      "title": "नर्मदापुरम में प्राकृतिक खेती कार्यशाला सह मेला, 700 से अधिक किसान हुए शामिल; नई कृषि तकनीकों की मिली जानकारी",
-      "summary": "नर्मदापुरम में प्राकृतिक खेती कार्यशाला सह मेला, 700 से अधिक किसान हुए शामिल; नई कृषि तकनीकों की मिली जानकारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/natural-farming-workshop-cum-fair-held-in-narmadapuram-over-700-farmers-participated-and-gained-insights-into-new-agricultural-techniques/",
-      "important": false
-    },
-    {
-      "id": "86066105",
-      "title": "नागालैंड की वेसालु पूरो ने फूलों की खेती से बनाई नई पहचान, मन की बात में हुआ जिक्र",
-      "summary": "नागालैंड की वेसालु पूरो ने फूलों की खेती से बनाई नई पहचान, मन की बात में हुआ जिक्र",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/nagalands-vesalu-puro-carves-a-niche-in-floriculture-mentioned-in-mann-ki-baat/",
       "important": false
     }
   ]
