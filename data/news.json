@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-08T13:09:08Z",
-  "new_count": 8,
+  "updated": "2026-10-08T23:09:20Z",
+  "new_count": 3,
   "articles": [
+    {
+      "id": "9f830e46",
+      "title": "इंदौर: फसल अवशेष जलाने पर ₹15,000 तक जुर्माना, किसानों को बताए गए वैज्ञानिक उपाय",
+      "summary": "इंदौर: फसल अवशेष जलाने पर ₹15,000 तक जुर्माना, किसानों को बताए गए वैज्ञानिक उपाय",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/indore-fine-of-up-to-%e2%82%b915000-for-burning-crop-residue-farmers-informed-about-scientific-methods/",
+      "important": false
+    },
+    {
+      "id": "d59475b4",
+      "title": "भिण्ड: ड्रिप और मल्चिंग से खेती में आया बदलाव, किसान की उपज 40% तक बढ़ी",
+      "summary": "भिण्ड: ड्रिप और मल्चिंग से खेती में आया बदलाव, किसान की उपज 40% तक बढ़ी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bhind-drip-irrigation-and-mulching-transform-farming-farmers-yield-increases-by-up-to-40/",
+      "important": false
+    },
+    {
+      "id": "927fd77b",
+      "title": "कपास किसानों से 31 अक्टूबर तक पंजीकरण कराने की अपील",
+      "summary": "कपास किसानों से 31 अक्टूबर तक पंजीकरण कराने की अपील",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-08",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/cotton-farmers-urged-to-register-by-october-31/",
+      "important": false
+    },
     {
       "id": "dfda098c",
       "title": "बदलते मौसम में चने की बंपर पैदावार: उन्नत किस्म, तकनीक और संपूर्ण फसल प्रबंधन",
@@ -517,39 +550,6 @@
       "date": "2026-10-05",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/mega-mission-for-agriculture-in-rayalaseema-%e2%82%b91-lakh-crore-to-create-global-horticulture-hub/",
-      "important": false
-    },
-    {
-      "id": "7ee018b4",
-      "title": "3 लाख से अधिक किसानों ने कराया पंजीयन: मंत्री श्री राजपूत",
-      "summary": "3 लाख से अधिक किसानों ने कराया पंजीयन: मंत्री श्री राजपूत",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/over-3-lakh-farmers-have-registered-minister-shri-rajput/",
-      "important": false
-    },
-    {
-      "id": "de9b30fe",
-      "title": "गया के अजय कुमार मेहता: एक तालाब से मछली भी, मोती भी",
-      "summary": "गया के अजय कुमार मेहता: एक तालाब से मछली भी, मोती भी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ajay-kumar-mehta-from-gaya-harvesting-both-fish-and-pearls-from-a-single-pond/",
-      "important": false
-    },
-    {
-      "id": "d8b20e09",
-      "title": "नोएडा की अंतरा कुमारी ने पॉलीहाउस में शुरू की संरक्षित खेती",
-      "summary": "नोएडा की अंतरा कुमारी ने पॉलीहाउस में शुरू की संरक्षित खेती",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/antara-kumari-from-noida-has-started-protected-farming-in-a-polyhouse/",
       "important": false
     }
   ]
