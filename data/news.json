@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-09T12:55:52Z",
-  "new_count": 8,
+  "updated": "2026-10-09T22:28:47Z",
+  "new_count": 6,
   "articles": [
+    {
+      "id": "56312b01",
+      "title": "भारत का अन्न भंडार बफर मानकों से करीब दोगुना, वैश्विक खाद्य संकट के बीच किसानों के लिए सुरक्षा कवच",
+      "summary": "भारत का अन्न भंडार बफर मानकों से करीब दोगुना, वैश्विक खाद्य संकट के बीच किसानों के लिए सुरक्षा कवच",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/indias-food-grain-stocks-are-nearly-double-the-buffer-norms-a-safety-net-for-farmers-amidst-the-global-food-crisis/",
+      "important": false
+    },
+    {
+      "id": "633cbcc3",
+      "title": "सोयाबीन की पत्तियों पर सूंडी का हमला, नागालैंड में वैज्ञानिकों ने बताई नीम तेल और स्पिनोसैड की मात्रा",
+      "summary": "सोयाबीन की पत्तियों पर सूंडी का हमला, नागालैंड में वैज्ञानिकों ने बताई नीम तेल और स्पिनोसैड की मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/caterpillar-attack-on-soybean-leaves-scientists-in-nagaland-specify-dosages-of-neem-oil-and-spinosad/",
+      "important": false
+    },
+    {
+      "id": "5de4bf16",
+      "title": "नागालैंड में धान की फसल में तना छेदक से “डेड हार्ट” का खतरा, वैज्ञानिकों ने दी दवा की सलाह",
+      "summary": "नागालैंड में धान की फसल में तना छेदक से “डेड हार्ट” का खतरा, वैज्ञानिकों ने दी दवा की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-dead-heart-in-nagalands-paddy-crop-due-to-stem-borers-scientists-recommend-treatment/",
+      "important": false
+    },
+    {
+      "id": "786153c1",
+      "title": "भदोही में किसानों को मिली ड्रैगन फ्रूट और स्ट्रॉबेरी की खेती की नई राह",
+      "summary": "भदोही में किसानों को मिली ड्रैगन फ्रूट और स्ट्रॉबेरी की खेती की नई राह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-bhadohi-find-a-new-path-for-dragon-fruit-and-strawberry-cultivation/",
+      "important": false
+    },
+    {
+      "id": "f7a9367b",
+      "title": "झारखंड में रबी फसलों का ₹1 में बीमा, पहले से तय समय से पहले शुरू हुआ पंजीयन",
+      "summary": "झारखंड में रबी फसलों का ₹1 में बीमा, पहले से तय समय से पहले शुरू हुआ पंजीयन",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rabi-crop-insurance-in-jharkhand-for-%e2%82%b91-registration-begins-ahead-of-schedule/",
+      "important": false
+    },
+    {
+      "id": "f8c3b59c",
+      "title": "केंद्र ने दलहन के प्रमाणित बीज पर सब्सिडी बढ़ाकर की 100 प्रतिशत, किसानों को ₹12,000 प्रति क्विंटल तक लाभ",
+      "summary": "केंद्र ने दलहन के प्रमाणित बीज पर सब्सिडी बढ़ाकर की 100 प्रतिशत, किसानों को ₹12,000 प्रति क्विंटल तक लाभ",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/centre-raises-subsidy-on-certified-pulse-seeds-to-100-farmers-to-benefit-by-up-to-%e2%82%b912000-per-quintal/",
+      "important": false
+    },
     {
       "id": "42ce5705",
       "title": "डिंडौरी: जीवामृत और बायोगैस का उपयोग कर टिकाऊ खेती कर रहे हैं प्रगतिशील कृषक राजेश मरावी",
@@ -484,72 +550,6 @@
       "date": "2026-10-06",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/vidisha-a-team-from-the-icar-indian-institute-of-soybean-research-visited-the-fields-to-assess-the-crops-and-check-for-pests-and-diseases/",
-      "important": false
-    },
-    {
-      "id": "3b1b7339",
-      "title": "भाजपा ,कांग्रेस और भाकिसं ने पांढुर्ना जिले को सूखाग्रस्त घोषित करने की मांग की",
-      "summary": "भाजपा ,कांग्रेस और भाकिसं ने पांढुर्ना जिले को सूखाग्रस्त घोषित करने की मांग की",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-bjp-congress-and-bks-have-demanded-that-pandhurna-district-be-declared-drought-hit/",
-      "important": false
-    },
-    {
-      "id": "cbfe3a28",
-      "title": "भोपाल: बकरी पालन ने आत्मनिर्भर बनीं सुल्तान बी, हर महीने 10-12 हजार रुपए की कर रही कमाई",
-      "summary": "भोपाल: बकरी पालन ने आत्मनिर्भर बनीं सुल्तान बी, हर महीने 10-12 हजार रुपए की कर रही कमाई",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bhopal-sultan-bi-becomes-self-reliant-through-goat-farming-earns-%e2%82%b910000-12000-per-month/",
-      "important": false
-    },
-    {
-      "id": "fa51b981",
-      "title": "आज का गेहूं मंडी रेट (06 अक्टूबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (06 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-06-october-2026/",
-      "important": false
-    },
-    {
-      "id": "f4fe9361",
-      "title": "आज का मक्का मंडी रेट (06 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (06 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-06-october-2026/",
-      "important": false
-    },
-    {
-      "id": "b1732265",
-      "title": "आज का धान मंडी रेट (06 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (06 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-06-october-2026/",
-      "important": false
-    },
-    {
-      "id": "fb7e2fc9",
-      "title": "आज का सोयाबीन मंडी रेट (06 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (06 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-06-october-2026/",
       "important": false
     }
   ]
