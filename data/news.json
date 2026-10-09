@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-09T05:34:44Z",
-  "new_count": 0,
+  "updated": "2026-10-09T12:55:52Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "42ce5705",
+      "title": "डिंडौरी: जीवामृत और बायोगैस का उपयोग कर टिकाऊ खेती कर रहे हैं प्रगतिशील कृषक राजेश मरावी",
+      "summary": "डिंडौरी: जीवामृत और बायोगैस का उपयोग कर टिकाऊ खेती कर रहे हैं प्रगतिशील कृषक राजेश मरावी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dindori-progressive-farmer-rajesh-maravi-is-practicing-sustainable-farming-using-jeevamrit-and-biogas/",
+      "important": false
+    },
+    {
+      "id": "c8a03c13",
+      "title": "बालाघाट: जलभराव वाले खेत में उगा रहे सिंघाड़ा, युवा किसान युवराज पारधी ने खोजा खेती का नया विकल्प",
+      "summary": "बालाघाट: जलभराव वाले खेत में उगा रहे सिंघाड़ा, युवा किसान युवराज पारधी ने खोजा खेती का नया विकल्प",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-cultivating-water-chestnuts-in-waterlogged-fields-young-farmer-yuvraj-pardhi-discovers-a-new-farming-alternative/",
+      "important": false
+    },
+    {
+      "id": "69d6c105",
+      "title": "टीकमगढ़: किसान बालचंद अहिरवार के खेत पहुंचे प्रधानमंत्री धन-धान्य योजना के नोडल अधिकारी, प्राकृतिक खेती के नवाचारों को स",
+      "summary": "टीकमगढ़: किसान बालचंद अहिरवार के खेत पहुंचे प्रधानमंत्री धन-धान्य योजना के नोडल अधिकारी, प्राकृतिक खेती के नवाचारों को सराहा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/tikamgarh-the-nodal-officer-for-the-pradhan-mantri-dhan-dhanya-yojana-visited-farmer-balchand-ahirwars-field-and-praised-the-innovations-in-natural-farming/",
+      "important": false
+    },
+    {
+      "id": "59709878",
+      "title": "आज का गेहूं मंडी रेट (09 अक्टूबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (09 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-09-october-2026/",
+      "important": false
+    },
+    {
+      "id": "147cc6a0",
+      "title": "आज का मक्का मंडी रेट (09 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (09 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-09-october-2026/",
+      "important": false
+    },
+    {
+      "id": "5ca0a750",
+      "title": "आज का धान मंडी रेट (09 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (09 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-09-october-2026/",
+      "important": false
+    },
+    {
+      "id": "e8593892",
+      "title": "आज का सोयाबीन मंडी रेट (09 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (09 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-09-october-2026/",
+      "important": false
+    },
+    {
+      "id": "ba8471a1",
+      "title": "पारंपरिक खेती छोड़ अपनाया जैविक खाद निर्माण: सागर के युवा किसान लक्ष्य चौहान मात्र 3-4 महीने में तैयार कर रहे 10 टन वर्म",
+      "summary": "पारंपरिक खेती छोड़ अपनाया जैविक खाद निर्माण: सागर के युवा किसान लक्ष्य चौहान मात्र 3-4 महीने में तैयार कर रहे 10 टन वर्मी कंपोस्ट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/moving-away-from-traditional-farming-to-organic-manure-production-lakshya-chauhan-a-young-farmer-from-sagar-is-producing-10-tonnes-of-vermicompost-in-just-3-4-months/",
+      "important": false
+    },
     {
       "id": "9f830e46",
       "title": "इंदौर: फसल अवशेष जलाने पर ₹15,000 तक जुर्माना, किसानों को बताए गए वैज्ञानिक उपाय",
@@ -462,94 +550,6 @@
       "date": "2026-10-06",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-06-october-2026/",
-      "important": false
-    },
-    {
-      "id": "0d82b898",
-      "title": "भारत-नीदरलैंड्स की कृषि साझेदारी नई ऊंचाई पर, बीज और बागवानी तकनीक पर बनेगी साझा कार्ययोजना",
-      "summary": "भारत-नीदरलैंड्स की कृषि साझेदारी नई ऊंचाई पर, बीज और बागवानी तकनीक पर बनेगी साझा कार्ययोजना",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/india-netherlands-agricultural-partnership-reaches-new-heights-joint-action-plan-on-seed-and-horticulture-technology-to-be-formulated/",
-      "important": false
-    },
-    {
-      "id": "1d1a52e7",
-      "title": "भूजल बचाने के लिए धान-गेहूं छोड़ा, अब सब्जी नर्सरी से सालाना 8-10 लाख पौधे तैयार कर रहे सिरसा के किसान",
-      "summary": "भूजल बचाने के लिए धान-गेहूं छोड़ा, अब सब्जी नर्सरी से सालाना 8-10 लाख पौधे तैयार कर रहे सिरसा के किसान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sirsa-farmers-have-moved-away-from-paddy-and-wheat-to-conserve-groundwater-they-are-now-producing-8-10-lakh-saplings-annually-in-vegetable-nurseries/",
-      "important": false
-    },
-    {
-      "id": "41d33969",
-      "title": "भोपाल में श्वेत क्रांति 2.0 का आगाज़, गौशालाओं को 101 करोड़ और उज्जैन में 255 करोड़ का डेयरी प्लांट",
-      "summary": "भोपाल में श्वेत क्रांति 2.0 का आगाज़, गौशालाओं को 101 करोड़ और उज्जैन में 255 करोड़ का डेयरी प्लांट",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/white-revolution-2-0-launched-in-bhopal-%e2%82%b9101-crore-for-cow-shelters-and-a-%e2%82%b9255-crore-dairy-plant-in-ujjain/",
-      "important": false
-    },
-    {
-      "id": "05ae4bf7",
-      "title": "गुजरात में रबी सीजन के लिए आई-खेदूत पोर्टल खुला, खरीफ पंजीयन की तारीख 24 अक्टूबर तक बढ़ी",
-      "summary": "गुजरात में रबी सीजन के लिए आई-खेदूत पोर्टल खुला, खरीफ पंजीयन की तारीख 24 अक्टूबर तक बढ़ी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/i-khedut-portal-opened-for-the-rabi-season-in-gujarat-kharif-registration-deadline-extended-to-october-24/",
-      "important": true
-    },
-    {
-      "id": "cb97fa01",
-      "title": "सोशल मीडिया की अमर्यादित भाषा से सामाजिक बिखराव का खतरा : सांसद आलोक शर्मा",
-      "summary": "सोशल मीडिया की अमर्यादित भाषा से सामाजिक बिखराव का खतरा : सांसद आलोक शर्मा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-social-fragmentation-due-to-unrestrained-language-on-social-media-mp-alok-sharma/",
-      "important": false
-    },
-    {
-      "id": "01a76e00",
-      "title": "शिवपुरी: साप्ताहिक जैविक हाट बाजार में खूब हुई खरीदारी",
-      "summary": "शिवपुरी: साप्ताहिक जैविक हाट बाजार में खूब हुई खरीदारी",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shivpuri-brisk-shopping-at-the-weekly-organic-market/",
-      "important": false
-    },
-    {
-      "id": "97dfa35a",
-      "title": "गुना कलेक्टर ने देखा ड्रिप-मल्चिंग से मिर्च की खेती का मॉडल",
-      "summary": "गुना कलेक्टर ने देखा ड्रिप-मल्चिंग से मिर्च की खेती का मॉडल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guna-collector-inspected-the-model-of-chilli-cultivation-using-drip-irrigation-and-mulching/",
-      "important": false
-    },
-    {
-      "id": "e04bfdd1",
-      "title": "रायलसीमा में कृषि का मेगा मिशन: ₹1 लाख करोड़ से बनेगा ग्लोबल हॉर्टिकल्चर हब",
-      "summary": "रायलसीमा में कृषि का मेगा मिशन: ₹1 लाख करोड़ से बनेगा ग्लोबल हॉर्टिकल्चर हब",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mega-mission-for-agriculture-in-rayalaseema-%e2%82%b91-lakh-crore-to-create-global-horticulture-hub/",
       "important": false
     }
   ]
