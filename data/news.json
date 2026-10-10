@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-10T12:13:44Z",
+  "updated": "2026-10-10T21:25:04Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "3801e8c9",
+      "title": "खंडवा: मल्चर बना कमाई का जरिया, किसान ने कमाए 60 हजार रुपए",
+      "summary": "खंडवा: मल्चर बना कमाई का जरिया, किसान ने कमाए 60 हजार रुपए",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/khandwa-mulcher-becomes-a-source-of-income-farmer-earns-%e2%82%b960000/",
+      "important": false
+    },
+    {
+      "id": "8df01407",
+      "title": "मध्यप्रदेश: गुलाब के बाद अब गेंदा और धनिया उत्पादन से नई पहचान बनाएगा गुना, 2,085 एकड़ में विकसित होंगे 4 क्लस्टर",
+      "summary": "मध्यप्रदेश: गुलाब के बाद अब गेंदा और धनिया उत्पादन से नई पहचान बनाएगा गुना, 2,085 एकड़ में विकसित होंगे 4 क्लस्टर",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-after-roses-guna-is-set-to-carve-a-new-identity-through-marigold-and-coriander-cultivation-four-clusters-will-be-developed-across-2085-acres/",
+      "important": false
+    },
+    {
+      "id": "703765de",
+      "title": "ग्वालियर : कृषि उत्पादन आयुक्त एवं अपर मुख्य सचिव ने किया उद्यानिकी गतिविधियों का निरीक्षण",
+      "summary": "ग्वालियर : कृषि उत्पादन आयुक्त एवं अपर मुख्य सचिव ने किया उद्यानिकी गतिविधियों का निरीक्षण",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gwalior-agriculture-production-commissioner-and-additional-chief-secretary-inspected-horticulture-activities/",
+      "important": false
+    },
+    {
+      "id": "dece2f5b",
+      "title": "बड़वानी: कृषि क्षेत्र में उद्यम एवं आयात-निर्यात विषय पर एक दिवसीय कार्यशाला आयोजित",
+      "summary": "बड़वानी: कृषि क्षेत्र में उद्यम एवं आयात-निर्यात विषय पर एक दिवसीय कार्यशाला आयोजित",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/barwani-one-day-workshop-organized-on-entrepreneurship-and-import-export-in-the-agricultural-sector/",
+      "important": false
+    },
+    {
+      "id": "f0d91850",
+      "title": "शिवपुरी : सर्वोत्तम कृषक पुरस्कार हेतु 21 अक्टूबर तक प्रविष्टियां आमंत्रित",
+      "summary": "शिवपुरी : सर्वोत्तम कृषक पुरस्कार हेतु 21 अक्टूबर तक प्रविष्टियां आमंत्रित",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shivpuri-entries-invited-for-the-best-farmer-award-until-october-21/",
+      "important": false
+    },
+    {
+      "id": "3e992249",
+      "title": "लौकी की टॉप 10 उन्नत किस्में: पूसा हाइब्रिड-3 से काशी बहार तक, जानें इनकी उत्पादन क्षमता और खासियत",
+      "summary": "लौकी की टॉप 10 उन्नत किस्में: पूसा हाइब्रिड-3 से काशी बहार तक, जानें इनकी उत्पादन क्षमता और खासियत",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/top-10-improved-varieties-of-bottle-gourd-from-pusa-hybrid-3-to-kashi-bahar-learn-about-their-yield-potential-and-key-features/",
+      "important": false
+    },
+    {
+      "id": "0aa3d423",
+      "title": "गुजरात के किसानों को राहत: खरीफ फसलों की सिंचाई के लिए सीएम भूपेंद्र पटेल ने दी पानी छोड़ने की मंजूरी, 80 हजार हेक्टेयर ",
+      "summary": "गुजरात के किसानों को राहत: खरीफ फसलों की सिंचाई के लिए सीएम भूपेंद्र पटेल ने दी पानी छोड़ने की मंजूरी, 80 हजार हेक्टेयर को मिलेगा लाभ",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/relief-for-gujarat-farmers-cm-bhupendra-patel-approves-water-release-for-kharif-crop-irrigation-80000-hectares-to-benefit/",
+      "important": false
+    },
+    {
+      "id": "931b95e8",
+      "title": "बड़वानी : खेत तालाबों ने बदली किसानों की किस्मत",
+      "summary": "बड़वानी : खेत तालाबों ने बदली किसानों की किस्मत",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/barwani-farm-ponds-have-transformed-farmers-fortunes/",
+      "important": false
+    },
     {
       "id": "d5ecb9a8",
       "title": "डेयरी व्यवसाय से बदली ग्रामीण महिला संध्या की तकदीर, दूध बेचकर हर महीने बचा रहीं ₹15 हजार",
@@ -463,94 +551,6 @@
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/after-completing-an-msc-phd-a-farmer-from-sidhi-turned-farming-into-a-career-now-earning-up-to-%e2%82%b915-lakh-from-one-acre/",
       "important": false
-    },
-    {
-      "id": "c453b942",
-      "title": "आज का गेहूं मंडी रेट (07 अक्टूबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (07 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-07-october-2026/",
-      "important": false
-    },
-    {
-      "id": "b4129ec7",
-      "title": "आज का मक्का मंडी रेट (07 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (07 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-07-october-2026/",
-      "important": false
-    },
-    {
-      "id": "416d66ee",
-      "title": "आज का धान मंडी रेट (07 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (07 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-07-october-2026/",
-      "important": false
-    },
-    {
-      "id": "f56484da",
-      "title": "रीवा: फार्मर रजिस्ट्री कराने पर ही मिलेगा समर्थन मूल्य में उपार्जन का मौका",
-      "summary": "रीवा: फार्मर रजिस्ट्री कराने पर ही मिलेगा समर्थन मूल्य में उपार्जन का मौका",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rewa-opportunity-for-procurement-at-support-price-available-only-upon-farmer-registration/",
-      "important": false
-    },
-    {
-      "id": "6a567ed4",
-      "title": "किसान कृष्णकांत ने थाईलैंड के ‘बनाना मैंगो’ से लिखी तरक्की की नई इबारत",
-      "summary": "किसान कृष्णकांत ने थाईलैंड के ‘बनाना मैंगो’ से लिखी तरक्की की नई इबारत",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmer-krishnakant-wrote-a-new-chapter-of-progress-with-thailands-banana-mango/",
-      "important": false
-    },
-    {
-      "id": "ebe36dd6",
-      "title": "आज का सोयाबीन मंडी रेट (07 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (07 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-07-october-2026/",
-      "important": false
-    },
-    {
-      "id": "0afe6b72",
-      "title": "मुरैना: 1 नवंबर से रबी फसलों के लिए मिलेगा पानी, चंबल नहरों की 20 अक्टूबर तक होगी सफाई",
-      "summary": "मुरैना: 1 नवंबर से रबी फसलों के लिए मिलेगा पानी, चंबल नहरों की 20 अक्टूबर तक होगी सफाई",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/morena-water-for-rabi-crops-to-be-available-from-november-1-chambal-canals-to-be-cleaned-by-october-20/",
-      "important": false
-    },
-    {
-      "id": "5c0cd7f8",
-      "title": "मध्यप्रदेश: कोदो-कुटकी बेचने के लिए किसान पंजीयन आज से शुरू, जानें भाव और अंतिम तारीख",
-      "summary": "मध्यप्रदेश: कोदो-कुटकी बेचने के लिए किसान पंजीयन आज से शुरू, जानें भाव और अंतिम तारीख",
-      "level": "state",
-      "category": "price",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-farmer-registration-for-selling-kodo-kutki-begins-today-check-rates-and-the-deadline/",
-      "important": true
     }
   ]
 }
