@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-10T05:18:34Z",
-  "new_count": 0,
+  "updated": "2026-10-10T12:13:44Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "d5ecb9a8",
+      "title": "डेयरी व्यवसाय से बदली ग्रामीण महिला संध्या की तकदीर, दूध बेचकर हर महीने बचा रहीं ₹15 हजार",
+      "summary": "डेयरी व्यवसाय से बदली ग्रामीण महिला संध्या की तकदीर, दूध बेचकर हर महीने बचा रहीं ₹15 हजार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dairy-business-transforms-the-fortunes-of-rural-woman-sandhya-she-saves-%e2%82%b915000-every-month-by-selling-milk/",
+      "important": false
+    },
+    {
+      "id": "74988f41",
+      "title": "धान छोड़ सन की खेती अपना रहे रायगढ़ के किसान, बीज उत्पादन से बढ़ाएंगे कमाई; कृषक उन्नति योजना से मिलेगा प्रोत्साहन",
+      "summary": "धान छोड़ सन की खेती अपना रहे रायगढ़ के किसान, बीज उत्पादन से बढ़ाएंगे कमाई; कृषक उन्नति योजना से मिलेगा प्रोत्साहन",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-raigarh-are-shifting-from-paddy-to-sunn-hemp-cultivation-and-aim-to-boost-earnings-through-seed-production-the-krishak-unnati-yojana-will-provide-incentives/",
+      "important": false
+    },
+    {
+      "id": "7b3d594b",
+      "title": "मेगा फ्री सर्विस कैंप और किसान मिलन समारोह का आयोजन",
+      "summary": "मेगा फ्री सर्विस कैंप और किसान मिलन समारोह का आयोजन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/organization-of-a-mega-free-service-camp-and-farmers-meet/",
+      "important": false
+    },
+    {
+      "id": "c21cc347",
+      "title": "कृषि महोत्सव में किसानों ने लिया बढ़-चढ़कर हिस्सा",
+      "summary": "कृषि महोत्सव में किसानों ने लिया बढ़-चढ़कर हिस्सा",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-participated-enthusiastically-in-the-agriculture-festival/",
+      "important": false
+    },
+    {
+      "id": "78bf5bb8",
+      "title": "छिंदवाड़ा: मक्का की कड़बी न जलाने के लिए किसानों को कर रहे प्रेरित",
+      "summary": "छिंदवाड़ा: मक्का की कड़बी न जलाने के लिए किसानों को कर रहे प्रेरित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-farmers-being-encouraged-not-to-burn-maize-stalks/",
+      "important": false
+    },
+    {
+      "id": "d4a1fc01",
+      "title": "पांढुर्ना में वास्तविक फसल अन्य खसरे में दर्ज़",
+      "summary": "पांढुर्ना में वास्तविक फसल अन्य खसरे में दर्ज़",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/actual-crop-in-pandhurna-recorded-in-a-different-khasra/",
+      "important": false
+    },
+    {
+      "id": "c352e882",
+      "title": "जैविक खेती, गोवंश पालन और बायोगैस से आत्मनिर्भरता की मिसाल बने उपेन्द्र कौरव",
+      "summary": "जैविक खेती, गोवंश पालन और बायोगैस से आत्मनिर्भरता की मिसाल बने उपेन्द्र कौरव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/upendra-kaurav-has-become-an-example-of-self-reliance-through-organic-farming-cattle-rearing-and-biogas/",
+      "important": false
+    },
+    {
+      "id": "00ee6e1a",
+      "title": "विदिशा में दो दिवसीय उद्यानिकी प्रशिक्षण संपन्न",
+      "summary": "विदिशा में दो दिवसीय उद्यानिकी प्रशिक्षण संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-10",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/two-day-horticulture-training-concludes-in-vidisha/",
+      "important": false
+    },
     {
       "id": "56312b01",
       "title": "भारत का अन्न भंडार बफर मानकों से करीब दोगुना, वैश्विक खाद्य संकट के बीच किसानों के लिए सुरक्षा कवच",
@@ -463,94 +551,6 @@
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/madhya-pradesh-farmer-registration-for-selling-kodo-kutki-begins-today-check-rates-and-the-deadline/",
       "important": true
-    },
-    {
-      "id": "2515e2fb",
-      "title": "जबलपुर: धान के पंजीयन में आ रही समस्या के समाधान के लिए कंट्रोल रूम स्थापित",
-      "summary": "जबलपुर: धान के पंजीयन में आ रही समस्या के समाधान के लिए कंट्रोल रूम स्थापित",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jabalpur-control-room-set-up-to-resolve-issues-regarding-paddy-registration/",
-      "important": false
-    },
-    {
-      "id": "dcb40dd0",
-      "title": "जबलपुर : केंद्रीय गृह मंत्री ने कृषक तन्मय दास के समन्वित कृषि मॉडल को सराहा",
-      "summary": "जबलपुर : केंद्रीय गृह मंत्री ने कृषक तन्मय दास के समन्वित कृषि मॉडल को सराहा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jabalpur-union-home-minister-praises-farmer-tanmay-dass-integrated-farming-model/",
-      "important": false
-    },
-    {
-      "id": "b0f8f829",
-      "title": "डिंडोरी : धान एवं अन्य फसलों के लिए कृषि विभाग ने किसानों को दी सलाह",
-      "summary": "डिंडोरी : धान एवं अन्य फसलों के लिए कृषि विभाग ने किसानों को दी सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-agriculture-department-issues-advisory-to-farmers-regarding-paddy-and-other-crops/",
-      "important": false
-    },
-    {
-      "id": "45c0f3d8",
-      "title": "डिंडोरी: मत्स्य पालन से आत्मनिर्भर बने गंगा सिंह",
-      "summary": "डिंडोरी: मत्स्य पालन से आत्मनिर्भर बने गंगा सिंह",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-ganga-singh-becomes-self-reliant-through-fish-farming/",
-      "important": false
-    },
-    {
-      "id": "42144c92",
-      "title": "मंडला: संयुक्त संचालक मत्स्य ने मत्स्य बीज प्रक्षेत्र का किया निरीक्षण",
-      "summary": "मंडला: संयुक्त संचालक मत्स्य ने मत्स्य बीज प्रक्षेत्र का किया निरीक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mandla-joint-director-of-fisheries-inspected-the-fish-seed-farm/",
-      "important": false
-    },
-    {
-      "id": "3e0a6811",
-      "title": "बालाघाट में तिल की खेती को बढ़ावा देने की दिशा में हुई पहल",
-      "summary": "बालाघाट में तिल की खेती को बढ़ावा देने की दिशा में हुई पहल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/initiative-taken-to-promote-sesame-cultivation-in-balaghat/",
-      "important": false
-    },
-    {
-      "id": "2881354a",
-      "title": "मंडला: कोदो-कुटकी उपार्जन के लिए किसान पंजीयन 6 अक्टूबर से प्रारंभ",
-      "summary": "मंडला: कोदो-कुटकी उपार्जन के लिए किसान पंजीयन 6 अक्टूबर से प्रारंभ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mandla-farmer-registration-for-kodo-kutki-procurement-begins-on-october-6/",
-      "important": false
-    },
-    {
-      "id": "6dac0798",
-      "title": "विदिशा: खेतों में पहुंची ICAR-राष्ट्रीय सोयाबीन अनुसंधान संस्थान की टीम, फसल और कीट-रोग का लिया जायजा",
-      "summary": "विदिशा: खेतों में पहुंची ICAR-राष्ट्रीय सोयाबीन अनुसंधान संस्थान की टीम, फसल और कीट-रोग का लिया जायजा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-a-team-from-the-icar-indian-institute-of-soybean-research-visited-the-fields-to-assess-the-crops-and-check-for-pests-and-diseases/",
-      "important": false
     }
   ]
 }
