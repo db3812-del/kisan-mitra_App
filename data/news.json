@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-11T05:09:46Z",
-  "new_count": 0,
+  "updated": "2026-10-11T12:28:14Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "5e1ba29e",
+      "title": "एपीडा की 113वीं बैठक: सांसद दर्शन सिंह ने बासमती को GI टैग दिलाने की मांग की, FPO को निर्यातकों से जोड़ने का रखा प्रस्ता",
+      "summary": "एपीडा की 113वीं बैठक: सांसद दर्शन सिंह ने बासमती को GI टैग दिलाने की मांग की, FPO को निर्यातकों से जोड़ने का रखा प्रस्ताव",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/apedas-113th-meeting-mp-darshan-singh-demands-gi-tag-for-basmati-proposes-linking-fpos-with-exporters/",
+      "important": false
+    },
+    {
+      "id": "bc53a286",
+      "title": "मंदसौर: पान किसानों की आय बढ़ाने की तैयारी, दिल्ली-जयपुर तक पहुंचेगा भानपुरा का पान",
+      "summary": "मंदसौर: पान किसानों की आय बढ़ाने की तैयारी, दिल्ली-जयपुर तक पहुंचेगा भानपुरा का पान",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mandsaur-plans-underway-to-boost-income-of-betel-leaf-farmers-bhanpuras-betel-leaves-to-reach-delhi-and-jaipur/",
+      "important": false
+    },
+    {
+      "id": "da267b21",
+      "title": "उत्तर प्रदेश में गन्ने की दो नई किस्मों की मिनी सीड किट की बुकिंग शुरू, पांच मिनट में बुक हुए दो लाख सिंगल बड",
+      "summary": "उत्तर प्रदेश में गन्ने की दो नई किस्मों की मिनी सीड किट की बुकिंग शुरू, पांच मिनट में बुक हुए दो लाख सिंगल बड",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/booking-for-mini-seed-kits-of-two-new-sugarcane-varieties-has-begun-in-uttar-pradesh-two-lakh-single-bud-sets-were-booked-in-five-minutes/",
+      "important": false
+    },
+    {
+      "id": "6a62cf6d",
+      "title": "केंद्र सरकार ने पीएम-किसान योजना को 2030-31 तक बढ़ाया, 3.15 लाख करोड़ रुपये मंजूर",
+      "summary": "केंद्र सरकार ने पीएम-किसान योजना को 2030-31 तक बढ़ाया, 3.15 लाख करोड़ रुपये मंजूर",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/central-government-extends-pm-kisan-scheme-until-2030-31-approves-%e2%82%b93-15-lakh-crore/",
+      "important": false
+    },
+    {
+      "id": "2f0a30c6",
+      "title": "कालाहांडी के आदिवासी किसानों को मिली मछली और झींगा पालन की नई तकनीक की जानकारी",
+      "summary": "कालाहांडी के आदिवासी किसानों को मिली मछली और झींगा पालन की नई तकनीक की जानकारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/tribal-farmers-in-kalahandi-received-information-about-new-techniques-for-fish-and-shrimp-farming/",
+      "important": false
+    },
+    {
+      "id": "83572a90",
+      "title": "मछली पालकों को बीमा प्रीमियम पर 40 फीसदी तक मदद दे रही है केंद्र की यह योजना",
+      "summary": "मछली पालकों को बीमा प्रीमियम पर 40 फीसदी तक मदद दे रही है केंद्र की यह योजना",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-10-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/this-central-government-scheme-is-providing-assistance-of-up-to-40-percent-on-insurance-premiums-to-fish-farmers/",
+      "important": false
+    },
+    {
+      "id": "91376459",
+      "title": "ऊना में आलू की फसल पर सुंडी का हमला, मिट्टी के भीतर से काट रही पौधे",
+      "summary": "ऊना में आलू की फसल पर सुंडी का हमला, मिट्टी के भीतर से काट रही पौधे",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/caterpillar-attack-on-potato-crops-in-una-they-are-severing-plants-from-beneath-the-soil/",
+      "important": false
+    },
+    {
+      "id": "2aa7bfda",
+      "title": "बैंकर की नौकरी छोड़कर पथरीली जमीन पर ड्रैगन फ्रूट उगाकर खड़ा किया 50 लाख रुपये का कारोबार",
+      "summary": "बैंकर की नौकरी छोड़कर पथरीली जमीन पर ड्रैगन फ्रूट उगाकर खड़ा किया 50 लाख रुपये का कारोबार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/quit-a-banking-job-to-cultivate-dragon-fruit-on-rocky-land-and-built-a-business-worth-%e2%82%b950-lakh/",
+      "important": false
+    },
     {
       "id": "3801e8c9",
       "title": "खंडवा: मल्चर बना कमाई का जरिया, किसान ने कमाए 60 हजार रुपए",
@@ -462,94 +550,6 @@
       "date": "2026-10-08",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/pink-bollworm-infestation-on-bt-cotton-in-nimar-no-relief-even-after-eight-rounds-of-spraying/",
-      "important": false
-    },
-    {
-      "id": "272934eb",
-      "title": "भदोही में धान की फसल में जीवाणु झुलसा और खैरा रोग का प्रकोप, कृषि विभाग ने जारी की एडवाइजरी",
-      "summary": "भदोही में धान की फसल में जीवाणु झुलसा और खैरा रोग का प्रकोप, कृषि विभाग ने जारी की एडवाइजरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/outbreak-of-bacterial-blight-and-khaira-disease-in-paddy-crops-in-bhadohi-agriculture-department-issues-advisory/",
-      "important": false
-    },
-    {
-      "id": "09d868fd",
-      "title": "महाराष्ट्र में सूखे का संकट गहराया, 16 अक्टूबर से राज्यव्यापी जल कटौती",
-      "summary": "महाराष्ट्र में सूखे का संकट गहराया, 16 अक्टूबर से राज्यव्यापी जल कटौती",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/drought-crisis-deepens-in-maharashtra-state-wide-water-cuts-from-october-16/",
-      "important": false
-    },
-    {
-      "id": "0864b59b",
-      "title": "नर्मदापुरम : नहरों की साफ-सफाई के लिए चलाया जा रहा विशेष अभियान",
-      "summary": "नर्मदापुरम : नहरों की साफ-सफाई के लिए चलाया जा रहा विशेष अभियान",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/narmadapuram-special-campaign-underway-for-cleaning-canals/",
-      "important": false
-    },
-    {
-      "id": "8a9db226",
-      "title": "हरदा : कृषि विज्ञान केंद्र ने नरवाई प्रबंधन के लिये किसानों को दी सलाह",
-      "summary": "हरदा : कृषि विज्ञान केंद्र ने नरवाई प्रबंधन के लिये किसानों को दी सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/harda-krishi-vigyan-kendra-advises-farmers-on-crop-residue-management/",
-      "important": false
-    },
-    {
-      "id": "922d06ec",
-      "title": "सीधी : डॉ विपिन ने उद्यानिकी फसलों की उन्नत खेती को बनाया आय का स्रोत",
-      "summary": "सीधी : डॉ विपिन ने उद्यानिकी फसलों की उन्नत खेती को बनाया आय का स्रोत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sidhi-dr-vipin-turns-advanced-cultivation-of-horticultural-crops-into-a-source-of-income/",
-      "important": false
-    },
-    {
-      "id": "b595854d",
-      "title": "पानी की उपलब्धता के आधार पर ही फसल लेने किसानों को करें जागरूक- कलेक्टर बैतूल",
-      "summary": "पानी की उपलब्धता के आधार पर ही फसल लेने किसानों को करें जागरूक- कलेक्टर बैतूल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/create-awareness-among-farmers-to-cultivate-crops-based-on-water-availability-betul-collector/",
-      "important": false
-    },
-    {
-      "id": "da23df74",
-      "title": "पशुधन से समृद्धि की ओर बढ़ता नीमच",
-      "summary": "पशुधन से समृद्धि की ओर बढ़ता नीमच",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/neemuch-moves-towards-prosperity-through-livestock/",
-      "important": false
-    },
-    {
-      "id": "49494358",
-      "title": "एमएससी-पीएचडी के बाद सीधी के किसान ने खेती को बनाया करियर, अब 1 एकड़ से 15 लाख तक हो रही कमाई",
-      "summary": "एमएससी-पीएचडी के बाद सीधी के किसान ने खेती को बनाया करियर, अब 1 एकड़ से 15 लाख तक हो रही कमाई",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/after-completing-an-msc-phd-a-farmer-from-sidhi-turned-farming-into-a-career-now-earning-up-to-%e2%82%b915-lakh-from-one-acre/",
       "important": false
     }
   ]
