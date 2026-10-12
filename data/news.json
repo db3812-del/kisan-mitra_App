@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-12T05:23:28Z",
-  "new_count": 0,
+  "updated": "2026-10-12T15:00:02Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "9ccde9b2",
+      "title": "आज का मक्का मंडी रेट (12 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (12 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-12-october-2026/",
+      "important": false
+    },
+    {
+      "id": "407ab75b",
+      "title": "आज का धान मंडी रेट (12 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (12 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-12-october-2026/",
+      "important": false
+    },
+    {
+      "id": "00e459d2",
+      "title": "महिंद्रा ने मैक्ससीडर जीरो-टिलेज सीडिंग मशीन का व्यावसायिक उत्पादन शुरू किया",
+      "summary": "महिंद्रा ने मैक्ससीडर जीरो-टिलेज सीडिंग मशीन का व्यावसायिक उत्पादन शुरू किया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-has-commenced-commercial-production-of-the-maxseedr-zero-tillage-seeding-machine/",
+      "important": false
+    },
+    {
+      "id": "4a4bb8a6",
+      "title": "आज का सोयाबीन मंडी रेट (12 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (12 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-12-october-2026/",
+      "important": false
+    },
+    {
+      "id": "c4b0ce5e",
+      "title": "बुरहानपुर: सौर ऊर्जा से आसान हुई सिंचाई की राह",
+      "summary": "बुरहानपुर: सौर ऊर्जा से आसान हुई सिंचाई की राह",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/burhanpur-solar-energy-makes-irrigation-easier/",
+      "important": false
+    },
+    {
+      "id": "6acca436",
+      "title": "शहडोल : नलकूप खनन से बढ़ी खेती की क्षमता, हीरालाल अब ले रहे तीन फसल",
+      "summary": "शहडोल : नलकूप खनन से बढ़ी खेती की क्षमता, हीरालाल अब ले रहे तीन फसल",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shahdol-tube-well-drilling-boosts-farming-capacity-hiralal-now-harvests-three-crops/",
+      "important": false
+    },
+    {
+      "id": "c6bea157",
+      "title": "मियावाकी पद्धति से संवरती बड़वानी की धरा",
+      "summary": "मियावाकी पद्धति से संवरती बड़वानी की धरा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/barwanis-land-being-transformed-by-the-miyawaki-method/",
+      "important": false
+    },
+    {
+      "id": "e7129940",
+      "title": "अगेती हो या पछेती बुवाई, श्रीराम सुपर 5-SR-05 गेहूँ किस्म देती है पूरा मौका",
+      "summary": "अगेती हो या पछेती बुवाई, श्रीराम सुपर 5-SR-05 गेहूँ किस्म देती है पूरा मौका",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/whether-sowing-is-early-or-late-the-shriram-super-5-sr-05-wheat-variety-offers-the-perfect-opportunity/",
+      "important": false
+    },
     {
       "id": "5e1ba29e",
       "title": "एपीडा की 113वीं बैठक: सांसद दर्शन सिंह ने बासमती को GI टैग दिलाने की मांग की, FPO को निर्यातकों से जोड़ने का रखा प्रस्ता",
@@ -462,94 +550,6 @@
       "date": "2026-10-08",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/bumper-gram-yield-amidst-changing-weather-improved-varieties-technology-and-comprehensive-crop-management/",
-      "important": false
-    },
-    {
-      "id": "857932fa",
-      "title": "नेचुरल फार्मिंग की पढ़ाई करेंगे देश के छात्र: ICAR ला रहा PG-PhD कोर्स, विशेषज्ञों से मांगे सुझाव",
-      "summary": "नेचुरल फार्मिंग की पढ़ाई करेंगे देश के छात्र: ICAR ला रहा PG-PhD कोर्स, विशेषज्ञों से मांगे सुझाव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/students-across-the-country-to-study-natural-farming-icar-introducing-pg-and-phd-courses-seeks-suggestions-from-experts/",
-      "important": false
-    },
-    {
-      "id": "d80e4f84",
-      "title": "वृंदावन ग्राम में उन्नत नस्ल के पशुओं की प्रतियोगिता आयोजित करें : मुख्यमंत्री डॉ. यादव",
-      "summary": "वृंदावन ग्राम में उन्नत नस्ल के पशुओं की प्रतियोगिता आयोजित करें : मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/organize-a-competition-for-improved-breeds-of-livestock-in-vrindavan-village-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "d629edaa",
-      "title": "गुना: आरोन मंडी में आगामी खरीदी की तैयारी, व्यवस्थाओं में सुधार के लिए अधिकारियों ने दिए निर्देश",
-      "summary": "गुना: आरोन मंडी में आगामी खरीदी की तैयारी, व्यवस्थाओं में सुधार के लिए अधिकारियों ने दिए निर्देश",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guna-preparations-for-upcoming-procurement-at-aaron-mandi-officials-issue-directives-to-improve-arrangements/",
-      "important": false
-    },
-    {
-      "id": "1c630cf6",
-      "title": "रिफॉर्म उत्सव 2026: विदिशा में इफको ने आयोजित की किसान सभा, जुटे कई विशेषज्ञ",
-      "summary": "रिफॉर्म उत्सव 2026: विदिशा में इफको ने आयोजित की किसान सभा, जुटे कई विशेषज्ञ",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/reform-utsav-2026-iffco-organized-a-farmers-meet-in-vidisha-numerous-experts-participated/",
-      "important": false
-    },
-    {
-      "id": "2dd364c3",
-      "title": "छिंदवाड़ा : कामधेनु योजना से पशुपालन बना लाभ का व्यवसाय",
-      "summary": "छिंदवाड़ा : कामधेनु योजना से पशुपालन बना लाभ का व्यवसाय",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/animal-husbandry/chhindwara-animal-husbandry-becomes-a-profitable-business-under-the-kamdhenu-scheme/",
-      "important": false
-    },
-    {
-      "id": "f5ac5c6a",
-      "title": "सोयाबीन कटाई के बाद नरवाई नहीं जलाएं किसान, पर्यावरण और मिट्टी की उर्वरा शक्ति को बचाएं",
-      "summary": "सोयाबीन कटाई के बाद नरवाई नहीं जलाएं किसान, पर्यावरण और मिट्टी की उर्वरा शक्ति को बचाएं",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-should-not-burn-crop-residue-after-soybean-harvesting-protect-the-environment-and-soil-fertility/",
-      "important": false
-    },
-    {
-      "id": "6fa1a4f2",
-      "title": "ग्वालियर: खेत तालाब योजना से बदली किसान भोलाराम की खेती, अब साल में ले रहे दो फसलें",
-      "summary": "ग्वालियर: खेत तालाब योजना से बदली किसान भोलाराम की खेती, अब साल में ले रहे दो फसलें",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/gwalior-farm-pond-scheme-transforms-farmer-bholarams-agriculture-he-now-harvests-two-crops-a-year/",
-      "important": false
-    },
-    {
-      "id": "df2373ef",
-      "title": "निमाड़ में बीटी कपास पर गुलाबी सुंडी का प्रकोप, आठ बार छिड़काव के बाद भी राहत नहीं",
-      "summary": "निमाड़ में बीटी कपास पर गुलाबी सुंडी का प्रकोप, आठ बार छिड़काव के बाद भी राहत नहीं",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-08",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pink-bollworm-infestation-on-bt-cotton-in-nimar-no-relief-even-after-eight-rounds-of-spraying/",
       "important": false
     }
   ]
