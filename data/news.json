@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-14T04:22:48Z",
-  "new_count": 0,
+  "updated": "2026-10-14T11:32:34Z",
+  "new_count": 3,
   "articles": [
+    {
+      "id": "0921d756",
+      "title": "भारतीय किसान संघ ने मध्यप्रदेश सरकार को दी चेतावनी",
+      "summary": "भारतीय किसान संघ ने मध्यप्रदेश सरकार को दी चेतावनी",
+      "level": "state",
+      "category": "price",
+      "date": "2026-10-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bharatiya-kisan-sangh-issues-warning-to-madhya-pradesh-government/",
+      "important": false
+    },
+    {
+      "id": "972f4c31",
+      "title": "छिंदवाड़ा: खाद, बीज व्यापारी संघ एवं कृषि वैज्ञानिकों के साथ बैठक संपन्न",
+      "summary": "छिंदवाड़ा: खाद, बीज व्यापारी संघ एवं कृषि वैज्ञानिकों के साथ बैठक संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-meeting-held-with-the-fertilizer-and-seed-traders-association-and-agricultural-scientists/",
+      "important": false
+    },
+    {
+      "id": "4d86c0f5",
+      "title": "श्री राघवेंद्र सिंह मंडी बोर्ड के नए एमडी बने",
+      "summary": "श्री राघवेंद्र सिंह मंडी बोर्ड के नए एमडी बने",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shri-raghavendra-singh-has-become-the-new-md-of-the-mandi-board/",
+      "important": false
+    },
     {
       "id": "db04dfad",
       "title": "मध्यप्रदेश: दूधी सिंचाई परियोजना में शामिल हुए पिपरिया-गाडरवारा के 19 गांव, 5,859 हेक्टेयर क्षेत्र को मिलेगा पानी",
@@ -517,39 +550,6 @@
       "date": "2026-10-10",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/relief-for-gujarat-farmers-cm-bhupendra-patel-approves-water-release-for-kharif-crop-irrigation-80000-hectares-to-benefit/",
-      "important": false
-    },
-    {
-      "id": "931b95e8",
-      "title": "बड़वानी : खेत तालाबों ने बदली किसानों की किस्मत",
-      "summary": "बड़वानी : खेत तालाबों ने बदली किसानों की किस्मत",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/barwani-farm-ponds-have-transformed-farmers-fortunes/",
-      "important": false
-    },
-    {
-      "id": "d5ecb9a8",
-      "title": "डेयरी व्यवसाय से बदली ग्रामीण महिला संध्या की तकदीर, दूध बेचकर हर महीने बचा रहीं ₹15 हजार",
-      "summary": "डेयरी व्यवसाय से बदली ग्रामीण महिला संध्या की तकदीर, दूध बेचकर हर महीने बचा रहीं ₹15 हजार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dairy-business-transforms-the-fortunes-of-rural-woman-sandhya-she-saves-%e2%82%b915000-every-month-by-selling-milk/",
-      "important": false
-    },
-    {
-      "id": "74988f41",
-      "title": "धान छोड़ सन की खेती अपना रहे रायगढ़ के किसान, बीज उत्पादन से बढ़ाएंगे कमाई; कृषक उन्नति योजना से मिलेगा प्रोत्साहन",
-      "summary": "धान छोड़ सन की खेती अपना रहे रायगढ़ के किसान, बीज उत्पादन से बढ़ाएंगे कमाई; कृषक उन्नति योजना से मिलेगा प्रोत्साहन",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-raigarh-are-shifting-from-paddy-to-sunn-hemp-cultivation-and-aim-to-boost-earnings-through-seed-production-the-krishak-unnati-yojana-will-provide-incentives/",
       "important": false
     }
   ]
