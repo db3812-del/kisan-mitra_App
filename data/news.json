@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-14T16:55:10Z",
-  "new_count": 6,
+  "updated": "2026-10-14T21:28:16Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "6ed8016c",
+      "title": "नंदन फलोद्यान योजना से ग्वालियर के किसान लोकेंद्र को मिली नई दिशा, खेत में लहलहाए फलदार पौधे",
+      "summary": "नंदन फलोद्यान योजना से ग्वालियर के किसान लोकेंद्र को मिली नई दिशा, खेत में लहलहाए फलदार पौधे",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/nandan-fruit-orchard-scheme-gives-a-new-direction-to-gwalior-farmer-lokendra-fruit-bearing-saplings-flourish-in-his-field/",
+      "important": false
+    },
+    {
+      "id": "84389f88",
+      "title": "धन-धान्य कृषि योजना का एक साल पूरा, दिल्ली में सम्मानित हुए देश के शीर्ष जिले",
+      "summary": "धन-धान्य कृषि योजना का एक साल पूरा, दिल्ली में सम्मानित हुए देश के शीर्ष जिले",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/dhan-dhanya-krishi-yojana-completes-one-year-countrys-top-districts-felicitated-in-delhi/",
+      "important": false
+    },
+    {
+      "id": "cb9910f6",
+      "title": "गन्ना किसानों की शिकायतों पर केंद्र का बड़ा फैसला, बनेगी उच्चस्तरीय समिति",
+      "summary": "गन्ना किसानों की शिकायतों पर केंद्र का बड़ा फैसला, बनेगी उच्चस्तरीय समिति",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/centres-major-decision-on-sugarcane-farmers-grievances-high-level-committee-to-be-formed/",
+      "important": false
+    },
+    {
+      "id": "ee142b29",
+      "title": "जशपुर में आदिवासी किसानों ने सेब की खेती से बदली तस्वीर",
+      "summary": "जशपुर में आदिवासी किसानों ने सेब की खेती से बदली तस्वीर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/tribal-farmers-in-jashpur-have-transformed-the-landscape-through-apple-cultivation/",
+      "important": false
+    },
+    {
+      "id": "baa8f8ef",
+      "title": "मुंगेली के रामलाल की बकरी पालन से बदली जिंदगी",
+      "summary": "मुंगेली के रामलाल की बकरी पालन से बदली जिंदगी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/goat-farming-transforms-the-life-of-ramlal-from-mungeli/",
+      "important": false
+    },
+    {
+      "id": "20645690",
+      "title": "धान में तना छेदक, पत्ती लपेटक और भूरे फुदके का खतरा, वैज्ञानिकों ने दी सलाह",
+      "summary": "धान में तना छेदक, पत्ती लपेटक और भूरे फुदके का खतरा, वैज्ञानिकों ने दी सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-stem-borer-leaf-folder-and-brown-planthopper-in-paddy-scientists-issue-advisory/",
+      "important": false
+    },
+    {
+      "id": "612a672f",
+      "title": "भारी बारिश के बाद धान में झूठा कंड, ब्लास्ट और जीवाणु रोग का खतरा",
+      "summary": "भारी बारिश के बाद धान में झूठा कंड, ब्लास्ट और जीवाणु रोग का खतरा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-false-smut-blast-and-bacterial-diseases-in-paddy-after-heavy-rains/",
+      "important": false
+    },
+    {
+      "id": "d01011a7",
+      "title": "बुरहानपुर: कचरे से जैविक खाद बना रही नगर परिषद शाहपुर, ₹200 में मिल रहा 50 किलो का बैग",
+      "summary": "बुरहानपुर: कचरे से जैविक खाद बना रही नगर परिषद शाहपुर, ₹200 में मिल रहा 50 किलो का बैग",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/burhanpur-shahpur-municipal-council-is-producing-organic-manure-from-waste-a-50-kg-bag-is-available-for-%e2%82%b9200/",
+      "important": false
+    },
     {
       "id": "0d056a58",
       "title": "प्रतिकूल मौसम में भी सोयाबीन की 20 क्विंटल उपज के संकेत",
@@ -462,94 +550,6 @@
       "date": "2026-10-11",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/apedas-113th-meeting-mp-darshan-singh-demands-gi-tag-for-basmati-proposes-linking-fpos-with-exporters/",
-      "important": false
-    },
-    {
-      "id": "bc53a286",
-      "title": "मंदसौर: पान किसानों की आय बढ़ाने की तैयारी, दिल्ली-जयपुर तक पहुंचेगा भानपुरा का पान",
-      "summary": "मंदसौर: पान किसानों की आय बढ़ाने की तैयारी, दिल्ली-जयपुर तक पहुंचेगा भानपुरा का पान",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mandsaur-plans-underway-to-boost-income-of-betel-leaf-farmers-bhanpuras-betel-leaves-to-reach-delhi-and-jaipur/",
-      "important": false
-    },
-    {
-      "id": "da267b21",
-      "title": "उत्तर प्रदेश में गन्ने की दो नई किस्मों की मिनी सीड किट की बुकिंग शुरू, पांच मिनट में बुक हुए दो लाख सिंगल बड",
-      "summary": "उत्तर प्रदेश में गन्ने की दो नई किस्मों की मिनी सीड किट की बुकिंग शुरू, पांच मिनट में बुक हुए दो लाख सिंगल बड",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/booking-for-mini-seed-kits-of-two-new-sugarcane-varieties-has-begun-in-uttar-pradesh-two-lakh-single-bud-sets-were-booked-in-five-minutes/",
-      "important": false
-    },
-    {
-      "id": "6a62cf6d",
-      "title": "केंद्र सरकार ने पीएम-किसान योजना को 2030-31 तक बढ़ाया, 3.15 लाख करोड़ रुपये मंजूर",
-      "summary": "केंद्र सरकार ने पीएम-किसान योजना को 2030-31 तक बढ़ाया, 3.15 लाख करोड़ रुपये मंजूर",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/central-government-extends-pm-kisan-scheme-until-2030-31-approves-%e2%82%b93-15-lakh-crore/",
-      "important": false
-    },
-    {
-      "id": "2f0a30c6",
-      "title": "कालाहांडी के आदिवासी किसानों को मिली मछली और झींगा पालन की नई तकनीक की जानकारी",
-      "summary": "कालाहांडी के आदिवासी किसानों को मिली मछली और झींगा पालन की नई तकनीक की जानकारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/tribal-farmers-in-kalahandi-received-information-about-new-techniques-for-fish-and-shrimp-farming/",
-      "important": false
-    },
-    {
-      "id": "83572a90",
-      "title": "मछली पालकों को बीमा प्रीमियम पर 40 फीसदी तक मदद दे रही है केंद्र की यह योजना",
-      "summary": "मछली पालकों को बीमा प्रीमियम पर 40 फीसदी तक मदद दे रही है केंद्र की यह योजना",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-10-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/this-central-government-scheme-is-providing-assistance-of-up-to-40-percent-on-insurance-premiums-to-fish-farmers/",
-      "important": false
-    },
-    {
-      "id": "91376459",
-      "title": "ऊना में आलू की फसल पर सुंडी का हमला, मिट्टी के भीतर से काट रही पौधे",
-      "summary": "ऊना में आलू की फसल पर सुंडी का हमला, मिट्टी के भीतर से काट रही पौधे",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/caterpillar-attack-on-potato-crops-in-una-they-are-severing-plants-from-beneath-the-soil/",
-      "important": false
-    },
-    {
-      "id": "2aa7bfda",
-      "title": "बैंकर की नौकरी छोड़कर पथरीली जमीन पर ड्रैगन फ्रूट उगाकर खड़ा किया 50 लाख रुपये का कारोबार",
-      "summary": "बैंकर की नौकरी छोड़कर पथरीली जमीन पर ड्रैगन फ्रूट उगाकर खड़ा किया 50 लाख रुपये का कारोबार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/quit-a-banking-job-to-cultivate-dragon-fruit-on-rocky-land-and-built-a-business-worth-%e2%82%b950-lakh/",
-      "important": false
-    },
-    {
-      "id": "3801e8c9",
-      "title": "खंडवा: मल्चर बना कमाई का जरिया, किसान ने कमाए 60 हजार रुपए",
-      "summary": "खंडवा: मल्चर बना कमाई का जरिया, किसान ने कमाए 60 हजार रुपए",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-10-10",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/khandwa-mulcher-becomes-a-source-of-income-farmer-earns-%e2%82%b960000/",
       "important": false
     }
   ]
