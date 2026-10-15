@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-15T11:11:00Z",
-  "new_count": 6,
+  "updated": "2026-10-15T16:41:47Z",
+  "new_count": 4,
   "articles": [
+    {
+      "id": "dd4c5ea9",
+      "title": "आज का मक्का मंडी रेट (15 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (15 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-15-october-2026/",
+      "important": false
+    },
+    {
+      "id": "8e5414cd",
+      "title": "आज का धान मंडी रेट (15 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (15 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-15-2026-2/",
+      "important": false
+    },
+    {
+      "id": "83683850",
+      "title": "आज का सोयाबीन मंडी रेट (15 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (15 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-15-october-2026/",
+      "important": false
+    },
+    {
+      "id": "c80de536",
+      "title": "आज का गेहूँ मंडी रेट (15 अक्टूबर 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (15 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-15",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-15-october-2026/",
+      "important": false
+    },
     {
       "id": "08a23618",
       "title": "घर का गेहूं बीज बोएं या नया बीज खरीदें? जानिए प्रति एकड़ ₹8,125 ज़्यादा मुनाफे का हिसाब",
@@ -506,50 +550,6 @@
       "date": "2026-10-13",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/risk-of-stem-borer-and-leaf-folder-infestation-in-tamil-nadus-paddy-crop-agricultural-university-issues-advisory/",
-      "important": false
-    },
-    {
-      "id": "4d4c5d9d",
-      "title": "पुदुक्कोट्टई में कपास की फसल पर गुलाबी सुंडी और तना घुन का हमला, किसानों को मिली छिड़काव की सलाह",
-      "summary": "पुदुक्कोट्टई में कपास की फसल पर गुलाबी सुंडी और तना घुन का हमला, किसानों को मिली छिड़काव की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pink-bollworm-and-stem-weevil-attack-cotton-crops-in-pudukkottai-farmers-advised-to-spray/",
-      "important": false
-    },
-    {
-      "id": "9ccde9b2",
-      "title": "आज का मक्का मंडी रेट (12 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (12 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-12-october-2026/",
-      "important": false
-    },
-    {
-      "id": "407ab75b",
-      "title": "आज का धान मंडी रेट (12 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (12 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-12-october-2026/",
-      "important": false
-    },
-    {
-      "id": "00e459d2",
-      "title": "महिंद्रा ने मैक्ससीडर जीरो-टिलेज सीडिंग मशीन का व्यावसायिक उत्पादन शुरू किया",
-      "summary": "महिंद्रा ने मैक्ससीडर जीरो-टिलेज सीडिंग मशीन का व्यावसायिक उत्पादन शुरू किया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-has-commenced-commercial-production-of-the-maxseedr-zero-tillage-seeding-machine/",
       "important": false
     }
   ]
