@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-16T04:01:10Z",
-  "new_count": 0,
+  "updated": "2026-10-16T11:05:37Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "0d2404d5",
+      "title": "खेतों में नरवाई न जलाएं, सुपर सीडर और मल्चर से करें फसल अवशेषों का प्रबंधन;  कृषि विभाग ने किसानों के लिए जारी की एडवाइज",
+      "summary": "खेतों में नरवाई न जलाएं, सुपर सीडर और मल्चर से करें फसल अवशेषों का प्रबंधन;  कृषि विभाग ने किसानों के लिए जारी की एडवाइजरी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/do-not-burn-crop-stubble-in-the-fields-manage-crop-residues-using-a-super-seeder-and-a-mulcher-the-agriculture-department-has-issued-an-advisory-for-farmers/",
+      "important": false
+    },
+    {
+      "id": "c267438a",
+      "title": "छिंदवाड़ा : डेयरी प्लस योजना से आई आर्थिक समृद्धि",
+      "summary": "छिंदवाड़ा : डेयरी प्लस योजना से आई आर्थिक समृद्धि",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-economic-prosperity-brought-about-by-the-dairy-plus-scheme/",
+      "important": false
+    },
+    {
+      "id": "81db1c37",
+      "title": "दिल्ली में 27 अक्टूबर से शुरू होगा ईएसटीआईसी-2026, कृषि तकनीक और खाद्य प्रणाली पर होगी चर्चा",
+      "summary": "दिल्ली में 27 अक्टूबर से शुरू होगा ईएसटीआईसी-2026, कृषि तकनीक और खाद्य प्रणाली पर होगी चर्चा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/estic-2026-to-begin-in-delhi-on-october-27-will-feature-discussions-on-agricultural-technology-and-food-systems/",
+      "important": false
+    },
+    {
+      "id": "cf6cd4fb",
+      "title": "धानुका एग्रीटेक ने मक्का और गन्ने के लिए नया खरपतवारनाशक ‘टेम्बोट्रैक्स’ लॉन्च किया",
+      "summary": "धानुका एग्रीटेक ने मक्का और गन्ने के लिए नया खरपतवारनाशक ‘टेम्बोट्रैक्स’ लॉन्च किया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/dhanuka-agritech-has-launched-a-new-herbicide-tembotrax-for-maize-and-sugarcane/",
+      "important": false
+    },
+    {
+      "id": "7fef7f91",
+      "title": "इंदौर: पैराक्वाट डाइक्लोराइड के उपयोग पर लगाया प्रतिबंध",
+      "summary": "इंदौर: पैराक्वाट डाइक्लोराइड के उपयोग पर लगाया प्रतिबंध",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/indore-ban-imposed-on-the-use-of-paraquat-dichloride/",
+      "important": false
+    },
+    {
+      "id": "8f6e53dc",
+      "title": "छत्तीसगढ़ के किसान ने बदला खेती का तरीका, अदरक के साथ मेड़ों पर उगाई अरहर; मिलेगा डबल मुनाफा",
+      "summary": "छत्तीसगढ़ के किसान ने बदला खेती का तरीका, अदरक के साथ मेड़ों पर उगाई अरहर; मिलेगा डबल मुनाफा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-farmer-in-chhattisgarh-has-changed-his-farming-method-by-growing-pigeon-pea-arhar-on-the-ridges-alongside-ginger-this-is-set-to-yield-double-the-profit/",
+      "important": false
+    },
+    {
+      "id": "bf75823a",
+      "title": "राजस्थान: डीडवाना-कुचामन में 3,302 किसानों को मिले मृदा स्वास्थ्य कार्ड",
+      "summary": "राजस्थान: डीडवाना-कुचामन में 3,302 किसानों को मिले मृदा स्वास्थ्य कार्ड",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-3302-farmers-in-didwana-kuchaman-receive-soil-health-cards/",
+      "important": false
+    },
+    {
+      "id": "a2acb45a",
+      "title": "राजस्थान: महिला किसान दिवस पर संगोष्ठी, कृषि अर्थव्यवस्था में महिलाओं की भूमिका पर चर्चा",
+      "summary": "राजस्थान: महिला किसान दिवस पर संगोष्ठी, कृषि अर्थव्यवस्था में महिलाओं की भूमिका पर चर्चा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-seminar-held-on-women-farmers-day-role-of-women-in-the-agricultural-economy-discussed/",
+      "important": false
+    },
     {
       "id": "dd4c5ea9",
       "title": "आज का मक्का मंडी रेट (15 अक्टूबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-10-13",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/farmers-made-aware-of-the-ill-effects-of-excessive-use-of-urea/",
-      "important": false
-    },
-    {
-      "id": "f1ef59d1",
-      "title": "किसानों को खाद प्राप्त करने में कोई परेशानी न हो, टोकन से हो खाद का वितरण : कलेक्टर",
-      "summary": "किसानों को खाद प्राप्त करने में कोई परेशानी न हो, टोकन से हो खाद का वितरण : कलेक्टर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ensure-farmers-face-no-difficulty-in-obtaining-fertilizer-distribute-fertilizer-via-tokens-collector/",
-      "important": false
-    },
-    {
-      "id": "2e1e664a",
-      "title": "कृषि विकास उपलब्धि से पुरुस्कृत सीधी",
-      "summary": "कृषि विकास उपलब्धि से पुरुस्कृत सीधी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sidhi-honored-for-achievements-in-agricultural-development/",
-      "important": false
-    },
-    {
-      "id": "cc211cea",
-      "title": "चौपाल से नरवाई के दुष्परिणाम से अवगत किसान",
-      "summary": "चौपाल से नरवाई के दुष्परिणाम से अवगत किसान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-made-aware-of-the-adverse-effects-of-crop-residue-burning-at-the-village-gathering/",
-      "important": false
-    },
-    {
-      "id": "2195b07d",
-      "title": "रांची के ICAR-IIAB में नई इमारतों का उद्घाटन, रबी से पहले 1500 किसानों को मिली नैनो खाद और बीज किट",
-      "summary": "रांची के ICAR-IIAB में नई इमारतों का उद्घाटन, रबी से पहले 1500 किसानों को मिली नैनो खाद और बीज किट",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/new-buildings-inaugurated-at-icar-iiab-ranchi-1500-farmers-receive-nano-fertilizer-and-seed-kits-ahead-of-the-rabi-season/",
-      "important": false
-    },
-    {
-      "id": "df26bc24",
-      "title": "तेलंगाना में कृषि यंत्रीकरण योजना फिर शुरू, 2026-27 के लिए 147.99 करोड़ रुपये मंजूर",
-      "summary": "तेलंगाना में कृषि यंत्रीकरण योजना फिर शुरू, 2026-27 के लिए 147.99 करोड़ रुपये मंजूर",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farm-mechanization-scheme-relaunched-in-telangana-%e2%82%b9147-99-crore-sanctioned-for-2026-27/",
-      "important": false
-    },
-    {
-      "id": "684f7a92",
-      "title": "कर्नाटक में सूखा राहत की पहली किस्त जारी करने का आदेश, 217 तालुकों के किसानों को मिलेगा फायदा",
-      "summary": "कर्नाटक में सूखा राहत की पहली किस्त जारी करने का आदेश, 217 तालुकों के किसानों को मिलेगा फायदा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/order-issued-to-release-the-first-installment-of-drought-relief-in-karnataka-farmers-in-217-taluks-to-benefit/",
-      "important": false
-    },
-    {
-      "id": "f19232f8",
-      "title": "केरल के रबर बेल्ट में रैंबूटान की खेती से बदल रही किसानों की किस्मत, एक हेक्टेयर से मिले 14 लाख रुपये",
-      "summary": "केरल के रबर बेल्ट में रैंबूटान की खेती से बदल रही किसानों की किस्मत, एक हेक्टेयर से मिले 14 लाख रुपये",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rambutan-cultivation-is-transforming-the-fortunes-of-farmers-in-keralas-rubber-belt-%e2%82%b914-lakh-earned-from-one-hectare/",
-      "important": false
-    },
-    {
-      "id": "36ee7c33",
-      "title": "तमिलनाडु में धान की फसल में तना छेदक और पत्ती लपेटक का खतरा, कृषि विश्वविद्यालय ने दी सलाह",
-      "summary": "तमिलनाडु में धान की फसल में तना छेदक और पत्ती लपेटक का खतरा, कृषि विश्वविद्यालय ने दी सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-stem-borer-and-leaf-folder-infestation-in-tamil-nadus-paddy-crop-agricultural-university-issues-advisory/",
       "important": false
     }
   ]
