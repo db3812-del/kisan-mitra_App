@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-17T03:52:16Z",
-  "new_count": 0,
+  "updated": "2026-10-17T10:25:20Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "f551486d",
+      "title": "समर्थन मूल्य पर ज्वार, बाजरा एवं धान उपार्जन के लिए 8 लाख 77 हजार 947 से अधिक किसानों ने कराया पंजीयन : मंत्री राजपूत",
+      "summary": "समर्थन मूल्य पर ज्वार, बाजरा एवं धान उपार्जन के लिए 8 लाख 77 हजार 947 से अधिक किसानों ने कराया पंजीयन : मंत्री राजपूत",
+      "level": "state",
+      "category": "price",
+      "date": "2026-10-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/over-877947-farmers-have-registered-for-the-procurement-of-sorghum-jowar-pearl-millet-bajra-and-paddy-at-the-minimum-support-price-msp-minister-rajput/",
+      "important": true
+    },
+    {
+      "id": "27039211",
+      "title": "छिंदवाड़ा : आधुनिक तकनीक से नवीन ने बकरी पालन को बनाया लाभकारी व्यवसाय",
+      "summary": "छिंदवाड़ा : आधुनिक तकनीक से नवीन ने बकरी पालन को बनाया लाभकारी व्यवसाय",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-navin-has-turned-goat-farming-into-a-profitable-business-using-modern-technology/",
+      "important": false
+    },
+    {
+      "id": "987ae811",
+      "title": "गन्ना मूल्य में छत्तीसगढ़ देश में नंबर वन: किसानों को अब 425 रुपये प्रति क्विंटल की दर से होगा भुगतान",
+      "summary": "गन्ना मूल्य में छत्तीसगढ़ देश में नंबर वन: किसानों को अब 425 रुपये प्रति क्विंटल की दर से होगा भुगतान",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-ranks-number-one-in-the-country-for-sugarcane-pricing-farmers-will-now-be-paid-at-a-rate-of-rs-425-per-quintal/",
+      "important": false
+    },
+    {
+      "id": "b1fd9a1b",
+      "title": "छत्तीसगढ़: हल्दी बीज वितरण में गड़बड़ी की आशंका, किसानों के 46 हजार के अनुदान पर लगी रोक",
+      "summary": "छत्तीसगढ़: हल्दी बीज वितरण में गड़बड़ी की आशंका, किसानों के 46 हजार के अनुदान पर लगी रोक",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-suspected-irregularities-in-turmeric-seed-distribution-subsidy-of-%e2%82%b946000-for-farmers-put-on-hold/",
+      "important": false
+    },
+    {
+      "id": "39406296",
+      "title": "कम पानी वाली फसलें लें किसान, जल संकट से निपटने के लिए सीएम यादव ने की बैठक",
+      "summary": "कम पानी वाली फसलें लें किसान, जल संकट से निपटने के लिए सीएम यादव ने की बैठक",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-should-opt-for-low-water-consuming-crops-cm-yadav-holds-meeting-to-address-water-crisis/",
+      "important": false
+    },
+    {
+      "id": "a34c3fdf",
+      "title": "राष्ट्रीय महिला किसान दिवस पर चांद में कृषक संगोष्ठी आयोजित",
+      "summary": "राष्ट्रीय महिला किसान दिवस पर चांद में कृषक संगोष्ठी आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-seminar-organized-in-chand-on-national-women-farmers-day/",
+      "important": false
+    },
+    {
+      "id": "0d52e75d",
+      "title": "महिला कृषक दिवस पर इंदौर में महिला किसान सम्मानित",
+      "summary": "महिला कृषक दिवस पर इंदौर में महिला किसान सम्मानित",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/women-farmers-honored-in-indore-on-women-farmers-day/",
+      "important": false
+    },
+    {
+      "id": "7eeb8646",
+      "title": "अखिल भारतीय किसान सभा ने गन्ने का मूल्य 575 रुपये प्रति क्विंटल करने की मांग की",
+      "summary": "अखिल भारतीय किसान सभा ने गन्ने का मूल्य 575 रुपये प्रति क्विंटल करने की मांग की",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-all-india-kisan-sabha-has-demanded-that-the-price-of-sugarcane-be-set-at-rs-575-per-quintal/",
+      "important": false
+    },
     {
       "id": "0d2404d5",
       "title": "खेतों में नरवाई न जलाएं, सुपर सीडर और मल्चर से करें फसल अवशेषों का प्रबंधन;  कृषि विभाग ने किसानों के लिए जारी की एडवाइज",
@@ -462,94 +550,6 @@
       "date": "2026-10-13",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/risk-of-stem-borer-and-white-grub-in-sugarcane-tnau-specifies-the-correct-dosage-of-pesticides/",
-      "important": false
-    },
-    {
-      "id": "1f0d297d",
-      "title": "नारियल के किसान सावधान: गैंडा भृंग और लाल ताड़ घुन से ऐसे बचाएं पेड़",
-      "summary": "नारियल के किसान सावधान: गैंडा भृंग और लाल ताड़ घुन से ऐसे बचाएं पेड़",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/coconut-farmers-take-note-heres-how-to-protect-your-trees-from-rhinoceros-beetles-and-red-palm-weevils/",
-      "important": false
-    },
-    {
-      "id": "0a6477b3",
-      "title": "UPI पर MDR शुल्क का फैसला टला, दिवाली के बाद लागू होने की तैयारी",
-      "summary": "UPI पर MDR शुल्क का फैसला टला, दिवाली के बाद लागू होने की तैयारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/decision-on-mdr-charges-for-upi-deferred-implementation-planned-for-after-diwali/",
-      "important": false
-    },
-    {
-      "id": "19454677",
-      "title": "प्रधानमंत्री धन-धान्य कृषि योजना में टीकमगढ़ का उत्कृष्ट प्रदर्शन, कलेक्टर विवेक श्रोत्रिय राष्ट्रीय स्तर पर सम्मानित",
-      "summary": "प्रधानमंत्री धन-धान्य कृषि योजना में टीकमगढ़ का उत्कृष्ट प्रदर्शन, कलेक्टर विवेक श्रोत्रिय राष्ट्रीय स्तर पर सम्मानित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/tikamgarhs-outstanding-performance-in-the-pradhan-mantri-dhan-dhanya-krishi-yojana-collector-vivek-shrotriya-honored-at-the-national-level/",
-      "important": false
-    },
-    {
-      "id": "106736ec",
-      "title": "आज का गेहूं मंडी रेट (13 अक्टूबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (13 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-market-rate-13-october-2026/",
-      "important": false
-    },
-    {
-      "id": "e0f7f0f8",
-      "title": "आज का मक्का मंडी रेट (13 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (13 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-13-october-2026/",
-      "important": false
-    },
-    {
-      "id": "bfd1cb69",
-      "title": "आज का धान मंडी रेट (13 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (13 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rate-13-october-2026/",
-      "important": false
-    },
-    {
-      "id": "77811552",
-      "title": "आज का सोयाबीन मंडी रेट (13 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (13 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-13-october-2026/",
-      "important": false
-    },
-    {
-      "id": "40317c23",
-      "title": "यूरिया के अत्यधिक उपयोग के दुष्परिणामों से किसानों को कराया अवगत",
-      "summary": "यूरिया के अत्यधिक उपयोग के दुष्परिणामों से किसानों को कराया अवगत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-made-aware-of-the-ill-effects-of-excessive-use-of-urea/",
       "important": false
     }
   ]
