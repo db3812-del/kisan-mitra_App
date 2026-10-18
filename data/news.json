@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-18T03:58:40Z",
-  "new_count": 0,
+  "updated": "2026-10-18T10:44:03Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "b9c28b9a",
+      "title": "छत्तीसगढ़: कभी गांव-गांव घूमकर बेचते थे थ्रेशर, आज खुद कृषि उपकरण बनाकर सालाना 7 करोड़ का टर्नओवर कर रहे हैं सुरेश देवां",
+      "summary": "छत्तीसगढ़: कभी गांव-गांव घूमकर बेचते थे थ्रेशर, आज खुद कृषि उपकरण बनाकर सालाना 7 करोड़ का टर्नओवर कर रहे हैं सुरेश देवांगन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-once-a-traveling-salesman-who-went-from-village-to-village-selling-threshers-suresh-dewangan-now-manufactures-agricultural-equipment-himself-and-generates-an-annual-turnover-of/",
+      "important": false
+    },
+    {
+      "id": "82a2ff8e",
+      "title": "फसल अवशेष प्रबंधन पर श्योपुर में किसान मेला आयोजित, 150 किसानों को बीज का वितरण; कृषि यंत्रों की प्रदर्शनी भी लगी",
+      "summary": "फसल अवशेष प्रबंधन पर श्योपुर में किसान मेला आयोजित, 150 किसानों को बीज का वितरण; कृषि यंत्रों की प्रदर्शनी भी लगी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-farmers-fair-on-crop-residue-management-was-organized-in-sheopur-seeds-were-distributed-to-150-farmers-and-an-exhibition-of-agricultural-machinery-was-also-held/",
+      "important": false
+    },
+    {
+      "id": "2a918de8",
+      "title": "मध्यप्रदेश बनेगा देश का मिल्क कैपिटल, 208 ग्रामीण विधानसभा क्षेत्रों में विकसित होंगे वृंदावन ग्राम: सीएम यादव",
+      "summary": "मध्यप्रदेश बनेगा देश का मिल्क कैपिटल, 208 ग्रामीण विधानसभा क्षेत्रों में विकसित होंगे वृंदावन ग्राम: सीएम यादव",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-to-become-the-countrys-milk-capital-vrindavan-grams-vrindavan-style-villages-will-be-developed-across-208-rural-assembly-constituencies-cm-yadav/",
+      "important": false
+    },
+    {
+      "id": "e99e1552",
+      "title": "एनआरसीसी और कृषि विश्वविद्यालय जोधपुर के बीच हुआ बड़ा समझौता, उष्ट्र संरक्षण और दुग्ध उद्यमिता को मिलेगा बढ़ावा",
+      "summary": "एनआरसीसी और कृषि विश्वविद्यालय जोधपुर के बीच हुआ बड़ा समझौता, उष्ट्र संरक्षण और दुग्ध उद्यमिता को मिलेगा बढ़ावा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/major-agreement-signed-between-nrcc-and-the-agricultural-university-jodhpur-to-boost-camel-conservation-and-dairy-entrepreneurship/",
+      "important": false
+    },
+    {
+      "id": "8b2d5d2f",
+      "title": "झाबुआ: कलेक्टर डॉ. योगेश ने खेतों और पॉलीहाउस का किया निरीक्षण, फूलों की कटाई में आधुनिक मशीनों के उपयोग के निर्देश",
+      "summary": "झाबुआ: कलेक्टर डॉ. योगेश ने खेतों और पॉलीहाउस का किया निरीक्षण, फूलों की कटाई में आधुनिक मशीनों के उपयोग के निर्देश",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jhabua-collector-dr-yogesh-inspected-fields-and-polyhouses-issued-instructions-to-use-modern-machinery-for-harvesting-flowers/",
+      "important": false
+    },
+    {
+      "id": "81e48437",
+      "title": "विदिशा: रबी सिंचाई के लिए 1 नवंबर से नहरों में छोड़ा जाएगा पानी",
+      "summary": "विदिशा: रबी सिंचाई के लिए 1 नवंबर से नहरों में छोड़ा जाएगा पानी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/vidisha-water-to-be-released-into-canals-from-november-1-for-rabi-irrigation/",
+      "important": false
+    },
+    {
+      "id": "99249023",
+      "title": "छत्तीसगढ़ में 8 हजार से अधिक किसानों को मिलेगा 3.8 करोड़ का फसल बीमा क्लेम, 3 दिन के भीतर होगा भुगतान",
+      "summary": "छत्तीसगढ़ में 8 हजार से अधिक किसानों को मिलेगा 3.8 करोड़ का फसल बीमा क्लेम, 3 दिन के भीतर होगा भुगतान",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/in-chhattisgarh-over-8000-farmers-will-receive-crop-insurance-claims-totaling-%e2%82%b93-8-crore-payment-will-be-made-within-3-days/",
+      "important": false
+    },
+    {
+      "id": "9f61d19c",
+      "title": "रायपुर: फ्लोरीकल्चर हब प्रोत्साहन योजना से घनश्याम साहू की खेती को मिली नई दिशा, 4.83 हेक्टेयर में उगा रहे फूल और सब्जिय",
+      "summary": "रायपुर: फ्लोरीकल्चर हब प्रोत्साहन योजना से घनश्याम साहू की खेती को मिली नई दिशा, 4.83 हेक्टेयर में उगा रहे फूल और सब्जियां",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-the-floriculture-hub-promotion-scheme-has-given-a-new-direction-to-ghanshyam-sahus-farming-he-is-now-cultivating-flowers-and-vegetables-across-4-83-hectares/",
+      "important": false
+    },
     {
       "id": "f551486d",
       "title": "समर्थन मूल्य पर ज्वार, बाजरा एवं धान उपार्जन के लिए 8 लाख 77 हजार 947 से अधिक किसानों ने कराया पंजीयन : मंत्री राजपूत",
@@ -462,94 +550,6 @@
       "date": "2026-10-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/chhindwara-meeting-held-with-the-fertilizer-and-seed-traders-association-and-agricultural-scientists/",
-      "important": false
-    },
-    {
-      "id": "4d86c0f5",
-      "title": "श्री राघवेंद्र सिंह मंडी बोर्ड के नए एमडी बने",
-      "summary": "श्री राघवेंद्र सिंह मंडी बोर्ड के नए एमडी बने",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shri-raghavendra-singh-has-become-the-new-md-of-the-mandi-board/",
-      "important": false
-    },
-    {
-      "id": "db04dfad",
-      "title": "मध्यप्रदेश: दूधी सिंचाई परियोजना में शामिल हुए पिपरिया-गाडरवारा के 19 गांव, 5,859 हेक्टेयर क्षेत्र को मिलेगा पानी",
-      "summary": "मध्यप्रदेश: दूधी सिंचाई परियोजना में शामिल हुए पिपरिया-गाडरवारा के 19 गांव, 5,859 हेक्टेयर क्षेत्र को मिलेगा पानी",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-19-villages-from-pipariya-and-gadarwara-included-in-the-dudhi-irrigation-project-5859-hectares-of-land-to-receive-water/",
-      "important": false
-    },
-    {
-      "id": "d5719f7e",
-      "title": "देवास में ‘बलराम कृषि महोत्सव’ का आयोजन: 11 प्रगतिशील किसान सम्मानित, प्राकृतिक खेती और कृषि यंत्रों की लगी प्रदर्शनी",
-      "summary": "देवास में ‘बलराम कृषि महोत्सव’ का आयोजन: 11 प्रगतिशील किसान सम्मानित, प्राकृतिक खेती और कृषि यंत्रों की लगी प्रदर्शनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balram-krishi-mahotsav-organized-in-dewas-11-progressive-farmers-honored-exhibition-of-natural-farming-and-agricultural-machinery-held/",
-      "important": false
-    },
-    {
-      "id": "13e4c73f",
-      "title": "प्राकृतिक खेती में अब मिलेगी एमएससी-पीएचडी की डिग्री, ICAR ने विशेषज्ञों से मांगे सुझाव",
-      "summary": "प्राकृतिक खेती में अब मिलेगी एमएससी-पीएचडी की डिग्री, ICAR ने विशेषज्ञों से मांगे सुझाव",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/msc-and-phd-degrees-in-natural-farming-to-be-offered-icar-seeks-suggestions-from-experts/",
-      "important": false
-    },
-    {
-      "id": "9f279c87",
-      "title": "बिहार में फसल सहायता योजना का पंजीयन 31 अक्टूबर तक, अब तक 73 हजार आवेदन",
-      "summary": "बिहार में फसल सहायता योजना का पंजीयन 31 अक्टूबर तक, अब तक 73 हजार आवेदन",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/registration-for-the-crop-assistance-scheme-in-bihar-is-open-until-october-31-73000-applications-received-so-far/",
-      "important": false
-    },
-    {
-      "id": "986f996e",
-      "title": "ओडिशा में कृषि उद्यमियों के लिए ₹2,496 करोड़ की सब्सिडी योजना पांच साल और बढ़ी",
-      "summary": "ओडिशा में कृषि उद्यमियों के लिए ₹2,496 करोड़ की सब्सिडी योजना पांच साल और बढ़ी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/%e2%82%b92496-crore-subsidy-scheme-for-agri-entrepreneurs-in-odisha-extended-by-another-five-years/",
-      "important": false
-    },
-    {
-      "id": "39ef7b8e",
-      "title": "मक्के से बदली नबरंगपुर के आदिवासी किसानों की तकदीर, FPO ने दिलाया बाजार",
-      "summary": "मक्के से बदली नबरंगपुर के आदिवासी किसानों की तकदीर, FPO ने दिलाया बाजार",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/maize-transforms-the-fortunes-of-tribal-farmers-in-nabarangpur-fpo-secures-market-access/",
-      "important": false
-    },
-    {
-      "id": "8914f5a8",
-      "title": "गन्ने में तना छेदक और सफेद गिडार का खतरा, टीएनएयू ने बताई दवा की सही मात्रा",
-      "summary": "गन्ने में तना छेदक और सफेद गिडार का खतरा, टीएनएयू ने बताई दवा की सही मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-stem-borer-and-white-grub-in-sugarcane-tnau-specifies-the-correct-dosage-of-pesticides/",
       "important": false
     }
   ]
