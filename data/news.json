@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-18T10:44:03Z",
-  "new_count": 8,
+  "updated": "2026-10-18T15:40:21Z",
+  "new_count": 6,
   "articles": [
+    {
+      "id": "2ffe1baf",
+      "title": "रायपुर: सरगुजा के किसान ने अपनाई सुगंधित धान की खेती, सरकार देगी 45 हजार रुपये की प्रोत्साहन राशि",
+      "summary": "रायपुर: सरगुजा के किसान ने अपनाई सुगंधित धान की खेती, सरकार देगी 45 हजार रुपये की प्रोत्साहन राशि",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-a-farmer-in-surguja-has-taken-up-the-cultivation-of-aromatic-paddy-the-government-will-provide-an-incentive-of-45000-rupees/",
+      "important": false
+    },
+    {
+      "id": "b185212e",
+      "title": "पांढुर्ना : प्राकृतिक आपदा से फसल क्षति होने पर किसानों को मिलेगा अग्रिम बीमा राहत भुगतान",
+      "summary": "पांढुर्ना : प्राकृतिक आपदा से फसल क्षति होने पर किसानों को मिलेगा अग्रिम बीमा राहत भुगतान",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pandhurna-farmers-to-receive-advance-insurance-relief-payments-for-crop-losses-caused-by-natural-disasters/",
+      "important": false
+    },
+    {
+      "id": "869930f2",
+      "title": "मध्य प्रदेश ने केंद्र के पैराक्वेट डाइक्लोराइड प्रतिबंध को लागू किया, स्टॉक वापस लेने और नष्ट करने के आदेश दिए",
+      "summary": "मध्य प्रदेश ने केंद्र के पैराक्वेट डाइक्लोराइड प्रतिबंध को लागू किया, स्टॉक वापस लेने और नष्ट करने के आदेश दिए",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-has-implemented-the-centres-ban-on-paraquat-dichloride-ordering-the-withdrawal-and-destruction-of-existing-stocks/",
+      "important": false
+    },
+    {
+      "id": "5be95e1b",
+      "title": "रायपुर: बस्तर की फूलमती दीदी का कमाल, आधुनिक खेती से उगाईं 10 क्विंटल से ज्यादा सब्जियां",
+      "summary": "रायपुर: बस्तर की फूलमती दीदी का कमाल, आधुनिक खेती से उगाईं 10 क्विंटल से ज्यादा सब्जियां",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-phoolmati-didi-from-bastar-achieves-a-remarkable-feat-growing-over-10-quintals-of-vegetables-using-modern-farming-methods/",
+      "important": false
+    },
+    {
+      "id": "9e75c258",
+      "title": "राजस्थान: हनुमानगढ़ में कपास कीट प्रबंधन पर 5 दिवसीय प्रशिक्षण, किसानों को सिखाईं IPM तकनीकें",
+      "summary": "राजस्थान: हनुमानगढ़ में कपास कीट प्रबंधन पर 5 दिवसीय प्रशिक्षण, किसानों को सिखाईं IPM तकनीकें",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-5-day-training-on-cotton-pest-management-held-in-hanumangarh-farmers-taught-ipm-techniques/",
+      "important": false
+    },
+    {
+      "id": "b2f2cedd",
+      "title": "महिला किसानों को मिलेगी औपचारिक पहचान, रायसेन-विदिशा से शुरू होगा गरीबी मुक्त गांव अभियान: शिवराज सिंह चौहान",
+      "summary": "महिला किसानों को मिलेगी औपचारिक पहचान, रायसेन-विदिशा से शुरू होगा गरीबी मुक्त गांव अभियान: शिवराज सिंह चौहान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/women-farmers-will-receive-formal-recognition-a-poverty-free-village-campaign-will-be-launched-from-raisen-vidisha-shivraj-singh-chouhan/",
+      "important": false
+    },
     {
       "id": "b9c28b9a",
       "title": "छत्तीसगढ़: कभी गांव-गांव घूमकर बेचते थे थ्रेशर, आज खुद कृषि उपकरण बनाकर सालाना 7 करोड़ का टर्नओवर कर रहे हैं सुरेश देवां",
@@ -484,72 +550,6 @@
       "date": "2026-10-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/illegal-htbt-cotton-cultivation-in-30-of-indias-cotton-area-study/",
-      "important": false
-    },
-    {
-      "id": "e5f01843",
-      "title": "पराली जलाने पर रोक में प्रशासन नाकाम? केंद्र ने राज्यों को युद्धस्तर पर कार्रवाई के निर्देश दिए",
-      "summary": "पराली जलाने पर रोक में प्रशासन नाकाम? केंद्र ने राज्यों को युद्धस्तर पर कार्रवाई के निर्देश दिए",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/has-the-administration-failed-to-curb-stubble-burning-centre-directs-states-to-take-action-on-a-war-footing/",
-      "important": false
-    },
-    {
-      "id": "8f52cedc",
-      "title": "सोयाबीन की उन्नत किस्में NRC 268 और NRC 270 से 20 क्विंटल प्रति हेक्टेयर उपज की संभावना",
-      "summary": "सोयाबीन की उन्नत किस्में NRC 268 और NRC 270 से 20 क्विंटल प्रति हेक्टेयर उपज की संभावना",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/potential-yield-of-20-quintals-per-hectare-from-improved-soybean-varieties-nrc-268-and-nrc-270/",
-      "important": false
-    },
-    {
-      "id": "74c2cb98",
-      "title": "सीलबंद पैकिंग में मिले अमानक कीटनाशक पर विक्रेता जिम्मेदार नहीं, पंजाब एवं हरियाणा हाईकोर्ट ने रद्द की आपराधिक कार्यवाही",
-      "summary": "सीलबंद पैकिंग में मिले अमानक कीटनाशक पर विक्रेता जिम्मेदार नहीं, पंजाब एवं हरियाणा हाईकोर्ट ने रद्द की आपराधिक कार्यवाही",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/seller-not-liable-for-substandard-pesticides-found-in-sealed-packaging-punjab-and-haryana-high-court-quashes-criminal-proceedings/",
-      "important": false
-    },
-    {
-      "id": "e3f0d4f9",
-      "title": "बायर का डायरेक्टएकर्स प्रोग्राम भारत में 2 लाख एकड़ तक पहुंचा",
-      "summary": "बायर का डायरेक्टएकर्स प्रोग्राम भारत में 2 लाख एकड़ तक पहुंचा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/bayers-directacres-program-reaches-2-lakh-acres-in-india/",
-      "important": false
-    },
-    {
-      "id": "0921d756",
-      "title": "भारतीय किसान संघ ने मध्यप्रदेश सरकार को दी चेतावनी",
-      "summary": "भारतीय किसान संघ ने मध्यप्रदेश सरकार को दी चेतावनी",
-      "level": "state",
-      "category": "price",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bharatiya-kisan-sangh-issues-warning-to-madhya-pradesh-government/",
-      "important": false
-    },
-    {
-      "id": "972f4c31",
-      "title": "छिंदवाड़ा: खाद, बीज व्यापारी संघ एवं कृषि वैज्ञानिकों के साथ बैठक संपन्न",
-      "summary": "छिंदवाड़ा: खाद, बीज व्यापारी संघ एवं कृषि वैज्ञानिकों के साथ बैठक संपन्न",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-meeting-held-with-the-fertilizer-and-seed-traders-association-and-agricultural-scientists/",
       "important": false
     }
   ]
