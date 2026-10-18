@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-18T15:40:21Z",
-  "new_count": 6,
+  "updated": "2026-10-18T20:23:38Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "576543e9",
+      "title": "अमरूद के बाग में मिलीबग और फल मक्खी का प्रकोप, जैविक तरीके से भी हो सकता है नियंत्रण",
+      "summary": "अमरूद के बाग में मिलीबग और फल मक्खी का प्रकोप, जैविक तरीके से भी हो सकता है नियंत्रण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mealybug-and-fruit-fly-infestation-in-guava-orchards-can-also-be-controlled-using-organic-methods/",
+      "important": false
+    },
+    {
+      "id": "d1a9a694",
+      "title": "उड़द-मूंग में फली छेदक और पीला मोजेक का खतरा, कृषि विश्वविद्यालय ने बताए बचाव के उपाय",
+      "summary": "उड़द-मूंग में फली छेदक और पीला मोजेक का खतरा, कृषि विश्वविद्यालय ने बताए बचाव के उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-pod-borer-and-yellow-mosaic-in-urad-and-moong-crops-agricultural-university-suggests-preventive-measures/",
+      "important": false
+    },
+    {
+      "id": "a6d3b09f",
+      "title": "कुफरी हिमालिनी किस्म से त्रिपुरा के किसान की बदली तकदीर, मुनाफा हुआ लगभग दोगुना",
+      "summary": "कुफरी हिमालिनी किस्म से त्रिपुरा के किसान की बदली तकदीर, मुनाफा हुआ लगभग दोगुना",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kufri-himalini-variety-transforms-the-fortunes-of-a-tripura-farmer-profits-nearly-double/",
+      "important": false
+    },
+    {
+      "id": "e702bd36",
+      "title": "असम के किसान ने पुराने प्रेशर कुकर से बना दी चाय प्रसंस्करण मशीन, 25 साल के अनुभव से निकला नया रास्ता",
+      "summary": "असम के किसान ने पुराने प्रेशर कुकर से बना दी चाय प्रसंस्करण मशीन, 25 साल के अनुभव से निकला नया रास्ता",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/assam-farmer-creates-tea-processing-machine-from-an-old-pressure-cooker-25-years-of-experience-leads-to-an-innovative-solution/",
+      "important": false
+    },
+    {
+      "id": "6d279409",
+      "title": "कपास में गुलाबी सुंडी व तना छेदक का खतरा, तमिलनाडु कृषि विश्वविद्यालय ने जारी की दवा और मात्रा सहित सलाह",
+      "summary": "कपास में गुलाबी सुंडी व तना छेदक का खतरा, तमिलनाडु कृषि विश्वविद्यालय ने जारी की दवा और मात्रा सहित सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-pink-bollworm-and-stem-borer-in-cotton-tamil-nadu-agricultural-university-issues-advisory-including-recommended-pesticides-and-dosage/",
+      "important": false
+    },
+    {
+      "id": "fe06b781",
+      "title": "गन्ने में शुरुआती तना छेदक और सफेद लट का खतरा, जानें तमिलनाडु कृषि विश्वविद्यालय की सलाह",
+      "summary": "गन्ने में शुरुआती तना छेदक और सफेद लट का खतरा, जानें तमिलनाडु कृषि विश्वविद्यालय की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-early-stage-stem-borer-and-white-grub-in-sugarcane-see-the-advice-from-tamil-nadu-agricultural-university/",
+      "important": false
+    },
+    {
+      "id": "6a588fa6",
+      "title": "गन्ना किसानों की मांगों पर केंद्र सरकार गंभीर, रमेश चंद की अध्यक्षता में बनी जांच समिति",
+      "summary": "गन्ना किसानों की मांगों पर केंद्र सरकार गंभीर, रमेश चंद की अध्यक्षता में बनी जांच समिति",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/central-government-serious-about-sugarcane-farmers-demands-inquiry-committee-formed-under-the-chairmanship-of-ramesh-chand/",
+      "important": false
+    },
+    {
+      "id": "4518f8ac",
+      "title": "तेज हवा-बारिश में गिरती है गेहूँ की फसल? मजबूत कल्लों वाली यह किस्म देगी भरोसा",
+      "summary": "तेज हवा-बारिश में गिरती है गेहूँ की फसल? मजबूत कल्लों वाली यह किस्म देगी भरोसा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/does-your-wheat-crop-fall-over-during-strong-winds-and-rain-this-variety-with-its-robust-tillers-offers-a-reliable-solution/",
+      "important": false
+    },
     {
       "id": "2ffe1baf",
       "title": "रायपुर: सरगुजा के किसान ने अपनाई सुगंधित धान की खेती, सरकार देगी 45 हजार रुपये की प्रोत्साहन राशि",
@@ -462,94 +550,6 @@
       "date": "2026-10-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/dhan-dhanya-krishi-yojana-completes-one-year-countrys-top-districts-felicitated-in-delhi/",
-      "important": false
-    },
-    {
-      "id": "cb9910f6",
-      "title": "गन्ना किसानों की शिकायतों पर केंद्र का बड़ा फैसला, बनेगी उच्चस्तरीय समिति",
-      "summary": "गन्ना किसानों की शिकायतों पर केंद्र का बड़ा फैसला, बनेगी उच्चस्तरीय समिति",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/centres-major-decision-on-sugarcane-farmers-grievances-high-level-committee-to-be-formed/",
-      "important": false
-    },
-    {
-      "id": "ee142b29",
-      "title": "जशपुर में आदिवासी किसानों ने सेब की खेती से बदली तस्वीर",
-      "summary": "जशपुर में आदिवासी किसानों ने सेब की खेती से बदली तस्वीर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/tribal-farmers-in-jashpur-have-transformed-the-landscape-through-apple-cultivation/",
-      "important": false
-    },
-    {
-      "id": "baa8f8ef",
-      "title": "मुंगेली के रामलाल की बकरी पालन से बदली जिंदगी",
-      "summary": "मुंगेली के रामलाल की बकरी पालन से बदली जिंदगी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/goat-farming-transforms-the-life-of-ramlal-from-mungeli/",
-      "important": false
-    },
-    {
-      "id": "20645690",
-      "title": "धान में तना छेदक, पत्ती लपेटक और भूरे फुदके का खतरा, वैज्ञानिकों ने दी सलाह",
-      "summary": "धान में तना छेदक, पत्ती लपेटक और भूरे फुदके का खतरा, वैज्ञानिकों ने दी सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-stem-borer-leaf-folder-and-brown-planthopper-in-paddy-scientists-issue-advisory/",
-      "important": false
-    },
-    {
-      "id": "612a672f",
-      "title": "भारी बारिश के बाद धान में झूठा कंड, ब्लास्ट और जीवाणु रोग का खतरा",
-      "summary": "भारी बारिश के बाद धान में झूठा कंड, ब्लास्ट और जीवाणु रोग का खतरा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-false-smut-blast-and-bacterial-diseases-in-paddy-after-heavy-rains/",
-      "important": false
-    },
-    {
-      "id": "d01011a7",
-      "title": "बुरहानपुर: कचरे से जैविक खाद बना रही नगर परिषद शाहपुर, ₹200 में मिल रहा 50 किलो का बैग",
-      "summary": "बुरहानपुर: कचरे से जैविक खाद बना रही नगर परिषद शाहपुर, ₹200 में मिल रहा 50 किलो का बैग",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/burhanpur-shahpur-municipal-council-is-producing-organic-manure-from-waste-a-50-kg-bag-is-available-for-%e2%82%b9200/",
-      "important": false
-    },
-    {
-      "id": "0d056a58",
-      "title": "प्रतिकूल मौसम में भी सोयाबीन की 20 क्विंटल उपज के संकेत",
-      "summary": "प्रतिकूल मौसम में भी सोयाबीन की 20 क्विंटल उपज के संकेत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/indications-of-a-soybean-yield-of-20-quintals-despite-adverse-weather-conditions/",
-      "important": false
-    },
-    {
-      "id": "8348f66a",
-      "title": "भारत के 30% कपास क्षेत्र में अवैध HTBt कपास की खेती: अध्ययन",
-      "summary": "भारत के 30% कपास क्षेत्र में अवैध HTBt कपास की खेती: अध्ययन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/illegal-htbt-cotton-cultivation-in-30-of-indias-cotton-area-study/",
       "important": false
     }
   ]
