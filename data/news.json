@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-19T04:07:30Z",
-  "new_count": 0,
+  "updated": "2026-10-19T12:43:45Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "2255aa75",
+      "title": "छिंदवाड़ा : उन्नत खेती और पॉलीहाउस से अंकित ने बनाई अपनी अलग पहचान",
+      "summary": "छिंदवाड़ा : उन्नत खेती और पॉलीहाउस से अंकित ने बनाई अपनी अलग पहचान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-ankit-has-carved-a-distinct-identity-for-himself-through-advanced-farming-and-polyhouses/",
+      "important": false
+    },
+    {
+      "id": "f821eb72",
+      "title": "प्रदेश का सोया खेतों से निकलकर दुनिया के बाजारों में बना रहा है अपनी पहचान : मुख्यमंत्री डॉ. यादव",
+      "summary": "प्रदेश का सोया खेतों से निकलकर दुनिया के बाजारों में बना रहा है अपनी पहचान : मुख्यमंत्री डॉ. यादव",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-states-soybean-is-making-its-mark-in-global-markets-reaching-far-beyond-its-fields-chief-minister-dr-yadav/",
+      "important": false
+    },
+    {
+      "id": "ae0fa952",
+      "title": "आज का गेहूँ मंडी रेट (19 अक्टूबर 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (19 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-19-october-2026/",
+      "important": false
+    },
+    {
+      "id": "7e3ae6f3",
+      "title": "आज का मक्का मंडी रेट (19 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (19 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-19-october-2026/",
+      "important": false
+    },
+    {
+      "id": "261e0fcd",
+      "title": "आज का धान मंडी रेट (19 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (19 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-19-october-2026/",
+      "important": false
+    },
+    {
+      "id": "346c9e9c",
+      "title": "आज का सोयाबीन मंडी रेट (19 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (19 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-19-2026/",
+      "important": false
+    },
+    {
+      "id": "abb16ef4",
+      "title": "आगर मालवा: बागवानी में क्रांति, छोटे ट्रैक्टर से मिली संतरा किसानों को सुविधा",
+      "summary": "आगर मालवा: बागवानी में क्रांति, छोटे ट्रैक्टर से मिली संतरा किसानों को सुविधा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agar-malwa-a-revolution-in-horticulture-small-tractors-bring-convenience-to-orange-farmers/",
+      "important": false
+    },
+    {
+      "id": "100b2e11",
+      "title": "पराली जलाने वालों के खिलाफ कृषि एवं राजस्व विभाग ने की संयुक्त कार्रवाई",
+      "summary": "पराली जलाने वालों के खिलाफ कृषि एवं राजस्व विभाग ने की संयुक्त कार्रवाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-19",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agriculture-and-revenue-departments-take-joint-action-against-those-burning-stubble/",
+      "important": false
+    },
     {
       "id": "576543e9",
       "title": "अमरूद के बाग में मिलीबग और फल मक्खी का प्रकोप, जैविक तरीके से भी हो सकता है नियंत्रण",
@@ -462,94 +550,6 @@
       "date": "2026-10-15",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-15-october-2026/",
-      "important": false
-    },
-    {
-      "id": "08a23618",
-      "title": "घर का गेहूं बीज बोएं या नया बीज खरीदें? जानिए प्रति एकड़ ₹8,125 ज़्यादा मुनाफे का हिसाब",
-      "summary": "घर का गेहूं बीज बोएं या नया बीज खरीदें? जानिए प्रति एकड़ ₹8,125 ज़्यादा मुनाफे का हिसाब",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/should-you-sow-wheat-seeds-from-your-own-stock-or-buy-new-ones-find-out-how-you-can-earn-an-extra-profit-of-%e2%82%b98125-per-acre/",
-      "important": false
-    },
-    {
-      "id": "1fab0940",
-      "title": "निजी कृषि कॉलेजों में डिग्री का खेल? किसानों का भविष्य दांव पर, जांच और कार्रवाई जरूरी",
-      "summary": "निजी कृषि कॉलेजों में डिग्री का खेल? किसानों का भविष्य दांव पर, जांच और कार्रवाई जरूरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-degree-game-in-private-agricultural-colleges-farmers-future-at-stake-investigation-and-action-are-essential/",
-      "important": false
-    },
-    {
-      "id": "88af7274",
-      "title": "पीएम धन-धान्य कृषि योजना के तहत डिंडौरी को मिला राष्ट्रीय सम्मान, फसल विविधीकरण के नवाचारों की हुई सराहना",
-      "summary": "पीएम धन-धान्य कृषि योजना के तहत डिंडौरी को मिला राष्ट्रीय सम्मान, फसल विविधीकरण के नवाचारों की हुई सराहना",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dindori-received-national-honor-under-pm-dhan-dhanya-krishi-yojana-innovations-in-crop-diversification-appreciated/",
-      "important": false
-    },
-    {
-      "id": "0d704745",
-      "title": "डिंडौरी में प्राकृतिक खेती को बढ़ावा, एक साल में 12,258 नए किसान जुड़े; 33 जैव संसाधन केंद्र स्थापित",
-      "summary": "डिंडौरी में प्राकृतिक खेती को बढ़ावा, एक साल में 12,258 नए किसान जुड़े; 33 जैव संसाधन केंद्र स्थापित",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/promotion-of-natural-farming-in-dindori-12258-new-farmers-joined-in-one-year-33-bio-resource-centers-established/",
-      "important": false
-    },
-    {
-      "id": "026c1e91",
-      "title": "धार के किसान असलम शाह ने अपनाई गुलाब-गेंदा की खेती, सालाना कमा रहे 3 लाख रुपये का शुद्ध मुनाफा",
-      "summary": "धार के किसान असलम शाह ने अपनाई गुलाब-गेंदा की खेती, सालाना कमा रहे 3 लाख रुपये का शुद्ध मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/aslam-shah-a-farmer-from-dhar-has-taken-up-rose-and-marigold-cultivation-earning-an-annual-net-profit-of-3-lakh-rupees/",
-      "important": false
-    },
-    {
-      "id": "344cf7b5",
-      "title": "राजस्थान: आत्मा योजना के तहत रबी पूर्व कृषक गोष्ठी आयोजित, किसानों को डीएपी के विकल्प के रूप में बताया एसएसपी का उपयोग",
-      "summary": "राजस्थान: आत्मा योजना के तहत रबी पूर्व कृषक गोष्ठी आयोजित, किसानों को डीएपी के विकल्प के रूप में बताया एसएसपी का उपयोग",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-pre-rabi-farmers-workshop-organized-under-the-atma-scheme-farmers-advised-to-use-ssp-as-an-alternative-to-dap/",
-      "important": false
-    },
-    {
-      "id": "6ed8016c",
-      "title": "नंदन फलोद्यान योजना से ग्वालियर के किसान लोकेंद्र को मिली नई दिशा, खेत में लहलहाए फलदार पौधे",
-      "summary": "नंदन फलोद्यान योजना से ग्वालियर के किसान लोकेंद्र को मिली नई दिशा, खेत में लहलहाए फलदार पौधे",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/nandan-fruit-orchard-scheme-gives-a-new-direction-to-gwalior-farmer-lokendra-fruit-bearing-saplings-flourish-in-his-field/",
-      "important": false
-    },
-    {
-      "id": "84389f88",
-      "title": "धन-धान्य कृषि योजना का एक साल पूरा, दिल्ली में सम्मानित हुए देश के शीर्ष जिले",
-      "summary": "धन-धान्य कृषि योजना का एक साल पूरा, दिल्ली में सम्मानित हुए देश के शीर्ष जिले",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/dhan-dhanya-krishi-yojana-completes-one-year-countrys-top-districts-felicitated-in-delhi/",
       "important": false
     }
   ]
