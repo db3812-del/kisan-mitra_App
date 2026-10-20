@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-20T16:38:51Z",
-  "new_count": 8,
+  "updated": "2026-10-20T21:26:14Z",
+  "new_count": 1,
   "articles": [
+    {
+      "id": "d66c3151",
+      "title": "रतलाम: एक बीघा में डच गुलाब की खेती, रोजाना 4 से 5 हजार रुपए कमा रहे किसान दिलीप सिंह आंजना",
+      "summary": "रतलाम: एक बीघा में डच गुलाब की खेती, रोजाना 4 से 5 हजार रुपए कमा रहे किसान दिलीप सिंह आंजना",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ratlam-farmer-dilip-singh-anjana-is-earning-4000-to-5000-rupees-daily-from-the-cultivation-of-dutch-roses-on-one-bigha-of-land/",
+      "important": false
+    },
     {
       "id": "72edfba5",
       "title": "बड़वानी: शिंदे ने घर पर शुरू की मशरूम की खेती",
@@ -539,17 +550,6 @@
       "date": "2026-10-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/chhattisgarh-suspected-irregularities-in-turmeric-seed-distribution-subsidy-of-%e2%82%b946000-for-farmers-put-on-hold/",
-      "important": false
-    },
-    {
-      "id": "39406296",
-      "title": "कम पानी वाली फसलें लें किसान, जल संकट से निपटने के लिए सीएम यादव ने की बैठक",
-      "summary": "कम पानी वाली फसलें लें किसान, जल संकट से निपटने के लिए सीएम यादव ने की बैठक",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-should-opt-for-low-water-consuming-crops-cm-yadav-holds-meeting-to-address-water-crisis/",
       "important": false
     }
   ]
