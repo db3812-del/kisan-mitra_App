@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-20T11:14:31Z",
-  "new_count": 7,
+  "updated": "2026-10-20T16:38:51Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "72edfba5",
+      "title": "बड़वानी: शिंदे ने घर पर शुरू की मशरूम की खेती",
+      "summary": "बड़वानी: शिंदे ने घर पर शुरू की मशरूम की खेती",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/barwani-shinde-starts-mushroom-cultivation-at-home/",
+      "important": false
+    },
+    {
+      "id": "3c57bf6c",
+      "title": "गुना : ग्राम चौपाल में कृषकों को नरवाई न जलाने का दिया संदेश",
+      "summary": "गुना : ग्राम चौपाल में कृषकों को नरवाई न जलाने का दिया संदेश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/guna-farmers-urged-not-to-burn-crop-residue-during-village-meeting-gram-chaupal/",
+      "important": false
+    },
+    {
+      "id": "3168f5fc",
+      "title": "ग्वालियर : जे-फार्म ऐप से कृषि यंत्र किराये पर लेकर करें फसल अवशेषों का प्रबंधन",
+      "summary": "ग्वालियर : जे-फार्म ऐप से कृषि यंत्र किराये पर लेकर करें फसल अवशेषों का प्रबंधन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gwalior-manage-crop-residues-by-renting-agricultural-machinery-via-the-j-farm-app/",
+      "important": false
+    },
+    {
+      "id": "298ac451",
+      "title": "रायसेन : पराली जलाने की घटनाओं को रोकने किसानों को दी जा रही समझाइश",
+      "summary": "रायसेन : पराली जलाने की घटनाओं को रोकने किसानों को दी जा रही समझाइश",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raisen-farmers-being-advised-against-burning-crop-stubble/",
+      "important": false
+    },
+    {
+      "id": "bcb32879",
+      "title": "विदिशा : उन्नत बीज मिनी किट वितरित",
+      "summary": "विदिशा : उन्नत बीज मिनी किट वितरित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/vidisha-advanced-seed-mini-kits-distributed/",
+      "important": false
+    },
+    {
+      "id": "ee883f4d",
+      "title": "छत्तीसगढ़: कृषक उन्नति योजना का लाभ लेना है तो 31 अक्टूबर तक कराएं पंजीयन",
+      "summary": "छत्तीसगढ़: कृषक उन्नति योजना का लाभ लेना है तो 31 अक्टूबर तक कराएं पंजीयन",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-if-you-want-to-avail-the-benefits-of-krishak-unnati-yojana-then-get-registered-by-31st-october/",
+      "important": false
+    },
+    {
+      "id": "61fd76c2",
+      "title": "फसल में पीलापन, धब्बे या मुरझाने की समस्या? क्रॉप डॉक्टर ऐप से लें जरूरी जानकारी",
+      "summary": "फसल में पीलापन, धब्बे या मुरझाने की समस्या? क्रॉप डॉक्टर ऐप से लें जरूरी जानकारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/are-your-crops-showing-signs-of-yellowing-spots-or-wilting-get-the-information-you-need-using-the-crop-doctor-app/",
+      "important": false
+    },
+    {
+      "id": "48c8f16e",
+      "title": "मक्का साइलेज यूनिट से पशुपालन को मिल रही नई दिशा, सागर के पुष्पेन्द्र कुर्मी ने पेश की मिसाल",
+      "summary": "मक्का साइलेज यूनिट से पशुपालन को मिल रही नई दिशा, सागर के पुष्पेन्द्र कुर्मी ने पेश की मिसाल",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/maize-silage-unit-provides-a-new-direction-for-animal-husbandry-pushpendra-kurmi-from-sagar-sets-an-example/",
+      "important": false
+    },
     {
       "id": "1cf0681d",
       "title": "अफीम का संतुलित पोषण प्रबंधन",
@@ -462,94 +550,6 @@
       "date": "2026-10-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/farmers-should-opt-for-low-water-consuming-crops-cm-yadav-holds-meeting-to-address-water-crisis/",
-      "important": false
-    },
-    {
-      "id": "a34c3fdf",
-      "title": "राष्ट्रीय महिला किसान दिवस पर चांद में कृषक संगोष्ठी आयोजित",
-      "summary": "राष्ट्रीय महिला किसान दिवस पर चांद में कृषक संगोष्ठी आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-seminar-organized-in-chand-on-national-women-farmers-day/",
-      "important": false
-    },
-    {
-      "id": "0d52e75d",
-      "title": "महिला कृषक दिवस पर इंदौर में महिला किसान सम्मानित",
-      "summary": "महिला कृषक दिवस पर इंदौर में महिला किसान सम्मानित",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/women-farmers-honored-in-indore-on-women-farmers-day/",
-      "important": false
-    },
-    {
-      "id": "7eeb8646",
-      "title": "अखिल भारतीय किसान सभा ने गन्ने का मूल्य 575 रुपये प्रति क्विंटल करने की मांग की",
-      "summary": "अखिल भारतीय किसान सभा ने गन्ने का मूल्य 575 रुपये प्रति क्विंटल करने की मांग की",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-all-india-kisan-sabha-has-demanded-that-the-price-of-sugarcane-be-set-at-rs-575-per-quintal/",
-      "important": false
-    },
-    {
-      "id": "0d2404d5",
-      "title": "खेतों में नरवाई न जलाएं, सुपर सीडर और मल्चर से करें फसल अवशेषों का प्रबंधन;  कृषि विभाग ने किसानों के लिए जारी की एडवाइज",
-      "summary": "खेतों में नरवाई न जलाएं, सुपर सीडर और मल्चर से करें फसल अवशेषों का प्रबंधन;  कृषि विभाग ने किसानों के लिए जारी की एडवाइजरी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/do-not-burn-crop-stubble-in-the-fields-manage-crop-residues-using-a-super-seeder-and-a-mulcher-the-agriculture-department-has-issued-an-advisory-for-farmers/",
-      "important": false
-    },
-    {
-      "id": "c267438a",
-      "title": "छिंदवाड़ा : डेयरी प्लस योजना से आई आर्थिक समृद्धि",
-      "summary": "छिंदवाड़ा : डेयरी प्लस योजना से आई आर्थिक समृद्धि",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-economic-prosperity-brought-about-by-the-dairy-plus-scheme/",
-      "important": false
-    },
-    {
-      "id": "81db1c37",
-      "title": "दिल्ली में 27 अक्टूबर से शुरू होगा ईएसटीआईसी-2026, कृषि तकनीक और खाद्य प्रणाली पर होगी चर्चा",
-      "summary": "दिल्ली में 27 अक्टूबर से शुरू होगा ईएसटीआईसी-2026, कृषि तकनीक और खाद्य प्रणाली पर होगी चर्चा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/estic-2026-to-begin-in-delhi-on-october-27-will-feature-discussions-on-agricultural-technology-and-food-systems/",
-      "important": false
-    },
-    {
-      "id": "cf6cd4fb",
-      "title": "धानुका एग्रीटेक ने मक्का और गन्ने के लिए नया खरपतवारनाशक ‘टेम्बोट्रैक्स’ लॉन्च किया",
-      "summary": "धानुका एग्रीटेक ने मक्का और गन्ने के लिए नया खरपतवारनाशक ‘टेम्बोट्रैक्स’ लॉन्च किया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/dhanuka-agritech-has-launched-a-new-herbicide-tembotrax-for-maize-and-sugarcane/",
-      "important": false
-    },
-    {
-      "id": "7fef7f91",
-      "title": "इंदौर: पैराक्वाट डाइक्लोराइड के उपयोग पर लगाया प्रतिबंध",
-      "summary": "इंदौर: पैराक्वाट डाइक्लोराइड के उपयोग पर लगाया प्रतिबंध",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/indore-ban-imposed-on-the-use-of-paraquat-dichloride/",
       "important": false
     }
   ]
