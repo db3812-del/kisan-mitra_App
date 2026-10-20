@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-20T04:20:15Z",
-  "new_count": 0,
+  "updated": "2026-10-20T11:14:31Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "1cf0681d",
+      "title": "अफीम का संतुलित पोषण प्रबंधन",
+      "summary": "अफीम का संतुलित पोषण प्रबंधन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balanced-nutritional-management-for-opium-poppy/",
+      "important": false
+    },
+    {
+      "id": "08ebcc9c",
+      "title": "मध्यप्रदेश में चार सिंचाई परियोजनाओं को मंजूरी, ₹3,076.37 करोड़ खर्च होंगे",
+      "summary": "मध्यप्रदेश में चार सिंचाई परियोजनाओं को मंजूरी, ₹3,076.37 करोड़ खर्च होंगे",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/four-irrigation-projects-approved-in-madhya-pradesh-%e2%82%b93076-37-crore-to-be-spent/",
+      "important": false
+    },
+    {
+      "id": "87760d79",
+      "title": "केंद्र ने चीनी मिलों को त्योहारी सीजन में अक्टूबर उत्पादन की अतिरिक्त बिक्री की छूट दी",
+      "summary": "केंद्र ने चीनी मिलों को त्योहारी सीजन में अक्टूबर उत्पादन की अतिरिक्त बिक्री की छूट दी",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/the-centre-has-allowed-sugar-mills-to-sell-additional-sugar-produced-in-october-during-the-festive-season/",
+      "important": false
+    },
+    {
+      "id": "b56ae937",
+      "title": "पंजाब में किसानों के लिए एआई आधारित कृषि सलाह सेवा का दायरा बढ़ेगा, तीन संस्थाओं में करार",
+      "summary": "पंजाब में किसानों के लिए एआई आधारित कृषि सलाह सेवा का दायरा बढ़ेगा, तीन संस्थाओं में करार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/scope-of-ai-based-agricultural-advisory-service-for-farmers-in-punjab-to-expand-agreement-signed-between-three-organizations/",
+      "important": false
+    },
+    {
+      "id": "a2bc9d80",
+      "title": "अंडमान के दुर्लभ फल से महिला उद्यमियों ने खड़ा किया नया कारोबार",
+      "summary": "अंडमान के दुर्लभ फल से महिला उद्यमियों ने खड़ा किया नया कारोबार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/women-entrepreneurs-have-built-a-new-business-based-on-a-rare-fruit-from-the-andaman-islands/",
+      "important": false
+    },
+    {
+      "id": "e19cd216",
+      "title": "गोबर से धूप-अगरबत्ती बनाकर बबली कोरंगा ने खड़ा किया लाखों का कारोबार",
+      "summary": "गोबर से धूप-अगरबत्ती बनाकर बबली कोरंगा ने खड़ा किया लाखों का कारोबार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/babli-koranga-built-a-business-worth-lakhs-by-making-incense-sticks-and-dhoop-incense-cones-from-cow-dung/",
+      "important": false
+    },
+    {
+      "id": "2d51816e",
+      "title": "भिंडी और मिर्च की फसल में बढ़ा कीट प्रकोप, वैज्ञानिकों ने बताई दवा और मात्रा",
+      "summary": "भिंडी और मिर्च की फसल में बढ़ा कीट प्रकोप, वैज्ञानिकों ने बताई दवा और मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pest-infestation-increases-in-okra-and-chili-crops-scientists-recommend-treatment-and-dosage/",
+      "important": false
+    },
     {
       "id": "2255aa75",
       "title": "छिंदवाड़ा : उन्नत खेती और पॉलीहाउस से अंकित ने बनाई अपनी अलग पहचान",
@@ -473,83 +550,6 @@
       "date": "2026-10-16",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/indore-ban-imposed-on-the-use-of-paraquat-dichloride/",
-      "important": false
-    },
-    {
-      "id": "8f6e53dc",
-      "title": "छत्तीसगढ़ के किसान ने बदला खेती का तरीका, अदरक के साथ मेड़ों पर उगाई अरहर; मिलेगा डबल मुनाफा",
-      "summary": "छत्तीसगढ़ के किसान ने बदला खेती का तरीका, अदरक के साथ मेड़ों पर उगाई अरहर; मिलेगा डबल मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-farmer-in-chhattisgarh-has-changed-his-farming-method-by-growing-pigeon-pea-arhar-on-the-ridges-alongside-ginger-this-is-set-to-yield-double-the-profit/",
-      "important": false
-    },
-    {
-      "id": "bf75823a",
-      "title": "राजस्थान: डीडवाना-कुचामन में 3,302 किसानों को मिले मृदा स्वास्थ्य कार्ड",
-      "summary": "राजस्थान: डीडवाना-कुचामन में 3,302 किसानों को मिले मृदा स्वास्थ्य कार्ड",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-3302-farmers-in-didwana-kuchaman-receive-soil-health-cards/",
-      "important": false
-    },
-    {
-      "id": "a2acb45a",
-      "title": "राजस्थान: महिला किसान दिवस पर संगोष्ठी, कृषि अर्थव्यवस्था में महिलाओं की भूमिका पर चर्चा",
-      "summary": "राजस्थान: महिला किसान दिवस पर संगोष्ठी, कृषि अर्थव्यवस्था में महिलाओं की भूमिका पर चर्चा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-seminar-held-on-women-farmers-day-role-of-women-in-the-agricultural-economy-discussed/",
-      "important": false
-    },
-    {
-      "id": "dd4c5ea9",
-      "title": "आज का मक्का मंडी रेट (15 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (15 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-15-october-2026/",
-      "important": false
-    },
-    {
-      "id": "8e5414cd",
-      "title": "आज का धान मंडी रेट (15 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (15 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-15-2026-2/",
-      "important": false
-    },
-    {
-      "id": "83683850",
-      "title": "आज का सोयाबीन मंडी रेट (15 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (15 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-15-october-2026/",
-      "important": false
-    },
-    {
-      "id": "c80de536",
-      "title": "आज का गेहूँ मंडी रेट (15 अक्टूबर 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (15 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-15",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-15-october-2026/",
       "important": false
     }
   ]
