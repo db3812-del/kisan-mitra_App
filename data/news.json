@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-21T11:30:44Z",
-  "new_count": 3,
+  "updated": "2026-10-21T16:57:33Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "0d979e66",
+      "title": "आज का गेहूँ मंडी रेट (21 अक्टूबर 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (21 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-21-2026/",
+      "important": false
+    },
+    {
+      "id": "57e858b4",
+      "title": "आज का मक्का मंडी रेट (21 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (21 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-21-2026/",
+      "important": false
+    },
+    {
+      "id": "056b6347",
+      "title": "कांग्रेस ने पांढुर्ना को सूखाग्रस्त घोषित करने और भाजपा ने किसानों को राहत देने की मांग की",
+      "summary": "कांग्रेस ने पांढुर्ना को सूखाग्रस्त घोषित करने और भाजपा ने किसानों को राहत देने की मांग की",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-congress-demanded-that-pandhurna-be-declared-drought-affected-while-the-bjp-called-for-relief-for-the-farmers/",
+      "important": false
+    },
+    {
+      "id": "0590e0b7",
+      "title": "खरीफ की समीक्षा, रबी की तैयारी: मध्यप्रदेश में संभागवार बैठकों का कार्यक्रम तय",
+      "summary": "खरीफ की समीक्षा, रबी की तैयारी: मध्यप्रदेश में संभागवार बैठकों का कार्यक्रम तय",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-10-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/review-of-kharif-preparation-for-rabi-schedule-for-division-wise-meetings-finalized-in-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "70f35fc0",
+      "title": "आज का धान मंडी रेट (21 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (21 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-21-2026/",
+      "important": false
+    },
+    {
+      "id": "dd88f4e8",
+      "title": "आज का सोयाबीन मंडी रेट (21 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (21 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-october-21-2026/",
+      "important": false
+    },
+    {
+      "id": "3ab0d6f7",
+      "title": "किसानों को प्याज-लहसुन की खेती पर मिलेगी ₹24 हजार तक सब्सिडी, जानें आवेदन का तरीका",
+      "summary": "किसानों को प्याज-लहसुन की खेती पर मिलेगी ₹24 हजार तक सब्सिडी, जानें आवेदन का तरीका",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/farmers-to-receive-a-subsidy-of-up-to-%e2%82%b924000-for-onion-and-garlic-cultivation-learn-how-to-apply/",
+      "important": false
+    },
+    {
+      "id": "fefbd272",
+      "title": "उर्वरक का अत्यधिक उपयोग से नुकसान",
+      "summary": "उर्वरक का अत्यधिक उपयोग से नुकसान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/harmful-effects-of-excessive-fertilizer-use/",
+      "important": false
+    },
     {
       "id": "02527908",
       "title": "स्ट्रॉ मैनेजमेंट सिस्टम कृषि यंत्र हेतु 29 अक्टूबर तक आवेदन आमंत्रित",
@@ -463,94 +551,6 @@
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/chhattisgarh-once-a-traveling-salesman-who-went-from-village-to-village-selling-threshers-suresh-dewangan-now-manufactures-agricultural-equipment-himself-and-generates-an-annual-turnover-of/",
       "important": false
-    },
-    {
-      "id": "82a2ff8e",
-      "title": "फसल अवशेष प्रबंधन पर श्योपुर में किसान मेला आयोजित, 150 किसानों को बीज का वितरण; कृषि यंत्रों की प्रदर्शनी भी लगी",
-      "summary": "फसल अवशेष प्रबंधन पर श्योपुर में किसान मेला आयोजित, 150 किसानों को बीज का वितरण; कृषि यंत्रों की प्रदर्शनी भी लगी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-farmers-fair-on-crop-residue-management-was-organized-in-sheopur-seeds-were-distributed-to-150-farmers-and-an-exhibition-of-agricultural-machinery-was-also-held/",
-      "important": false
-    },
-    {
-      "id": "2a918de8",
-      "title": "मध्यप्रदेश बनेगा देश का मिल्क कैपिटल, 208 ग्रामीण विधानसभा क्षेत्रों में विकसित होंगे वृंदावन ग्राम: सीएम यादव",
-      "summary": "मध्यप्रदेश बनेगा देश का मिल्क कैपिटल, 208 ग्रामीण विधानसभा क्षेत्रों में विकसित होंगे वृंदावन ग्राम: सीएम यादव",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-to-become-the-countrys-milk-capital-vrindavan-grams-vrindavan-style-villages-will-be-developed-across-208-rural-assembly-constituencies-cm-yadav/",
-      "important": false
-    },
-    {
-      "id": "e99e1552",
-      "title": "एनआरसीसी और कृषि विश्वविद्यालय जोधपुर के बीच हुआ बड़ा समझौता, उष्ट्र संरक्षण और दुग्ध उद्यमिता को मिलेगा बढ़ावा",
-      "summary": "एनआरसीसी और कृषि विश्वविद्यालय जोधपुर के बीच हुआ बड़ा समझौता, उष्ट्र संरक्षण और दुग्ध उद्यमिता को मिलेगा बढ़ावा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/major-agreement-signed-between-nrcc-and-the-agricultural-university-jodhpur-to-boost-camel-conservation-and-dairy-entrepreneurship/",
-      "important": false
-    },
-    {
-      "id": "8b2d5d2f",
-      "title": "झाबुआ: कलेक्टर डॉ. योगेश ने खेतों और पॉलीहाउस का किया निरीक्षण, फूलों की कटाई में आधुनिक मशीनों के उपयोग के निर्देश",
-      "summary": "झाबुआ: कलेक्टर डॉ. योगेश ने खेतों और पॉलीहाउस का किया निरीक्षण, फूलों की कटाई में आधुनिक मशीनों के उपयोग के निर्देश",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jhabua-collector-dr-yogesh-inspected-fields-and-polyhouses-issued-instructions-to-use-modern-machinery-for-harvesting-flowers/",
-      "important": false
-    },
-    {
-      "id": "81e48437",
-      "title": "विदिशा: रबी सिंचाई के लिए 1 नवंबर से नहरों में छोड़ा जाएगा पानी",
-      "summary": "विदिशा: रबी सिंचाई के लिए 1 नवंबर से नहरों में छोड़ा जाएगा पानी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-water-to-be-released-into-canals-from-november-1-for-rabi-irrigation/",
-      "important": false
-    },
-    {
-      "id": "99249023",
-      "title": "छत्तीसगढ़ में 8 हजार से अधिक किसानों को मिलेगा 3.8 करोड़ का फसल बीमा क्लेम, 3 दिन के भीतर होगा भुगतान",
-      "summary": "छत्तीसगढ़ में 8 हजार से अधिक किसानों को मिलेगा 3.8 करोड़ का फसल बीमा क्लेम, 3 दिन के भीतर होगा भुगतान",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/in-chhattisgarh-over-8000-farmers-will-receive-crop-insurance-claims-totaling-%e2%82%b93-8-crore-payment-will-be-made-within-3-days/",
-      "important": false
-    },
-    {
-      "id": "9f61d19c",
-      "title": "रायपुर: फ्लोरीकल्चर हब प्रोत्साहन योजना से घनश्याम साहू की खेती को मिली नई दिशा, 4.83 हेक्टेयर में उगा रहे फूल और सब्जिय",
-      "summary": "रायपुर: फ्लोरीकल्चर हब प्रोत्साहन योजना से घनश्याम साहू की खेती को मिली नई दिशा, 4.83 हेक्टेयर में उगा रहे फूल और सब्जियां",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-the-floriculture-hub-promotion-scheme-has-given-a-new-direction-to-ghanshyam-sahus-farming-he-is-now-cultivating-flowers-and-vegetables-across-4-83-hectares/",
-      "important": false
-    },
-    {
-      "id": "f551486d",
-      "title": "समर्थन मूल्य पर ज्वार, बाजरा एवं धान उपार्जन के लिए 8 लाख 77 हजार 947 से अधिक किसानों ने कराया पंजीयन : मंत्री राजपूत",
-      "summary": "समर्थन मूल्य पर ज्वार, बाजरा एवं धान उपार्जन के लिए 8 लाख 77 हजार 947 से अधिक किसानों ने कराया पंजीयन : मंत्री राजपूत",
-      "level": "state",
-      "category": "price",
-      "date": "2026-10-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/over-877947-farmers-have-registered-for-the-procurement-of-sorghum-jowar-pearl-millet-bajra-and-paddy-at-the-minimum-support-price-msp-minister-rajput/",
-      "important": true
     }
   ]
 }
