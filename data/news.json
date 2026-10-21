@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-21T04:09:13Z",
-  "new_count": 0,
+  "updated": "2026-10-21T11:30:44Z",
+  "new_count": 3,
   "articles": [
+    {
+      "id": "02527908",
+      "title": "स्ट्रॉ मैनेजमेंट सिस्टम कृषि यंत्र हेतु 29 अक्टूबर तक आवेदन आमंत्रित",
+      "summary": "स्ट्रॉ मैनेजमेंट सिस्टम कृषि यंत्र हेतु 29 अक्टूबर तक आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/applications-invited-until-october-29-for-agricultural-machinery-under-the-straw-management-system/",
+      "important": false
+    },
+    {
+      "id": "338f9d6c",
+      "title": "नरवाई जलाने से रोकना प्राथमिकता समझे – श्री नारायण",
+      "summary": "नरवाई जलाने से रोकना प्राथमिकता समझे – श्री नारायण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/preventing-the-burning-of-crop-residue-should-be-treated-as-a-priority-shri-narayan/",
+      "important": false
+    },
+    {
+      "id": "3edcc618",
+      "title": "महिंद्रा 475 DI MS XP Plus और 575 DI XP Plus ट्रैक्टर स्मार्ट लिफ्ट तकनीक के साथ राजस्थान में लॉन्च",
+      "summary": "महिंद्रा 475 DI MS XP Plus और 575 DI XP Plus ट्रैक्टर स्मार्ट लिफ्ट तकनीक के साथ राजस्थान में लॉन्च",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-475-di-ms-xp-plus-and-575-di-xp-plus-tractors-launched-in-rajasthan-with-smart-lift-technology/",
+      "important": false
+    },
     {
       "id": "d66c3151",
       "title": "रतलाम: एक बीघा में डच गुलाब की खेती, रोजाना 4 से 5 हजार रुपए कमा रहे किसान दिलीप सिंह आंजना",
@@ -518,39 +551,6 @@
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/over-877947-farmers-have-registered-for-the-procurement-of-sorghum-jowar-pearl-millet-bajra-and-paddy-at-the-minimum-support-price-msp-minister-rajput/",
       "important": true
-    },
-    {
-      "id": "27039211",
-      "title": "छिंदवाड़ा : आधुनिक तकनीक से नवीन ने बकरी पालन को बनाया लाभकारी व्यवसाय",
-      "summary": "छिंदवाड़ा : आधुनिक तकनीक से नवीन ने बकरी पालन को बनाया लाभकारी व्यवसाय",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-navin-has-turned-goat-farming-into-a-profitable-business-using-modern-technology/",
-      "important": false
-    },
-    {
-      "id": "987ae811",
-      "title": "गन्ना मूल्य में छत्तीसगढ़ देश में नंबर वन: किसानों को अब 425 रुपये प्रति क्विंटल की दर से होगा भुगतान",
-      "summary": "गन्ना मूल्य में छत्तीसगढ़ देश में नंबर वन: किसानों को अब 425 रुपये प्रति क्विंटल की दर से होगा भुगतान",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhattisgarh-ranks-number-one-in-the-country-for-sugarcane-pricing-farmers-will-now-be-paid-at-a-rate-of-rs-425-per-quintal/",
-      "important": false
-    },
-    {
-      "id": "b1fd9a1b",
-      "title": "छत्तीसगढ़: हल्दी बीज वितरण में गड़बड़ी की आशंका, किसानों के 46 हजार के अनुदान पर लगी रोक",
-      "summary": "छत्तीसगढ़: हल्दी बीज वितरण में गड़बड़ी की आशंका, किसानों के 46 हजार के अनुदान पर लगी रोक",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhattisgarh-suspected-irregularities-in-turmeric-seed-distribution-subsidy-of-%e2%82%b946000-for-farmers-put-on-hold/",
-      "important": false
     }
   ]
 }
