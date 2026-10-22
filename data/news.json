@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-22T04:09:57Z",
-  "new_count": 0,
+  "updated": "2026-10-22T11:30:25Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "1f04f6f7",
+      "title": "रबी सीजन के लिए सिंचाई हेतु किसानों को पर्याप्त पानी उपलब्ध कराएं : कलेक्टर श्योपुर",
+      "summary": "रबी सीजन के लिए सिंचाई हेतु किसानों को पर्याप्त पानी उपलब्ध कराएं : कलेक्टर श्योपुर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ensure-sufficient-water-is-made-available-to-farmers-for-irrigation-during-the-rabi-season-sheopur-collector/",
+      "important": false
+    },
+    {
+      "id": "78b30456",
+      "title": "टीकमगढ़ में पहुंची डीएपी खाद की रैक, एक सप्ताह में ई-विकास पोर्टल पर शुरू हो सकती है ऑनलाइन बुकिंग",
+      "summary": "टीकमगढ़ में पहुंची डीएपी खाद की रैक, एक सप्ताह में ई-विकास पोर्टल पर शुरू हो सकती है ऑनलाइन बुकिंग",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-rake-of-dap-fertilizer-has-arrived-in-tikamgarh-online-booking-could-begin-on-the-e-vikas-portal-within-a-week/",
+      "important": false
+    },
+    {
+      "id": "3ba45afd",
+      "title": "केंद्र सरकार का “खेत बचाओ अभियान” 22 अक्टूबर से दूसरे चरण में, ग्यारह राज्य शामिल",
+      "summary": "केंद्र सरकार का “खेत बचाओ अभियान” 22 अक्टूबर से दूसरे चरण में, ग्यारह राज्य शामिल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/central-governments-save-the-farms-campaign-enters-second-phase-on-october-22-eleven-states-included/",
+      "important": false
+    },
+    {
+      "id": "46a36466",
+      "title": "हरियाणा में धान खरीद साढ़े 15 लाख टन पार, किसानों को 1,221 करोड़ रुपये का भुगतान",
+      "summary": "हरियाणा में धान खरीद साढ़े 15 लाख टन पार, किसानों को 1,221 करोड़ रुपये का भुगतान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/paddy-procurement-in-haryana-crosses-1-55-million-tonnes-farmers-paid-rs-1221-crore/",
+      "important": false
+    },
+    {
+      "id": "0629d864",
+      "title": "गुणवत्ता बीज से तेलंगाना के किसान ने गर्मी में तुरई से कमाया मुनाफा",
+      "summary": "गुणवत्ता बीज से तेलंगाना के किसान ने गर्मी में तुरई से कमाया मुनाफा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/by-using-quality-seeds-a-telangana-farmer-earned-a-profit-from-ridge-gourd-during-the-summer-season/",
+      "important": false
+    },
+    {
+      "id": "108838d4",
+      "title": "70 वर्षीय गुजराती किसान की 13 साल की प्राकृतिक खेती, हल्दी से सालाना अच्छी आमदनी",
+      "summary": "70 वर्षीय गुजराती किसान की 13 साल की प्राकृतिक खेती, हल्दी से सालाना अच्छी आमदनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-70-year-old-gujarati-farmers-13-years-of-natural-farming-a-good-annual-income-from-turmeric/",
+      "important": false
+    },
+    {
+      "id": "925ad426",
+      "title": "थेनी में अंगूर की फसल पर पाउडरी मिल्ड्यू का असर, हेक्साकोनाज़ोल छिड़काव की सलाह",
+      "summary": "थेनी में अंगूर की फसल पर पाउडरी मिल्ड्यू का असर, हेक्साकोनाज़ोल छिड़काव की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/effect-of-powdery-mildew-on-grape-crop-in-theni-advice-on-spraying-hexaconazole/",
+      "important": false
+    },
+    {
+      "id": "e366b09d",
+      "title": "नीलगिरि में गोभी-आलू पर कटवर्म का हमला, विशेषज्ञों ने बताई दवा की मात्रा",
+      "summary": "नीलगिरि में गोभी-आलू पर कटवर्म का हमला, विशेषज्ञों ने बताई दवा की मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/cutworm-attack-on-cabbage-and-potato-in-nilgiri-experts-told-the-quantity-of-medicine/",
+      "important": false
+    },
     {
       "id": "0d979e66",
       "title": "आज का गेहूँ मंडी रेट (21 अक्टूबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-10-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/central-government-serious-about-sugarcane-farmers-demands-inquiry-committee-formed-under-the-chairmanship-of-ramesh-chand/",
-      "important": false
-    },
-    {
-      "id": "4518f8ac",
-      "title": "तेज हवा-बारिश में गिरती है गेहूँ की फसल? मजबूत कल्लों वाली यह किस्म देगी भरोसा",
-      "summary": "तेज हवा-बारिश में गिरती है गेहूँ की फसल? मजबूत कल्लों वाली यह किस्म देगी भरोसा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/does-your-wheat-crop-fall-over-during-strong-winds-and-rain-this-variety-with-its-robust-tillers-offers-a-reliable-solution/",
-      "important": false
-    },
-    {
-      "id": "2ffe1baf",
-      "title": "रायपुर: सरगुजा के किसान ने अपनाई सुगंधित धान की खेती, सरकार देगी 45 हजार रुपये की प्रोत्साहन राशि",
-      "summary": "रायपुर: सरगुजा के किसान ने अपनाई सुगंधित धान की खेती, सरकार देगी 45 हजार रुपये की प्रोत्साहन राशि",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-a-farmer-in-surguja-has-taken-up-the-cultivation-of-aromatic-paddy-the-government-will-provide-an-incentive-of-45000-rupees/",
-      "important": false
-    },
-    {
-      "id": "b185212e",
-      "title": "पांढुर्ना : प्राकृतिक आपदा से फसल क्षति होने पर किसानों को मिलेगा अग्रिम बीमा राहत भुगतान",
-      "summary": "पांढुर्ना : प्राकृतिक आपदा से फसल क्षति होने पर किसानों को मिलेगा अग्रिम बीमा राहत भुगतान",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pandhurna-farmers-to-receive-advance-insurance-relief-payments-for-crop-losses-caused-by-natural-disasters/",
-      "important": false
-    },
-    {
-      "id": "869930f2",
-      "title": "मध्य प्रदेश ने केंद्र के पैराक्वेट डाइक्लोराइड प्रतिबंध को लागू किया, स्टॉक वापस लेने और नष्ट करने के आदेश दिए",
-      "summary": "मध्य प्रदेश ने केंद्र के पैराक्वेट डाइक्लोराइड प्रतिबंध को लागू किया, स्टॉक वापस लेने और नष्ट करने के आदेश दिए",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-has-implemented-the-centres-ban-on-paraquat-dichloride-ordering-the-withdrawal-and-destruction-of-existing-stocks/",
-      "important": false
-    },
-    {
-      "id": "5be95e1b",
-      "title": "रायपुर: बस्तर की फूलमती दीदी का कमाल, आधुनिक खेती से उगाईं 10 क्विंटल से ज्यादा सब्जियां",
-      "summary": "रायपुर: बस्तर की फूलमती दीदी का कमाल, आधुनिक खेती से उगाईं 10 क्विंटल से ज्यादा सब्जियां",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-phoolmati-didi-from-bastar-achieves-a-remarkable-feat-growing-over-10-quintals-of-vegetables-using-modern-farming-methods/",
-      "important": false
-    },
-    {
-      "id": "9e75c258",
-      "title": "राजस्थान: हनुमानगढ़ में कपास कीट प्रबंधन पर 5 दिवसीय प्रशिक्षण, किसानों को सिखाईं IPM तकनीकें",
-      "summary": "राजस्थान: हनुमानगढ़ में कपास कीट प्रबंधन पर 5 दिवसीय प्रशिक्षण, किसानों को सिखाईं IPM तकनीकें",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-5-day-training-on-cotton-pest-management-held-in-hanumangarh-farmers-taught-ipm-techniques/",
-      "important": false
-    },
-    {
-      "id": "b2f2cedd",
-      "title": "महिला किसानों को मिलेगी औपचारिक पहचान, रायसेन-विदिशा से शुरू होगा गरीबी मुक्त गांव अभियान: शिवराज सिंह चौहान",
-      "summary": "महिला किसानों को मिलेगी औपचारिक पहचान, रायसेन-विदिशा से शुरू होगा गरीबी मुक्त गांव अभियान: शिवराज सिंह चौहान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/women-farmers-will-receive-formal-recognition-a-poverty-free-village-campaign-will-be-launched-from-raisen-vidisha-shivraj-singh-chouhan/",
-      "important": false
-    },
-    {
-      "id": "b9c28b9a",
-      "title": "छत्तीसगढ़: कभी गांव-गांव घूमकर बेचते थे थ्रेशर, आज खुद कृषि उपकरण बनाकर सालाना 7 करोड़ का टर्नओवर कर रहे हैं सुरेश देवां",
-      "summary": "छत्तीसगढ़: कभी गांव-गांव घूमकर बेचते थे थ्रेशर, आज खुद कृषि उपकरण बनाकर सालाना 7 करोड़ का टर्नओवर कर रहे हैं सुरेश देवांगन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhattisgarh-once-a-traveling-salesman-who-went-from-village-to-village-selling-threshers-suresh-dewangan-now-manufactures-agricultural-equipment-himself-and-generates-an-annual-turnover-of/",
       "important": false
     }
   ]
