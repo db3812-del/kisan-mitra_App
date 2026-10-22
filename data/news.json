@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-22T11:30:25Z",
-  "new_count": 8,
+  "updated": "2026-10-22T16:56:41Z",
+  "new_count": 4,
   "articles": [
+    {
+      "id": "8a395eb2",
+      "title": "आज का गेहूँ मंडी रेट (22 अक्टूबर 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (22 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-22-2026/",
+      "important": false
+    },
+    {
+      "id": "a22daa71",
+      "title": "आज का धान मंडी रेट (22 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (22 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-22-2026/",
+      "important": false
+    },
+    {
+      "id": "304f7662",
+      "title": "आज का मक्का मंडी रेट (22 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (22 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-22-2026/",
+      "important": false
+    },
+    {
+      "id": "7bc24365",
+      "title": "आज का सोयाबीन मंडी रेट (22 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (22 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-22",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-22-2026/",
+      "important": false
+    },
     {
       "id": "1f04f6f7",
       "title": "रबी सीजन के लिए सिंचाई हेतु किसानों को पर्याप्त पानी उपलब्ध कराएं : कलेक्टर श्योपुर",
@@ -506,50 +550,6 @@
       "date": "2026-10-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/kufri-himalini-variety-transforms-the-fortunes-of-a-tripura-farmer-profits-nearly-double/",
-      "important": false
-    },
-    {
-      "id": "e702bd36",
-      "title": "असम के किसान ने पुराने प्रेशर कुकर से बना दी चाय प्रसंस्करण मशीन, 25 साल के अनुभव से निकला नया रास्ता",
-      "summary": "असम के किसान ने पुराने प्रेशर कुकर से बना दी चाय प्रसंस्करण मशीन, 25 साल के अनुभव से निकला नया रास्ता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/assam-farmer-creates-tea-processing-machine-from-an-old-pressure-cooker-25-years-of-experience-leads-to-an-innovative-solution/",
-      "important": false
-    },
-    {
-      "id": "6d279409",
-      "title": "कपास में गुलाबी सुंडी व तना छेदक का खतरा, तमिलनाडु कृषि विश्वविद्यालय ने जारी की दवा और मात्रा सहित सलाह",
-      "summary": "कपास में गुलाबी सुंडी व तना छेदक का खतरा, तमिलनाडु कृषि विश्वविद्यालय ने जारी की दवा और मात्रा सहित सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-pink-bollworm-and-stem-borer-in-cotton-tamil-nadu-agricultural-university-issues-advisory-including-recommended-pesticides-and-dosage/",
-      "important": false
-    },
-    {
-      "id": "fe06b781",
-      "title": "गन्ने में शुरुआती तना छेदक और सफेद लट का खतरा, जानें तमिलनाडु कृषि विश्वविद्यालय की सलाह",
-      "summary": "गन्ने में शुरुआती तना छेदक और सफेद लट का खतरा, जानें तमिलनाडु कृषि विश्वविद्यालय की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-early-stage-stem-borer-and-white-grub-in-sugarcane-see-the-advice-from-tamil-nadu-agricultural-university/",
-      "important": false
-    },
-    {
-      "id": "6a588fa6",
-      "title": "गन्ना किसानों की मांगों पर केंद्र सरकार गंभीर, रमेश चंद की अध्यक्षता में बनी जांच समिति",
-      "summary": "गन्ना किसानों की मांगों पर केंद्र सरकार गंभीर, रमेश चंद की अध्यक्षता में बनी जांच समिति",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/central-government-serious-about-sugarcane-farmers-demands-inquiry-committee-formed-under-the-chairmanship-of-ramesh-chand/",
       "important": false
     }
   ]
