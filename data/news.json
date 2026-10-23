@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-23T04:13:27Z",
-  "new_count": 0,
+  "updated": "2026-10-23T11:20:06Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "063287ec",
+      "title": "सागर : मक्का साइलेज यूनिट से पशुपालन को मिल रही नई दिशा",
+      "summary": "सागर : मक्का साइलेज यूनिट से पशुपालन को मिल रही नई दिशा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sagar-maize-silage-unit-provides-a-new-direction-for-animal-husbandry/",
+      "important": false
+    },
+    {
+      "id": "370a1470",
+      "title": "बीज प्रमाणीकरण में लापरवाही बर्दाश्त नहीं : कमिश्नर सागर संभाग",
+      "summary": "बीज प्रमाणीकरण में लापरवाही बर्दाश्त नहीं : कमिश्नर सागर संभाग",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/negligence-in-seed-certification-will-not-be-tolerated-commissioner-sagar-division/",
+      "important": false
+    },
+    {
+      "id": "10bc8ed9",
+      "title": "गोवा में केकड़ा पालन से बढ़ेगी किसानों की आय: 1 एकड़ में ₹70 हजार तक मिलेगा शुद्ध मुनाफा, ICAR-CCARI देगा प्रशिक्षण",
+      "summary": "गोवा में केकड़ा पालन से बढ़ेगी किसानों की आय: 1 एकड़ में ₹70 हजार तक मिलेगा शुद्ध मुनाफा, ICAR-CCARI देगा प्रशिक्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/crab-farming-in-goa-to-boost-farmers-income-up-to-%e2%82%b970000-in-net-profit-per-acre-icar-ccari-to-provide-training/",
+      "important": false
+    },
+    {
+      "id": "de12abfa",
+      "title": "टीकमगढ़ कलेक्टर ने खाद वितरण व्यवस्था का लिया जायजा",
+      "summary": "टीकमगढ़ कलेक्टर ने खाद वितरण व्यवस्था का लिया जायजा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/tikamgarh-collector-reviewed-the-fertilizer-distribution-system/",
+      "important": false
+    },
+    {
+      "id": "2187d4d7",
+      "title": "आगर मालवा जिले में पराली जलाना पूर्णतः प्रतिबंधित",
+      "summary": "आगर मालवा जिले में पराली जलाना पूर्णतः प्रतिबंधित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/stubble-burning-is-completely-prohibited-in-agar-malwa-district/",
+      "important": false
+    },
+    {
+      "id": "8b6ab341",
+      "title": "अंडमान-निकोबार के पारंपरिक मछली उत्पादों को मिलेगा GI टैग, ICAR-CIFT देगा तकनीकी मदद",
+      "summary": "अंडमान-निकोबार के पारंपरिक मछली उत्पादों को मिलेगा GI टैग, ICAR-CIFT देगा तकनीकी मदद",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/traditional-fish-products-from-andaman-and-nicobar-to-receive-gi-tag-icar-cift-to-provide-technical-assistance/",
+      "important": false
+    },
+    {
+      "id": "153a5f78",
+      "title": "PM Kisan 24th Instalment: दिवाली से पहले खाते में आ सकते हैं ₹2,000, जानें पैसे पाने के लिए क्या जरूरी है",
+      "summary": "PM Kisan 24th Instalment: दिवाली से पहले खाते में आ सकते हैं ₹2,000, जानें पैसे पाने के लिए क्या जरूरी है",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/pm-kisan-24th-instalment-%e2%82%b92000-could-arrive-in-your-account-before-diwali-find-out-what-is-required-to-receive-the-funds/",
+      "important": false
+    },
+    {
+      "id": "00e6d4db",
+      "title": "ब्रोकली की उन्नत खेती",
+      "summary": "ब्रोकली की उन्नत खेती",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/advanced-cultivation-of-broccoli/",
+      "important": false
+    },
     {
       "id": "8a395eb2",
       "title": "आज का गेहूँ मंडी रेट (22 अक्टूबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-10-19",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-19-october-2026/",
-      "important": false
-    },
-    {
-      "id": "7e3ae6f3",
-      "title": "आज का मक्का मंडी रेट (19 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (19 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-19-october-2026/",
-      "important": false
-    },
-    {
-      "id": "261e0fcd",
-      "title": "आज का धान मंडी रेट (19 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (19 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-19-october-2026/",
-      "important": false
-    },
-    {
-      "id": "346c9e9c",
-      "title": "आज का सोयाबीन मंडी रेट (19 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (19 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-19-2026/",
-      "important": false
-    },
-    {
-      "id": "abb16ef4",
-      "title": "आगर मालवा: बागवानी में क्रांति, छोटे ट्रैक्टर से मिली संतरा किसानों को सुविधा",
-      "summary": "आगर मालवा: बागवानी में क्रांति, छोटे ट्रैक्टर से मिली संतरा किसानों को सुविधा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agar-malwa-a-revolution-in-horticulture-small-tractors-bring-convenience-to-orange-farmers/",
-      "important": false
-    },
-    {
-      "id": "100b2e11",
-      "title": "पराली जलाने वालों के खिलाफ कृषि एवं राजस्व विभाग ने की संयुक्त कार्रवाई",
-      "summary": "पराली जलाने वालों के खिलाफ कृषि एवं राजस्व विभाग ने की संयुक्त कार्रवाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/agriculture-and-revenue-departments-take-joint-action-against-those-burning-stubble/",
-      "important": false
-    },
-    {
-      "id": "576543e9",
-      "title": "अमरूद के बाग में मिलीबग और फल मक्खी का प्रकोप, जैविक तरीके से भी हो सकता है नियंत्रण",
-      "summary": "अमरूद के बाग में मिलीबग और फल मक्खी का प्रकोप, जैविक तरीके से भी हो सकता है नियंत्रण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mealybug-and-fruit-fly-infestation-in-guava-orchards-can-also-be-controlled-using-organic-methods/",
-      "important": false
-    },
-    {
-      "id": "d1a9a694",
-      "title": "उड़द-मूंग में फली छेदक और पीला मोजेक का खतरा, कृषि विश्वविद्यालय ने बताए बचाव के उपाय",
-      "summary": "उड़द-मूंग में फली छेदक और पीला मोजेक का खतरा, कृषि विश्वविद्यालय ने बताए बचाव के उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-pod-borer-and-yellow-mosaic-in-urad-and-moong-crops-agricultural-university-suggests-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "a6d3b09f",
-      "title": "कुफरी हिमालिनी किस्म से त्रिपुरा के किसान की बदली तकदीर, मुनाफा हुआ लगभग दोगुना",
-      "summary": "कुफरी हिमालिनी किस्म से त्रिपुरा के किसान की बदली तकदीर, मुनाफा हुआ लगभग दोगुना",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/kufri-himalini-variety-transforms-the-fortunes-of-a-tripura-farmer-profits-nearly-double/",
       "important": false
     }
   ]
