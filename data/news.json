@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-23T11:20:06Z",
-  "new_count": 8,
+  "updated": "2026-10-23T16:49:03Z",
+  "new_count": 5,
   "articles": [
+    {
+      "id": "0c7e97f1",
+      "title": "आज का गेहूँ मंडी रेट (23 अक्टूबर 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (23 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-23-2026/",
+      "important": false
+    },
+    {
+      "id": "862d3c2d",
+      "title": "आज का धान मंडी रेट (23 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (23 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-23-2026/",
+      "important": false
+    },
+    {
+      "id": "c9dda28c",
+      "title": "आज का मक्का मंडी रेट (23 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (23 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-23-2026/",
+      "important": false
+    },
+    {
+      "id": "8ced088c",
+      "title": "आज का सोयाबीन मंडी रेट (23 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (23 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-23-2026/",
+      "important": false
+    },
+    {
+      "id": "e98bb8cf",
+      "title": "मध्यप्रदेश: रबी फसलों के बीज का पर्याप्त भंडार, किसान अधिकृत केंद्रों से खरीदें प्रमाणित बीज",
+      "summary": "मध्यप्रदेश: रबी फसलों के बीज का पर्याप्त भंडार, किसान अधिकृत केंद्रों से खरीदें प्रमाणित बीज",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-adequate-stock-of-rabi-crop-seeds-available-farmers-should-purchase-certified-seeds-from-authorized-centers/",
+      "important": false
+    },
     {
       "id": "063287ec",
       "title": "सागर : मक्का साइलेज यूनिट से पशुपालन को मिल रही नई दिशा",
@@ -495,61 +550,6 @@
       "date": "2026-10-20",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/women-entrepreneurs-have-built-a-new-business-based-on-a-rare-fruit-from-the-andaman-islands/",
-      "important": false
-    },
-    {
-      "id": "e19cd216",
-      "title": "गोबर से धूप-अगरबत्ती बनाकर बबली कोरंगा ने खड़ा किया लाखों का कारोबार",
-      "summary": "गोबर से धूप-अगरबत्ती बनाकर बबली कोरंगा ने खड़ा किया लाखों का कारोबार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/babli-koranga-built-a-business-worth-lakhs-by-making-incense-sticks-and-dhoop-incense-cones-from-cow-dung/",
-      "important": false
-    },
-    {
-      "id": "2d51816e",
-      "title": "भिंडी और मिर्च की फसल में बढ़ा कीट प्रकोप, वैज्ञानिकों ने बताई दवा और मात्रा",
-      "summary": "भिंडी और मिर्च की फसल में बढ़ा कीट प्रकोप, वैज्ञानिकों ने बताई दवा और मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pest-infestation-increases-in-okra-and-chili-crops-scientists-recommend-treatment-and-dosage/",
-      "important": false
-    },
-    {
-      "id": "2255aa75",
-      "title": "छिंदवाड़ा : उन्नत खेती और पॉलीहाउस से अंकित ने बनाई अपनी अलग पहचान",
-      "summary": "छिंदवाड़ा : उन्नत खेती और पॉलीहाउस से अंकित ने बनाई अपनी अलग पहचान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-ankit-has-carved-a-distinct-identity-for-himself-through-advanced-farming-and-polyhouses/",
-      "important": false
-    },
-    {
-      "id": "f821eb72",
-      "title": "प्रदेश का सोया खेतों से निकलकर दुनिया के बाजारों में बना रहा है अपनी पहचान : मुख्यमंत्री डॉ. यादव",
-      "summary": "प्रदेश का सोया खेतों से निकलकर दुनिया के बाजारों में बना रहा है अपनी पहचान : मुख्यमंत्री डॉ. यादव",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-states-soybean-is-making-its-mark-in-global-markets-reaching-far-beyond-its-fields-chief-minister-dr-yadav/",
-      "important": false
-    },
-    {
-      "id": "ae0fa952",
-      "title": "आज का गेहूँ मंडी रेट (19 अक्टूबर 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (19 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-19-october-2026/",
       "important": false
     }
   ]
