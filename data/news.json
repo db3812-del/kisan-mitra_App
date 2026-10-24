@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-24T04:05:04Z",
-  "new_count": 0,
+  "updated": "2026-10-24T10:39:34Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "0e1aa463",
+      "title": "बिहार में बाढ़ से फसलें बर्बाद, किसानों को मिलेगा कृषि इनपुट अनुदान",
+      "summary": "बिहार में बाढ़ से फसलें बर्बाद, किसानों को मिलेगा कृषि इनपुट अनुदान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/crops-destroyed-by-floods-in-bihar-farmers-to-receive-agricultural-input-subsidy/",
+      "important": false
+    },
+    {
+      "id": "dbb2a839",
+      "title": "किसानों की सेवा ईश्वर की सबसे बड़ी पूजा : शिवराज सिंह चौहान",
+      "summary": "किसानों की सेवा ईश्वर की सबसे बड़ी पूजा : शिवराज सिंह चौहान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/serving-farmers-is-the-greatest-form-of-worship-to-god-shivraj-singh-chouhan/",
+      "important": false
+    },
+    {
+      "id": "e44d4452",
+      "title": "मध्यप्रदेश में कृषि यंत्रों पर अनुदान के लिए आवेदन शुरू",
+      "summary": "मध्यप्रदेश में कृषि यंत्रों पर अनुदान के लिए आवेदन शुरू",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/applications-open-for-subsidies-on-agricultural-machinery-in-madhya-pradesh/",
+      "important": false
+    },
+    {
+      "id": "38e65dc2",
+      "title": "भा.कृ.अनु.प.- खरपतवार अनुसंधान निदेशालय, जबलपुर का अध्ययन",
+      "summary": "भा.कृ.अनु.प.- खरपतवार अनुसंधान निदेशालय, जबलपुर का अध्ययन",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-study-by-the-icar-directorate-of-weed-research-jabalpur/",
+      "important": false
+    },
+    {
+      "id": "113fd17f",
+      "title": "सिंहस्थ के बहाने उज्जैन के विकास को नई रफ्तार",
+      "summary": "सिंहस्थ के बहाने उज्जैन के विकास को नई रफ्तार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/new-momentum-for-ujjains-development-spurred-by-the-simhastha/",
+      "important": false
+    },
+    {
+      "id": "0b608a20",
+      "title": "अमरूद की खेती बनी मुनाफे का सौदा, सीहोर के किसान ने 1.50 हेक्टेयर में कमाए ₹4.25 लाख",
+      "summary": "अमरूद की खेती बनी मुनाफे का सौदा, सीहोर के किसान ने 1.50 हेक्टेयर में कमाए ₹4.25 लाख",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/guava-cultivation-proves-profitable-farmer-in-sehore-earns-%e2%82%b94-25-lakh-from-1-50-hectares/",
+      "important": false
+    },
+    {
+      "id": "5f84bc6e",
+      "title": "अल्प वर्षा की स्थिति में चना और सरसों की खेती पर दें विशेष ध्यान: पांढुर्णा कलेक्टर",
+      "summary": "अल्प वर्षा की स्थिति में चना और सरसों की खेती पर दें विशेष ध्यान: पांढुर्णा कलेक्टर",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pay-special-attention-to-the-cultivation-of-chickpea-and-mustard-in-the-event-of-low-rainfall-pandhurna-collector/",
+      "important": false
+    },
+    {
+      "id": "a17814bd",
+      "title": "मंडी बोर्ड आयुक्त-सह-प्रबंध संचालक ने किया इंदौर मंडी का आकस्मिक निरीक्षण",
+      "summary": "मंडी बोर्ड आयुक्त-सह-प्रबंध संचालक ने किया इंदौर मंडी का आकस्मिक निरीक्षण",
+      "level": "state",
+      "category": "price",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-mandi-board-commissioner-cum-managing-director-conducted-a-surprise-inspection-of-the-indore-mandi/",
+      "important": false
+    },
     {
       "id": "0c7e97f1",
       "title": "आज का गेहूँ मंडी रेट (23 अक्टूबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-10-20",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/vidisha-advanced-seed-mini-kits-distributed/",
-      "important": false
-    },
-    {
-      "id": "ee883f4d",
-      "title": "छत्तीसगढ़: कृषक उन्नति योजना का लाभ लेना है तो 31 अक्टूबर तक कराएं पंजीयन",
-      "summary": "छत्तीसगढ़: कृषक उन्नति योजना का लाभ लेना है तो 31 अक्टूबर तक कराएं पंजीयन",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhattisgarh-if-you-want-to-avail-the-benefits-of-krishak-unnati-yojana-then-get-registered-by-31st-october/",
-      "important": false
-    },
-    {
-      "id": "61fd76c2",
-      "title": "फसल में पीलापन, धब्बे या मुरझाने की समस्या? क्रॉप डॉक्टर ऐप से लें जरूरी जानकारी",
-      "summary": "फसल में पीलापन, धब्बे या मुरझाने की समस्या? क्रॉप डॉक्टर ऐप से लें जरूरी जानकारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/are-your-crops-showing-signs-of-yellowing-spots-or-wilting-get-the-information-you-need-using-the-crop-doctor-app/",
-      "important": false
-    },
-    {
-      "id": "48c8f16e",
-      "title": "मक्का साइलेज यूनिट से पशुपालन को मिल रही नई दिशा, सागर के पुष्पेन्द्र कुर्मी ने पेश की मिसाल",
-      "summary": "मक्का साइलेज यूनिट से पशुपालन को मिल रही नई दिशा, सागर के पुष्पेन्द्र कुर्मी ने पेश की मिसाल",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/maize-silage-unit-provides-a-new-direction-for-animal-husbandry-pushpendra-kurmi-from-sagar-sets-an-example/",
-      "important": false
-    },
-    {
-      "id": "1cf0681d",
-      "title": "अफीम का संतुलित पोषण प्रबंधन",
-      "summary": "अफीम का संतुलित पोषण प्रबंधन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balanced-nutritional-management-for-opium-poppy/",
-      "important": false
-    },
-    {
-      "id": "08ebcc9c",
-      "title": "मध्यप्रदेश में चार सिंचाई परियोजनाओं को मंजूरी, ₹3,076.37 करोड़ खर्च होंगे",
-      "summary": "मध्यप्रदेश में चार सिंचाई परियोजनाओं को मंजूरी, ₹3,076.37 करोड़ खर्च होंगे",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/four-irrigation-projects-approved-in-madhya-pradesh-%e2%82%b93076-37-crore-to-be-spent/",
-      "important": false
-    },
-    {
-      "id": "87760d79",
-      "title": "केंद्र ने चीनी मिलों को त्योहारी सीजन में अक्टूबर उत्पादन की अतिरिक्त बिक्री की छूट दी",
-      "summary": "केंद्र ने चीनी मिलों को त्योहारी सीजन में अक्टूबर उत्पादन की अतिरिक्त बिक्री की छूट दी",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/the-centre-has-allowed-sugar-mills-to-sell-additional-sugar-produced-in-october-during-the-festive-season/",
-      "important": false
-    },
-    {
-      "id": "b56ae937",
-      "title": "पंजाब में किसानों के लिए एआई आधारित कृषि सलाह सेवा का दायरा बढ़ेगा, तीन संस्थाओं में करार",
-      "summary": "पंजाब में किसानों के लिए एआई आधारित कृषि सलाह सेवा का दायरा बढ़ेगा, तीन संस्थाओं में करार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/scope-of-ai-based-agricultural-advisory-service-for-farmers-in-punjab-to-expand-agreement-signed-between-three-organizations/",
-      "important": false
-    },
-    {
-      "id": "a2bc9d80",
-      "title": "अंडमान के दुर्लभ फल से महिला उद्यमियों ने खड़ा किया नया कारोबार",
-      "summary": "अंडमान के दुर्लभ फल से महिला उद्यमियों ने खड़ा किया नया कारोबार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/women-entrepreneurs-have-built-a-new-business-based-on-a-rare-fruit-from-the-andaman-islands/",
       "important": false
     }
   ]
