@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-24T10:39:34Z",
-  "new_count": 8,
+  "updated": "2026-10-24T15:41:36Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "fd51e0bb",
+      "title": "आज का गेहूँ मंडी रेट (24 अक्टूबर 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (24 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-24-2026/",
+      "important": false
+    },
+    {
+      "id": "9639116a",
+      "title": "आज का मक्का मंडी रेट (24 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (24 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-24-2026/",
+      "important": false
+    },
+    {
+      "id": "a6e20945",
+      "title": "आज का धान मंडी रेट (24 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (24 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-24-2026/",
+      "important": false
+    },
+    {
+      "id": "ca639940",
+      "title": "आज का सोयाबीन मंडी रेट (24 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (24 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-24-2026/",
+      "important": false
+    },
+    {
+      "id": "df671031",
+      "title": "जे यू एग्री साइंसेस ने किया मेगा किसान मीट का आयोजन",
+      "summary": "जे यू एग्री साइंसेस ने किया मेगा किसान मीट का आयोजन",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/ju-agri-sciences-organized-a-mega-farmers-meet/",
+      "important": false
+    },
+    {
+      "id": "4cc03ffc",
+      "title": "शाजापुर जिले में प्राची सीड्स की फॉर्मर मीटिंग संपन्न",
+      "summary": "शाजापुर जिले में प्राची सीड्स की फॉर्मर मीटिंग संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/farmer-meeting-by-prachi-seeds-concludes-in-shajapur-district/",
+      "important": false
+    },
+    {
+      "id": "1f850484",
+      "title": "PM-KUSUM के नए चरण में किसानों को मिलेगा सौर खेती का अलग कार्यक्रम, नई दिल्ली सम्मेलन में बड़ा एलान",
+      "summary": "PM-KUSUM के नए चरण में किसानों को मिलेगा सौर खेती का अलग कार्यक्रम, नई दिल्ली सम्मेलन में बड़ा एलान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/farmers-to-get-a-dedicated-solar-farming-program-under-the-new-phase-of-pm-kusum-major-announcement-made-at-a-conference-in-new-delhi/",
+      "important": false
+    },
     {
       "id": "0e1aa463",
       "title": "बिहार में बाढ़ से फसलें बर्बाद, किसानों को मिलेगा कृषि इनपुट अनुदान",
@@ -473,83 +550,6 @@
       "date": "2026-10-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/preventing-the-burning-of-crop-residue-should-be-treated-as-a-priority-shri-narayan/",
-      "important": false
-    },
-    {
-      "id": "3edcc618",
-      "title": "महिंद्रा 475 DI MS XP Plus और 575 DI XP Plus ट्रैक्टर स्मार्ट लिफ्ट तकनीक के साथ राजस्थान में लॉन्च",
-      "summary": "महिंद्रा 475 DI MS XP Plus और 575 DI XP Plus ट्रैक्टर स्मार्ट लिफ्ट तकनीक के साथ राजस्थान में लॉन्च",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/agriculture-machinery/mahindra-475-di-ms-xp-plus-and-575-di-xp-plus-tractors-launched-in-rajasthan-with-smart-lift-technology/",
-      "important": false
-    },
-    {
-      "id": "d66c3151",
-      "title": "रतलाम: एक बीघा में डच गुलाब की खेती, रोजाना 4 से 5 हजार रुपए कमा रहे किसान दिलीप सिंह आंजना",
-      "summary": "रतलाम: एक बीघा में डच गुलाब की खेती, रोजाना 4 से 5 हजार रुपए कमा रहे किसान दिलीप सिंह आंजना",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ratlam-farmer-dilip-singh-anjana-is-earning-4000-to-5000-rupees-daily-from-the-cultivation-of-dutch-roses-on-one-bigha-of-land/",
-      "important": false
-    },
-    {
-      "id": "72edfba5",
-      "title": "बड़वानी: शिंदे ने घर पर शुरू की मशरूम की खेती",
-      "summary": "बड़वानी: शिंदे ने घर पर शुरू की मशरूम की खेती",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/barwani-shinde-starts-mushroom-cultivation-at-home/",
-      "important": false
-    },
-    {
-      "id": "3c57bf6c",
-      "title": "गुना : ग्राम चौपाल में कृषकों को नरवाई न जलाने का दिया संदेश",
-      "summary": "गुना : ग्राम चौपाल में कृषकों को नरवाई न जलाने का दिया संदेश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guna-farmers-urged-not-to-burn-crop-residue-during-village-meeting-gram-chaupal/",
-      "important": false
-    },
-    {
-      "id": "3168f5fc",
-      "title": "ग्वालियर : जे-फार्म ऐप से कृषि यंत्र किराये पर लेकर करें फसल अवशेषों का प्रबंधन",
-      "summary": "ग्वालियर : जे-फार्म ऐप से कृषि यंत्र किराये पर लेकर करें फसल अवशेषों का प्रबंधन",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/gwalior-manage-crop-residues-by-renting-agricultural-machinery-via-the-j-farm-app/",
-      "important": false
-    },
-    {
-      "id": "298ac451",
-      "title": "रायसेन : पराली जलाने की घटनाओं को रोकने किसानों को दी जा रही समझाइश",
-      "summary": "रायसेन : पराली जलाने की घटनाओं को रोकने किसानों को दी जा रही समझाइश",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raisen-farmers-being-advised-against-burning-crop-stubble/",
-      "important": false
-    },
-    {
-      "id": "bcb32879",
-      "title": "विदिशा : उन्नत बीज मिनी किट वितरित",
-      "summary": "विदिशा : उन्नत बीज मिनी किट वितरित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-advanced-seed-mini-kits-distributed/",
       "important": false
     }
   ]
