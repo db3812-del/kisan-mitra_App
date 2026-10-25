@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-25T11:03:47Z",
-  "new_count": 0,
+  "updated": "2026-10-25T15:52:19Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "35ca2a87",
+      "title": "कपास चुनने वाले मजदूरों को चोटों से बचाएंगे खास दस्ताने, ICAR-CIRCOT ने कंपनी से किया समझौता",
+      "summary": "कपास चुनने वाले मजदूरों को चोटों से बचाएंगे खास दस्ताने, ICAR-CIRCOT ने कंपनी से किया समझौता",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/special-gloves-to-protect-cotton-picking-laborers-from-injuries-icar-circot-signs-agreement-with-a-company/",
+      "important": false
+    },
+    {
+      "id": "c74a6664",
+      "title": "राजस्थान: खाद-बीज की जांच के लिए बदलेगी व्यवस्था, ऐप से होगा लैब का चयन और डाक से पहुंचेंगे नमूने",
+      "summary": "राजस्थान: खाद-बीज की जांच के लिए बदलेगी व्यवस्था, ऐप से होगा लैब का चयन और डाक से पहुंचेंगे नमूने",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajasthan-system-for-testing-fertilizers-and-seeds-to-be-revamped-labs-to-be-selected-via-an-app-and-samples-to-be-sent-by-post/",
+      "important": false
+    },
+    {
+      "id": "722d4837",
+      "title": "गुना: कृषि विज्ञान केंद्र आरोन ने किसानों को बांटे मसूर की उन्नत किस्म RVL 13-5 के बीज",
+      "summary": "गुना: कृषि विज्ञान केंद्र आरोन ने किसानों को बांटे मसूर की उन्नत किस्म RVL 13-5 के बीज",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-10-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/guna-krishi-vigyan-kendra-aron-distributed-seeds-of-the-improved-lentil-variety-rvl-13-5-to-farmers/",
+      "important": false
+    },
+    {
+      "id": "67addb71",
+      "title": "दिवाली से पहले किसानों को तोहफा: 30 अक्टूबर को जारी होगी पीएम किसान की 24वीं किस्त, खाते में आएंगे ₹2,000",
+      "summary": "दिवाली से पहले किसानों को तोहफा: 30 अक्टूबर को जारी होगी पीएम किसान की 24वीं किस्त, खाते में आएंगे ₹2,000",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/a-gift-for-farmers-ahead-of-diwali-the-24th-installment-of-pm-kisan-will-be-released-on-october-30-%e2%82%b92000-will-be-credited-to-their-accounts/",
+      "important": false
+    },
+    {
+      "id": "4149e12a",
+      "title": "गोपाल-कृष्ण ग्राम पुरस्कार योजना: मध्यप्रदेश में गायों के दूध उत्पादन की होगी प्रतियोगिता, विजेताओं को मिलेंगे ₹1 लाख तक",
+      "summary": "गोपाल-कृष्ण ग्राम पुरस्कार योजना: मध्यप्रदेश में गायों के दूध उत्पादन की होगी प्रतियोगिता, विजेताओं को मिलेंगे ₹1 लाख तक",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-10-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gopal-krishna-gram-puraskar-yojana-a-competition-on-cow-milk-production-to-be-held-in-madhya-pradesh-winners-to-receive-up-to-%e2%82%b91-lakh/",
+      "important": false
+    },
+    {
+      "id": "ecf0e7ca",
+      "title": "नरवाई जलाने के बजाय फसल अवशेषों से बनाएं जैविक खाद, बढ़ाएं मिट्टी की उर्वरता",
+      "summary": "नरवाई जलाने के बजाय फसल अवशेषों से बनाएं जैविक खाद, बढ़ाएं मिट्टी की उर्वरता",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/instead-of-burning-crop-stubble-turn-it-into-organic-manure-to-enhance-soil-fertility/",
+      "important": false
+    },
+    {
+      "id": "dc8865df",
+      "title": "भारत मंडपम में फैली बालाघाट के चिन्नौर चावल की महक",
+      "summary": "भारत मंडपम में फैली बालाघाट के चिन्नौर चावल की महक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/the-aroma-of-balaghats-chinnor-rice-spreads-in-bharat-mandapam/",
+      "important": false
+    },
+    {
+      "id": "8ed930cf",
+      "title": "सागर में इफको की सचल मृदा परीक्षण प्रयोगशाला शुरू, अब किसानों को खेत पर ही मिलेगी मिट्टी जांच की सुविधा",
+      "summary": "सागर में इफको की सचल मृदा परीक्षण प्रयोगशाला शुरू, अब किसानों को खेत पर ही मिलेगी मिट्टी जांच की सुविधा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/iffcos-mobile-soil-testing-laboratory-launched-in-sagar-farmers-can-now-avail-soil-testing-facilities-right-at-their-own-fields/",
+      "important": false
+    },
     {
       "id": "fd51e0bb",
       "title": "आज का गेहूँ मंडी रेट (24 अक्टूबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-10-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-21-2026/",
-      "important": false
-    },
-    {
-      "id": "056b6347",
-      "title": "कांग्रेस ने पांढुर्ना को सूखाग्रस्त घोषित करने और भाजपा ने किसानों को राहत देने की मांग की",
-      "summary": "कांग्रेस ने पांढुर्ना को सूखाग्रस्त घोषित करने और भाजपा ने किसानों को राहत देने की मांग की",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-congress-demanded-that-pandhurna-be-declared-drought-affected-while-the-bjp-called-for-relief-for-the-farmers/",
-      "important": false
-    },
-    {
-      "id": "0590e0b7",
-      "title": "खरीफ की समीक्षा, रबी की तैयारी: मध्यप्रदेश में संभागवार बैठकों का कार्यक्रम तय",
-      "summary": "खरीफ की समीक्षा, रबी की तैयारी: मध्यप्रदेश में संभागवार बैठकों का कार्यक्रम तय",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-10-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/review-of-kharif-preparation-for-rabi-schedule-for-division-wise-meetings-finalized-in-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "70f35fc0",
-      "title": "आज का धान मंडी रेट (21 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (21 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-21-2026/",
-      "important": false
-    },
-    {
-      "id": "dd88f4e8",
-      "title": "आज का सोयाबीन मंडी रेट (21 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (21 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-october-21-2026/",
-      "important": false
-    },
-    {
-      "id": "3ab0d6f7",
-      "title": "किसानों को प्याज-लहसुन की खेती पर मिलेगी ₹24 हजार तक सब्सिडी, जानें आवेदन का तरीका",
-      "summary": "किसानों को प्याज-लहसुन की खेती पर मिलेगी ₹24 हजार तक सब्सिडी, जानें आवेदन का तरीका",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/farmers-to-receive-a-subsidy-of-up-to-%e2%82%b924000-for-onion-and-garlic-cultivation-learn-how-to-apply/",
-      "important": false
-    },
-    {
-      "id": "fefbd272",
-      "title": "उर्वरक का अत्यधिक उपयोग से नुकसान",
-      "summary": "उर्वरक का अत्यधिक उपयोग से नुकसान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/harmful-effects-of-excessive-fertilizer-use/",
-      "important": false
-    },
-    {
-      "id": "02527908",
-      "title": "स्ट्रॉ मैनेजमेंट सिस्टम कृषि यंत्र हेतु 29 अक्टूबर तक आवेदन आमंत्रित",
-      "summary": "स्ट्रॉ मैनेजमेंट सिस्टम कृषि यंत्र हेतु 29 अक्टूबर तक आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/applications-invited-until-october-29-for-agricultural-machinery-under-the-straw-management-system/",
-      "important": false
-    },
-    {
-      "id": "338f9d6c",
-      "title": "नरवाई जलाने से रोकना प्राथमिकता समझे – श्री नारायण",
-      "summary": "नरवाई जलाने से रोकना प्राथमिकता समझे – श्री नारायण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/preventing-the-burning-of-crop-residue-should-be-treated-as-a-priority-shri-narayan/",
       "important": false
     }
   ]
