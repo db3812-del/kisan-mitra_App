@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-26T04:11:07Z",
-  "new_count": 0,
+  "updated": "2026-10-26T12:36:53Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "241e8b9d",
+      "title": "मीठे जल में छोटे मछुआरों की आजीविका सुधारने बनेगी राष्ट्रीय कार्ययोजना",
+      "summary": "मीठे जल में छोटे मछुआरों की आजीविका सुधारने बनेगी राष्ट्रीय कार्ययोजना",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-national-action-plan-will-be-formulated-to-improve-the-livelihoods-of-small-scale-fishers-in-freshwater-environments/",
+      "important": false
+    },
+    {
+      "id": "3da6157f",
+      "title": "देश ने समय से पांच महीने पहले बनाई 11 करोड़ फार्मर ID",
+      "summary": "देश ने समय से पांच महीने पहले बनाई 11 करोड़ फार्मर ID",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/the-country-created-11-crore-farmer-ids-five-months-ahead-of-schedule/",
+      "important": false
+    },
+    {
+      "id": "15eb8687",
+      "title": "उत्तर प्रदेश में रबी फसलों के बीज पर 50 प्रतिशत अनुदान, ऑनलाइन बुकिंग शुरू",
+      "summary": "उत्तर प्रदेश में रबी फसलों के बीज पर 50 प्रतिशत अनुदान, ऑनलाइन बुकिंग शुरू",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/50-percent-subsidy-on-seeds-for-rabi-crops-in-uttar-pradesh-online-booking-begins/",
+      "important": false
+    },
+    {
+      "id": "f7eb058e",
+      "title": "मुर्गीपालन में दाना प्रबंधन: कम लागत, अधिक मुनाफा",
+      "summary": "मुर्गीपालन में दाना प्रबंधन: कम लागत, अधिक मुनाफा",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/animal-husbandry/feed-management-in-poultry-farming-low-cost-higher-profit/",
+      "important": false
+    },
+    {
+      "id": "a3826abe",
+      "title": "आज का गेहूँ मंडी रेट (26 अक्टूबर 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (26 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-26-2026/",
+      "important": false
+    },
+    {
+      "id": "b445fb6d",
+      "title": "आज का मक्का मंडी रेट (26 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (26 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-26-2026/",
+      "important": false
+    },
+    {
+      "id": "1dede773",
+      "title": "आज का धान मंडी रेट (26 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (26 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-26-2026/",
+      "important": false
+    },
+    {
+      "id": "94a4b115",
+      "title": "आज का सोयाबीन मंडी रेट (26 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (26 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-26-2026/",
+      "important": false
+    },
     {
       "id": "35ca2a87",
       "title": "कपास चुनने वाले मजदूरों को चोटों से बचाएंगे खास दस्ताने, ICAR-CIRCOT ने कंपनी से किया समझौता",
@@ -462,94 +550,6 @@
       "date": "2026-10-22",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/a-rake-of-dap-fertilizer-has-arrived-in-tikamgarh-online-booking-could-begin-on-the-e-vikas-portal-within-a-week/",
-      "important": false
-    },
-    {
-      "id": "3ba45afd",
-      "title": "केंद्र सरकार का “खेत बचाओ अभियान” 22 अक्टूबर से दूसरे चरण में, ग्यारह राज्य शामिल",
-      "summary": "केंद्र सरकार का “खेत बचाओ अभियान” 22 अक्टूबर से दूसरे चरण में, ग्यारह राज्य शामिल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/central-governments-save-the-farms-campaign-enters-second-phase-on-october-22-eleven-states-included/",
-      "important": false
-    },
-    {
-      "id": "46a36466",
-      "title": "हरियाणा में धान खरीद साढ़े 15 लाख टन पार, किसानों को 1,221 करोड़ रुपये का भुगतान",
-      "summary": "हरियाणा में धान खरीद साढ़े 15 लाख टन पार, किसानों को 1,221 करोड़ रुपये का भुगतान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/paddy-procurement-in-haryana-crosses-1-55-million-tonnes-farmers-paid-rs-1221-crore/",
-      "important": false
-    },
-    {
-      "id": "0629d864",
-      "title": "गुणवत्ता बीज से तेलंगाना के किसान ने गर्मी में तुरई से कमाया मुनाफा",
-      "summary": "गुणवत्ता बीज से तेलंगाना के किसान ने गर्मी में तुरई से कमाया मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/by-using-quality-seeds-a-telangana-farmer-earned-a-profit-from-ridge-gourd-during-the-summer-season/",
-      "important": false
-    },
-    {
-      "id": "108838d4",
-      "title": "70 वर्षीय गुजराती किसान की 13 साल की प्राकृतिक खेती, हल्दी से सालाना अच्छी आमदनी",
-      "summary": "70 वर्षीय गुजराती किसान की 13 साल की प्राकृतिक खेती, हल्दी से सालाना अच्छी आमदनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-70-year-old-gujarati-farmers-13-years-of-natural-farming-a-good-annual-income-from-turmeric/",
-      "important": false
-    },
-    {
-      "id": "925ad426",
-      "title": "थेनी में अंगूर की फसल पर पाउडरी मिल्ड्यू का असर, हेक्साकोनाज़ोल छिड़काव की सलाह",
-      "summary": "थेनी में अंगूर की फसल पर पाउडरी मिल्ड्यू का असर, हेक्साकोनाज़ोल छिड़काव की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/effect-of-powdery-mildew-on-grape-crop-in-theni-advice-on-spraying-hexaconazole/",
-      "important": false
-    },
-    {
-      "id": "e366b09d",
-      "title": "नीलगिरि में गोभी-आलू पर कटवर्म का हमला, विशेषज्ञों ने बताई दवा की मात्रा",
-      "summary": "नीलगिरि में गोभी-आलू पर कटवर्म का हमला, विशेषज्ञों ने बताई दवा की मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-22",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/cutworm-attack-on-cabbage-and-potato-in-nilgiri-experts-told-the-quantity-of-medicine/",
-      "important": false
-    },
-    {
-      "id": "0d979e66",
-      "title": "आज का गेहूँ मंडी रेट (21 अक्टूबर 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (21 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-21-2026/",
-      "important": false
-    },
-    {
-      "id": "57e858b4",
-      "title": "आज का मक्का मंडी रेट (21 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (21 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-21-2026/",
       "important": false
     }
   ]
