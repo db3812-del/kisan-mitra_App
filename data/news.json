@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-27T11:53:49Z",
-  "new_count": 8,
+  "updated": "2026-10-27T17:48:05Z",
+  "new_count": 4,
   "articles": [
+    {
+      "id": "193a08c2",
+      "title": "आज का धान मंडी रेट (27 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (27 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-27-2026/",
+      "important": false
+    },
+    {
+      "id": "53127a8c",
+      "title": "आज का मक्का मंडी रेट (27 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (27 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-27-2026/",
+      "important": false
+    },
+    {
+      "id": "6e57da99",
+      "title": "पीएम किसान योजना की 24वीं किस्त: गुजरात से पीएम मोदी जारी करेंगे ₹18,680 करोड़, 30 अक्टूबर को किसानों के खाते में आएंगे ",
+      "summary": "पीएम किसान योजना की 24वीं किस्त: गुजरात से पीएम मोदी जारी करेंगे ₹18,680 करोड़, 30 अक्टूबर को किसानों के खाते में आएंगे ₹2,000",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/24th-installment-of-the-pm-kisan-scheme-pm-modi-to-release-%e2%82%b918680-crore-from-gujarat-%e2%82%b92000-to-be-credited-to-farmers-accounts-on-october-30/",
+      "important": false
+    },
+    {
+      "id": "85d9847b",
+      "title": "आज का सोयाबीन मंडी रेट (27 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (27 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-27-2026/",
+      "important": false
+    },
     {
       "id": "54fe16fb",
       "title": "रीवा: मिट्टी के पोषक तत्व और गुण बताता है मृदा स्वास्थ्य कार्ड",
@@ -506,50 +550,6 @@
       "date": "2026-10-24",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/pay-special-attention-to-the-cultivation-of-chickpea-and-mustard-in-the-event-of-low-rainfall-pandhurna-collector/",
-      "important": false
-    },
-    {
-      "id": "a17814bd",
-      "title": "मंडी बोर्ड आयुक्त-सह-प्रबंध संचालक ने किया इंदौर मंडी का आकस्मिक निरीक्षण",
-      "summary": "मंडी बोर्ड आयुक्त-सह-प्रबंध संचालक ने किया इंदौर मंडी का आकस्मिक निरीक्षण",
-      "level": "state",
-      "category": "price",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-mandi-board-commissioner-cum-managing-director-conducted-a-surprise-inspection-of-the-indore-mandi/",
-      "important": false
-    },
-    {
-      "id": "0c7e97f1",
-      "title": "आज का गेहूँ मंडी रेट (23 अक्टूबर 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (23 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-23-2026/",
-      "important": false
-    },
-    {
-      "id": "862d3c2d",
-      "title": "आज का धान मंडी रेट (23 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (23 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-23-2026/",
-      "important": false
-    },
-    {
-      "id": "c9dda28c",
-      "title": "आज का मक्का मंडी रेट (23 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (23 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-23-2026/",
       "important": false
     }
   ]
