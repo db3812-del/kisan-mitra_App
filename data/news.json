@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-27T04:30:21Z",
-  "new_count": 0,
+  "updated": "2026-10-27T11:53:49Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "54fe16fb",
+      "title": "रीवा: मिट्टी के पोषक तत्व और गुण बताता है मृदा स्वास्थ्य कार्ड",
+      "summary": "रीवा: मिट्टी के पोषक तत्व और गुण बताता है मृदा स्वास्थ्य कार्ड",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rewa-soil-health-card-indicates-soil-nutrients-and-properties/",
+      "important": false
+    },
+    {
+      "id": "9e046b3d",
+      "title": "किसान एनपीके और एसएसपी खाद का उपयोग करें – उप संचालक कृषि रीवा",
+      "summary": "किसान एनपीके और एसएसपी खाद का उपयोग करें – उप संचालक कृषि रीवा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-should-use-npk-and-ssp-fertilizers-deputy-director-of-agriculture-rewa/",
+      "important": false
+    },
+    {
+      "id": "477d60cb",
+      "title": "छिंदवाड़ा: 27 से 31 अक्टूबर तक होगी दुग्ध उत्पादन प्रतियोगिता",
+      "summary": "छिंदवाड़ा: 27 से 31 अक्टूबर तक होगी दुग्ध उत्पादन प्रतियोगिता",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-milk-production-competition-to-be-held-from-october-27-to-31/",
+      "important": false
+    },
+    {
+      "id": "b0d412dd",
+      "title": "मंडी बोर्ड के आयुक्त-सह-प्रबंध संचालक ने किया बरेली मंडी का औचक निरीक्षण",
+      "summary": "मंडी बोर्ड के आयुक्त-सह-प्रबंध संचालक ने किया बरेली मंडी का औचक निरीक्षण",
+      "level": "state",
+      "category": "market",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-commissioner-cum-managing-director-of-the-mandi-board-conducted-a-surprise-inspection-of-the-bareilly-mandi/",
+      "important": false
+    },
+    {
+      "id": "01f9486e",
+      "title": "कृषि विभाग और ब्रह्माकुमारी संस्थान के बीच ग्लोबल.समिट में हुआ एमओयू",
+      "summary": "कृषि विभाग और ब्रह्माकुमारी संस्थान के बीच ग्लोबल.समिट में हुआ एमओयू",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mou-signed-between-the-agriculture-department-and-the-brahma-kumaris-organization-at-the-global-summit/",
+      "important": false
+    },
+    {
+      "id": "85700b51",
+      "title": "किसानों को मोबाइल पर मिलेगी हर योजना की जानकारी, केंद्र ने लॉन्च किया नया कृषि कल्याण पोर्टल",
+      "summary": "किसानों को मोबाइल पर मिलेगी हर योजना की जानकारी, केंद्र ने लॉन्च किया नया कृषि कल्याण पोर्टल",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/farmers-will-receive-information-about-every-scheme-on-their-mobile-phones-the-centre-has-launched-a-new-agricultural-welfare-portal/",
+      "important": false
+    },
+    {
+      "id": "7115e57c",
+      "title": "बिहार में 1 नवंबर से शुरू होगी धान की खरीद, जानें MSP और पंजीयन की पूरी प्रक्रिया",
+      "summary": "बिहार में 1 नवंबर से शुरू होगी धान की खरीद, जानें MSP और पंजीयन की पूरी प्रक्रिया",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/paddy-procurement-to-begin-in-bihar-from-november-1-learn-about-the-msp-and-the-complete-registration-process/",
+      "important": true
+    },
+    {
+      "id": "42ec88f3",
+      "title": "आज का गेहूँ मंडी रेट (27 अक्टूबर 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (27 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-27-2026/",
+      "important": false
+    },
     {
       "id": "a6df3403",
       "title": "करनाल से शुरू हुआ “खेत बचाओ अभियान- रबी 2026”, 30 नवंबर तक चलेगा देशभर में अभियान",
@@ -462,94 +550,6 @@
       "date": "2026-10-23",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-23-2026/",
-      "important": false
-    },
-    {
-      "id": "8ced088c",
-      "title": "आज का सोयाबीन मंडी रेट (23 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (23 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-23-2026/",
-      "important": false
-    },
-    {
-      "id": "e98bb8cf",
-      "title": "मध्यप्रदेश: रबी फसलों के बीज का पर्याप्त भंडार, किसान अधिकृत केंद्रों से खरीदें प्रमाणित बीज",
-      "summary": "मध्यप्रदेश: रबी फसलों के बीज का पर्याप्त भंडार, किसान अधिकृत केंद्रों से खरीदें प्रमाणित बीज",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-adequate-stock-of-rabi-crop-seeds-available-farmers-should-purchase-certified-seeds-from-authorized-centers/",
-      "important": false
-    },
-    {
-      "id": "063287ec",
-      "title": "सागर : मक्का साइलेज यूनिट से पशुपालन को मिल रही नई दिशा",
-      "summary": "सागर : मक्का साइलेज यूनिट से पशुपालन को मिल रही नई दिशा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sagar-maize-silage-unit-provides-a-new-direction-for-animal-husbandry/",
-      "important": false
-    },
-    {
-      "id": "370a1470",
-      "title": "बीज प्रमाणीकरण में लापरवाही बर्दाश्त नहीं : कमिश्नर सागर संभाग",
-      "summary": "बीज प्रमाणीकरण में लापरवाही बर्दाश्त नहीं : कमिश्नर सागर संभाग",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/negligence-in-seed-certification-will-not-be-tolerated-commissioner-sagar-division/",
-      "important": false
-    },
-    {
-      "id": "10bc8ed9",
-      "title": "गोवा में केकड़ा पालन से बढ़ेगी किसानों की आय: 1 एकड़ में ₹70 हजार तक मिलेगा शुद्ध मुनाफा, ICAR-CCARI देगा प्रशिक्षण",
-      "summary": "गोवा में केकड़ा पालन से बढ़ेगी किसानों की आय: 1 एकड़ में ₹70 हजार तक मिलेगा शुद्ध मुनाफा, ICAR-CCARI देगा प्रशिक्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/crab-farming-in-goa-to-boost-farmers-income-up-to-%e2%82%b970000-in-net-profit-per-acre-icar-ccari-to-provide-training/",
-      "important": false
-    },
-    {
-      "id": "de12abfa",
-      "title": "टीकमगढ़ कलेक्टर ने खाद वितरण व्यवस्था का लिया जायजा",
-      "summary": "टीकमगढ़ कलेक्टर ने खाद वितरण व्यवस्था का लिया जायजा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/tikamgarh-collector-reviewed-the-fertilizer-distribution-system/",
-      "important": false
-    },
-    {
-      "id": "2187d4d7",
-      "title": "आगर मालवा जिले में पराली जलाना पूर्णतः प्रतिबंधित",
-      "summary": "आगर मालवा जिले में पराली जलाना पूर्णतः प्रतिबंधित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/stubble-burning-is-completely-prohibited-in-agar-malwa-district/",
-      "important": false
-    },
-    {
-      "id": "8b6ab341",
-      "title": "अंडमान-निकोबार के पारंपरिक मछली उत्पादों को मिलेगा GI टैग, ICAR-CIFT देगा तकनीकी मदद",
-      "summary": "अंडमान-निकोबार के पारंपरिक मछली उत्पादों को मिलेगा GI टैग, ICAR-CIFT देगा तकनीकी मदद",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/traditional-fish-products-from-andaman-and-nicobar-to-receive-gi-tag-icar-cift-to-provide-technical-assistance/",
       "important": false
     }
   ]
