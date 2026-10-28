@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-28T12:29:00Z",
-  "new_count": 8,
+  "updated": "2026-10-28T22:24:38Z",
+  "new_count": 4,
   "articles": [
+    {
+      "id": "b26a46ad",
+      "title": "देश में दलहन उत्पादन में बड़ा बदलाव, मध्य प्रदेश की हिस्सेदारी घटी; महाराष्ट्र और गुजरात आगे बढ़े",
+      "summary": "देश में दलहन उत्पादन में बड़ा बदलाव, मध्य प्रदेश की हिस्सेदारी घटी; महाराष्ट्र और गुजरात आगे बढ़े",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/major-shift-in-pulse-production-in-the-country-madhya-pradeshs-share-declines-while-maharashtra-and-gujarat-move-ahead/",
+      "important": false
+    },
+    {
+      "id": "25f28b87",
+      "title": "रायपुर: ‘खेत बचाओ अभियान-2026’ के तहत किसानों को दी गई टिकाऊ खेती की जानकारी",
+      "summary": "रायपुर: ‘खेत बचाओ अभियान-2026’ के तहत किसानों को दी गई टिकाऊ खेती की जानकारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-farmers-provided-with-information-on-sustainable-farming-under-the-save-the-fields-campaign-2026/",
+      "important": false
+    },
+    {
+      "id": "515613b9",
+      "title": "खेत बचाओ अभियान 2026: मोतिहारी में किसानों को सिखाई गई फलदार बागों में अंतरवर्ती खेती और फसल विविधीकरण की तकनीक",
+      "summary": "खेत बचाओ अभियान 2026: मोतिहारी में किसानों को सिखाई गई फलदार बागों में अंतरवर्ती खेती और फसल विविधीकरण की तकनीक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/save-the-farms-campaign-2026-farmers-in-motihari-trained-in-intercropping-and-crop-diversification-techniques-for-fruit-orchards/",
+      "important": false
+    },
+    {
+      "id": "19cbfc23",
+      "title": "जबलपुर में ‘बलराम कृषि महोत्सव’ आयोजित, सीएम मोहन यादव बोले- खेती को लाभकारी बनाने के लिए उद्यानिकी, पशुपालन और मत्स्य प",
+      "summary": "जबलपुर में ‘बलराम कृषि महोत्सव’ आयोजित, सीएम मोहन यादव बोले- खेती को लाभकारी बनाने के लिए उद्यानिकी, पशुपालन और मत्स्य पालन जरूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balram-krishi-mahotsav-organized-in-jabalpur-cm-mohan-yadav-says-horticulture-animal-husbandry-and-fisheries-are-essential-for-making-agriculture-profitable/",
+      "important": false
+    },
     {
       "id": "2ab33d25",
       "title": "रायपुर: धान खरीदी 2026-27 के लिए घर बैठे करें टोकन बुकिंग, ‘तुंहर टोकन’ एप 24 घंटे उपलब्ध",
@@ -506,50 +550,6 @@
       "date": "2026-10-24",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-24-2026/",
-      "important": false
-    },
-    {
-      "id": "a6e20945",
-      "title": "आज का धान मंडी रेट (24 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (24 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-24-2026/",
-      "important": false
-    },
-    {
-      "id": "ca639940",
-      "title": "आज का सोयाबीन मंडी रेट (24 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (24 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-24-2026/",
-      "important": false
-    },
-    {
-      "id": "df671031",
-      "title": "जे यू एग्री साइंसेस ने किया मेगा किसान मीट का आयोजन",
-      "summary": "जे यू एग्री साइंसेस ने किया मेगा किसान मीट का आयोजन",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/ju-agri-sciences-organized-a-mega-farmers-meet/",
-      "important": false
-    },
-    {
-      "id": "4cc03ffc",
-      "title": "शाजापुर जिले में प्राची सीड्स की फॉर्मर मीटिंग संपन्न",
-      "summary": "शाजापुर जिले में प्राची सीड्स की फॉर्मर मीटिंग संपन्न",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/farmer-meeting-by-prachi-seeds-concludes-in-shajapur-district/",
       "important": false
     }
   ]
