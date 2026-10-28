@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-28T05:01:24Z",
-  "new_count": 0,
+  "updated": "2026-10-28T12:29:00Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "2ab33d25",
+      "title": "रायपुर: धान खरीदी 2026-27 के लिए घर बैठे करें टोकन बुकिंग, ‘तुंहर टोकन’ एप 24 घंटे उपलब्ध",
+      "summary": "रायपुर: धान खरीदी 2026-27 के लिए घर बैठे करें टोकन बुकिंग, ‘तुंहर टोकन’ एप 24 घंटे उपलब्ध",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-book-your-token-for-the-2026-27-paddy-procurement-from-the-comfort-of-your-home-the-tunhar-token-app-is-available-24-7/",
+      "important": false
+    },
+    {
+      "id": "fababe73",
+      "title": "छत्तीसगढ़ में 15 नवंबर से शुरू होगी धान खरीदी, ₹3100 प्रति क्विंटल मिलेगा समर्थन मूल्य",
+      "summary": "छत्तीसगढ़ में 15 नवंबर से शुरू होगी धान खरीदी, ₹3100 प्रति क्विंटल मिलेगा समर्थन मूल्य",
+      "level": "central",
+      "category": "price",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/paddy-procurement-in-chhattisgarh-will-begin-on-november-15-the-support-price-will-be-%e2%82%b93100-per-quintal/",
+      "important": false
+    },
+    {
+      "id": "a6a37e96",
+      "title": "भोपाल में स्टेकहोल्डर-कम-बायर-सेलर मीट 2026 आयोजित, महिला किसानों को बाजार से जोड़ने पर जोर",
+      "summary": "भोपाल में स्टेकहोल्डर-कम-बायर-सेलर मीट 2026 आयोजित, महिला किसानों को बाजार से जोड़ने पर जोर",
+      "level": "state",
+      "category": "market",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/stakeholder-cum-buyer-seller-meet-held-in-bhopal-focus-on-connecting-women-farmers-to-the-market/",
+      "important": false
+    },
+    {
+      "id": "8786ffff",
+      "title": "पारिजात इंडस्ट्रीज ने गेहूं के लिए नया खरपतवार नाशक कॉन्टेक्स्ट लॉन्च किया",
+      "summary": "पारिजात इंडस्ट्रीज ने गेहूं के लिए नया खरपतवार नाशक कॉन्टेक्स्ट लॉन्च किया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/parijat-industries-has-launched-context-a-new-herbicide-for-wheat/",
+      "important": false
+    },
+    {
+      "id": "396eaba8",
+      "title": "आज का गेहूँ मंडी रेट (28 अक्टूबर 2026)",
+      "summary": "आज का गेहूँ मंडी रेट (28 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-28-2026/",
+      "important": false
+    },
+    {
+      "id": "486ae668",
+      "title": "आज का धान मंडी रेट (28 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (28 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-28-2026/",
+      "important": false
+    },
+    {
+      "id": "e3f7f552",
+      "title": "आज का मक्का मंडी रेट (28 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (28 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-october-28-2026/",
+      "important": false
+    },
+    {
+      "id": "982972ee",
+      "title": "आज का सोयाबीन मंडी रेट (28 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (28 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-28-2026/",
+      "important": false
+    },
     {
       "id": "193a08c2",
       "title": "आज का धान मंडी रेट (27 अक्टूबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-10-24",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/industry-news/farmer-meeting-by-prachi-seeds-concludes-in-shajapur-district/",
-      "important": false
-    },
-    {
-      "id": "1f850484",
-      "title": "PM-KUSUM के नए चरण में किसानों को मिलेगा सौर खेती का अलग कार्यक्रम, नई दिल्ली सम्मेलन में बड़ा एलान",
-      "summary": "PM-KUSUM के नए चरण में किसानों को मिलेगा सौर खेती का अलग कार्यक्रम, नई दिल्ली सम्मेलन में बड़ा एलान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/farmers-to-get-a-dedicated-solar-farming-program-under-the-new-phase-of-pm-kusum-major-announcement-made-at-a-conference-in-new-delhi/",
-      "important": false
-    },
-    {
-      "id": "0e1aa463",
-      "title": "बिहार में बाढ़ से फसलें बर्बाद, किसानों को मिलेगा कृषि इनपुट अनुदान",
-      "summary": "बिहार में बाढ़ से फसलें बर्बाद, किसानों को मिलेगा कृषि इनपुट अनुदान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/crops-destroyed-by-floods-in-bihar-farmers-to-receive-agricultural-input-subsidy/",
-      "important": false
-    },
-    {
-      "id": "dbb2a839",
-      "title": "किसानों की सेवा ईश्वर की सबसे बड़ी पूजा : शिवराज सिंह चौहान",
-      "summary": "किसानों की सेवा ईश्वर की सबसे बड़ी पूजा : शिवराज सिंह चौहान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/serving-farmers-is-the-greatest-form-of-worship-to-god-shivraj-singh-chouhan/",
-      "important": false
-    },
-    {
-      "id": "e44d4452",
-      "title": "मध्यप्रदेश में कृषि यंत्रों पर अनुदान के लिए आवेदन शुरू",
-      "summary": "मध्यप्रदेश में कृषि यंत्रों पर अनुदान के लिए आवेदन शुरू",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/applications-open-for-subsidies-on-agricultural-machinery-in-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "38e65dc2",
-      "title": "भा.कृ.अनु.प.- खरपतवार अनुसंधान निदेशालय, जबलपुर का अध्ययन",
-      "summary": "भा.कृ.अनु.प.- खरपतवार अनुसंधान निदेशालय, जबलपुर का अध्ययन",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-study-by-the-icar-directorate-of-weed-research-jabalpur/",
-      "important": false
-    },
-    {
-      "id": "113fd17f",
-      "title": "सिंहस्थ के बहाने उज्जैन के विकास को नई रफ्तार",
-      "summary": "सिंहस्थ के बहाने उज्जैन के विकास को नई रफ्तार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/new-momentum-for-ujjains-development-spurred-by-the-simhastha/",
-      "important": false
-    },
-    {
-      "id": "0b608a20",
-      "title": "अमरूद की खेती बनी मुनाफे का सौदा, सीहोर के किसान ने 1.50 हेक्टेयर में कमाए ₹4.25 लाख",
-      "summary": "अमरूद की खेती बनी मुनाफे का सौदा, सीहोर के किसान ने 1.50 हेक्टेयर में कमाए ₹4.25 लाख",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guava-cultivation-proves-profitable-farmer-in-sehore-earns-%e2%82%b94-25-lakh-from-1-50-hectares/",
-      "important": false
-    },
-    {
-      "id": "5f84bc6e",
-      "title": "अल्प वर्षा की स्थिति में चना और सरसों की खेती पर दें विशेष ध्यान: पांढुर्णा कलेक्टर",
-      "summary": "अल्प वर्षा की स्थिति में चना और सरसों की खेती पर दें विशेष ध्यान: पांढुर्णा कलेक्टर",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pay-special-attention-to-the-cultivation-of-chickpea-and-mustard-in-the-event-of-low-rainfall-pandhurna-collector/",
       "important": false
     }
   ]
