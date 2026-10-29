@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-29T05:14:50Z",
-  "new_count": 0,
+  "updated": "2026-10-29T12:40:22Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "13cbc6cd",
+      "title": "आज का गेहूं मंडी रेट (29 अक्टूबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (29 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-29-2026/",
+      "important": false
+    },
+    {
+      "id": "454bdc51",
+      "title": "आज का मक्का मंडी रेट (29 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (29 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-29-2026/",
+      "important": false
+    },
+    {
+      "id": "8a7dcee1",
+      "title": "आज का धान मंडी रेट (29 अक्टूबर 2026)",
+      "summary": "आज का धान मंडी रेट (29 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-29-2026/",
+      "important": false
+    },
+    {
+      "id": "96d2ccc0",
+      "title": "आज का सोयाबीन मंडी रेट (29 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (29 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-29-2026/",
+      "important": false
+    },
+    {
+      "id": "09f0c766",
+      "title": "ग्रामीण मजदूरों की हाजिरी में फर्जीवाड़ा रोकने के लिए सरकार ने लॉन्च किया नया AI ऐप",
+      "summary": "ग्रामीण मजदूरों की हाजिरी में फर्जीवाड़ा रोकने के लिए सरकार ने लॉन्च किया नया AI ऐप",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/government-launches-new-ai-app-to-curb-fraud-in-the-attendance-of-rural-laborers/",
+      "important": false
+    },
+    {
+      "id": "2206581d",
+      "title": "सरकारी योजना: हरियाणा में धान की सरकारी खरीद तेज, किसानों के खाते में पहुंचे 4,263 करोड़ रुपए",
+      "summary": "सरकारी योजना: हरियाणा में धान की सरकारी खरीद तेज, किसानों के खाते में पहुंचे 4,263 करोड़ रुपए",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/government-scheme-government-procurement-of-paddy-picks-up-pace-in-haryana-rs-4263-crore-credited-to-farmers-accounts/",
+      "important": false
+    },
+    {
+      "id": "5ca6b875",
+      "title": "छिंदवाड़ा के किसान ने केले और समन्वित खेती से बदली तस्वीर, सालाना मुनाफा 10 लाख रुपए",
+      "summary": "छिंदवाड़ा के किसान ने केले और समन्वित खेती से बदली तस्वीर, सालाना मुनाफा 10 लाख रुपए",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-farmer-in-chhindwara-has-transformed-his-fortunes-through-banana-cultivation-and-integrated-farming-earning-an-annual-profit-of-10-lakh-rupees/",
+      "important": false
+    },
+    {
+      "id": "e18deb39",
+      "title": "कपास उत्पादन में विभागीय योजनाएं अपनाएं किसान: श्री मौर्य",
+      "summary": "कपास उत्पादन में विभागीय योजनाएं अपनाएं किसान: श्री मौर्य",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-29",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-should-adopt-departmental-schemes-for-cotton-production-mr-maurya/",
+      "important": false
+    },
     {
       "id": "b26a46ad",
       "title": "देश में दलहन उत्पादन में बड़ा बदलाव, मध्य प्रदेश की हिस्सेदारी घटी; महाराष्ट्र और गुजरात आगे बढ़े",
@@ -462,94 +550,6 @@
       "date": "2026-10-25",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/rajasthan-system-for-testing-fertilizers-and-seeds-to-be-revamped-labs-to-be-selected-via-an-app-and-samples-to-be-sent-by-post/",
-      "important": false
-    },
-    {
-      "id": "722d4837",
-      "title": "गुना: कृषि विज्ञान केंद्र आरोन ने किसानों को बांटे मसूर की उन्नत किस्म RVL 13-5 के बीज",
-      "summary": "गुना: कृषि विज्ञान केंद्र आरोन ने किसानों को बांटे मसूर की उन्नत किस्म RVL 13-5 के बीज",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-10-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guna-krishi-vigyan-kendra-aron-distributed-seeds-of-the-improved-lentil-variety-rvl-13-5-to-farmers/",
-      "important": false
-    },
-    {
-      "id": "67addb71",
-      "title": "दिवाली से पहले किसानों को तोहफा: 30 अक्टूबर को जारी होगी पीएम किसान की 24वीं किस्त, खाते में आएंगे ₹2,000",
-      "summary": "दिवाली से पहले किसानों को तोहफा: 30 अक्टूबर को जारी होगी पीएम किसान की 24वीं किस्त, खाते में आएंगे ₹2,000",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/a-gift-for-farmers-ahead-of-diwali-the-24th-installment-of-pm-kisan-will-be-released-on-october-30-%e2%82%b92000-will-be-credited-to-their-accounts/",
-      "important": false
-    },
-    {
-      "id": "4149e12a",
-      "title": "गोपाल-कृष्ण ग्राम पुरस्कार योजना: मध्यप्रदेश में गायों के दूध उत्पादन की होगी प्रतियोगिता, विजेताओं को मिलेंगे ₹1 लाख तक",
-      "summary": "गोपाल-कृष्ण ग्राम पुरस्कार योजना: मध्यप्रदेश में गायों के दूध उत्पादन की होगी प्रतियोगिता, विजेताओं को मिलेंगे ₹1 लाख तक",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-10-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/gopal-krishna-gram-puraskar-yojana-a-competition-on-cow-milk-production-to-be-held-in-madhya-pradesh-winners-to-receive-up-to-%e2%82%b91-lakh/",
-      "important": false
-    },
-    {
-      "id": "ecf0e7ca",
-      "title": "नरवाई जलाने के बजाय फसल अवशेषों से बनाएं जैविक खाद, बढ़ाएं मिट्टी की उर्वरता",
-      "summary": "नरवाई जलाने के बजाय फसल अवशेषों से बनाएं जैविक खाद, बढ़ाएं मिट्टी की उर्वरता",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/instead-of-burning-crop-stubble-turn-it-into-organic-manure-to-enhance-soil-fertility/",
-      "important": false
-    },
-    {
-      "id": "dc8865df",
-      "title": "भारत मंडपम में फैली बालाघाट के चिन्नौर चावल की महक",
-      "summary": "भारत मंडपम में फैली बालाघाट के चिन्नौर चावल की महक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/the-aroma-of-balaghats-chinnor-rice-spreads-in-bharat-mandapam/",
-      "important": false
-    },
-    {
-      "id": "8ed930cf",
-      "title": "सागर में इफको की सचल मृदा परीक्षण प्रयोगशाला शुरू, अब किसानों को खेत पर ही मिलेगी मिट्टी जांच की सुविधा",
-      "summary": "सागर में इफको की सचल मृदा परीक्षण प्रयोगशाला शुरू, अब किसानों को खेत पर ही मिलेगी मिट्टी जांच की सुविधा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/iffcos-mobile-soil-testing-laboratory-launched-in-sagar-farmers-can-now-avail-soil-testing-facilities-right-at-their-own-fields/",
-      "important": false
-    },
-    {
-      "id": "fd51e0bb",
-      "title": "आज का गेहूँ मंडी रेट (24 अक्टूबर 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (24 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-24-2026/",
-      "important": false
-    },
-    {
-      "id": "9639116a",
-      "title": "आज का मक्का मंडी रेट (24 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (24 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-24-2026/",
       "important": false
     }
   ]
