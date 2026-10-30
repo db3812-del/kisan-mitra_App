@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-30T05:14:33Z",
-  "new_count": 0,
+  "updated": "2026-10-30T12:31:39Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "d6d65851",
+      "title": "हिमाचल के मंडी में प्राकृतिक खेती से सुनील कुमार की सालाना डेढ़ से दो लाख की कमाई",
+      "summary": "हिमाचल के मंडी में प्राकृतिक खेती से सुनील कुमार की सालाना डेढ़ से दो लाख की कमाई",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sunil-kumar-earns-an-annual-income-of-1-5-to-2-lakh-rupees-through-natural-farming-in-mandi-himachal-pradesh/",
+      "important": false
+    },
+    {
+      "id": "a03ed1c0",
+      "title": "पंजाब में गेहूं के प्रमाणित बीज पर 50 प्रतिशत सब्सिडी, 2.42 लाख किसानों को मिलेगा फायदा",
+      "summary": "पंजाब में गेहूं के प्रमाणित बीज पर 50 प्रतिशत सब्सिडी, 2.42 लाख किसानों को मिलेगा फायदा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/50-percent-subsidy-on-certified-wheat-seeds-in-punjab-2-42-lakh-farmers-to-benefit/",
+      "important": false
+    },
+    {
+      "id": "c0c1033e",
+      "title": "भोपाल में मत्स्य निवेशक-निर्यातक कॉन्क्लेव, अंतर्देशीय मछली पालकों को निर्यात बाजार से जोड़ने की नई पहल",
+      "summary": "भोपाल में मत्स्य निवेशक-निर्यातक कॉन्क्लेव, अंतर्देशीय मछली पालकों को निर्यात बाजार से जोड़ने की नई पहल",
+      "level": "state",
+      "category": "market",
+      "date": "2026-10-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/fisheries-investor-exporter-conclave-in-bhopal-a-new-initiative-to-connect-inland-fish-farmers-with-export-markets/",
+      "important": false
+    },
+    {
+      "id": "6080a7af",
+      "title": "कुलगाम में धान छोड़कर सब्जी की ओर बढ़े किसान, पीक सीजन में रोजाना हजारों की कमाई",
+      "summary": "कुलगाम में धान छोड़कर सब्जी की ओर बढ़े किसान, पीक सीजन में रोजाना हजारों की कमाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-kulgam-shift-from-paddy-to-vegetable-cultivation-earning-thousands-daily-during-the-peak-season/",
+      "important": false
+    },
+    {
+      "id": "d4223b44",
+      "title": "सिरसा-हिसार में कपास की गुलाबी सुंडी ने बढ़ाई चिंता, कृषि वैज्ञानिकों ने बताई दवा की सही मात्रा",
+      "summary": "सिरसा-हिसार में कपास की गुलाबी सुंडी ने बढ़ाई चिंता, कृषि वैज्ञानिकों ने बताई दवा की सही मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pink-bollworm-in-cotton-raises-concerns-in-sirsa-hisar-agricultural-scientists-specify-the-correct-dosage-of-pesticide/",
+      "important": false
+    },
+    {
+      "id": "95e1b6d1",
+      "title": "आदिलाबाद में कपास पर सफेद मक्खी और थ्रिप्स का हमला, जानिए दवा व मात्रा",
+      "summary": "आदिलाबाद में कपास पर सफेद मक्खी और थ्रिप्स का हमला, जानिए दवा व मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/whitefly-and-thrips-infestation-on-cotton-in-adilabad-learn-about-the-pesticides-to-use-and-their-dosage/",
+      "important": false
+    },
+    {
+      "id": "270a62ea",
+      "title": "नीमच जिले में जे यू एग्री साइंसेस की मेगा किसान मीट संपन्न",
+      "summary": "नीमच जिले में जे यू एग्री साइंसेस की मेगा किसान मीट संपन्न",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/mega-farmers-meet-by-ju-agri-sciences-concludes-in-neemuch-district/",
+      "important": false
+    },
+    {
+      "id": "7a4f7de6",
+      "title": "रबी 2026-27 की तैयारी: किसानों को घर बैठे मिलेगा खाद का टोकन, नकली खाद-बीज बेचने वालों पर होगी FIR",
+      "summary": "रबी 2026-27 की तैयारी: किसानों को घर बैठे मिलेगा खाद का टोकन, नकली खाद-बीज बेचने वालों पर होगी FIR",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/preparations-for-rabi-2026-27-farmers-to-receive-fertilizer-tokens-at-home-firs-to-be-filed-against-those-selling-spurious-fertilizers-and-seeds/",
+      "important": false
+    },
     {
       "id": "13cbc6cd",
       "title": "आज का गेहूं मंडी रेट (29 अक्टूबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-10-26",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/the-country-created-11-crore-farmer-ids-five-months-ahead-of-schedule/",
-      "important": false
-    },
-    {
-      "id": "15eb8687",
-      "title": "उत्तर प्रदेश में रबी फसलों के बीज पर 50 प्रतिशत अनुदान, ऑनलाइन बुकिंग शुरू",
-      "summary": "उत्तर प्रदेश में रबी फसलों के बीज पर 50 प्रतिशत अनुदान, ऑनलाइन बुकिंग शुरू",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/50-percent-subsidy-on-seeds-for-rabi-crops-in-uttar-pradesh-online-booking-begins/",
-      "important": false
-    },
-    {
-      "id": "f7eb058e",
-      "title": "मुर्गीपालन में दाना प्रबंधन: कम लागत, अधिक मुनाफा",
-      "summary": "मुर्गीपालन में दाना प्रबंधन: कम लागत, अधिक मुनाफा",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/animal-husbandry/feed-management-in-poultry-farming-low-cost-higher-profit/",
-      "important": false
-    },
-    {
-      "id": "a3826abe",
-      "title": "आज का गेहूँ मंडी रेट (26 अक्टूबर 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (26 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-26-2026/",
-      "important": false
-    },
-    {
-      "id": "b445fb6d",
-      "title": "आज का मक्का मंडी रेट (26 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (26 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-26-2026/",
-      "important": false
-    },
-    {
-      "id": "1dede773",
-      "title": "आज का धान मंडी रेट (26 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (26 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-26-2026/",
-      "important": false
-    },
-    {
-      "id": "94a4b115",
-      "title": "आज का सोयाबीन मंडी रेट (26 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (26 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-26-2026/",
-      "important": false
-    },
-    {
-      "id": "35ca2a87",
-      "title": "कपास चुनने वाले मजदूरों को चोटों से बचाएंगे खास दस्ताने, ICAR-CIRCOT ने कंपनी से किया समझौता",
-      "summary": "कपास चुनने वाले मजदूरों को चोटों से बचाएंगे खास दस्ताने, ICAR-CIRCOT ने कंपनी से किया समझौता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/special-gloves-to-protect-cotton-picking-laborers-from-injuries-icar-circot-signs-agreement-with-a-company/",
-      "important": false
-    },
-    {
-      "id": "c74a6664",
-      "title": "राजस्थान: खाद-बीज की जांच के लिए बदलेगी व्यवस्था, ऐप से होगा लैब का चयन और डाक से पहुंचेंगे नमूने",
-      "summary": "राजस्थान: खाद-बीज की जांच के लिए बदलेगी व्यवस्था, ऐप से होगा लैब का चयन और डाक से पहुंचेंगे नमूने",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-25",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajasthan-system-for-testing-fertilizers-and-seeds-to-be-revamped-labs-to-be-selected-via-an-app-and-samples-to-be-sent-by-post/",
       "important": false
     }
   ]
