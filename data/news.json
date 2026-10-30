@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-30T12:31:39Z",
-  "new_count": 8,
+  "updated": "2026-10-30T22:07:07Z",
+  "new_count": 2,
   "articles": [
+    {
+      "id": "8bfabd28",
+      "title": "नाबार्ड ने मध्य प्रदेश में ₹2,606 करोड़ से अधिक की दो प्रमुख सिंचाई परियोजनाओं को मंजूरी दी",
+      "summary": "नाबार्ड ने मध्य प्रदेश में ₹2,606 करोड़ से अधिक की दो प्रमुख सिंचाई परियोजनाओं को मंजूरी दी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-10-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/nabard-has-approved-two-major-irrigation-projects-in-madhya-pradesh-worth-over-%e2%82%b92606-crore/",
+      "important": false
+    },
+    {
+      "id": "9c65c5e4",
+      "title": "गोपाल कृष्ण ग्राम पुरस्कार योजना: देशी गायों की दुग्ध प्रतियोगिता में सीहोर के 4 पशुपालकों को मिले ₹1-1 लाख",
+      "summary": "गोपाल कृष्ण ग्राम पुरस्कार योजना: देशी गायों की दुग्ध प्रतियोगिता में सीहोर के 4 पशुपालकों को मिले ₹1-1 लाख",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-10-30",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gopal-krishna-gram-puraskar-yojana-4-cattle-rearers-from-sehore-receive-%e2%82%b91-lakh-each-in-a-milk-yield-competition-for-indigenous-cows/",
+      "important": false
+    },
     {
       "id": "d6d65851",
       "title": "हिमाचल के मंडी में प्राकृतिक खेती से सुनील कुमार की सालाना डेढ़ से दो लाख की कमाई",
@@ -528,28 +550,6 @@
       "date": "2026-10-26",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/climate-resilient-farming-program-to-be-implemented-in-1200-villages-in-bihar-rs-14-06-crore-sanctioned/",
-      "important": false
-    },
-    {
-      "id": "241e8b9d",
-      "title": "मीठे जल में छोटे मछुआरों की आजीविका सुधारने बनेगी राष्ट्रीय कार्ययोजना",
-      "summary": "मीठे जल में छोटे मछुआरों की आजीविका सुधारने बनेगी राष्ट्रीय कार्ययोजना",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-national-action-plan-will-be-formulated-to-improve-the-livelihoods-of-small-scale-fishers-in-freshwater-environments/",
-      "important": false
-    },
-    {
-      "id": "3da6157f",
-      "title": "देश ने समय से पांच महीने पहले बनाई 11 करोड़ फार्मर ID",
-      "summary": "देश ने समय से पांच महीने पहले बनाई 11 करोड़ फार्मर ID",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/the-country-created-11-crore-farmer-ids-five-months-ahead-of-schedule/",
       "important": false
     }
   ]
