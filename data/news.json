@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-31T04:57:48Z",
-  "new_count": 0,
+  "updated": "2026-10-31T11:58:52Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "6e4d0ae7",
+      "title": "आज का मक्का मंडी रेट (31 अक्टूबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (31 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-31-october-2026/",
+      "important": false
+    },
+    {
+      "id": "a174e406",
+      "title": "आज का सोयाबीन मंडी रेट (31 अक्टूबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (31 अक्टूबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-10-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-31-2026/",
+      "important": false
+    },
+    {
+      "id": "2f904856",
+      "title": "मध्य प्रदेश के सोयाबीन-मक्का किसानों को राहत, अवकाश के दिनों में भी खुलेंगी मंडियां; सरकार ने दिए निर्देश",
+      "summary": "मध्य प्रदेश के सोयाबीन-मक्का किसानों को राहत, अवकाश के दिनों में भी खुलेंगी मंडियां; सरकार ने दिए निर्देश",
+      "level": "state",
+      "category": "market",
+      "date": "2026-10-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/relief-for-soybean-and-maize-farmers-in-madhya-pradesh-agricultural-markets-mandis-will-remain-open-even-on-holidays-government-issues-directives/",
+      "important": false
+    },
+    {
+      "id": "e4e8a162",
+      "title": "डिंडोरी में आयोजित हुआ बलराम कृषि महोत्सव का 49वां कार्यक्रम, कोदो-कुटकी और धान की खरीदी पर जोर",
+      "summary": "डिंडोरी में आयोजित हुआ बलराम कृषि महोत्सव का 49वां कार्यक्रम, कोदो-कुटकी और धान की खरीदी पर जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-49th-edition-of-the-balram-krishi-mahotsav-was-held-in-dindori-with-a-focus-on-the-procurement-of-kodo-kutki-millets-and-paddy/",
+      "important": false
+    },
+    {
+      "id": "46f0318e",
+      "title": "मध्यप्रदेश: गोपाल-कृष्ण ग्राम पुरस्कार प्रतियोगिता का आज आखिरी दिन, पशुपालकों को मिलेंगे ₹1 लाख तक",
+      "summary": "मध्यप्रदेश: गोपाल-कृष्ण ग्राम पुरस्कार प्रतियोगिता का आज आखिरी दिन, पशुपालकों को मिलेंगे ₹1 लाख तक",
+      "level": "state",
+      "category": "general",
+      "date": "2026-10-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-today-is-the-final-day-of-the-gopal-krishna-gram-award-competition-livestock-farmers-stand-to-receive-up-to-%e2%82%b91-lakh/",
+      "important": false
+    },
+    {
+      "id": "2fc3fc2e",
+      "title": "रायपुर : सरगुजा में पांच दिन बारिश के आसार, किसानों को सतर्क रहने की सलाह",
+      "summary": "रायपुर : सरगुजा में पांच दिन बारिश के आसार, किसानों को सतर्क रहने की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-rain-expected-in-surguja-for-five-days-farmers-advised-to-remain-alert/",
+      "important": false
+    },
+    {
+      "id": "f08cba69",
+      "title": "रायपुर: खेत बचाओ अभियान के तहत किसानों को उन्नत सरसों बीज वितरित",
+      "summary": "रायपुर: खेत बचाओ अभियान के तहत किसानों को उन्नत सरसों बीज वितरित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-improved-mustard-seeds-distributed-to-farmers-under-the-save-the-fields-campaign/",
+      "important": false
+    },
+    {
+      "id": "146aae70",
+      "title": "स्ट्रॉ मैनेजमेंट सिस्टम कृषि यंत्र हेतु 5 नवंबर तक आवेदन आमंत्रित",
+      "summary": "स्ट्रॉ मैनेजमेंट सिस्टम कृषि यंत्र हेतु 5 नवंबर तक आवेदन आमंत्रित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-10-31",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/applications-invited-until-november-5-for-agricultural-machinery-under-the-straw-management-system/",
+      "important": false
+    },
     {
       "id": "8bfabd28",
       "title": "नाबार्ड ने मध्य प्रदेश में ₹2,606 करोड़ से अधिक की दो प्रमुख सिंचाई परियोजनाओं को मंजूरी दी",
@@ -462,94 +550,6 @@
       "date": "2026-10-27",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-27-2026/",
-      "important": false
-    },
-    {
-      "id": "a6df3403",
-      "title": "करनाल से शुरू हुआ “खेत बचाओ अभियान- रबी 2026”, 30 नवंबर तक चलेगा देशभर में अभियान",
-      "summary": "करनाल से शुरू हुआ “खेत बचाओ अभियान- रबी 2026”, 30 नवंबर तक चलेगा देशभर में अभियान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/save-the-fields-campaign-rabi-2026-begins-in-karnal-the-campaign-will-run-nationwide-until-november-30/",
-      "important": false
-    },
-    {
-      "id": "e48d4d14",
-      "title": "परंपरागत धान छोड़ स्ट्रॉबेरी की खेती से अंबिकापुर के किसान को मिला नया मुनाफा",
-      "summary": "परंपरागत धान छोड़ स्ट्रॉबेरी की खेती से अंबिकापुर के किसान को मिला नया मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/by-moving-away-from-traditional-paddy-cultivation-to-growing-strawberries-a-farmer-in-ambikapur-has-discovered-a-new-source-of-profit/",
-      "important": false
-    },
-    {
-      "id": "c183debf",
-      "title": "चित्तूर के किसानों ने ड्रोन छिड़काव को बनाया कमाई का जरिया, 400 से ज्यादा किसानों को मिल रही सेवा",
-      "summary": "चित्तूर के किसानों ने ड्रोन छिड़काव को बनाया कमाई का जरिया, 400 से ज्यादा किसानों को मिल रही सेवा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-chittoor-have-turned-drone-based-spraying-into-a-source-of-income-the-service-is-now-reaching-over-400-farmers/",
-      "important": false
-    },
-    {
-      "id": "10062481",
-      "title": "चमेली की फसल में कली छेदक का खतरा, टीएनएयू ने बताई दवा और मात्रा",
-      "summary": "चमेली की फसल में कली छेदक का खतरा, टीएनएयू ने बताई दवा और मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-bud-borer-in-jasmine-crops-tnau-specifies-the-remedy-and-dosage/",
-      "important": false
-    },
-    {
-      "id": "38263c41",
-      "title": "आम के बगीचों में थ्रिप्स का हमला, कृष्णगिरि के किसानों के लिए टीएनएयू की सलाह",
-      "summary": "आम के बगीचों में थ्रिप्स का हमला, कृष्णगिरि के किसानों के लिए टीएनएयू की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/thrips-infestation-in-mango-orchards-tnaus-advice-for-farmers-in-krishnagiri/",
-      "important": false
-    },
-    {
-      "id": "87d8d930",
-      "title": "बागवानी में बेहतर उत्पादन के लिए जरूरी है सही प्रूनिंग टूल, समय और मेहनत की होगी बचत",
-      "summary": "बागवानी में बेहतर उत्पादन के लिए जरूरी है सही प्रूनिंग टूल, समय और मेहनत की होगी बचत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/for-better-yields-in-gardening-the-right-pruning-tools-are-essential-they-will-save-you-both-time-and-effort/",
-      "important": false
-    },
-    {
-      "id": "32a00ccb",
-      "title": "हरियाणा में धान सत्यापन नहीं होने पर भी नहीं रुकेगी खरीद, मंडी में ही होगा समाधान",
-      "summary": "हरियाणा में धान सत्यापन नहीं होने पर भी नहीं रुकेगी खरीद, मंडी में ही होगा समाधान",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/in-haryana-procurement-will-not-be-halted-even-if-paddy-verification-has-not-taken-place-the-issue-will-be-resolved-at-the-mandi-market-yard-itself/",
-      "important": false
-    },
-    {
-      "id": "a2957f52",
-      "title": "बिहार के 1,200 गांवों में चलेगा जलवायु अनुकूल खेती का कार्यक्रम, 14.06 करोड़ रुपए मंजूर",
-      "summary": "बिहार के 1,200 गांवों में चलेगा जलवायु अनुकूल खेती का कार्यक्रम, 14.06 करोड़ रुपए मंजूर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-26",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/climate-resilient-farming-program-to-be-implemented-in-1200-villages-in-bihar-rs-14-06-crore-sanctioned/",
       "important": false
     }
   ]
