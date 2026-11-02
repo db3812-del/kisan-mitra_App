@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-02T05:26:17Z",
-  "new_count": 0,
+  "updated": "2026-11-02T15:18:49Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "8fd8bbe9",
+      "title": "तेलंगाना में अरहर की फसल में उकठा रोग का खतरा, जड़ सड़न से बचाव की सलाह",
+      "summary": "तेलंगाना में अरहर की फसल में उकठा रोग का खतरा, जड़ सड़न से बचाव की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-wilt-disease-in-pigeon-pea-arhar-crops-in-telangana-advice-given-on-preventing-root-rot/",
+      "important": false
+    },
+    {
+      "id": "e3faff11",
+      "title": "आज का गेहूं मंडी रेट (02 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (02 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-02-2026/",
+      "important": false
+    },
+    {
+      "id": "0dd7a668",
+      "title": "आज का मक्का मंडी रेट (02 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (02 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-november-02-2026/",
+      "important": false
+    },
+    {
+      "id": "6797d19f",
+      "title": "आज का सोयाबीन मंडी रेट (02 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (02 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-02-2026/",
+      "important": false
+    },
+    {
+      "id": "f5c54139",
+      "title": "आलीराजपुर: किसान ने बदला खेती का तरीका, चीकू-अमरूद-नारियल के साथ कर रहे फूलों की खेती, अच्छी कमाई की उम्मीद",
+      "summary": "आलीराजपुर: किसान ने बदला खेती का तरीका, चीकू-अमरूद-नारियल के साथ कर रहे फूलों की खेती, अच्छी कमाई की उम्मीद",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/alirajpur-a-farmer-has-changed-his-farming-method-he-is-now-cultivating-flowers-alongside-sapodilla-chikoo-guava-and-coconut-and-expects-a-good-income/",
+      "important": false
+    },
+    {
+      "id": "0b4db233",
+      "title": "आज का धान मंडी रेट (02 नवंबर 2026)",
+      "summary": "आज का धान मंडी रेट (02 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-02-2026/",
+      "important": false
+    },
+    {
+      "id": "183e0fe5",
+      "title": "इंदौर के तीन किसान ट्रैक्टर, बुलेट और ई-स्कूटी पुरस्कार से हुए सम्मानित",
+      "summary": "इंदौर के तीन किसान ट्रैक्टर, बुलेट और ई-स्कूटी पुरस्कार से हुए सम्मानित",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/three-farmers-from-indore-were-honored-with-a-tractor-a-bullet-motorcycle-and-an-e-scooter-as-prizes/",
+      "important": false
+    },
+    {
+      "id": "697f63ad",
+      "title": "मध्यप्रदेश स्थापना दिवस: देवास में किसानों का होगा सम्मान, 1 से 3 नवंबर तक लगेगी विभागीय प्रदर्शनी",
+      "summary": "मध्यप्रदेश स्थापना दिवस: देवास में किसानों का होगा सम्मान, 1 से 3 नवंबर तक लगेगी विभागीय प्रदर्शनी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-02",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-foundation-day-farmers-to-be-felicitated-in-dewas-departmental-exhibition-to-be-held-from-november-1-to-3/",
+      "important": false
+    },
     {
       "id": "6e4d0ae7",
       "title": "आज का मक्का मंडी रेट (31 अक्टूबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-10-27",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-27-2026/",
-      "important": false
-    },
-    {
-      "id": "54fe16fb",
-      "title": "रीवा: मिट्टी के पोषक तत्व और गुण बताता है मृदा स्वास्थ्य कार्ड",
-      "summary": "रीवा: मिट्टी के पोषक तत्व और गुण बताता है मृदा स्वास्थ्य कार्ड",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rewa-soil-health-card-indicates-soil-nutrients-and-properties/",
-      "important": false
-    },
-    {
-      "id": "9e046b3d",
-      "title": "किसान एनपीके और एसएसपी खाद का उपयोग करें – उप संचालक कृषि रीवा",
-      "summary": "किसान एनपीके और एसएसपी खाद का उपयोग करें – उप संचालक कृषि रीवा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-should-use-npk-and-ssp-fertilizers-deputy-director-of-agriculture-rewa/",
-      "important": false
-    },
-    {
-      "id": "477d60cb",
-      "title": "छिंदवाड़ा: 27 से 31 अक्टूबर तक होगी दुग्ध उत्पादन प्रतियोगिता",
-      "summary": "छिंदवाड़ा: 27 से 31 अक्टूबर तक होगी दुग्ध उत्पादन प्रतियोगिता",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhindwara-milk-production-competition-to-be-held-from-october-27-to-31/",
-      "important": false
-    },
-    {
-      "id": "b0d412dd",
-      "title": "मंडी बोर्ड के आयुक्त-सह-प्रबंध संचालक ने किया बरेली मंडी का औचक निरीक्षण",
-      "summary": "मंडी बोर्ड के आयुक्त-सह-प्रबंध संचालक ने किया बरेली मंडी का औचक निरीक्षण",
-      "level": "state",
-      "category": "market",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-commissioner-cum-managing-director-of-the-mandi-board-conducted-a-surprise-inspection-of-the-bareilly-mandi/",
-      "important": false
-    },
-    {
-      "id": "01f9486e",
-      "title": "कृषि विभाग और ब्रह्माकुमारी संस्थान के बीच ग्लोबल.समिट में हुआ एमओयू",
-      "summary": "कृषि विभाग और ब्रह्माकुमारी संस्थान के बीच ग्लोबल.समिट में हुआ एमओयू",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mou-signed-between-the-agriculture-department-and-the-brahma-kumaris-organization-at-the-global-summit/",
-      "important": false
-    },
-    {
-      "id": "85700b51",
-      "title": "किसानों को मोबाइल पर मिलेगी हर योजना की जानकारी, केंद्र ने लॉन्च किया नया कृषि कल्याण पोर्टल",
-      "summary": "किसानों को मोबाइल पर मिलेगी हर योजना की जानकारी, केंद्र ने लॉन्च किया नया कृषि कल्याण पोर्टल",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/farmers-will-receive-information-about-every-scheme-on-their-mobile-phones-the-centre-has-launched-a-new-agricultural-welfare-portal/",
-      "important": false
-    },
-    {
-      "id": "7115e57c",
-      "title": "बिहार में 1 नवंबर से शुरू होगी धान की खरीद, जानें MSP और पंजीयन की पूरी प्रक्रिया",
-      "summary": "बिहार में 1 नवंबर से शुरू होगी धान की खरीद, जानें MSP और पंजीयन की पूरी प्रक्रिया",
-      "level": "central",
-      "category": "price",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/paddy-procurement-to-begin-in-bihar-from-november-1-learn-about-the-msp-and-the-complete-registration-process/",
-      "important": true
-    },
-    {
-      "id": "42ec88f3",
-      "title": "आज का गेहूँ मंडी रेट (27 अक्टूबर 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (27 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-27-2026/",
       "important": false
     }
   ]
