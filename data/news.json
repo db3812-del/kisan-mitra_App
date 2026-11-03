@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-03T00:47:54Z",
-  "new_count": 0,
+  "updated": "2026-11-03T13:55:39Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "6ec0523b",
+      "title": "पराली अब बनेगी कमाई का जरिया, पंजाब में शुरू हुआ ऐसा प्लांट जो बदलेगा किसानों की तस्वीर",
+      "summary": "पराली अब बनेगी कमाई का जरिया, पंजाब में शुरू हुआ ऐसा प्लांट जो बदलेगा किसानों की तस्वीर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/stubble-will-now-become-a-source-of-income-such-a-plant-started-in-punjab-which-will-change-the-picture-of-farmers/",
+      "important": false
+    },
+    {
+      "id": "0e7157a1",
+      "title": "नवंबर में 13 लाख टन चीनी बिक्री कोटा, मिलों को अतिरिक्त छूट भी",
+      "summary": "नवंबर में 13 लाख टन चीनी बिक्री कोटा, मिलों को अतिरिक्त छूट भी",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/sugar-sales-quota-for-november-set-at-1-3-million-tonnes-mills-also-granted-additional-relaxation/",
+      "important": false
+    },
+    {
+      "id": "95f4e2da",
+      "title": "आज का गेहूं मंडी रेट (03 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (03 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-03-november-2026/",
+      "important": false
+    },
+    {
+      "id": "35a1135d",
+      "title": "आज का धान मंडी रेट (03 नवंबर 2026)",
+      "summary": "आज का धान मंडी रेट (03 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-03-2026/",
+      "important": false
+    },
+    {
+      "id": "4b777a87",
+      "title": "आज का मक्का मंडी रेट (03 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (03 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-03-november-2026/",
+      "important": false
+    },
+    {
+      "id": "c12200f5",
+      "title": "आज का सोयाबीन मंडी रेट (03 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (03 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-03-2026/",
+      "important": false
+    },
+    {
+      "id": "84dd1337",
+      "title": "पूर्वी यूपी में धान खरीद शुरू, MSP 2,441 रुपए, 48 घंटे में सीधे खाते में भुगतान",
+      "summary": "पूर्वी यूपी में धान खरीद शुरू, MSP 2,441 रुपए, 48 घंटे में सीधे खाते में भुगतान",
+      "level": "central",
+      "category": "price",
+      "date": "2026-11-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/paddy-procurement-begins-in-eastern-up-msp-set-at-%e2%82%b92441-with-direct-payment-to-bank-accounts-within-48-hours/",
+      "important": true
+    },
+    {
+      "id": "2045e771",
+      "title": "धान-गेहूं छोड़ा, अब रजनीगंधा के फूलों से रोज हो रही मोटी कमाई",
+      "summary": "धान-गेहूं छोड़ा, अब रजनीगंधा के फूलों से रोज हो रही मोटी कमाई",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-03",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/moved-on-from-paddy-and-wheat-now-earning-a-handsome-daily-income-from-tuberose-flowers/",
+      "important": false
+    },
     {
       "id": "8fd8bbe9",
       "title": "तेलंगाना में अरहर की फसल में उकठा रोग का खतरा, जड़ सड़न से बचाव की सलाह",
@@ -462,94 +550,6 @@
       "date": "2026-10-28",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/industry-news/parijat-industries-has-launched-context-a-new-herbicide-for-wheat/",
-      "important": false
-    },
-    {
-      "id": "396eaba8",
-      "title": "आज का गेहूँ मंडी रेट (28 अक्टूबर 2026)",
-      "summary": "आज का गेहूँ मंडी रेट (28 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-28-2026/",
-      "important": false
-    },
-    {
-      "id": "486ae668",
-      "title": "आज का धान मंडी रेट (28 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (28 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-28-2026/",
-      "important": false
-    },
-    {
-      "id": "e3f7f552",
-      "title": "आज का मक्का मंडी रेट (28 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (28 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-october-28-2026/",
-      "important": false
-    },
-    {
-      "id": "982972ee",
-      "title": "आज का सोयाबीन मंडी रेट (28 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (28 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-28-2026/",
-      "important": false
-    },
-    {
-      "id": "193a08c2",
-      "title": "आज का धान मंडी रेट (27 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (27 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-27-2026/",
-      "important": false
-    },
-    {
-      "id": "53127a8c",
-      "title": "आज का मक्का मंडी रेट (27 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (27 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-27-2026/",
-      "important": false
-    },
-    {
-      "id": "6e57da99",
-      "title": "पीएम किसान योजना की 24वीं किस्त: गुजरात से पीएम मोदी जारी करेंगे ₹18,680 करोड़, 30 अक्टूबर को किसानों के खाते में आएंगे ",
-      "summary": "पीएम किसान योजना की 24वीं किस्त: गुजरात से पीएम मोदी जारी करेंगे ₹18,680 करोड़, 30 अक्टूबर को किसानों के खाते में आएंगे ₹2,000",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/24th-installment-of-the-pm-kisan-scheme-pm-modi-to-release-%e2%82%b918680-crore-from-gujarat-%e2%82%b92000-to-be-credited-to-farmers-accounts-on-october-30/",
-      "important": false
-    },
-    {
-      "id": "85d9847b",
-      "title": "आज का सोयाबीन मंडी रेट (27 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (27 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-27",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-27-2026/",
       "important": false
     }
   ]
