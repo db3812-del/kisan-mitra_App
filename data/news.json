@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-03T23:03:52Z",
-  "new_count": 0,
+  "updated": "2026-11-04T05:44:06Z",
+  "new_count": 2,
   "articles": [
+    {
+      "id": "3fbcd4ae",
+      "title": "सिक्किम में देसी गाय-बैल की नस्ल के संरक्षण के लिए बनेगा उत्कृष्टता केंद्र, केंद्रीय मंत्री राजीव रंजन ने की घोषणा",
+      "summary": "सिक्किम में देसी गाय-बैल की नस्ल के संरक्षण के लिए बनेगा उत्कृष्टता केंद्र, केंद्रीय मंत्री राजीव रंजन ने की घोषणा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/centre-of-excellence-to-be-set-up-in-sikkim-for-the-conservation-of-indigenous-cattle-breeds-union-minister-rajiv-ranjan-makes-the-announcement/",
+      "important": false
+    },
+    {
+      "id": "bfe9299a",
+      "title": "मध्यप्रदेश किसान क्विज के 165 विजेताओं को मिले ट्रैक्टर, बुलेट और ई-स्कूटर, यहां देखें 55 जिलों की पूरी सूची",
+      "summary": "मध्यप्रदेश किसान क्विज के 165 विजेताओं को मिले ट्रैक्टर, बुलेट और ई-स्कूटर, यहां देखें 55 जिलों की पूरी सूची",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-11-04",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/165-winners-of-the-madhya-pradesh-farmers-quiz-receive-tractors-bullet-motorcycles-and-e-scooters-see-the-full-list-for-55-districts-here/",
+      "important": false
+    },
     {
       "id": "6ec0523b",
       "title": "पराली अब बनेगी कमाई का जरिया, पंजाब में शुरू हुआ ऐसा प्लांट जो बदलेगा किसानों की तस्वीर",
@@ -528,28 +550,6 @@
       "date": "2026-10-28",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/paddy-procurement-in-chhattisgarh-will-begin-on-november-15-the-support-price-will-be-%e2%82%b93100-per-quintal/",
-      "important": false
-    },
-    {
-      "id": "a6a37e96",
-      "title": "भोपाल में स्टेकहोल्डर-कम-बायर-सेलर मीट 2026 आयोजित, महिला किसानों को बाजार से जोड़ने पर जोर",
-      "summary": "भोपाल में स्टेकहोल्डर-कम-बायर-सेलर मीट 2026 आयोजित, महिला किसानों को बाजार से जोड़ने पर जोर",
-      "level": "state",
-      "category": "market",
-      "date": "2026-10-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/stakeholder-cum-buyer-seller-meet-held-in-bhopal-focus-on-connecting-women-farmers-to-the-market/",
-      "important": false
-    },
-    {
-      "id": "8786ffff",
-      "title": "पारिजात इंडस्ट्रीज ने गेहूं के लिए नया खरपतवार नाशक कॉन्टेक्स्ट लॉन्च किया",
-      "summary": "पारिजात इंडस्ट्रीज ने गेहूं के लिए नया खरपतवार नाशक कॉन्टेक्स्ट लॉन्च किया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-28",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/parijat-industries-has-launched-context-a-new-herbicide-for-wheat/",
       "important": false
     }
   ]
