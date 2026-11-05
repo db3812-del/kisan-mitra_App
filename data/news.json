@@ -1,7 +1,84 @@
 {
-  "updated": "2026-11-04T23:27:30Z",
-  "new_count": 0,
+  "updated": "2026-11-05T06:01:32Z",
+  "new_count": 7,
   "articles": [
+    {
+      "id": "86c4a0af",
+      "title": "एल-नीनो के असर से सूखे का खतरा, पशुओं के चारे की चिंता खत्म करेगा साइलेज; जानें बनाने का तरीका",
+      "summary": "एल-नीनो के असर से सूखे का खतरा, पशुओं के चारे की चिंता खत्म करेगा साइलेज; जानें बनाने का तरीका",
+      "level": "central",
+      "category": "price",
+      "date": "2026-11-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-drought-due-to-the-impact-of-el-nino-silage-will-resolve-concerns-regarding-livestock-fodder-learn-how-to-make-it/",
+      "important": false
+    },
+    {
+      "id": "1fb7900f",
+      "title": "स्थापना दिवस प्रदर्शनी में दिखी मध्यप्रदेश की कृषि प्रगति, मंत्रियों ने जाना आधुनिक तकनीकों का दम",
+      "summary": "स्थापना दिवस प्रदर्शनी में दिखी मध्यप्रदेश की कृषि प्रगति, मंत्रियों ने जाना आधुनिक तकनीकों का दम",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradeshs-agricultural-progress-showcased-at-foundation-day-exhibition-ministers-explore-the-potential-of-modern-technologies/",
+      "important": false
+    },
+    {
+      "id": "91ae1377",
+      "title": "पराली नियंत्रण में मध्यप्रदेश बनेगा रोल मॉडल, प्राकृतिक खेती करने वाले पशुपालकों को मिलेगा अनुदान",
+      "summary": "पराली नियंत्रण में मध्यप्रदेश बनेगा रोल मॉडल, प्राकृतिक खेती करने वाले पशुपालकों को मिलेगा अनुदान",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/madhya-pradesh-to-become-a-role-model-in-stubble-management-livestock-farmers-practicing-natural-farming-will-receive-grants/",
+      "important": false
+    },
+    {
+      "id": "73fcdb18",
+      "title": "छत्तीसगढ़ राज्योत्सव: कृषि विभाग के स्टॉल में खेती, पशुपालन और मत्स्य पालन का संगम, प्राकृतिक हरियाली बनी आकर्षण",
+      "summary": "छत्तीसगढ़ राज्योत्सव: कृषि विभाग के स्टॉल में खेती, पशुपालन और मत्स्य पालन का संगम, प्राकृतिक हरियाली बनी आकर्षण",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhattisgarh-state-festival-agriculture-department-stall-showcases-a-blend-of-farming-animal-husbandry-and-fisheries-natural-greenery-emerges-as-a-key-attraction/",
+      "important": false
+    },
+    {
+      "id": "df4b0730",
+      "title": "छत्तीसगढ़ की अश्वनी ने खीरे की खेती से लिखी सफलता की कहानी, खुद बनीं लखपति दीदी, 25 लोगों को दिया रोजगार",
+      "summary": "छत्तीसगढ़ की अश्वनी ने खीरे की खेती से लिखी सफलता की कहानी, खुद बनीं लखपति दीदी, 25 लोगों को दिया रोजगार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ashwani-from-chhattisgarh-has-scripted-a-success-story-through-cucumber-farming-she-has-become-a-lakhpati-didi-a-woman-earning-over-a-lakh-annually-and-provided-employment-to-25-people/",
+      "important": false
+    },
+    {
+      "id": "f3c0a195",
+      "title": "राजगढ़ बनेगा लहसुन का हब, 7 जिलों के किसानों को मिलेगा खेती और बाजार का नया अवसर",
+      "summary": "राजगढ़ बनेगा लहसुन का हब, 7 जिलों के किसानों को मिलेगा खेती और बाजार का नया अवसर",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-11-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajgarh-to-become-a-garlic-hub-farmers-from-7-districts-will-gain-new-opportunities-in-cultivation-and-markets/",
+      "important": false
+    },
+    {
+      "id": "bbca454c",
+      "title": "नीमच: खेत तालाब से जल संरक्षण और समृद्धि की ओर बढ़ते किसान",
+      "summary": "नीमच: खेत तालाब से जल संरक्षण और समृद्धि की ओर बढ़ते किसान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-05",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/neemuch-farmers-moving-towards-water-conservation-and-prosperity-through-farm-ponds/",
+      "important": false
+    },
     {
       "id": "9f40e205",
       "title": "नागालैंड के किसान ने बांस और पुराने डिब्बों से बनाया सोलर ड्रायर, सैकड़ों किसानों की आय बढ़ी",
@@ -473,83 +550,6 @@
       "date": "2026-10-30",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/uncategorized/mega-farmers-meet-by-ju-agri-sciences-concludes-in-neemuch-district/",
-      "important": false
-    },
-    {
-      "id": "7a4f7de6",
-      "title": "रबी 2026-27 की तैयारी: किसानों को घर बैठे मिलेगा खाद का टोकन, नकली खाद-बीज बेचने वालों पर होगी FIR",
-      "summary": "रबी 2026-27 की तैयारी: किसानों को घर बैठे मिलेगा खाद का टोकन, नकली खाद-बीज बेचने वालों पर होगी FIR",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/preparations-for-rabi-2026-27-farmers-to-receive-fertilizer-tokens-at-home-firs-to-be-filed-against-those-selling-spurious-fertilizers-and-seeds/",
-      "important": false
-    },
-    {
-      "id": "13cbc6cd",
-      "title": "आज का गेहूं मंडी रेट (29 अक्टूबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (29 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-october-29-2026/",
-      "important": false
-    },
-    {
-      "id": "454bdc51",
-      "title": "आज का मक्का मंडी रेट (29 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (29 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-october-29-2026/",
-      "important": false
-    },
-    {
-      "id": "8a7dcee1",
-      "title": "आज का धान मंडी रेट (29 अक्टूबर 2026)",
-      "summary": "आज का धान मंडी रेट (29 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-october-29-2026/",
-      "important": false
-    },
-    {
-      "id": "96d2ccc0",
-      "title": "आज का सोयाबीन मंडी रेट (29 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (29 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-29-2026/",
-      "important": false
-    },
-    {
-      "id": "09f0c766",
-      "title": "ग्रामीण मजदूरों की हाजिरी में फर्जीवाड़ा रोकने के लिए सरकार ने लॉन्च किया नया AI ऐप",
-      "summary": "ग्रामीण मजदूरों की हाजिरी में फर्जीवाड़ा रोकने के लिए सरकार ने लॉन्च किया नया AI ऐप",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/government-launches-new-ai-app-to-curb-fraud-in-the-attendance-of-rural-laborers/",
-      "important": false
-    },
-    {
-      "id": "2206581d",
-      "title": "सरकारी योजना: हरियाणा में धान की सरकारी खरीद तेज, किसानों के खाते में पहुंचे 4,263 करोड़ रुपए",
-      "summary": "सरकारी योजना: हरियाणा में धान की सरकारी खरीद तेज, किसानों के खाते में पहुंचे 4,263 करोड़ रुपए",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-29",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/government-scheme-government-procurement-of-paddy-picks-up-pace-in-haryana-rs-4263-crore-credited-to-farmers-accounts/",
       "important": false
     }
   ]
