@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-06T05:57:40Z",
-  "new_count": 0,
+  "updated": "2026-11-06T14:07:03Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "03c0681c",
+      "title": "सिर्फ 0.250 हेक्टेयर में गेंदे की खेती से राजगढ़ के किसान ने कमाए 1 लाख रुपये, सोयाबीन के मुकाबले 80 हजार ज्यादा शुद्ध म",
+      "summary": "सिर्फ 0.250 हेक्टेयर में गेंदे की खेती से राजगढ़ के किसान ने कमाए 1 लाख रुपये, सोयाबीन के मुकाबले 80 हजार ज्यादा शुद्ध मुनाफा",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-farmer-in-rajgarh-earned-rs-1-lakh-from-marigold-cultivation-on-just-0-250-hectares-a-net-profit-rs-80000-higher-than-what-he-would-have-earned-from-soybean/",
+      "important": false
+    },
+    {
+      "id": "b0f4d503",
+      "title": "केंद्र सरकार की दो टूक: डेयरी और GM आयात पर कोई समझौता नहीं — पीयूष गोयल",
+      "summary": "केंद्र सरकार की दो टूक: डेयरी और GM आयात पर कोई समझौता नहीं — पीयूष गोयल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/central-governments-firm-stance-no-compromise-on-dairy-and-gm-imports-piyush-goyal/",
+      "important": false
+    },
+    {
+      "id": "f0cb4fa9",
+      "title": "आज का गेहूं मंडी रेट (06 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (06 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-06-november-2026/",
+      "important": false
+    },
+    {
+      "id": "c2da59bd",
+      "title": "आज का मक्का मंडी रेट (06 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (06 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-06-2026/",
+      "important": false
+    },
+    {
+      "id": "414eb756",
+      "title": "आज का सोयाबीन मंडी रेट (06 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (06 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-06-2026-2/",
+      "important": false
+    },
+    {
+      "id": "7a15acfd",
+      "title": "आज का धान मंडी रेट (06 नवंबर 2026)",
+      "summary": "आज का धान मंडी रेट (06 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-06-november-2026/",
+      "important": false
+    },
+    {
+      "id": "16426377",
+      "title": "बालाघाट: नक्सल प्रभावित गांवों के किसानों को मुफ्त में मिले सरसों के बीज, खेती की नई तकनीकें भी बताईं",
+      "summary": "बालाघाट: नक्सल प्रभावित गांवों के किसानों को मुफ्त में मिले सरसों के बीज, खेती की नई तकनीकें भी बताईं",
+      "level": "state",
+      "category": "price",
+      "date": "2026-11-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/balaghat-farmers-in-naxal-affected-villages-received-mustard-seeds-for-free-they-were-also-taught-new-farming-techniques/",
+      "important": false
+    },
+    {
+      "id": "647f32ed",
+      "title": "खेतों में डीएपी की जगह अपनाएं टीएसपी और यूरिया का संयोजन, कृषि विभाग ने किसानों को दी सलाह",
+      "summary": "खेतों में डीएपी की जगह अपनाएं टीएसपी और यूरिया का संयोजन, कृषि विभाग ने किसानों को दी सलाह",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-06",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/use-a-combination-of-tsp-and-urea-instead-of-dap-in-your-fields-the-agriculture-department-advises-farmers/",
+      "important": false
+    },
     {
       "id": "603167df",
       "title": "एथनॉल टेंडर में चावल पर 30% की सीमा, मक्का की खरीद कीमत घटाई",
@@ -462,94 +550,6 @@
       "date": "2026-10-31",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-31-october-2026/",
-      "important": false
-    },
-    {
-      "id": "a174e406",
-      "title": "आज का सोयाबीन मंडी रेट (31 अक्टूबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (31 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-october-31-2026/",
-      "important": false
-    },
-    {
-      "id": "2f904856",
-      "title": "मध्य प्रदेश के सोयाबीन-मक्का किसानों को राहत, अवकाश के दिनों में भी खुलेंगी मंडियां; सरकार ने दिए निर्देश",
-      "summary": "मध्य प्रदेश के सोयाबीन-मक्का किसानों को राहत, अवकाश के दिनों में भी खुलेंगी मंडियां; सरकार ने दिए निर्देश",
-      "level": "state",
-      "category": "market",
-      "date": "2026-10-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/relief-for-soybean-and-maize-farmers-in-madhya-pradesh-agricultural-markets-mandis-will-remain-open-even-on-holidays-government-issues-directives/",
-      "important": false
-    },
-    {
-      "id": "e4e8a162",
-      "title": "डिंडोरी में आयोजित हुआ बलराम कृषि महोत्सव का 49वां कार्यक्रम, कोदो-कुटकी और धान की खरीदी पर जोर",
-      "summary": "डिंडोरी में आयोजित हुआ बलराम कृषि महोत्सव का 49वां कार्यक्रम, कोदो-कुटकी और धान की खरीदी पर जोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-49th-edition-of-the-balram-krishi-mahotsav-was-held-in-dindori-with-a-focus-on-the-procurement-of-kodo-kutki-millets-and-paddy/",
-      "important": false
-    },
-    {
-      "id": "46f0318e",
-      "title": "मध्यप्रदेश: गोपाल-कृष्ण ग्राम पुरस्कार प्रतियोगिता का आज आखिरी दिन, पशुपालकों को मिलेंगे ₹1 लाख तक",
-      "summary": "मध्यप्रदेश: गोपाल-कृष्ण ग्राम पुरस्कार प्रतियोगिता का आज आखिरी दिन, पशुपालकों को मिलेंगे ₹1 लाख तक",
-      "level": "state",
-      "category": "general",
-      "date": "2026-10-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-today-is-the-final-day-of-the-gopal-krishna-gram-award-competition-livestock-farmers-stand-to-receive-up-to-%e2%82%b91-lakh/",
-      "important": false
-    },
-    {
-      "id": "2fc3fc2e",
-      "title": "रायपुर : सरगुजा में पांच दिन बारिश के आसार, किसानों को सतर्क रहने की सलाह",
-      "summary": "रायपुर : सरगुजा में पांच दिन बारिश के आसार, किसानों को सतर्क रहने की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-rain-expected-in-surguja-for-five-days-farmers-advised-to-remain-alert/",
-      "important": false
-    },
-    {
-      "id": "f08cba69",
-      "title": "रायपुर: खेत बचाओ अभियान के तहत किसानों को उन्नत सरसों बीज वितरित",
-      "summary": "रायपुर: खेत बचाओ अभियान के तहत किसानों को उन्नत सरसों बीज वितरित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-improved-mustard-seeds-distributed-to-farmers-under-the-save-the-fields-campaign/",
-      "important": false
-    },
-    {
-      "id": "146aae70",
-      "title": "स्ट्रॉ मैनेजमेंट सिस्टम कृषि यंत्र हेतु 5 नवंबर तक आवेदन आमंत्रित",
-      "summary": "स्ट्रॉ मैनेजमेंट सिस्टम कृषि यंत्र हेतु 5 नवंबर तक आवेदन आमंत्रित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-10-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/applications-invited-until-november-5-for-agricultural-machinery-under-the-straw-management-system/",
-      "important": false
-    },
-    {
-      "id": "8bfabd28",
-      "title": "नाबार्ड ने मध्य प्रदेश में ₹2,606 करोड़ से अधिक की दो प्रमुख सिंचाई परियोजनाओं को मंजूरी दी",
-      "summary": "नाबार्ड ने मध्य प्रदेश में ₹2,606 करोड़ से अधिक की दो प्रमुख सिंचाई परियोजनाओं को मंजूरी दी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-10-30",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/nabard-has-approved-two-major-irrigation-projects-in-madhya-pradesh-worth-over-%e2%82%b92606-crore/",
       "important": false
     }
   ]
