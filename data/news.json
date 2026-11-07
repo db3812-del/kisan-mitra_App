@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-07T05:29:24Z",
-  "new_count": 0,
+  "updated": "2026-11-07T12:45:09Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "5c799543",
+      "title": "मुंबई-रीवा का सफर करने वाले इंजीनियर ने प्राकृतिक खेती से बदली तस्वीर",
+      "summary": "मुंबई-रीवा का सफर करने वाले इंजीनियर ने प्राकृतिक खेती से बदली तस्वीर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/an-engineer-who-used-to-travel-between-mumbai-and-rewa-has-transformed-the-landscape-through-natural-farming/",
+      "important": false
+    },
+    {
+      "id": "a13623b2",
+      "title": "12 एकड़ में सब्जी और बागवानी से सालाना लाखों की कमाई, हापुड़ के किसान ज्ञानेंद्र सिंह की कहानी",
+      "summary": "12 एकड़ में सब्जी और बागवानी से सालाना लाखों की कमाई, हापुड़ के किसान ज्ञानेंद्र सिंह की कहानी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/earning-lakhs-annually-from-vegetable-farming-and-horticulture-on-12-acres-the-story-of-hapur-farmer-gyanendra-singh/",
+      "important": false
+    },
+    {
+      "id": "13a4d9f3",
+      "title": "हरियाणा में नई लैंड पूलिंग पॉलिसी-2026 मंजूर, भूस्वामियों को मिलेगा विकसित जमीन में आधा हिस्सा",
+      "summary": "हरियाणा में नई लैंड पूलिंग पॉलिसी-2026 मंजूर, भूस्वामियों को मिलेगा विकसित जमीन में आधा हिस्सा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/new-land-pooling-policy-2026-approved-in-haryana-landowners-to-receive-a-50-share-of-the-developed-land/",
+      "important": false
+    },
+    {
+      "id": "a78214e6",
+      "title": "मिर्च में थ्रिप्स कीट से पत्तियां मुड़ने की समस्या, बेंगलुरु के कृषि वैज्ञानिकों ने बताया उपाय",
+      "summary": "मिर्च में थ्रिप्स कीट से पत्तियां मुड़ने की समस्या, बेंगलुरु के कृषि वैज्ञानिकों ने बताया उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/leaf-curling-in-chili-plants-caused-by-thrips-agricultural-scientists-in-bengaluru-suggest-solutions/",
+      "important": false
+    },
+    {
+      "id": "e3f79511",
+      "title": "मक्के में फॉल आर्मीवर्म का खतरा, हिमाचल में कृषि वैज्ञानिकों ने बताई दवा और सही मात्रा",
+      "summary": "मक्के में फॉल आर्मीवर्म का खतरा, हिमाचल में कृषि वैज्ञानिकों ने बताई दवा और सही मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/threat-of-fall-armyworm-in-maize-agricultural-scientists-in-himachal-suggest-the-appropriate-pesticide-and-its-correct-dosage/",
+      "important": false
+    },
+    {
+      "id": "8af5c059",
+      "title": "फसल अवशेष प्रबंधन एवं कम्पोस्टिंग तकनीक",
+      "summary": "फसल अवशेष प्रबंधन एवं कम्पोस्टिंग तकनीक",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/crop-residue-management-and-composting-techniques/",
+      "important": false
+    },
+    {
+      "id": "b22ef638",
+      "title": "उज्जैन की गिर गाय ‘राधा’ ने बनाया रिकॉर्ड, रोजाना 19.760 लीटर दूध देकर प्रदेश में रही अव्वल",
+      "summary": "उज्जैन की गिर गाय ‘राधा’ ने बनाया रिकॉर्ड, रोजाना 19.760 लीटर दूध देकर प्रदेश में रही अव्वल",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/radha-a-gir-cow-from-ujjain-has-set-a-record-by-producing-19-760-litres-of-milk-daily-making-her-the-top-performer-in-the-state/",
+      "important": false
+    },
+    {
+      "id": "8739eb74",
+      "title": "गेहूं की गुणवत्ता और उत्पादन बढ़ाए- महावीरा जिरोन पावर प्लस",
+      "summary": "गेहूं की गुणवत्ता और उत्पादन बढ़ाए- महावीरा जिरोन पावर प्लस",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-07",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/enhance-wheat-quality-and-yield-mahavira-ziron-power-plus/",
+      "important": false
+    },
     {
       "id": "03c0681c",
       "title": "सिर्फ 0.250 हेक्टेयर में गेंदे की खेती से राजगढ़ के किसान ने कमाए 1 लाख रुपये, सोयाबीन के मुकाबले 80 हजार ज्यादा शुद्ध म",
@@ -462,94 +550,6 @@
       "date": "2026-11-02",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/risk-of-wilt-disease-in-pigeon-pea-arhar-crops-in-telangana-advice-given-on-preventing-root-rot/",
-      "important": false
-    },
-    {
-      "id": "e3faff11",
-      "title": "आज का गेहूं मंडी रेट (02 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (02 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-02-2026/",
-      "important": false
-    },
-    {
-      "id": "0dd7a668",
-      "title": "आज का मक्का मंडी रेट (02 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (02 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-november-02-2026/",
-      "important": false
-    },
-    {
-      "id": "6797d19f",
-      "title": "आज का सोयाबीन मंडी रेट (02 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (02 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-02-2026/",
-      "important": false
-    },
-    {
-      "id": "f5c54139",
-      "title": "आलीराजपुर: किसान ने बदला खेती का तरीका, चीकू-अमरूद-नारियल के साथ कर रहे फूलों की खेती, अच्छी कमाई की उम्मीद",
-      "summary": "आलीराजपुर: किसान ने बदला खेती का तरीका, चीकू-अमरूद-नारियल के साथ कर रहे फूलों की खेती, अच्छी कमाई की उम्मीद",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/alirajpur-a-farmer-has-changed-his-farming-method-he-is-now-cultivating-flowers-alongside-sapodilla-chikoo-guava-and-coconut-and-expects-a-good-income/",
-      "important": false
-    },
-    {
-      "id": "0b4db233",
-      "title": "आज का धान मंडी रेट (02 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (02 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-02-2026/",
-      "important": false
-    },
-    {
-      "id": "183e0fe5",
-      "title": "इंदौर के तीन किसान ट्रैक्टर, बुलेट और ई-स्कूटी पुरस्कार से हुए सम्मानित",
-      "summary": "इंदौर के तीन किसान ट्रैक्टर, बुलेट और ई-स्कूटी पुरस्कार से हुए सम्मानित",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/three-farmers-from-indore-were-honored-with-a-tractor-a-bullet-motorcycle-and-an-e-scooter-as-prizes/",
-      "important": false
-    },
-    {
-      "id": "697f63ad",
-      "title": "मध्यप्रदेश स्थापना दिवस: देवास में किसानों का होगा सम्मान, 1 से 3 नवंबर तक लगेगी विभागीय प्रदर्शनी",
-      "summary": "मध्यप्रदेश स्थापना दिवस: देवास में किसानों का होगा सम्मान, 1 से 3 नवंबर तक लगेगी विभागीय प्रदर्शनी",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-foundation-day-farmers-to-be-felicitated-in-dewas-departmental-exhibition-to-be-held-from-november-1-to-3/",
-      "important": false
-    },
-    {
-      "id": "6e4d0ae7",
-      "title": "आज का मक्का मंडी रेट (31 अक्टूबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (31 अक्टूबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-10-31",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-31-october-2026/",
       "important": false
     }
   ]
