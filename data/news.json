@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-09T05:40:35Z",
-  "new_count": 0,
+  "updated": "2026-11-09T15:46:28Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "0a553e9b",
+      "title": "चावल और धान का साप्ताहिक स्टॉक खुलासा अनिवार्य, पांच दक्षिणी राज्यों को स्टॉक सीमा की मंजूरी",
+      "summary": "चावल और धान का साप्ताहिक स्टॉक खुलासा अनिवार्य, पांच दक्षिणी राज्यों को स्टॉक सीमा की मंजूरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/weekly-disclosure-of-rice-and-paddy-stocks-made-mandatory-stock-limits-approved-for-five-southern-states/",
+      "important": false
+    },
+    {
+      "id": "56751365",
+      "title": "महाराष्ट्र कर्जमाफी योजना की चौथी सूची जारी, जलगांव के 6,976 किसानों को ₹45.70 करोड़ का लाभ",
+      "summary": "महाराष्ट्र कर्जमाफी योजना की चौथी सूची जारी, जलगांव के 6,976 किसानों को ₹45.70 करोड़ का लाभ",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/fourth-list-of-maharashtra-farm-loan-waiver-scheme-released-6976-farmers-in-jalgaon-to-benefit-from-%e2%82%b945-70-crore/",
+      "important": false
+    },
+    {
+      "id": "062c5485",
+      "title": "आईटी की नौकरी छोड़ी, देसी गायों से बनाया ₹10 करोड़ टर्नओवर वाला डेयरी कारोबार",
+      "summary": "आईटी की नौकरी छोड़ी, देसी गायों से बनाया ₹10 करोड़ टर्नओवर वाला डेयरी कारोबार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/left-an-it-job-and-built-a-%e2%82%b910-crore-turnover-dairy-business-using-indigenous-cows/",
+      "important": false
+    },
+    {
+      "id": "3679cb4f",
+      "title": "राजस्थान में 14 जिलों की 80 तहसीलें सूखा-प्रभावित घोषित, कर्ज वसूली छह महीने टली",
+      "summary": "राजस्थान में 14 जिलों की 80 तहसीलें सूखा-प्रभावित घोषित, कर्ज वसूली छह महीने टली",
+      "level": "central",
+      "category": "price",
+      "date": "2026-11-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/80-tehsils-across-14-districts-in-rajasthan-declared-drought-affected-loan-recovery-deferred-for-six-months/",
+      "important": false
+    },
+    {
+      "id": "4a1e2f20",
+      "title": "असम में उड़द-मूंग पर पत्ती मोड़क कीट व माहू का असर, दो चरणों में छिड़काव की सलाह",
+      "summary": "असम में उड़द-मूंग पर पत्ती मोड़क कीट व माहू का असर, दो चरणों में छिड़काव की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/leaf-roller-insects-and-aphids-affecting-urad-and-moong-crops-in-assam-spraying-in-two-phases-advised/",
+      "important": false
+    },
+    {
+      "id": "a71dfeac",
+      "title": "असम में उड़द-मूंग पर फली छेदक और फली बग का हमला, वैज्ञानिकों ने बताई दवा की मात्रा",
+      "summary": "असम में उड़द-मूंग पर फली छेदक और फली बग का हमला, वैज्ञानिकों ने बताई दवा की मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/pod-borer-and-pod-bug-infestation-in-urad-and-moong-crops-in-assam-scientists-specify-the-required-dosage-of-pesticide/",
+      "important": false
+    },
+    {
+      "id": "ad730542",
+      "title": "दीपोत्सव पर विशेष “चकाचौंध के दौर में मिट्टी के दीपों की पुकार”",
+      "summary": "दीपोत्सव पर विशेष “चकाचौंध के दौर में मिट्टी के दीपों की पुकार”",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/a-special-feature-for-deepotsav-the-call-of-earthen-lamps-in-an-age-of-dazzling-lights/",
+      "important": false
+    },
+    {
+      "id": "28338b0c",
+      "title": "प्रदेश की पंजीकृत गौशालाओं में पहुंचेगा गुणवत्तापूर्ण पशु आहार",
+      "summary": "प्रदेश की पंजीकृत गौशालाओं में पहुंचेगा गुणवत्तापूर्ण पशु आहार",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-09",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/high-quality-animal-feed-will-reach-the-registered-gaushalas-cow-shelters-in-the-state/",
+      "important": false
+    },
     {
       "id": "5c799543",
       "title": "मुंबई-रीवा का सफर करने वाले इंजीनियर ने प्राकृतिक खेती से बदली तस्वीर",
@@ -462,94 +550,6 @@
       "date": "2026-11-03",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/stubble-will-now-become-a-source-of-income-such-a-plant-started-in-punjab-which-will-change-the-picture-of-farmers/",
-      "important": false
-    },
-    {
-      "id": "0e7157a1",
-      "title": "नवंबर में 13 लाख टन चीनी बिक्री कोटा, मिलों को अतिरिक्त छूट भी",
-      "summary": "नवंबर में 13 लाख टन चीनी बिक्री कोटा, मिलों को अतिरिक्त छूट भी",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/sugar-sales-quota-for-november-set-at-1-3-million-tonnes-mills-also-granted-additional-relaxation/",
-      "important": false
-    },
-    {
-      "id": "95f4e2da",
-      "title": "आज का गेहूं मंडी रेट (03 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (03 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-03-november-2026/",
-      "important": false
-    },
-    {
-      "id": "35a1135d",
-      "title": "आज का धान मंडी रेट (03 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (03 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-03-2026/",
-      "important": false
-    },
-    {
-      "id": "4b777a87",
-      "title": "आज का मक्का मंडी रेट (03 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (03 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-03-november-2026/",
-      "important": false
-    },
-    {
-      "id": "c12200f5",
-      "title": "आज का सोयाबीन मंडी रेट (03 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (03 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-03-2026/",
-      "important": false
-    },
-    {
-      "id": "84dd1337",
-      "title": "पूर्वी यूपी में धान खरीद शुरू, MSP 2,441 रुपए, 48 घंटे में सीधे खाते में भुगतान",
-      "summary": "पूर्वी यूपी में धान खरीद शुरू, MSP 2,441 रुपए, 48 घंटे में सीधे खाते में भुगतान",
-      "level": "central",
-      "category": "price",
-      "date": "2026-11-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/paddy-procurement-begins-in-eastern-up-msp-set-at-%e2%82%b92441-with-direct-payment-to-bank-accounts-within-48-hours/",
-      "important": true
-    },
-    {
-      "id": "2045e771",
-      "title": "धान-गेहूं छोड़ा, अब रजनीगंधा के फूलों से रोज हो रही मोटी कमाई",
-      "summary": "धान-गेहूं छोड़ा, अब रजनीगंधा के फूलों से रोज हो रही मोटी कमाई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/moved-on-from-paddy-and-wheat-now-earning-a-handsome-daily-income-from-tuberose-flowers/",
-      "important": false
-    },
-    {
-      "id": "8fd8bbe9",
-      "title": "तेलंगाना में अरहर की फसल में उकठा रोग का खतरा, जड़ सड़न से बचाव की सलाह",
-      "summary": "तेलंगाना में अरहर की फसल में उकठा रोग का खतरा, जड़ सड़न से बचाव की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-02",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-wilt-disease-in-pigeon-pea-arhar-crops-in-telangana-advice-given-on-preventing-root-rot/",
       "important": false
     }
   ]
