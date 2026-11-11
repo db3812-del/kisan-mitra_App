@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-11T05:38:22Z",
-  "new_count": 0,
+  "updated": "2026-11-11T13:54:17Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "9ba148b5",
+      "title": "रोगरोधी टमाटर की नई किस्म से किसान की बदली तकदीर, कम जमीन में कमाया एक लाख से अधिक मुनाफा",
+      "summary": "रोगरोधी टमाटर की नई किस्म से किसान की बदली तकदीर, कम जमीन में कमाया एक लाख से अधिक मुनाफा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-fortune-changed-due-to-new-disease-resistant-tomato-variety-earned-more-than-rs-1-lakh-profit-in-less-land/",
+      "important": false
+    },
+    {
+      "id": "14b7dcc7",
+      "title": "27 लाख किसानों को योजना की राशि मिलने का फर्जी संदेश, साइबर अपराध शाखा करेगी जांच",
+      "summary": "27 लाख किसानों को योजना की राशि मिलने का फर्जी संदेश, साइबर अपराध शाखा करेगी जांच",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/fake-messages-sent-to-2-7-million-farmers-regarding-receipt-of-scheme-funds-cyber-crime-branch-to-investigate/",
+      "important": false
+    },
+    {
+      "id": "3fa77b21",
+      "title": "कृषि आदान व्यवसाय में निपुणता आवश्यक",
+      "summary": "कृषि आदान व्यवसाय में निपुणता आवश्यक",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/expertise-is-essential-in-the-agricultural-inputs-business/",
+      "important": false
+    },
+    {
+      "id": "b93918cd",
+      "title": "आज का गेहूं मंडी रेट (11 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (11 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-11-2026/",
+      "important": false
+    },
+    {
+      "id": "9acd4a0c",
+      "title": "आज का मक्का मंडी रेट (11 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (11 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-november-11-2026/",
+      "important": false
+    },
+    {
+      "id": "1850cff6",
+      "title": "आज का धान मंडी रेट (11 नवंबर 2026)",
+      "summary": "आज का धान मंडी रेट (11 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-11-2026/",
+      "important": false
+    },
+    {
+      "id": "f4757241",
+      "title": "आज का सोयाबीन मंडी रेट (11 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (11 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-11-2026/",
+      "important": false
+    },
+    {
+      "id": "4a45e9de",
+      "title": "मध्य प्रदेश में सर्वाधिक दूध देने वाली गाय ‘राधा’ को देखने तालोद पहुंचे मुख्यमंत्री",
+      "summary": "मध्य प्रदेश में सर्वाधिक दूध देने वाली गाय ‘राधा’ को देखने तालोद पहुंचे मुख्यमंत्री",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-11",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chief-minister-arrives-in-talod-to-see-radha-the-highest-milk-yielding-cow-in-madhya-pradesh/",
+      "important": false
+    },
     {
       "id": "0a553e9b",
       "title": "चावल और धान का साप्ताहिक स्टॉक खुलासा अनिवार्य, पांच दक्षिणी राज्यों को स्टॉक सीमा की मंजूरी",
@@ -462,94 +550,6 @@
       "date": "2026-11-04",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/advice-on-protecting-paddy-crops-in-punjab-from-white-backed-planthopper-leaf-folder-and-blight-disease/",
-      "important": false
-    },
-    {
-      "id": "e54afbc8",
-      "title": "आज का धान मंडी रेट (04 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (04 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/todays-paddy-mandi-rates-november-04-2026/",
-      "important": false
-    },
-    {
-      "id": "a9d610fa",
-      "title": "आज का मक्का मंडी रेट (04 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (04 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-04-november-2026/",
-      "important": false
-    },
-    {
-      "id": "9983734e",
-      "title": "असम में रबी आलू की बुवाई से पहले बीज उपचार, उड़द-मूंग में कीट से बचाव की सलाह",
-      "summary": "असम में रबी आलू की बुवाई से पहले बीज उपचार, उड़द-मूंग में कीट से बचाव की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/advice-for-seed-treatment-before-sowing-rabi-potatoes-and-for-protecting-urad-black-gram-and-moong-green-gram-from-pests-in-assam/",
-      "important": false
-    },
-    {
-      "id": "5e28fcb6",
-      "title": "आज का सोयाबीन मंडी रेट (04 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (04 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-04-2026/",
-      "important": false
-    },
-    {
-      "id": "0be3318d",
-      "title": "मध्यप्रदेश में कृषि योजनाओं के प्रदर्शन में विदिशा टॉप पर, सतना दूसरे और सीहोर तीसरे स्थान पर",
-      "summary": "मध्यप्रदेश में कृषि योजनाओं के प्रदर्शन में विदिशा टॉप पर, सतना दूसरे और सीहोर तीसरे स्थान पर",
-      "level": "state",
-      "category": "price",
-      "date": "2026-11-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-tops-in-the-performance-of-agricultural-schemes-in-madhya-pradesh-with-satna-in-second-place-and-sehore-in-third/",
-      "important": false
-    },
-    {
-      "id": "3fbcd4ae",
-      "title": "सिक्किम में देसी गाय-बैल की नस्ल के संरक्षण के लिए बनेगा उत्कृष्टता केंद्र, केंद्रीय मंत्री राजीव रंजन ने की घोषणा",
-      "summary": "सिक्किम में देसी गाय-बैल की नस्ल के संरक्षण के लिए बनेगा उत्कृष्टता केंद्र, केंद्रीय मंत्री राजीव रंजन ने की घोषणा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/centre-of-excellence-to-be-set-up-in-sikkim-for-the-conservation-of-indigenous-cattle-breeds-union-minister-rajiv-ranjan-makes-the-announcement/",
-      "important": false
-    },
-    {
-      "id": "bfe9299a",
-      "title": "मध्यप्रदेश किसान क्विज के 165 विजेताओं को मिले ट्रैक्टर, बुलेट और ई-स्कूटर, यहां देखें 55 जिलों की पूरी सूची",
-      "summary": "मध्यप्रदेश किसान क्विज के 165 विजेताओं को मिले ट्रैक्टर, बुलेट और ई-स्कूटर, यहां देखें 55 जिलों की पूरी सूची",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-11-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/165-winners-of-the-madhya-pradesh-farmers-quiz-receive-tractors-bullet-motorcycles-and-e-scooters-see-the-full-list-for-55-districts-here/",
-      "important": false
-    },
-    {
-      "id": "6ec0523b",
-      "title": "पराली अब बनेगी कमाई का जरिया, पंजाब में शुरू हुआ ऐसा प्लांट जो बदलेगा किसानों की तस्वीर",
-      "summary": "पराली अब बनेगी कमाई का जरिया, पंजाब में शुरू हुआ ऐसा प्लांट जो बदलेगा किसानों की तस्वीर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-03",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/stubble-will-now-become-a-source-of-income-such-a-plant-started-in-punjab-which-will-change-the-picture-of-farmers/",
       "important": false
     }
   ]
