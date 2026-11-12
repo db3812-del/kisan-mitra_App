@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-12T00:21:05Z",
-  "new_count": 0,
+  "updated": "2026-11-12T14:55:41Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "90908db8",
+      "title": "ओडिशा में आलू की फसल पर लेट ब्लाइट का खतरा, मौसम केंद्र भुवनेश्वर ने दी सावधानी बरतने की सलाह",
+      "summary": "ओडिशा में आलू की फसल पर लेट ब्लाइट का खतरा, मौसम केंद्र भुवनेश्वर ने दी सावधानी बरतने की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/potato-crops-in-odisha-face-the-threat-of-late-blight-the-bhubaneswar-meteorological-centre-has-advised-taking-precautionary-measures/",
+      "important": false
+    },
+    {
+      "id": "4142cd5d",
+      "title": "महिला, युवा और प्रगतिशील किसानों की भागीदारी से प्रदेश को कृषि क्षेत्र में बनाया जाएगा आत्मनिर्भर और समृद्ध",
+      "summary": "महिला, युवा और प्रगतिशील किसानों की भागीदारी से प्रदेश को कृषि क्षेत्र में बनाया जाएगा आत्मनिर्भर और समृद्ध",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/through-the-participation-of-women-youth-and-progressive-farmers-the-state-will-be-made-self-reliant-and-prosperous-in-the-agricultural-sector/",
+      "important": false
+    },
+    {
+      "id": "020773d3",
+      "title": "सागर : खाद वितरण में कोताही पर डीडीए और डीएमओ को कारण बताओ नोटिस",
+      "summary": "सागर : खाद वितरण में कोताही पर डीडीए और डीएमओ को कारण बताओ नोटिस",
+      "level": "central",
+      "category": "price",
+      "date": "2026-11-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sagar-show-cause-notices-issued-to-dda-and-dmo-over-lapses-in-fertilizer-distribution/",
+      "important": false
+    },
+    {
+      "id": "289d0058",
+      "title": "CNH ने भारत में 1 लाख ट्रैक्टर वार्षिक क्षमता वाले संयंत्र का निर्माण शुरू किया",
+      "summary": "CNH ने भारत में 1 लाख ट्रैक्टर वार्षिक क्षमता वाले संयंत्र का निर्माण शुरू किया",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/agriculture-machinery/cnh-has-begun-construction-of-a-plant-in-india-with-an-annual-capacity-of-100000-tractors/",
+      "important": false
+    },
+    {
+      "id": "ba6b0a81",
+      "title": "आज का मक्का मंडी रेट (12 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (12 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-november-12-2026/",
+      "important": false
+    },
+    {
+      "id": "6cf867f9",
+      "title": "आज का गेहूं मंडी रेट (12 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (12 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-12-2026/",
+      "important": false
+    },
+    {
+      "id": "2f7c3361",
+      "title": "आज का धान मंडी रेट (12 नवंबर 2026)",
+      "summary": "आज का धान मंडी रेट (12 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-12-2026/",
+      "important": false
+    },
+    {
+      "id": "2b1de64f",
+      "title": "आज का सोयाबीन मंडी रेट (12 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (12 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-12",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-12-2026/",
+      "important": false
+    },
     {
       "id": "9ba148b5",
       "title": "रोगरोधी टमाटर की नई किस्म से किसान की बदली तकदीर, कम जमीन में कमाया एक लाख से अधिक मुनाफा",
@@ -462,94 +550,6 @@
       "date": "2026-11-05",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/madhya-pradeshs-agricultural-progress-showcased-at-foundation-day-exhibition-ministers-explore-the-potential-of-modern-technologies/",
-      "important": false
-    },
-    {
-      "id": "91ae1377",
-      "title": "पराली नियंत्रण में मध्यप्रदेश बनेगा रोल मॉडल, प्राकृतिक खेती करने वाले पशुपालकों को मिलेगा अनुदान",
-      "summary": "पराली नियंत्रण में मध्यप्रदेश बनेगा रोल मॉडल, प्राकृतिक खेती करने वाले पशुपालकों को मिलेगा अनुदान",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradesh-to-become-a-role-model-in-stubble-management-livestock-farmers-practicing-natural-farming-will-receive-grants/",
-      "important": false
-    },
-    {
-      "id": "73fcdb18",
-      "title": "छत्तीसगढ़ राज्योत्सव: कृषि विभाग के स्टॉल में खेती, पशुपालन और मत्स्य पालन का संगम, प्राकृतिक हरियाली बनी आकर्षण",
-      "summary": "छत्तीसगढ़ राज्योत्सव: कृषि विभाग के स्टॉल में खेती, पशुपालन और मत्स्य पालन का संगम, प्राकृतिक हरियाली बनी आकर्षण",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chhattisgarh-state-festival-agriculture-department-stall-showcases-a-blend-of-farming-animal-husbandry-and-fisheries-natural-greenery-emerges-as-a-key-attraction/",
-      "important": false
-    },
-    {
-      "id": "df4b0730",
-      "title": "छत्तीसगढ़ की अश्वनी ने खीरे की खेती से लिखी सफलता की कहानी, खुद बनीं लखपति दीदी, 25 लोगों को दिया रोजगार",
-      "summary": "छत्तीसगढ़ की अश्वनी ने खीरे की खेती से लिखी सफलता की कहानी, खुद बनीं लखपति दीदी, 25 लोगों को दिया रोजगार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ashwani-from-chhattisgarh-has-scripted-a-success-story-through-cucumber-farming-she-has-become-a-lakhpati-didi-a-woman-earning-over-a-lakh-annually-and-provided-employment-to-25-people/",
-      "important": false
-    },
-    {
-      "id": "f3c0a195",
-      "title": "राजगढ़ बनेगा लहसुन का हब, 7 जिलों के किसानों को मिलेगा खेती और बाजार का नया अवसर",
-      "summary": "राजगढ़ बनेगा लहसुन का हब, 7 जिलों के किसानों को मिलेगा खेती और बाजार का नया अवसर",
-      "level": "state",
-      "category": "scheme",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/rajgarh-to-become-a-garlic-hub-farmers-from-7-districts-will-gain-new-opportunities-in-cultivation-and-markets/",
-      "important": false
-    },
-    {
-      "id": "bbca454c",
-      "title": "नीमच: खेत तालाब से जल संरक्षण और समृद्धि की ओर बढ़ते किसान",
-      "summary": "नीमच: खेत तालाब से जल संरक्षण और समृद्धि की ओर बढ़ते किसान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/neemuch-farmers-moving-towards-water-conservation-and-prosperity-through-farm-ponds/",
-      "important": false
-    },
-    {
-      "id": "9f40e205",
-      "title": "नागालैंड के किसान ने बांस और पुराने डिब्बों से बनाया सोलर ड्रायर, सैकड़ों किसानों की आय बढ़ी",
-      "summary": "नागालैंड के किसान ने बांस और पुराने डिब्बों से बनाया सोलर ड्रायर, सैकड़ों किसानों की आय बढ़ी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-farmer-in-nagaland-built-a-solar-dryer-using-bamboo-and-old-containers-boosting-the-income-of-hundreds-of-farmers/",
-      "important": false
-    },
-    {
-      "id": "78cdc2b0",
-      "title": "आज का गेहूं मंडी रेट (04 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (04 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-04-november-2026/",
-      "important": false
-    },
-    {
-      "id": "35e72f6c",
-      "title": "पंजाब में धान की सफेद पीठ फुदका, पत्ती लपेटक और झुलसा रोग से बचाव की सलाह",
-      "summary": "पंजाब में धान की सफेद पीठ फुदका, पत्ती लपेटक और झुलसा रोग से बचाव की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-04",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/advice-on-protecting-paddy-crops-in-punjab-from-white-backed-planthopper-leaf-folder-and-blight-disease/",
       "important": false
     }
   ]
