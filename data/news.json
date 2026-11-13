@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-13T05:59:37Z",
-  "new_count": 0,
+  "updated": "2026-11-13T14:28:04Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "ebb46977",
+      "title": "आज का गेहूं मंडी रेट (13 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (13 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-13-2026/",
+      "important": false
+    },
+    {
+      "id": "9d4dd41c",
+      "title": "आज का धान मंडी रेट (13 नवंबर 2026)",
+      "summary": "आज का धान मंडी रेट (13 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-13-2026/",
+      "important": false
+    },
+    {
+      "id": "a439fb74",
+      "title": "आज का मक्का मंडी रेट (13 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (13 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-13-2026/",
+      "important": false
+    },
+    {
+      "id": "02bf7e6f",
+      "title": "आज का सोयाबीन मंडी रेट (13 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (13 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-13-2026/",
+      "important": false
+    },
+    {
+      "id": "15ecd9b5",
+      "title": "स्वच्छता में उज्जैन का सम्मान, सिंहस्थ से पहले कायम रखनी होगी यह पहचान",
+      "summary": "स्वच्छता में उज्जैन का सम्मान, सिंहस्थ से पहले कायम रखनी होगी यह पहचान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ujjain-earns-recognition-for-cleanliness-this-standing-must-be-maintained-ahead-of-the-simhastha/",
+      "important": false
+    },
+    {
+      "id": "3b2a0944",
+      "title": "खेती को लाभकारी बनाने आधुनिक तकनीक और नवाचार पर एमपी की सरकार का जोर",
+      "summary": "खेती को लाभकारी बनाने आधुनिक तकनीक और नवाचार पर एमपी की सरकार का जोर",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/mp-government-focuses-on-modern-technology-and-innovation-to-make-farming-profitable/",
+      "important": false
+    },
+    {
+      "id": "1dd8b4a7",
+      "title": "बिहार में मिलेट्स की खेती को मिलेगा बढ़ावा, 1.80 करोड़ से बनेगा सेंटर ऑफ एक्सीलेंस",
+      "summary": "बिहार में मिलेट्स की खेती को मिलेगा बढ़ावा, 1.80 करोड़ से बनेगा सेंटर ऑफ एक्सीलेंस",
+      "level": "central",
+      "category": "price",
+      "date": "2026-11-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/millet-cultivation-to-get-a-boost-in-bihar-centre-of-excellence-to-be-set-up-at-a-cost-of-%e2%82%b91-80-crore/",
+      "important": false
+    },
+    {
+      "id": "2022cadf",
+      "title": "प्राकृतिक खेती को बढ़ावा देने की तैयारी, हरियाणा में पांच फसलों की होगी पहचान",
+      "summary": "प्राकृतिक खेती को बढ़ावा देने की तैयारी, हरियाणा में पांच फसलों की होगी पहचान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-13",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/preparations-underway-to-promote-natural-farming-five-crops-to-be-identified-in-haryana/",
+      "important": false
+    },
     {
       "id": "90908db8",
       "title": "ओडिशा में आलू की फसल पर लेट ब्लाइट का खतरा, मौसम केंद्र भुवनेश्वर ने दी सावधानी बरतने की सलाह",
@@ -462,94 +550,6 @@
       "date": "2026-11-05",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-05-2026/",
-      "important": false
-    },
-    {
-      "id": "5e9db650",
-      "title": "आज का मक्का मंडी रेट (05 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (05 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-mandi-rate-november-05-2026/",
-      "important": false
-    },
-    {
-      "id": "d3257a1c",
-      "title": "आज का धान मंडी रेट (05 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (05 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-05-2026/",
-      "important": false
-    },
-    {
-      "id": "385549e6",
-      "title": "आज का सोयाबीन मंडी रेट (05 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (05 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-05-2026/",
-      "important": false
-    },
-    {
-      "id": "8254207e",
-      "title": "कृषि शिक्षा से लेकर प्राकृतिक खेती तक, किसानों के हित में सरकार के नए प्रयास",
-      "summary": "कृषि शिक्षा से लेकर प्राकृतिक खेती तक, किसानों के हित में सरकार के नए प्रयास",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/from-agricultural-education-to-natural-farming-new-government-initiatives-in-the-interest-of-farmers/",
-      "important": false
-    },
-    {
-      "id": "945206ac",
-      "title": "हरियाणा में जैविक खाद पर किसानों को मिलेगी 80 प्रतिशत सब्सिडी",
-      "summary": "हरियाणा में जैविक खाद पर किसानों को मिलेगी 80 प्रतिशत सब्सिडी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-haryana-will-receive-an-80-percent-subsidy-on-organic-fertilizer/",
-      "important": false
-    },
-    {
-      "id": "7def5e3e",
-      "title": "खेतों में नमी कम, रबी की बुआई की रफ्तार हुई सुस्तपिछले साल के मुकाबले आधे से भी कम क्षेत्र में हुई बुआई",
-      "summary": "खेतों में नमी कम, रबी की बुआई की रफ्तार हुई सुस्तपिछले साल के मुकाबले आधे से भी कम क्षेत्र में हुई बुआई",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/low-soil-moisture-slows-down-rabi-sowing-area-sown-is-less-than-half-compared-to-last-year/",
-      "important": false
-    },
-    {
-      "id": "86c4a0af",
-      "title": "एल-नीनो के असर से सूखे का खतरा, पशुओं के चारे की चिंता खत्म करेगा साइलेज; जानें बनाने का तरीका",
-      "summary": "एल-नीनो के असर से सूखे का खतरा, पशुओं के चारे की चिंता खत्म करेगा साइलेज; जानें बनाने का तरीका",
-      "level": "central",
-      "category": "price",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-drought-due-to-the-impact-of-el-nino-silage-will-resolve-concerns-regarding-livestock-fodder-learn-how-to-make-it/",
-      "important": false
-    },
-    {
-      "id": "1fb7900f",
-      "title": "स्थापना दिवस प्रदर्शनी में दिखी मध्यप्रदेश की कृषि प्रगति, मंत्रियों ने जाना आधुनिक तकनीकों का दम",
-      "summary": "स्थापना दिवस प्रदर्शनी में दिखी मध्यप्रदेश की कृषि प्रगति, मंत्रियों ने जाना आधुनिक तकनीकों का दम",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/madhya-pradeshs-agricultural-progress-showcased-at-foundation-day-exhibition-ministers-explore-the-potential-of-modern-technologies/",
       "important": false
     }
   ]
