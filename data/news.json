@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-14T05:48:48Z",
-  "new_count": 0,
+  "updated": "2026-11-14T13:16:17Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "d1f87ef0",
+      "title": "फॉस्फेटिक और पोटाशिक (P&K) उर्वरकों पर सब्सिडी दरें घोषित",
+      "summary": "फॉस्फेटिक और पोटाशिक (P&K) उर्वरकों पर सब्सिडी दरें घोषित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/subsidy-rates-for-phosphatic-and-potassic-pk-fertilizers-announced/",
+      "important": false
+    },
+    {
+      "id": "0a86b5d4",
+      "title": "आज का गेहूं मंडी रेट (14 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (14 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-14-2026/",
+      "important": false
+    },
+    {
+      "id": "adb3d89f",
+      "title": "आज का मक्का मंडी रेट (14 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (14 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-14-november-2026/",
+      "important": false
+    },
+    {
+      "id": "84809cc4",
+      "title": "आज का धान मंडी रेट (14 नवंबर 2026)",
+      "summary": "आज का धान मंडी रेट (14 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-14-2026/",
+      "important": false
+    },
+    {
+      "id": "010cabe5",
+      "title": "आज का सोयाबीन मंडी रेट (14 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (14 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-14-2026/",
+      "important": false
+    },
+    {
+      "id": "29581a1b",
+      "title": "पंजाब में पराली जलाने की घटनाएं बढ़ीं, अब तक 4,657 मामले दर्ज; 72.85 लाख का जुर्माना",
+      "summary": "पंजाब में पराली जलाने की घटनाएं बढ़ीं, अब तक 4,657 मामले दर्ज; 72.85 लाख का जुर्माना",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/stubble-burning-incidents-on-the-rise-in-punjab-4657-cases-recorded-so-far-with-fines-totaling-%e2%82%b972-85-lakh/",
+      "important": false
+    },
+    {
+      "id": "71c40365",
+      "title": "जिला किसान कांग्रेस पांढुर्ना ने राज्यपाल के नाम ज्ञापन सौंपा",
+      "summary": "जिला किसान कांग्रेस पांढुर्ना ने राज्यपाल के नाम ज्ञापन सौंपा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-pandhurna-district-kisan-congress-submitted-a-memorandum-addressed-to-the-governor/",
+      "important": false
+    },
+    {
+      "id": "76ae6bb7",
+      "title": "श्री अहिल्या माता गौशाला इंदौर में 17 नवंबर को गोपाष्टमी कार्यक्रम आयोजित",
+      "summary": "श्री अहिल्या माता गौशाला इंदौर में 17 नवंबर को गोपाष्टमी कार्यक्रम आयोजित",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-14",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gopashtami-event-to-be-held-at-shri-ahilya-mata-gaushala-indore-on-november-17/",
+      "important": false
+    },
     {
       "id": "ebb46977",
       "title": "आज का गेहूं मंडी रेट (13 नवंबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-11-06",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/central-governments-firm-stance-no-compromise-on-dairy-and-gm-imports-piyush-goyal/",
-      "important": false
-    },
-    {
-      "id": "f0cb4fa9",
-      "title": "आज का गेहूं मंडी रेट (06 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (06 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-06-november-2026/",
-      "important": false
-    },
-    {
-      "id": "c2da59bd",
-      "title": "आज का मक्का मंडी रेट (06 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (06 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-06-2026/",
-      "important": false
-    },
-    {
-      "id": "414eb756",
-      "title": "आज का सोयाबीन मंडी रेट (06 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (06 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-06-2026-2/",
-      "important": false
-    },
-    {
-      "id": "7a15acfd",
-      "title": "आज का धान मंडी रेट (06 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (06 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-06-november-2026/",
-      "important": false
-    },
-    {
-      "id": "16426377",
-      "title": "बालाघाट: नक्सल प्रभावित गांवों के किसानों को मुफ्त में मिले सरसों के बीज, खेती की नई तकनीकें भी बताईं",
-      "summary": "बालाघाट: नक्सल प्रभावित गांवों के किसानों को मुफ्त में मिले सरसों के बीज, खेती की नई तकनीकें भी बताईं",
-      "level": "state",
-      "category": "price",
-      "date": "2026-11-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/balaghat-farmers-in-naxal-affected-villages-received-mustard-seeds-for-free-they-were-also-taught-new-farming-techniques/",
-      "important": false
-    },
-    {
-      "id": "647f32ed",
-      "title": "खेतों में डीएपी की जगह अपनाएं टीएसपी और यूरिया का संयोजन, कृषि विभाग ने किसानों को दी सलाह",
-      "summary": "खेतों में डीएपी की जगह अपनाएं टीएसपी और यूरिया का संयोजन, कृषि विभाग ने किसानों को दी सलाह",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/use-a-combination-of-tsp-and-urea-instead-of-dap-in-your-fields-the-agriculture-department-advises-farmers/",
-      "important": false
-    },
-    {
-      "id": "603167df",
-      "title": "एथनॉल टेंडर में चावल पर 30% की सीमा, मक्का की खरीद कीमत घटाई",
-      "summary": "एथनॉल टेंडर में चावल पर 30% की सीमा, मक्का की खरीद कीमत घटाई",
-      "level": "central",
-      "category": "price",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/30-cap-on-rice-in-ethanol-tenders-procurement-price-for-maize-reduced/",
-      "important": false
-    },
-    {
-      "id": "0bce4d9b",
-      "title": "आज का गेहूं मंडी रेट (05 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (05 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-05",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-05-2026/",
       "important": false
     }
   ]
