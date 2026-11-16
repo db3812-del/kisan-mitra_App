@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-16T05:49:19Z",
-  "new_count": 3,
+  "updated": "2026-11-16T15:22:24Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "25aa5d4d",
+      "title": "हरियाणा में जैविक खाद पर 80 प्रतिशत सब्सिडी, पंजीयन जरूरी",
+      "summary": "हरियाणा में जैविक खाद पर 80 प्रतिशत सब्सिडी, पंजीयन जरूरी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/80-subsidy-on-organic-fertilizer-in-haryana-registration-mandatory/",
+      "important": false
+    },
+    {
+      "id": "c8a6a625",
+      "title": "पॉलीहाउस और सोलर फेंसिंग अपनाकर हिमाचल के किसान की कमाई पहुंची 10 लाख रुपये",
+      "summary": "पॉलीहाउस और सोलर फेंसिंग अपनाकर हिमाचल के किसान की कमाई पहुंची 10 लाख रुपये",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/by-adopting-polyhouses-and-solar-fencing-a-farmer-in-himachal-has-reached-an-income-of-rs-10-lakh/",
+      "important": false
+    },
+    {
+      "id": "7c171fad",
+      "title": "गेहूं की बुवाई के बाद गुल्ली डंडा का खतरा, जानिए दवा और मात्रा",
+      "summary": "गेहूं की बुवाई के बाद गुल्ली डंडा का खतरा, जानिए दवा और मात्रा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-threat-of-gulli-danda-phalaris-minor-after-wheat-sowing-learn-about-the-appropriate-herbicides-and-their-dosage/",
+      "important": false
+    },
+    {
+      "id": "20b9787a",
+      "title": "आज का गेहूं मंडी रेट (16 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (16 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-16-2026/",
+      "important": false
+    },
+    {
+      "id": "b6beac30",
+      "title": "आज का मक्का मंडी रेट (16 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (16 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-16-2026/",
+      "important": false
+    },
+    {
+      "id": "8bb3d086",
+      "title": "आज का धान मंडी रेट (16 नवंबर 2026)",
+      "summary": "आज का धान मंडी रेट (16 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-16-2026/",
+      "important": false
+    },
+    {
+      "id": "c58251d8",
+      "title": "आज का सोयाबीन मंडी रेट (16 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (16 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-16-2026/",
+      "important": false
+    },
+    {
+      "id": "0dc273a0",
+      "title": "उद्यानिकी फसलों की खेती से बढ़ाएं आमदनी – कलेक्टर हरदा",
+      "summary": "उद्यानिकी फसलों की खेती से बढ़ाएं आमदनी – कलेक्टर हरदा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/increase-income-through-the-cultivation-of-horticultural-crops-collector-harda/",
+      "important": false
+    },
     {
       "id": "6000b8e0",
       "title": "बालाघाट : पराली बनी मुनाफे का जरिया",
@@ -462,94 +550,6 @@
       "date": "2026-11-09",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/a-special-feature-for-deepotsav-the-call-of-earthen-lamps-in-an-age-of-dazzling-lights/",
-      "important": false
-    },
-    {
-      "id": "28338b0c",
-      "title": "प्रदेश की पंजीकृत गौशालाओं में पहुंचेगा गुणवत्तापूर्ण पशु आहार",
-      "summary": "प्रदेश की पंजीकृत गौशालाओं में पहुंचेगा गुणवत्तापूर्ण पशु आहार",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/high-quality-animal-feed-will-reach-the-registered-gaushalas-cow-shelters-in-the-state/",
-      "important": false
-    },
-    {
-      "id": "5c799543",
-      "title": "मुंबई-रीवा का सफर करने वाले इंजीनियर ने प्राकृतिक खेती से बदली तस्वीर",
-      "summary": "मुंबई-रीवा का सफर करने वाले इंजीनियर ने प्राकृतिक खेती से बदली तस्वीर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/an-engineer-who-used-to-travel-between-mumbai-and-rewa-has-transformed-the-landscape-through-natural-farming/",
-      "important": false
-    },
-    {
-      "id": "a13623b2",
-      "title": "12 एकड़ में सब्जी और बागवानी से सालाना लाखों की कमाई, हापुड़ के किसान ज्ञानेंद्र सिंह की कहानी",
-      "summary": "12 एकड़ में सब्जी और बागवानी से सालाना लाखों की कमाई, हापुड़ के किसान ज्ञानेंद्र सिंह की कहानी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/earning-lakhs-annually-from-vegetable-farming-and-horticulture-on-12-acres-the-story-of-hapur-farmer-gyanendra-singh/",
-      "important": false
-    },
-    {
-      "id": "13a4d9f3",
-      "title": "हरियाणा में नई लैंड पूलिंग पॉलिसी-2026 मंजूर, भूस्वामियों को मिलेगा विकसित जमीन में आधा हिस्सा",
-      "summary": "हरियाणा में नई लैंड पूलिंग पॉलिसी-2026 मंजूर, भूस्वामियों को मिलेगा विकसित जमीन में आधा हिस्सा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/new-land-pooling-policy-2026-approved-in-haryana-landowners-to-receive-a-50-share-of-the-developed-land/",
-      "important": false
-    },
-    {
-      "id": "a78214e6",
-      "title": "मिर्च में थ्रिप्स कीट से पत्तियां मुड़ने की समस्या, बेंगलुरु के कृषि वैज्ञानिकों ने बताया उपाय",
-      "summary": "मिर्च में थ्रिप्स कीट से पत्तियां मुड़ने की समस्या, बेंगलुरु के कृषि वैज्ञानिकों ने बताया उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/leaf-curling-in-chili-plants-caused-by-thrips-agricultural-scientists-in-bengaluru-suggest-solutions/",
-      "important": false
-    },
-    {
-      "id": "e3f79511",
-      "title": "मक्के में फॉल आर्मीवर्म का खतरा, हिमाचल में कृषि वैज्ञानिकों ने बताई दवा और सही मात्रा",
-      "summary": "मक्के में फॉल आर्मीवर्म का खतरा, हिमाचल में कृषि वैज्ञानिकों ने बताई दवा और सही मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/threat-of-fall-armyworm-in-maize-agricultural-scientists-in-himachal-suggest-the-appropriate-pesticide-and-its-correct-dosage/",
-      "important": false
-    },
-    {
-      "id": "8af5c059",
-      "title": "फसल अवशेष प्रबंधन एवं कम्पोस्टिंग तकनीक",
-      "summary": "फसल अवशेष प्रबंधन एवं कम्पोस्टिंग तकनीक",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/crop-residue-management-and-composting-techniques/",
-      "important": false
-    },
-    {
-      "id": "b22ef638",
-      "title": "उज्जैन की गिर गाय ‘राधा’ ने बनाया रिकॉर्ड, रोजाना 19.760 लीटर दूध देकर प्रदेश में रही अव्वल",
-      "summary": "उज्जैन की गिर गाय ‘राधा’ ने बनाया रिकॉर्ड, रोजाना 19.760 लीटर दूध देकर प्रदेश में रही अव्वल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/radha-a-gir-cow-from-ujjain-has-set-a-record-by-producing-19-760-litres-of-milk-daily-making-her-the-top-performer-in-the-state/",
       "important": false
     }
   ]
