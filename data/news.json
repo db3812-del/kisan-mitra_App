@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-15T22:39:49Z",
-  "new_count": 0,
+  "updated": "2026-11-16T05:49:19Z",
+  "new_count": 3,
   "articles": [
+    {
+      "id": "6000b8e0",
+      "title": "बालाघाट : पराली बनी मुनाफे का जरिया",
+      "summary": "बालाघाट : पराली बनी मुनाफे का जरिया",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/balaghat-stubble-turns-into-a-source-of-profit/",
+      "important": false
+    },
+    {
+      "id": "6176dfd6",
+      "title": "ओडिशा में 29 लाख बहनें बनीं ‘लखपति दीदी’, अब हर पंचायत को विकास के लिए मिलेगी बड़ी राशि- मंत्री शिवराज सिंह चौहान",
+      "summary": "ओडिशा में 29 लाख बहनें बनीं ‘लखपति दीदी’, अब हर पंचायत को विकास के लिए मिलेगी बड़ी राशि- मंत्री शिवराज सिंह चौहान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/in-odisha-2-9-million-sisters-have-become-lakhpati-didis-now-every-panchayat-will-receive-a-substantial-sum-for-development-minister-shivraj-singh-chouhan/",
+      "important": false
+    },
+    {
+      "id": "6321d68a",
+      "title": "मध्य प्रदेश को मिल्क कैपिटल बनाने की तैयारी तेज, पशुपालकों को डेयरी इकाई लगाने पर मिलेगी 33% तक सब्सिडी",
+      "summary": "मध्य प्रदेश को मिल्क कैपिटल बनाने की तैयारी तेज, पशुपालकों को डेयरी इकाई लगाने पर मिलेगी 33% तक सब्सिडी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-16",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/uncategorized/preparations-to-make-madhya-pradesh-the-milk-capital-are-intensifying-livestock-farmers-will-receive-a-subsidy-of-up-to-33-for-setting-up-dairy-units/",
+      "important": false
+    },
     {
       "id": "d1f87ef0",
       "title": "फॉस्फेटिक और पोटाशिक (P&K) उर्वरकों पर सब्सिडी दरें घोषित",
@@ -517,39 +550,6 @@
       "date": "2026-11-07",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/radha-a-gir-cow-from-ujjain-has-set-a-record-by-producing-19-760-litres-of-milk-daily-making-her-the-top-performer-in-the-state/",
-      "important": false
-    },
-    {
-      "id": "8739eb74",
-      "title": "गेहूं की गुणवत्ता और उत्पादन बढ़ाए- महावीरा जिरोन पावर प्लस",
-      "summary": "गेहूं की गुणवत्ता और उत्पादन बढ़ाए- महावीरा जिरोन पावर प्लस",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-07",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/enhance-wheat-quality-and-yield-mahavira-ziron-power-plus/",
-      "important": false
-    },
-    {
-      "id": "03c0681c",
-      "title": "सिर्फ 0.250 हेक्टेयर में गेंदे की खेती से राजगढ़ के किसान ने कमाए 1 लाख रुपये, सोयाबीन के मुकाबले 80 हजार ज्यादा शुद्ध म",
-      "summary": "सिर्फ 0.250 हेक्टेयर में गेंदे की खेती से राजगढ़ के किसान ने कमाए 1 लाख रुपये, सोयाबीन के मुकाबले 80 हजार ज्यादा शुद्ध मुनाफा",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-farmer-in-rajgarh-earned-rs-1-lakh-from-marigold-cultivation-on-just-0-250-hectares-a-net-profit-rs-80000-higher-than-what-he-would-have-earned-from-soybean/",
-      "important": false
-    },
-    {
-      "id": "b0f4d503",
-      "title": "केंद्र सरकार की दो टूक: डेयरी और GM आयात पर कोई समझौता नहीं — पीयूष गोयल",
-      "summary": "केंद्र सरकार की दो टूक: डेयरी और GM आयात पर कोई समझौता नहीं — पीयूष गोयल",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-06",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/central-governments-firm-stance-no-compromise-on-dairy-and-gm-imports-piyush-goyal/",
       "important": false
     }
   ]
