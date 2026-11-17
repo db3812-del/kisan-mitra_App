@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-17T01:46:12Z",
-  "new_count": 0,
+  "updated": "2026-11-17T15:45:58Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "78e0cdcf",
+      "title": "पंजाब में किन्नू के बागों में डाईबैक और तना सड़न रोग का खतरा, बोर्डो मिश्रण छिड़कने की सलाह",
+      "summary": "पंजाब में किन्नू के बागों में डाईबैक और तना सड़न रोग का खतरा, बोर्डो मिश्रण छिड़कने की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-dieback-and-collar-rot-diseases-in-kinnow-orchards-in-punjab-application-of-bordeaux-mixture-recommended/",
+      "important": false
+    },
+    {
+      "id": "d1408e6e",
+      "title": "हरदा : जैव उर्वरकों से करें गेहूं के बीज एवं मिट्टी का उपचार",
+      "summary": "हरदा : जैव उर्वरकों से करें गेहूं के बीज एवं मिट्टी का उपचार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/harda-treat-wheat-seeds-and-soil-with-bio-fertilizers/",
+      "important": false
+    },
+    {
+      "id": "1ed434a8",
+      "title": "हरदा: स्मार्ट फिश पार्लर हेतु पुनः आवेदन आमंत्रित, खिरकिया नगरीय क्षेत्र में 4 पार्लर आवंटित होंगे",
+      "summary": "हरदा: स्मार्ट फिश पार्लर हेतु पुनः आवेदन आमंत्रित, खिरकिया नगरीय क्षेत्र में 4 पार्लर आवंटित होंगे",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/harda-fresh-applications-invited-for-smart-fish-parlours-4-parlours-to-be-allotted-in-the-khirkiya-urban-area/",
+      "important": false
+    },
+    {
+      "id": "3d68b461",
+      "title": "हरदा: कृषि नवाचारों और उर्वरक वितरण व्यवस्था का जायजा लेने पहुंचे कृषि संचालक",
+      "summary": "हरदा: कृषि नवाचारों और उर्वरक वितरण व्यवस्था का जायजा लेने पहुंचे कृषि संचालक",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/harda-director-of-agriculture-arrives-to-assess-agricultural-innovations-and-the-fertilizer-distribution-system/",
+      "important": false
+    },
+    {
+      "id": "de22c393",
+      "title": "टीकमगढ़: संतुलित उर्वरक से बढ़ेगी रबी फसलों की उपज, घटेगी खेती की लागत",
+      "summary": "टीकमगढ़: संतुलित उर्वरक से बढ़ेगी रबी फसलों की उपज, घटेगी खेती की लागत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/tikamgarh-balanced-fertilizer-use-will-increase-the-yield-of-rabi-crops-and-reduce-cultivation-costs/",
+      "important": false
+    },
+    {
+      "id": "f5c20d59",
+      "title": "आज का सोयाबीन मंडी रेट (17 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (17 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-17-2026/",
+      "important": false
+    },
+    {
+      "id": "e88e3e51",
+      "title": "आज का गेहूं मंडी रेट (17 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (17 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-17-2026/",
+      "important": false
+    },
+    {
+      "id": "fc5c82e2",
+      "title": "आज का मक्का मंडी रेट (17 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (17 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-17",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-17-2026/",
+      "important": false
+    },
     {
       "id": "25aa5d4d",
       "title": "हरियाणा में जैविक खाद पर 80 प्रतिशत सब्सिडी, पंजीयन जरूरी",
@@ -462,94 +550,6 @@
       "date": "2026-11-11",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-11-2026/",
-      "important": false
-    },
-    {
-      "id": "4a45e9de",
-      "title": "मध्य प्रदेश में सर्वाधिक दूध देने वाली गाय ‘राधा’ को देखने तालोद पहुंचे मुख्यमंत्री",
-      "summary": "मध्य प्रदेश में सर्वाधिक दूध देने वाली गाय ‘राधा’ को देखने तालोद पहुंचे मुख्यमंत्री",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/chief-minister-arrives-in-talod-to-see-radha-the-highest-milk-yielding-cow-in-madhya-pradesh/",
-      "important": false
-    },
-    {
-      "id": "0a553e9b",
-      "title": "चावल और धान का साप्ताहिक स्टॉक खुलासा अनिवार्य, पांच दक्षिणी राज्यों को स्टॉक सीमा की मंजूरी",
-      "summary": "चावल और धान का साप्ताहिक स्टॉक खुलासा अनिवार्य, पांच दक्षिणी राज्यों को स्टॉक सीमा की मंजूरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/weekly-disclosure-of-rice-and-paddy-stocks-made-mandatory-stock-limits-approved-for-five-southern-states/",
-      "important": false
-    },
-    {
-      "id": "56751365",
-      "title": "महाराष्ट्र कर्जमाफी योजना की चौथी सूची जारी, जलगांव के 6,976 किसानों को ₹45.70 करोड़ का लाभ",
-      "summary": "महाराष्ट्र कर्जमाफी योजना की चौथी सूची जारी, जलगांव के 6,976 किसानों को ₹45.70 करोड़ का लाभ",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/fourth-list-of-maharashtra-farm-loan-waiver-scheme-released-6976-farmers-in-jalgaon-to-benefit-from-%e2%82%b945-70-crore/",
-      "important": false
-    },
-    {
-      "id": "062c5485",
-      "title": "आईटी की नौकरी छोड़ी, देसी गायों से बनाया ₹10 करोड़ टर्नओवर वाला डेयरी कारोबार",
-      "summary": "आईटी की नौकरी छोड़ी, देसी गायों से बनाया ₹10 करोड़ टर्नओवर वाला डेयरी कारोबार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/left-an-it-job-and-built-a-%e2%82%b910-crore-turnover-dairy-business-using-indigenous-cows/",
-      "important": false
-    },
-    {
-      "id": "3679cb4f",
-      "title": "राजस्थान में 14 जिलों की 80 तहसीलें सूखा-प्रभावित घोषित, कर्ज वसूली छह महीने टली",
-      "summary": "राजस्थान में 14 जिलों की 80 तहसीलें सूखा-प्रभावित घोषित, कर्ज वसूली छह महीने टली",
-      "level": "central",
-      "category": "price",
-      "date": "2026-11-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/80-tehsils-across-14-districts-in-rajasthan-declared-drought-affected-loan-recovery-deferred-for-six-months/",
-      "important": false
-    },
-    {
-      "id": "4a1e2f20",
-      "title": "असम में उड़द-मूंग पर पत्ती मोड़क कीट व माहू का असर, दो चरणों में छिड़काव की सलाह",
-      "summary": "असम में उड़द-मूंग पर पत्ती मोड़क कीट व माहू का असर, दो चरणों में छिड़काव की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/leaf-roller-insects-and-aphids-affecting-urad-and-moong-crops-in-assam-spraying-in-two-phases-advised/",
-      "important": false
-    },
-    {
-      "id": "a71dfeac",
-      "title": "असम में उड़द-मूंग पर फली छेदक और फली बग का हमला, वैज्ञानिकों ने बताई दवा की मात्रा",
-      "summary": "असम में उड़द-मूंग पर फली छेदक और फली बग का हमला, वैज्ञानिकों ने बताई दवा की मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/pod-borer-and-pod-bug-infestation-in-urad-and-moong-crops-in-assam-scientists-specify-the-required-dosage-of-pesticide/",
-      "important": false
-    },
-    {
-      "id": "ad730542",
-      "title": "दीपोत्सव पर विशेष “चकाचौंध के दौर में मिट्टी के दीपों की पुकार”",
-      "summary": "दीपोत्सव पर विशेष “चकाचौंध के दौर में मिट्टी के दीपों की पुकार”",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-09",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/a-special-feature-for-deepotsav-the-call-of-earthen-lamps-in-an-age-of-dazzling-lights/",
       "important": false
     }
   ]
