@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-18T00:48:40Z",
-  "new_count": 0,
+  "updated": "2026-11-18T15:26:09Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "eaf9ec2c",
+      "title": "मध्यप्रदेश में पहली बार सोशल इम्पैक्ट बॉण्ड लागू, 600 युवाओं को जापान और जर्मनी में रोजगार का मौका",
+      "summary": "मध्यप्रदेश में पहली बार सोशल इम्पैक्ट बॉण्ड लागू, 600 युवाओं को जापान और जर्मनी में रोजगार का मौका",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/social-impact-bond-implemented-for-the-first-time-in-madhya-pradesh-600-youths-to-get-employment-opportunities-in-japan-and-germany/",
+      "important": false
+    },
+    {
+      "id": "531ac557",
+      "title": "क्या है मार्केटिंग इंटरवेंशन स्कीम? फसल सस्ती बिकने पर किसानों को मिलेगा अंतर का पैसा, शिवराज सिंह चौहान ने बताए योजना क",
+      "summary": "क्या है मार्केटिंग इंटरवेंशन स्कीम? फसल सस्ती बिकने पर किसानों को मिलेगा अंतर का पैसा, शिवराज सिंह चौहान ने बताए योजना के फायदे",
+      "level": "central",
+      "category": "price",
+      "date": "2026-11-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/what-is-the-marketing-intervention-scheme-farmers-will-receive-the-price-difference-if-their-crops-are-sold-at-low-rates-shivraj-singh-chouhan-explains-the-benefits-of-the-scheme/",
+      "important": false
+    },
+    {
+      "id": "64d0cb97",
+      "title": "आज का गेहूं मंडी रेट (18 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (18 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-18-2026/",
+      "important": false
+    },
+    {
+      "id": "e1d147d5",
+      "title": "आज का धान मंडी रेट (18 नवंबर 2026)",
+      "summary": "आज का धान मंडी रेट (18 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-18-2026/",
+      "important": false
+    },
+    {
+      "id": "3d7341ff",
+      "title": "आज का मक्का मंडी रेट (18 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (18 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-18-2026/",
+      "important": false
+    },
+    {
+      "id": "d1c14bb8",
+      "title": "आज का सोयाबीन मंडी रेट (18 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (18 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-18-2026/",
+      "important": false
+    },
+    {
+      "id": "f95a6b1e",
+      "title": "दुनिया तक पहुंचेगी भारत की कृषि तकनीक, ICAR और RIS के बीच हुआ अहम समझौता",
+      "summary": "दुनिया तक पहुंचेगी भारत की कृषि तकनीक, ICAR और RIS के बीच हुआ अहम समझौता",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/indias-agricultural-technology-to-reach-the-world-significant-agreement-signed-between-icar-and-ris/",
+      "important": false
+    },
+    {
+      "id": "3fcce074",
+      "title": "देशभर में आज मनाया गया 9वां प्राकृतिक चिकित्सा दिवस, जानें इस साल की थीम",
+      "summary": "देशभर में आज मनाया गया 9वां प्राकृतिक चिकित्सा दिवस, जानें इस साल की थीम",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-18",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/9th-naturopathy-day-celebrated-across-the-country-today-find-out-this-years-theme/",
+      "important": false
+    },
     {
       "id": "78e0cdcf",
       "title": "पंजाब में किन्नू के बागों में डाईबैक और तना सड़न रोग का खतरा, बोर्डो मिश्रण छिड़कने की सलाह",
@@ -462,94 +550,6 @@
       "date": "2026-11-12",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-12-2026/",
-      "important": false
-    },
-    {
-      "id": "2b1de64f",
-      "title": "आज का सोयाबीन मंडी रेट (12 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (12 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-12",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-12-2026/",
-      "important": false
-    },
-    {
-      "id": "9ba148b5",
-      "title": "रोगरोधी टमाटर की नई किस्म से किसान की बदली तकदीर, कम जमीन में कमाया एक लाख से अधिक मुनाफा",
-      "summary": "रोगरोधी टमाटर की नई किस्म से किसान की बदली तकदीर, कम जमीन में कमाया एक लाख से अधिक मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-fortune-changed-due-to-new-disease-resistant-tomato-variety-earned-more-than-rs-1-lakh-profit-in-less-land/",
-      "important": false
-    },
-    {
-      "id": "14b7dcc7",
-      "title": "27 लाख किसानों को योजना की राशि मिलने का फर्जी संदेश, साइबर अपराध शाखा करेगी जांच",
-      "summary": "27 लाख किसानों को योजना की राशि मिलने का फर्जी संदेश, साइबर अपराध शाखा करेगी जांच",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/fake-messages-sent-to-2-7-million-farmers-regarding-receipt-of-scheme-funds-cyber-crime-branch-to-investigate/",
-      "important": false
-    },
-    {
-      "id": "3fa77b21",
-      "title": "कृषि आदान व्यवसाय में निपुणता आवश्यक",
-      "summary": "कृषि आदान व्यवसाय में निपुणता आवश्यक",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/expertise-is-essential-in-the-agricultural-inputs-business/",
-      "important": false
-    },
-    {
-      "id": "b93918cd",
-      "title": "आज का गेहूं मंडी रेट (11 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (11 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-11-2026/",
-      "important": false
-    },
-    {
-      "id": "9acd4a0c",
-      "title": "आज का मक्का मंडी रेट (11 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (11 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-november-11-2026/",
-      "important": false
-    },
-    {
-      "id": "1850cff6",
-      "title": "आज का धान मंडी रेट (11 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (11 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-11-2026/",
-      "important": false
-    },
-    {
-      "id": "f4757241",
-      "title": "आज का सोयाबीन मंडी रेट (11 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (11 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-11",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-11-2026/",
       "important": false
     }
   ]
