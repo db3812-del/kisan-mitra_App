@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-20T15:10:26Z",
-  "new_count": 0,
+  "updated": "2026-11-20T23:51:49Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "c9cadd5f",
+      "title": "बूढ़े होते किसान, खाली होते गांव! खेती का भविष्य किसके हाथ में?",
+      "summary": "बूढ़े होते किसान, खाली होते गांव! खेती का भविष्य किसके हाथ में?",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/editorial/aging-farmers-emptying-villages-in-whose-hands-does-the-future-of-farming-lie/",
+      "important": false
+    },
+    {
+      "id": "649e5aee",
+      "title": "खेती के तौर-तरीकों में बदलाव समय की मांग, किसान को अन्नदाता के साथ व्यापारी भी बनना होगा, तभी आएगी समृद्धि  – डॉ. अशोक  ",
+      "summary": "खेती के तौर-तरीकों में बदलाव समय की मांग, किसान को अन्नदाता के साथ व्यापारी भी बनना होगा, तभी आएगी समृद्धि  – डॉ. अशोक  लहरी,उपाध्यक्ष, नीति आयोग",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/changing-agricultural-practices-is-the-need-of-the-hour-farmers-must-evolve-from-being-mere-food-providers-into-entrepreneurs-only-then-will-prosperity-follow-dr-ashok-lahiri-vic/",
+      "important": false
+    },
+    {
+      "id": "43600109",
+      "title": "खेती से आगे बढ़कर कृषि उद्यमिता की राह पर मध्यप्रदेश के किसान, बढ़ रही आय और रोजगार के अवसर",
+      "summary": "खेती से आगे बढ़कर कृषि उद्यमिता की राह पर मध्यप्रदेश के किसान, बढ़ रही आय और रोजगार के अवसर",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-madhya-pradesh-are-moving-beyond-traditional-farming-toward-agricultural-entrepreneurship-leading-to-increased-incomes-and-employment-opportunities/",
+      "important": false
+    },
+    {
+      "id": "072728f4",
+      "title": "देश में 1,000 से अधिक सामुदायिक बीज बैंक, 652 की डिजिटल एटलस में हुई मैपिंग",
+      "summary": "देश में 1,000 से अधिक सामुदायिक बीज बैंक, 652 की डिजिटल एटलस में हुई मैपिंग",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/more-than-1000-community-seed-banks-exist-in-the-country-652-have-been-mapped-in-a-digital-atlas/",
+      "important": false
+    },
+    {
+      "id": "3b00140a",
+      "title": "हरियाणा के SC किसानों को ट्रैक्टर खरीदने पर मिलेगा 3 लाख रुपये तक अनुदान",
+      "summary": "हरियाणा के SC किसानों को ट्रैक्टर खरीदने पर मिलेगा 3 लाख रुपये तक अनुदान",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sc-farmers-in-haryana-will-receive-a-subsidy-of-up-to-rs-3-lakh-for-the-purchase-of-a-tractor/",
+      "important": false
+    },
+    {
+      "id": "b0b4736b",
+      "title": "आज का सोयाबीन मंडी रेट (20 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (20 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-20-2026/",
+      "important": false
+    },
+    {
+      "id": "f04a4b1c",
+      "title": "आज का गेहूं मंडी रेट (20 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (20 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-20-2026/",
+      "important": false
+    },
+    {
+      "id": "af0e0619",
+      "title": "आज का मक्का मंडी रेट (20 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (20 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-20",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-20-2026/",
+      "important": false
+    },
     {
       "id": "25314c6f",
       "title": "उत्तर प्रदेश में राज्य पशुधन मिशन शुरू, देशी गाय खरीदने पर मिलेगी ₹40,000 तक की सब्सिडी",
@@ -462,94 +550,6 @@
       "date": "2026-11-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/the-pandhurna-district-kisan-congress-submitted-a-memorandum-addressed-to-the-governor/",
-      "important": false
-    },
-    {
-      "id": "76ae6bb7",
-      "title": "श्री अहिल्या माता गौशाला इंदौर में 17 नवंबर को गोपाष्टमी कार्यक्रम आयोजित",
-      "summary": "श्री अहिल्या माता गौशाला इंदौर में 17 नवंबर को गोपाष्टमी कार्यक्रम आयोजित",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/gopashtami-event-to-be-held-at-shri-ahilya-mata-gaushala-indore-on-november-17/",
-      "important": false
-    },
-    {
-      "id": "ebb46977",
-      "title": "आज का गेहूं मंडी रेट (13 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (13 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-13-2026/",
-      "important": false
-    },
-    {
-      "id": "9d4dd41c",
-      "title": "आज का धान मंडी रेट (13 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (13 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-13-2026/",
-      "important": false
-    },
-    {
-      "id": "a439fb74",
-      "title": "आज का मक्का मंडी रेट (13 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (13 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-13-2026/",
-      "important": false
-    },
-    {
-      "id": "02bf7e6f",
-      "title": "आज का सोयाबीन मंडी रेट (13 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (13 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-13-2026/",
-      "important": false
-    },
-    {
-      "id": "15ecd9b5",
-      "title": "स्वच्छता में उज्जैन का सम्मान, सिंहस्थ से पहले कायम रखनी होगी यह पहचान",
-      "summary": "स्वच्छता में उज्जैन का सम्मान, सिंहस्थ से पहले कायम रखनी होगी यह पहचान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ujjain-earns-recognition-for-cleanliness-this-standing-must-be-maintained-ahead-of-the-simhastha/",
-      "important": false
-    },
-    {
-      "id": "3b2a0944",
-      "title": "खेती को लाभकारी बनाने आधुनिक तकनीक और नवाचार पर एमपी की सरकार का जोर",
-      "summary": "खेती को लाभकारी बनाने आधुनिक तकनीक और नवाचार पर एमपी की सरकार का जोर",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mp-government-focuses-on-modern-technology-and-innovation-to-make-farming-profitable/",
-      "important": false
-    },
-    {
-      "id": "1dd8b4a7",
-      "title": "बिहार में मिलेट्स की खेती को मिलेगा बढ़ावा, 1.80 करोड़ से बनेगा सेंटर ऑफ एक्सीलेंस",
-      "summary": "बिहार में मिलेट्स की खेती को मिलेगा बढ़ावा, 1.80 करोड़ से बनेगा सेंटर ऑफ एक्सीलेंस",
-      "level": "central",
-      "category": "price",
-      "date": "2026-11-13",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/millet-cultivation-to-get-a-boost-in-bihar-centre-of-excellence-to-be-set-up-at-a-cost-of-%e2%82%b91-80-crore/",
       "important": false
     }
   ]
