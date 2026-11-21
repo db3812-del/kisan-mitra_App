@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-20T23:51:49Z",
-  "new_count": 8,
+  "updated": "2026-11-21T06:34:13Z",
+  "new_count": 5,
   "articles": [
+    {
+      "id": "79dbc6c8",
+      "title": "बेमेतरा: पहली बार मार्कफेड के जरिए समर्थन मूल्य पर होगी कोदो, कुटकी और रागी की खरीदी",
+      "summary": "बेमेतरा: पहली बार मार्कफेड के जरिए समर्थन मूल्य पर होगी कोदो, कुटकी और रागी की खरीदी",
+      "level": "central",
+      "category": "price",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/bemetara-for-the-first-time-kodo-kutki-and-ragi-will-be-procured-at-the-minimum-support-price-msp-through-markfed/",
+      "important": true
+    },
+    {
+      "id": "83ecfb3e",
+      "title": "रायपुर: बेमौसम बारिश से धान की फसल को नुकसान पर 72 घंटे में दें सूचना, मिलेगा बीमा का लाभ",
+      "summary": "रायपुर: बेमौसम बारिश से धान की फसल को नुकसान पर 72 घंटे में दें सूचना, मिलेगा बीमा का लाभ",
+      "level": "central",
+      "category": "price",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-report-damage-to-paddy-crops-caused-by-unseasonal-rain-within-72-hours-to-avail-insurance-benefits/",
+      "important": false
+    },
+    {
+      "id": "756068a1",
+      "title": "मध्यप्रदेश में गेहूं की इन 5 किस्मों से मिलेगी बंपर पैदावार, 70 क्विंटल/हेक्टेयर तक क्षमता",
+      "summary": "मध्यप्रदेश में गेहूं की इन 5 किस्मों से मिलेगी बंपर पैदावार, 70 क्विंटल/हेक्टेयर तक क्षमता",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/these-5-wheat-varieties-in-madhya-pradesh-will-deliver-a-bumper-yield-with-a-potential-of-up-to-70-quintals-per-hectare/",
+      "important": false
+    },
+    {
+      "id": "d3939df7",
+      "title": "15-24 HP ट्रैक्टर से चलेगी धान थ्रेशर मशीन, एक घंटे में 800 किलो तक अनाज निकालने की क्षमता",
+      "summary": "15-24 HP ट्रैक्टर से चलेगी धान थ्रेशर मशीन, एक घंटे में 800 किलो तक अनाज निकालने की क्षमता",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-paddy-thresher-machine-can-be-operated-by-a-15-24-hp-tractor-and-has-the-capacity-to-process-up-to-800-kg-of-grain-per-hour/",
+      "important": false
+    },
+    {
+      "id": "5e1b864c",
+      "title": "संकटग्रस्त ज़ेब्रा लोच मछली क्या खाती है? पश्चिमी घाट में हुए शोध से सामने आए इसके प्राकृतिक भोजन के रहस्य",
+      "summary": "संकटग्रस्त ज़ेब्रा लोच मछली क्या खाती है? पश्चिमी घाट में हुए शोध से सामने आए इसके प्राकृतिक भोजन के रहस्य",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/what-does-the-endangered-zebra-loach-eat-research-in-the-western-ghats-reveals-the-secrets-of-its-natural-diet/",
+      "important": false
+    },
     {
       "id": "c9cadd5f",
       "title": "बूढ़े होते किसान, खाली होते गांव! खेती का भविष्य किसके हाथ में?",
@@ -495,61 +550,6 @@
       "date": "2026-11-14",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-14-2026/",
-      "important": false
-    },
-    {
-      "id": "adb3d89f",
-      "title": "आज का मक्का मंडी रेट (14 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (14 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-14-november-2026/",
-      "important": false
-    },
-    {
-      "id": "84809cc4",
-      "title": "आज का धान मंडी रेट (14 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (14 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-14-2026/",
-      "important": false
-    },
-    {
-      "id": "010cabe5",
-      "title": "आज का सोयाबीन मंडी रेट (14 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (14 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-14-2026/",
-      "important": false
-    },
-    {
-      "id": "29581a1b",
-      "title": "पंजाब में पराली जलाने की घटनाएं बढ़ीं, अब तक 4,657 मामले दर्ज; 72.85 लाख का जुर्माना",
-      "summary": "पंजाब में पराली जलाने की घटनाएं बढ़ीं, अब तक 4,657 मामले दर्ज; 72.85 लाख का जुर्माना",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/stubble-burning-incidents-on-the-rise-in-punjab-4657-cases-recorded-so-far-with-fines-totaling-%e2%82%b972-85-lakh/",
-      "important": false
-    },
-    {
-      "id": "71c40365",
-      "title": "जिला किसान कांग्रेस पांढुर्ना ने राज्यपाल के नाम ज्ञापन सौंपा",
-      "summary": "जिला किसान कांग्रेस पांढुर्ना ने राज्यपाल के नाम ज्ञापन सौंपा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-pandhurna-district-kisan-congress-submitted-a-memorandum-addressed-to-the-governor/",
       "important": false
     }
   ]
