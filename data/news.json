@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-21T06:34:13Z",
-  "new_count": 5,
+  "updated": "2026-11-21T18:56:45Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "02ab5ae5",
+      "title": "त्रिपुरा में नई आलू किस्म से किसान की पैदावार में 27 प्रतिशत तक बढ़ोतरी",
+      "summary": "त्रिपुरा में नई आलू किस्म से किसान की पैदावार में 27 प्रतिशत तक बढ़ोतरी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/new-potato-variety-leads-to-up-to-27-percent-increase-in-farmers-yields-in-tripura/",
+      "important": false
+    },
+    {
+      "id": "29fbec7a",
+      "title": "आलू की अगेती फसल पर झुलसा रोग का हमला, कृषि विभाग ने बताया बचाव का तरीका",
+      "summary": "आलू की अगेती फसल पर झुलसा रोग का हमला, कृषि विभाग ने बताया बचाव का तरीका",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/early-season-potato-crop-hit-by-blight-agriculture-department-suggests-preventive-measures/",
+      "important": false
+    },
+    {
+      "id": "a67a3576",
+      "title": "सरसों में माहू कीट और गेहूं में पीली गेरूई का खतरा, कृषि विभाग ने जारी की सलाह",
+      "summary": "सरसों में माहू कीट और गेहूं में पीली गेरूई का खतरा, कृषि विभाग ने जारी की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/risk-of-aphid-infestation-in-mustard-and-yellow-rust-in-wheat-agriculture-department-issues-advisory/",
+      "important": false
+    },
+    {
+      "id": "94ca50b2",
+      "title": "आज का गेहूं मंडी रेट (21 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (21 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-21-2026/",
+      "important": false
+    },
+    {
+      "id": "1f0a52c7",
+      "title": "आज का मक्का मंडी रेट (21 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (21 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-november-21-2026/",
+      "important": false
+    },
+    {
+      "id": "5c7929ba",
+      "title": "आज का धान मंडी रेट (21 नवंबर 2026)",
+      "summary": "आज का धान मंडी रेट (21 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-21-2026/",
+      "important": false
+    },
+    {
+      "id": "99ffff5c",
+      "title": "आज का सोयाबीन मंडी रेट (21 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (21 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-21-2026/",
+      "important": false
+    },
+    {
+      "id": "643cfcf5",
+      "title": "किसानों की निजी भूमि बिना सूचना और सुनवाई के सरकारी भूमि में दर्ज़",
+      "summary": "किसानों की निजी भूमि बिना सूचना और सुनवाई के सरकारी भूमि में दर्ज़",
+      "level": "central",
+      "category": "price",
+      "date": "2026-11-21",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-private-land-recorded-as-government-land-without-notice-or-a-hearing/",
+      "important": false
+    },
     {
       "id": "79dbc6c8",
       "title": "बेमेतरा: पहली बार मार्कफेड के जरिए समर्थन मूल्य पर होगी कोदो, कुटकी और रागी की खरीदी",
@@ -462,94 +550,6 @@
       "date": "2026-11-16",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-16-2026/",
-      "important": false
-    },
-    {
-      "id": "8bb3d086",
-      "title": "आज का धान मंडी रेट (16 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (16 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-16-2026/",
-      "important": false
-    },
-    {
-      "id": "c58251d8",
-      "title": "आज का सोयाबीन मंडी रेट (16 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (16 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-16-2026/",
-      "important": false
-    },
-    {
-      "id": "0dc273a0",
-      "title": "उद्यानिकी फसलों की खेती से बढ़ाएं आमदनी – कलेक्टर हरदा",
-      "summary": "उद्यानिकी फसलों की खेती से बढ़ाएं आमदनी – कलेक्टर हरदा",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/increase-income-through-the-cultivation-of-horticultural-crops-collector-harda/",
-      "important": false
-    },
-    {
-      "id": "6000b8e0",
-      "title": "बालाघाट : पराली बनी मुनाफे का जरिया",
-      "summary": "बालाघाट : पराली बनी मुनाफे का जरिया",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/balaghat-stubble-turns-into-a-source-of-profit/",
-      "important": false
-    },
-    {
-      "id": "6176dfd6",
-      "title": "ओडिशा में 29 लाख बहनें बनीं ‘लखपति दीदी’, अब हर पंचायत को विकास के लिए मिलेगी बड़ी राशि- मंत्री शिवराज सिंह चौहान",
-      "summary": "ओडिशा में 29 लाख बहनें बनीं ‘लखपति दीदी’, अब हर पंचायत को विकास के लिए मिलेगी बड़ी राशि- मंत्री शिवराज सिंह चौहान",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/in-odisha-2-9-million-sisters-have-become-lakhpati-didis-now-every-panchayat-will-receive-a-substantial-sum-for-development-minister-shivraj-singh-chouhan/",
-      "important": false
-    },
-    {
-      "id": "6321d68a",
-      "title": "मध्य प्रदेश को मिल्क कैपिटल बनाने की तैयारी तेज, पशुपालकों को डेयरी इकाई लगाने पर मिलेगी 33% तक सब्सिडी",
-      "summary": "मध्य प्रदेश को मिल्क कैपिटल बनाने की तैयारी तेज, पशुपालकों को डेयरी इकाई लगाने पर मिलेगी 33% तक सब्सिडी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/uncategorized/preparations-to-make-madhya-pradesh-the-milk-capital-are-intensifying-livestock-farmers-will-receive-a-subsidy-of-up-to-33-for-setting-up-dairy-units/",
-      "important": false
-    },
-    {
-      "id": "d1f87ef0",
-      "title": "फॉस्फेटिक और पोटाशिक (P&K) उर्वरकों पर सब्सिडी दरें घोषित",
-      "summary": "फॉस्फेटिक और पोटाशिक (P&K) उर्वरकों पर सब्सिडी दरें घोषित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/subsidy-rates-for-phosphatic-and-potassic-pk-fertilizers-announced/",
-      "important": false
-    },
-    {
-      "id": "0a86b5d4",
-      "title": "आज का गेहूं मंडी रेट (14 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (14 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-14",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-14-2026/",
       "important": false
     }
   ]
