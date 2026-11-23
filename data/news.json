@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-23T06:54:58Z",
+  "updated": "2026-11-23T23:39:57Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "88695cf0",
+      "title": "देश की पहली स्वदेशी बर्ड फ्लू वैक्सीन भोपाल में राष्ट्र को समर्पित",
+      "summary": "देश की पहली स्वदेशी बर्ड फ्लू वैक्सीन भोपाल में राष्ट्र को समर्पित",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/countrys-first-indigenous-bird-flu-vaccine-dedicated-to-the-nation-in-bhopal/",
+      "important": false
+    },
+    {
+      "id": "053ced94",
+      "title": "किसान क्रेडिट कार्ड और फसल बीमा के लिए गांव-गांव लगेंगे बैंक शिविर, 31 दिसंबर तक मौका",
+      "summary": "किसान क्रेडिट कार्ड और फसल बीमा के लिए गांव-गांव लगेंगे बैंक शिविर, 31 दिसंबर तक मौका",
+      "level": "central",
+      "category": "insurance",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/bank-camps-to-be-held-in-every-village-for-kisan-credit-cards-and-crop-insurance-opportunity-available-until-december-31/",
+      "important": false
+    },
+    {
+      "id": "d44b8dc7",
+      "title": "तरबूज और राजा मिर्च से असम के किसान नितुल सैकिया ने बदली किस्मत, प्रति बीघा 40 हजार मुनाफा",
+      "summary": "तरबूज और राजा मिर्च से असम के किसान नितुल सैकिया ने बदली किस्मत, प्रति बीघा 40 हजार मुनाफा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/assam-farmer-nitul-saikia-transforms-his-fortunes-with-watermelons-and-king-chillies-bhut-jolokia-earning-a-profit-of-%e2%82%b940000-per-bigha/",
+      "important": false
+    },
+    {
+      "id": "071acd47",
+      "title": "दिल्ली के सत्यवान जैविक खेती, डेयरी और प्याज की नर्सरी से कमा रहे सालाना 18-20 लाख रुपये",
+      "summary": "दिल्ली के सत्यवान जैविक खेती, डेयरी और प्याज की नर्सरी से कमा रहे सालाना 18-20 लाख रुपये",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/satyawan-from-delhi-earns-an-annual-income-of-rs-18-20-lakh-from-organic-farming-dairy-and-an-onion-nursery/",
+      "important": false
+    },
+    {
+      "id": "f68dbd6d",
+      "title": "चने की फसल पर मंडराया फली छेदक कीट का खतरा, कृषि विभाग ने बताए बचाव के उपाय",
+      "summary": "चने की फसल पर मंडराया फली छेदक कीट का खतरा, कृषि विभाग ने बताए बचाव के उपाय",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/threat-of-pod-borer-pest-looms-over-chickpea-crop-agriculture-department-suggests-preventive-measures/",
+      "important": false
+    },
+    {
+      "id": "ddf65b40",
+      "title": "टमाटर, मिर्च और पपीते में फैल रहा पत्ती मरोड़ रोग, किसानों को दी गई छिड़काव की सलाह",
+      "summary": "टमाटर, मिर्च और पपीते में फैल रहा पत्ती मरोड़ रोग, किसानों को दी गई छिड़काव की सलाह",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/leaf-curl-disease-is-spreading-in-tomatoes-chillies-and-papayas-farmers-have-been-advised-to-carry-out-spraying/",
+      "important": false
+    },
+    {
+      "id": "3d9b47a3",
+      "title": "आत्मा गवर्निंग बोर्ड बैठक में नवाचार बढ़ाने पर जोर",
+      "summary": "आत्मा गवर्निंग बोर्ड बैठक में नवाचार बढ़ाने पर जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/emphasis-on-fostering-innovation-at-atma-governing-board-meeting/",
+      "important": false
+    },
+    {
+      "id": "fdb91103",
+      "title": "खाता सुरक्षा में बैंको का कमजोर तंत्र",
+      "summary": "खाता सुरक्षा में बैंको का कमजोर तंत्र",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/banks-weak-systems-for-account-security/",
+      "important": false
+    },
     {
       "id": "25494397",
       "title": "हरदा: 105 एकड़ में मिर्च की खेती से किसान को सालाना 2.5 करोड़ तक का फायदा, विदेशों तक पहुंच रही उपज",
@@ -462,94 +550,6 @@
       "date": "2026-11-18",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-18-2026/",
-      "important": false
-    },
-    {
-      "id": "d1c14bb8",
-      "title": "आज का सोयाबीन मंडी रेट (18 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (18 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-18-2026/",
-      "important": false
-    },
-    {
-      "id": "f95a6b1e",
-      "title": "दुनिया तक पहुंचेगी भारत की कृषि तकनीक, ICAR और RIS के बीच हुआ अहम समझौता",
-      "summary": "दुनिया तक पहुंचेगी भारत की कृषि तकनीक, ICAR और RIS के बीच हुआ अहम समझौता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/indias-agricultural-technology-to-reach-the-world-significant-agreement-signed-between-icar-and-ris/",
-      "important": false
-    },
-    {
-      "id": "3fcce074",
-      "title": "देशभर में आज मनाया गया 9वां प्राकृतिक चिकित्सा दिवस, जानें इस साल की थीम",
-      "summary": "देशभर में आज मनाया गया 9वां प्राकृतिक चिकित्सा दिवस, जानें इस साल की थीम",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/9th-naturopathy-day-celebrated-across-the-country-today-find-out-this-years-theme/",
-      "important": false
-    },
-    {
-      "id": "78e0cdcf",
-      "title": "पंजाब में किन्नू के बागों में डाईबैक और तना सड़न रोग का खतरा, बोर्डो मिश्रण छिड़कने की सलाह",
-      "summary": "पंजाब में किन्नू के बागों में डाईबैक और तना सड़न रोग का खतरा, बोर्डो मिश्रण छिड़कने की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-dieback-and-collar-rot-diseases-in-kinnow-orchards-in-punjab-application-of-bordeaux-mixture-recommended/",
-      "important": false
-    },
-    {
-      "id": "d1408e6e",
-      "title": "हरदा : जैव उर्वरकों से करें गेहूं के बीज एवं मिट्टी का उपचार",
-      "summary": "हरदा : जैव उर्वरकों से करें गेहूं के बीज एवं मिट्टी का उपचार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/harda-treat-wheat-seeds-and-soil-with-bio-fertilizers/",
-      "important": false
-    },
-    {
-      "id": "1ed434a8",
-      "title": "हरदा: स्मार्ट फिश पार्लर हेतु पुनः आवेदन आमंत्रित, खिरकिया नगरीय क्षेत्र में 4 पार्लर आवंटित होंगे",
-      "summary": "हरदा: स्मार्ट फिश पार्लर हेतु पुनः आवेदन आमंत्रित, खिरकिया नगरीय क्षेत्र में 4 पार्लर आवंटित होंगे",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/harda-fresh-applications-invited-for-smart-fish-parlours-4-parlours-to-be-allotted-in-the-khirkiya-urban-area/",
-      "important": false
-    },
-    {
-      "id": "3d68b461",
-      "title": "हरदा: कृषि नवाचारों और उर्वरक वितरण व्यवस्था का जायजा लेने पहुंचे कृषि संचालक",
-      "summary": "हरदा: कृषि नवाचारों और उर्वरक वितरण व्यवस्था का जायजा लेने पहुंचे कृषि संचालक",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/harda-director-of-agriculture-arrives-to-assess-agricultural-innovations-and-the-fertilizer-distribution-system/",
-      "important": false
-    },
-    {
-      "id": "de22c393",
-      "title": "टीकमगढ़: संतुलित उर्वरक से बढ़ेगी रबी फसलों की उपज, घटेगी खेती की लागत",
-      "summary": "टीकमगढ़: संतुलित उर्वरक से बढ़ेगी रबी फसलों की उपज, घटेगी खेती की लागत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/tikamgarh-balanced-fertilizer-use-will-increase-the-yield-of-rabi-crops-and-reduce-cultivation-costs/",
       "important": false
     }
   ]
