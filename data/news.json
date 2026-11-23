@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-22T19:17:21Z",
-  "new_count": 0,
+  "updated": "2026-11-23T06:54:58Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "25494397",
+      "title": "हरदा: 105 एकड़ में मिर्च की खेती से किसान को सालाना 2.5 करोड़ तक का फायदा, विदेशों तक पहुंच रही उपज",
+      "summary": "हरदा: 105 एकड़ में मिर्च की खेती से किसान को सालाना 2.5 करोड़ तक का फायदा, विदेशों तक पहुंच रही उपज",
+      "level": "state",
+      "category": "market",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/harda-farmer-earns-up-to-%e2%82%b92-5-crore-annually-from-chilli-cultivation-across-105-acres-produce-reaching-international-markets/",
+      "important": false
+    },
+    {
+      "id": "57ff53dc",
+      "title": "पराली से बंजर जमीन को हिमाचल के किसानों ने बनाया ‘सोना’, बिना सिंचाई और जुताई के उगा रहे आलू; मिलेगा डबल मुनाफा",
+      "summary": "पराली से बंजर जमीन को हिमाचल के किसानों ने बनाया ‘सोना’, बिना सिंचाई और जुताई के उगा रहे आलू; मिलेगा डबल मुनाफा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-himachal-have-turned-barren-land-into-gold-using-crop-stubble-they-are-growing-potatoes-without-the-need-for-irrigation-or-tilling-and-stand-to-double-their-profits/",
+      "important": false
+    },
+    {
+      "id": "ac96404b",
+      "title": "मध्य प्रदेश की खेती में डिजिटल क्रांति: एग्रीस्टैक के प्रभावी उपयोग के लिए बनी विशेष समिति",
+      "summary": "मध्य प्रदेश की खेती में डिजिटल क्रांति: एग्रीस्टैक के प्रभावी उपयोग के लिए बनी विशेष समिति",
+      "level": "state",
+      "category": "price",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/digital-revolution-in-madhya-pradesh-agriculture-special-committee-formed-for-effective-use-of-agristack/",
+      "important": false
+    },
+    {
+      "id": "51157658",
+      "title": "नर्मदापुरम के किसान ने 27 हेक्टेयर में की सुपर सीडर से गेहूं की बोनी, एक साथ पूरा हो रहा जुताई और बीज-खाद डालने का काम",
+      "summary": "नर्मदापुरम के किसान ने 27 हेक्टेयर में की सुपर सीडर से गेहूं की बोनी, एक साथ पूरा हो रहा जुताई और बीज-खाद डालने का काम",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/a-farmer-in-narmadapuram-has-sown-wheat-across-27-hectares-using-a-super-seeder-a-machine-that-performs-the-tasks-of-tilling-sowing-seeds-and-applying-fertilizer-all-in-one-go/",
+      "important": false
+    },
+    {
+      "id": "d64d42b0",
+      "title": "सूखे की मार झेलने में सक्षम चने की 5 खास किस्में, 106 से 110 दिन में पककर हो जाती हैं तैयार; जानिए खासियत",
+      "summary": "सूखे की मार झेलने में सक्षम चने की 5 खास किस्में, 106 से 110 दिन में पककर हो जाती हैं तैयार; जानिए खासियत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/crop-cultivation/5-special-chickpea-varieties-capable-of-withstanding-drought-they-mature-in-106-to-110-days-learn-about-their-features/",
+      "important": false
+    },
+    {
+      "id": "0d621fad",
+      "title": "शहडोल: अरहर की फसल का निरीक्षण करने पहुंचे दलहन विकास निदेशालय के संयुक्त निदेशक, किसानों को दी उन्नत खेती की जानकारी",
+      "summary": "शहडोल: अरहर की फसल का निरीक्षण करने पहुंचे दलहन विकास निदेशालय के संयुक्त निदेशक, किसानों को दी उन्नत खेती की जानकारी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shahdol-joint-director-of-the-directorate-of-pulses-development-visits-to-inspect-pigeon-pea-arhar-crops-provides-farmers-with-information-on-advanced-cultivation-practices/",
+      "important": false
+    },
+    {
+      "id": "bd7af26e",
+      "title": "रायपुर: अकवान चक्रवात से फसल क्षति पर प्रशासन गंभीर, प्रभावित किसानों को मिलेगा उचित मुआवजा",
+      "summary": "रायपुर: अकवान चक्रवात से फसल क्षति पर प्रशासन गंभीर, प्रभावित किसानों को मिलेगा उचित मुआवजा",
+      "level": "central",
+      "category": "price",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-administration-concerned-over-crop-damage-caused-by-cyclone-akwan-affected-farmers-to-receive-fair-compensation/",
+      "important": false
+    },
+    {
+      "id": "a50ae282",
+      "title": "टमाटर का उत्पादन आधा रहने की आशंका",
+      "summary": "टमाटर का उत्पादन आधा रहने की आशंका",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-23",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/tomato-production-expected-to-be-halved/",
+      "important": false
+    },
     {
       "id": "02ab5ae5",
       "title": "त्रिपुरा में नई आलू किस्म से किसान की पैदावार में 27 प्रतिशत तक बढ़ोतरी",
@@ -462,94 +550,6 @@
       "date": "2026-11-17",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/tikamgarh-balanced-fertilizer-use-will-increase-the-yield-of-rabi-crops-and-reduce-cultivation-costs/",
-      "important": false
-    },
-    {
-      "id": "f5c20d59",
-      "title": "आज का सोयाबीन मंडी रेट (17 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (17 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-17-2026/",
-      "important": false
-    },
-    {
-      "id": "e88e3e51",
-      "title": "आज का गेहूं मंडी रेट (17 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (17 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-17-2026/",
-      "important": false
-    },
-    {
-      "id": "fc5c82e2",
-      "title": "आज का मक्का मंडी रेट (17 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (17 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-17",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-17-2026/",
-      "important": false
-    },
-    {
-      "id": "25aa5d4d",
-      "title": "हरियाणा में जैविक खाद पर 80 प्रतिशत सब्सिडी, पंजीयन जरूरी",
-      "summary": "हरियाणा में जैविक खाद पर 80 प्रतिशत सब्सिडी, पंजीयन जरूरी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/80-subsidy-on-organic-fertilizer-in-haryana-registration-mandatory/",
-      "important": false
-    },
-    {
-      "id": "c8a6a625",
-      "title": "पॉलीहाउस और सोलर फेंसिंग अपनाकर हिमाचल के किसान की कमाई पहुंची 10 लाख रुपये",
-      "summary": "पॉलीहाउस और सोलर फेंसिंग अपनाकर हिमाचल के किसान की कमाई पहुंची 10 लाख रुपये",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/by-adopting-polyhouses-and-solar-fencing-a-farmer-in-himachal-has-reached-an-income-of-rs-10-lakh/",
-      "important": false
-    },
-    {
-      "id": "7c171fad",
-      "title": "गेहूं की बुवाई के बाद गुल्ली डंडा का खतरा, जानिए दवा और मात्रा",
-      "summary": "गेहूं की बुवाई के बाद गुल्ली डंडा का खतरा, जानिए दवा और मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-threat-of-gulli-danda-phalaris-minor-after-wheat-sowing-learn-about-the-appropriate-herbicides-and-their-dosage/",
-      "important": false
-    },
-    {
-      "id": "20b9787a",
-      "title": "आज का गेहूं मंडी रेट (16 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (16 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-16-2026/",
-      "important": false
-    },
-    {
-      "id": "b6beac30",
-      "title": "आज का मक्का मंडी रेट (16 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (16 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-16",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-16-2026/",
       "important": false
     }
   ]
