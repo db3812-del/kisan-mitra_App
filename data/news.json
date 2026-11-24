@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-23T23:39:57Z",
+  "updated": "2026-11-24T09:21:14Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "78ef388f",
+      "title": "बड़वानी : किसानों की रात्रि चौपाल आयोजित",
+      "summary": "बड़वानी : किसानों की रात्रि चौपाल आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/barwani-night-time-meeting-chaupal-for-farmers-organized/",
+      "important": false
+    },
+    {
+      "id": "3d770c14",
+      "title": "अशोकनगर के कलेक्टर ने किया नवीन कृषि उपज मंडी का निरीक्षण",
+      "summary": "अशोकनगर के कलेक्टर ने किया नवीन कृषि उपज मंडी का निरीक्षण",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/ashoknagar-collector-inspected-the-new-agricultural-produce-market-krishi-upaj-mandi/",
+      "important": false
+    },
+    {
+      "id": "677144ec",
+      "title": "झाबुआ : मत्स्य कृषकों के लिए ऑनलाइन जागरूकता कार्यक्रम आयोजित",
+      "summary": "झाबुआ : मत्स्य कृषकों के लिए ऑनलाइन जागरूकता कार्यक्रम आयोजित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/jhabua-online-awareness-program-organized-for-fish-farmers/",
+      "important": false
+    },
+    {
+      "id": "539e81a8",
+      "title": "गुना : ड्रिप-मल्चिंग से सब्जी उत्पादन और नवाचार से खेती को मिली नई रफ्तार",
+      "summary": "गुना : ड्रिप-मल्चिंग से सब्जी उत्पादन और नवाचार से खेती को मिली नई रफ्तार",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/guna-drip-mulching-and-innovation-give-new-momentum-to-vegetable-production-and-farming/",
+      "important": false
+    },
+    {
+      "id": "5acb5d5d",
+      "title": "रायसेन कलेक्टर ने मत्स्य पालन गतिविधियों का लिया जायजा",
+      "summary": "रायसेन कलेक्टर ने मत्स्य पालन गतिविधियों का लिया जायजा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raisen-collector-took-stock-of-fisheries-activities/",
+      "important": false
+    },
+    {
+      "id": "f0253e28",
+      "title": "सीहोर : केंद्रीय कृषि मंत्री ने की विकास कार्यों एवं विभिन्न योजनाओं की समीक्षा",
+      "summary": "सीहोर : केंद्रीय कृषि मंत्री ने की विकास कार्यों एवं विभिन्न योजनाओं की समीक्षा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-union-agriculture-minister-reviews-development-works-and-various-schemes/",
+      "important": false
+    },
+    {
+      "id": "f89fdca0",
+      "title": "सीहोर : दबाव युक्त सिंचाई पर एक दिवसीय कार्यशाला आयोजित",
+      "summary": "सीहोर : दबाव युक्त सिंचाई पर एक दिवसीय कार्यशाला आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sehore-one-day-workshop-on-pressurized-irrigation-organized/",
+      "important": false
+    },
+    {
+      "id": "f9dd7080",
+      "title": "विदिशा : पशुपालन बना आर्थिक आत्मनिर्भरता का आधार",
+      "summary": "विदिशा : पशुपालन बना आर्थिक आत्मनिर्भरता का आधार",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/vidisha-animal-husbandry-becomes-a-foundation-for-economic-self-reliance/",
+      "important": false
+    },
     {
       "id": "88695cf0",
       "title": "देश की पहली स्वदेशी बर्ड फ्लू वैक्सीन भोपाल में राष्ट्र को समर्पित",
@@ -462,94 +550,6 @@
       "date": "2026-11-19",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/risk-of-blight-disease-in-potato-crops-in-punjab-agriculture-department-specifies-treatment-and-dosage/",
-      "important": false
-    },
-    {
-      "id": "2a0b3671",
-      "title": "जबलपुर: रोजेल की खेती कर कैलाश ने की अनूठी पहल",
-      "summary": "जबलपुर: रोजेल की खेती कर कैलाश ने की अनूठी पहल",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jabalpur-kailash-takes-a-unique-initiative-by-cultivating-roselle/",
-      "important": false
-    },
-    {
-      "id": "26e768ce",
-      "title": "Mahindra Mini Tractor: छोटे किसानों के लिए महिंद्रा के 15 से 36 HP तक के ट्रैक्टर, कीमत 3.10 लाख से शुरू",
-      "summary": "Mahindra Mini Tractor: छोटे किसानों के लिए महिंद्रा के 15 से 36 HP तक के ट्रैक्टर, कीमत 3.10 लाख से शुरू",
-      "level": "central",
-      "category": "price",
-      "date": "2026-11-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/mahindra-mini-tractors-mahindras-15-to-36-hp-tractors-for-small-scale-farmers-prices-start-from-%e2%82%b93-10-lakh/",
-      "important": false
-    },
-    {
-      "id": "bb1e49d0",
-      "title": "पहाड़ों में गेहूं की खेती के लिए ये किस्में हैं खास, कम पानी में भी मिलेगी बंपर पैदावार",
-      "summary": "पहाड़ों में गेहूं की खेती के लिए ये किस्में हैं खास, कम पानी में भी मिलेगी बंपर पैदावार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/these-wheat-varieties-are-ideal-for-cultivation-in-the-hills-offering-a-bumper-yield-even-with-limited-water/",
-      "important": false
-    },
-    {
-      "id": "eaf9ec2c",
-      "title": "मध्यप्रदेश में पहली बार सोशल इम्पैक्ट बॉण्ड लागू, 600 युवाओं को जापान और जर्मनी में रोजगार का मौका",
-      "summary": "मध्यप्रदेश में पहली बार सोशल इम्पैक्ट बॉण्ड लागू, 600 युवाओं को जापान और जर्मनी में रोजगार का मौका",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/social-impact-bond-implemented-for-the-first-time-in-madhya-pradesh-600-youths-to-get-employment-opportunities-in-japan-and-germany/",
-      "important": false
-    },
-    {
-      "id": "531ac557",
-      "title": "क्या है मार्केटिंग इंटरवेंशन स्कीम? फसल सस्ती बिकने पर किसानों को मिलेगा अंतर का पैसा, शिवराज सिंह चौहान ने बताए योजना क",
-      "summary": "क्या है मार्केटिंग इंटरवेंशन स्कीम? फसल सस्ती बिकने पर किसानों को मिलेगा अंतर का पैसा, शिवराज सिंह चौहान ने बताए योजना के फायदे",
-      "level": "central",
-      "category": "price",
-      "date": "2026-11-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/what-is-the-marketing-intervention-scheme-farmers-will-receive-the-price-difference-if-their-crops-are-sold-at-low-rates-shivraj-singh-chouhan-explains-the-benefits-of-the-scheme/",
-      "important": false
-    },
-    {
-      "id": "64d0cb97",
-      "title": "आज का गेहूं मंडी रेट (18 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (18 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-18-2026/",
-      "important": false
-    },
-    {
-      "id": "e1d147d5",
-      "title": "आज का धान मंडी रेट (18 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (18 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-18-2026/",
-      "important": false
-    },
-    {
-      "id": "3d7341ff",
-      "title": "आज का मक्का मंडी रेट (18 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (18 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-18",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-18-2026/",
       "important": false
     }
   ]
