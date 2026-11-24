@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-24T09:21:14Z",
+  "updated": "2026-11-24T22:11:15Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "aad775dc",
+      "title": "ड्रैगन फ्रूट की खेती में कमलेश को मिली कामयाबी",
+      "summary": "ड्रैगन फ्रूट की खेती में कमलेश को मिली कामयाबी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kamlesh-finds-success-in-dragon-fruit-cultivation/",
+      "important": false
+    },
+    {
+      "id": "190b2e6d",
+      "title": "आज का सोयाबीन मंडी रेट (24 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (24 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-24-2026/",
+      "important": false
+    },
+    {
+      "id": "962a9e9f",
+      "title": "आज का गेहूं मंडी रेट (24 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (24 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-24-2026/",
+      "important": false
+    },
+    {
+      "id": "5ba922fb",
+      "title": "आज का मक्का मंडी रेट (24 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (24 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-november-24-2026/",
+      "important": false
+    },
+    {
+      "id": "87fb4a7f",
+      "title": "SFIA इंडिया और CCPIT CHEM चीन के बीच रणनीतिक साझेदारी, कृषि उद्योग में सहयोग को मिलेगा बढ़ावा",
+      "summary": "SFIA इंडिया और CCPIT CHEM चीन के बीच रणनीतिक साझेदारी, कृषि उद्योग में सहयोग को मिलेगा बढ़ावा",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/strategic-partnership-between-sfia-india-and-ccpit-chem-china-to-boost-cooperation-in-the-agricultural-industry/",
+      "important": false
+    },
+    {
+      "id": "d54289ac",
+      "title": "आज का धान मंडी रेट (24 नवंबर 2026)",
+      "summary": "आज का धान मंडी रेट (24 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-24-2026/",
+      "important": false
+    },
+    {
+      "id": "b854b883",
+      "title": "डॉ. अशोक गुप्ता ईगल सीड्स में नेशनल सेल्स एंड मार्केटिंग मैनेजर नियुक्त",
+      "summary": "डॉ. अशोक गुप्ता ईगल सीड्स में नेशनल सेल्स एंड मार्केटिंग मैनेजर नियुक्त",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/industry-news/dr-ashok-gupta-appointed-as-national-sales-and-marketing-manager-at-eagle-seeds/",
+      "important": false
+    },
+    {
+      "id": "bf0ea1d0",
+      "title": "डॉ. अनिल दीक्षित स्वर्ण पदक से सम्मानित",
+      "summary": "डॉ. अनिल दीक्षित स्वर्ण पदक से सम्मानित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-24",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/dr-anil-dixit-awarded-a-gold-medal/",
+      "important": false
+    },
     {
       "id": "78ef388f",
       "title": "बड़वानी : किसानों की रात्रि चौपाल आयोजित",
@@ -462,94 +550,6 @@
       "date": "2026-11-20",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/sc-farmers-in-haryana-will-receive-a-subsidy-of-up-to-rs-3-lakh-for-the-purchase-of-a-tractor/",
-      "important": false
-    },
-    {
-      "id": "b0b4736b",
-      "title": "आज का सोयाबीन मंडी रेट (20 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (20 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-20-2026/",
-      "important": false
-    },
-    {
-      "id": "f04a4b1c",
-      "title": "आज का गेहूं मंडी रेट (20 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (20 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-20-2026/",
-      "important": false
-    },
-    {
-      "id": "af0e0619",
-      "title": "आज का मक्का मंडी रेट (20 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (20 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rates-november-20-2026/",
-      "important": false
-    },
-    {
-      "id": "25314c6f",
-      "title": "उत्तर प्रदेश में राज्य पशुधन मिशन शुरू, देशी गाय खरीदने पर मिलेगी ₹40,000 तक की सब्सिडी",
-      "summary": "उत्तर प्रदेश में राज्य पशुधन मिशन शुरू, देशी गाय खरीदने पर मिलेगी ₹40,000 तक की सब्सिडी",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/state-livestock-mission-launched-in-uttar-pradesh-a-subsidy-of-up-to-%e2%82%b940000-will-be-provided-for-the-purchase-of-indigenous-cows/",
-      "important": false
-    },
-    {
-      "id": "204ee454",
-      "title": "गुजरात के महेश पिपरिया ने परंपरागत खेती छोड़ी, गुलाब-गेंदे की जैविक खेती से बना ली ₹50 लाख से ज्यादा की टर्नओवर कंपनी",
-      "summary": "गुजरात के महेश पिपरिया ने परंपरागत खेती छोड़ी, गुलाब-गेंदे की जैविक खेती से बना ली ₹50 लाख से ज्यादा की टर्नओवर कंपनी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/mahesh-pipariya-from-gujarat-moved-away-from-traditional-farming-and-built-a-company-with-a-turnover-of-over-%e2%82%b950-lakh-through-the-organic-cultivation-of-roses-and-marigolds/",
-      "important": false
-    },
-    {
-      "id": "56438f79",
-      "title": "हिमाचल के कांगड़ा जिले में किसान कृपाल सिंह जैविक सब्जियों और डेयरी से कमा रहे ₹4 लाख सालाना मुनाफा",
-      "summary": "हिमाचल के कांगड़ा जिले में किसान कृपाल सिंह जैविक सब्जियों और डेयरी से कमा रहे ₹4 लाख सालाना मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/in-the-kangra-district-of-himachal-farmer-kripal-singh-is-earning-an-annual-profit-of-%e2%82%b94-lakh-from-organic-vegetables-and-dairy/",
-      "important": false
-    },
-    {
-      "id": "fc2ed2ee",
-      "title": "पंजाब में नींबू की फसल पर कैंकर रोग का प्रकोप, जानें बचाव की सही दवा और तरीका",
-      "summary": "पंजाब में नींबू की फसल पर कैंकर रोग का प्रकोप, जानें बचाव की सही दवा और तरीका",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/outbreak-of-canker-disease-in-lemon-crops-in-punjab-learn-about-the-right-treatment-and-methods-for-prevention/",
-      "important": false
-    },
-    {
-      "id": "23020709",
-      "title": "पंजाब में आलू की फसल पर झुलसा रोग का खतरा, कृषि विभाग ने बताई दवा और मात्रा",
-      "summary": "पंजाब में आलू की फसल पर झुलसा रोग का खतरा, कृषि विभाग ने बताई दवा और मात्रा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-19",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-blight-disease-in-potato-crops-in-punjab-agriculture-department-specifies-treatment-and-dosage/",
       "important": false
     }
   ]
