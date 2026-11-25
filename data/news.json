@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-24T22:11:15Z",
+  "updated": "2026-11-25T07:54:30Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "e45d6942",
+      "title": "सिवनी-छिंदवाड़ा में बढ़ेगी सिंचाई सुविधा, 3 लाख हेक्टेयर अतिरिक्त क्षेत्र को मिलेगा पानी",
+      "summary": "सिवनी-छिंदवाड़ा में बढ़ेगी सिंचाई सुविधा, 3 लाख हेक्टेयर अतिरिक्त क्षेत्र को मिलेगा पानी",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/irrigation-facilities-to-be-expanded-in-seoni-chhindwara-an-additional-3-lakh-hectares-of-land-will-receive-water/",
+      "important": false
+    },
+    {
+      "id": "d2f114cf",
+      "title": "हरदा में 25 से 27 नवंबर तक लगेंगी किसान चौपाल, खेती से जुड़ी योजनाओं की मिलेगी जानकारी",
+      "summary": "हरदा में 25 से 27 नवंबर तक लगेंगी किसान चौपाल, खेती से जुड़ी योजनाओं की मिलेगी जानकारी",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/kisan-chaupals-farmers-gatherings-will-be-held-in-harda-from-november-25-to-27-where-information-regarding-agriculture-related-schemes-will-be-provided/",
+      "important": false
+    },
+    {
+      "id": "c096d3af",
+      "title": "आगर मालवा में 20 हजार हेक्टेयर में माइक्रो इरीगेशन का लक्ष्य, किसानों को मिलेगा 55% तक अनुदान",
+      "summary": "आगर मालवा में 20 हजार हेक्टेयर में माइक्रो इरीगेशन का लक्ष्य, किसानों को मिलेगा 55% तक अनुदान",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/target-set-for-micro-irrigation-across-20000-hectares-in-agar-malwa-farmers-to-receive-subsidies-of-up-to-55/",
+      "important": false
+    },
+    {
+      "id": "1039b5c4",
+      "title": "अनूपपुर में मखाना की खेती को मिलेगा बढ़ावा, प्रशिक्षण के लिए 5 किसानों का दल रायपुर रवाना",
+      "summary": "अनूपपुर में मखाना की खेती को मिलेगा बढ़ावा, प्रशिक्षण के लिए 5 किसानों का दल रायपुर रवाना",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/makhana-cultivation-to-be-promoted-in-anuppur-a-group-of-5-farmers-leaves-for-raipur-for-training/",
+      "important": false
+    },
+    {
+      "id": "7265a6cb",
+      "title": "राष्ट्रीय दुग्ध दिवस पर दिए जाएंगे गोपाल रत्न पुरस्कार, डेयरी क्षेत्र की कई परियोजनाओं का होगा लोकार्पण",
+      "summary": "राष्ट्रीय दुग्ध दिवस पर दिए जाएंगे गोपाल रत्न पुरस्कार, डेयरी क्षेत्र की कई परियोजनाओं का होगा लोकार्पण",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/gopal-ratna-awards-will-be-presented-on-national-milk-day-and-several-projects-in-the-dairy-sector-will-be-inaugurated/",
+      "important": false
+    },
+    {
+      "id": "eb1ba657",
+      "title": "रबी सीजन में नकली बीजों की बिक्री पर कृषि विभाग सख्त, उमरिया में बीज विक्रय केंद्रों की जांच शुरू",
+      "summary": "रबी सीजन में नकली बीजों की बिक्री पर कृषि विभाग सख्त, उमरिया में बीज विक्रय केंद्रों की जांच शुरू",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agriculture-department-takes-a-strict-stance-against-the-sale-of-spurious-seeds-during-the-rabi-season-inspections-of-seed-retail-outlets-begin-in-umaria/",
+      "important": false
+    },
+    {
+      "id": "7b7a0e47",
+      "title": "सीधी की सविता ने सब्जी उत्पादन से बदली परिवार की जिंदगी, हर महीने कमा रहीं 14 हजार रुपये",
+      "summary": "सीधी की सविता ने सब्जी उत्पादन से बदली परिवार की जिंदगी, हर महीने कमा रहीं 14 हजार रुपये",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/savita-from-sidhi-has-transformed-her-familys-life-through-vegetable-cultivation-earning-14000-rupees-every-month/",
+      "important": false
+    },
+    {
+      "id": "b9dfe021",
+      "title": "सतना में धान खरीदी के लिए 1.60 लाख मीट्रिक टन क्षमता के ओपन कैप बनाने की तैयारी",
+      "summary": "सतना में धान खरीदी के लिए 1.60 लाख मीट्रिक टन क्षमता के ओपन कैप बनाने की तैयारी",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/preparations-underway-in-satna-to-set-up-open-cap-storage-facilities-with-a-capacity-of-1-60-lakh-metric-tonnes-for-paddy-procurement/",
+      "important": false
+    },
     {
       "id": "aad775dc",
       "title": "ड्रैगन फ्रूट की खेती में कमलेश को मिली कामयाबी",
@@ -462,94 +550,6 @@
       "date": "2026-11-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/raipur-report-damage-to-paddy-crops-caused-by-unseasonal-rain-within-72-hours-to-avail-insurance-benefits/",
-      "important": false
-    },
-    {
-      "id": "756068a1",
-      "title": "मध्यप्रदेश में गेहूं की इन 5 किस्मों से मिलेगी बंपर पैदावार, 70 क्विंटल/हेक्टेयर तक क्षमता",
-      "summary": "मध्यप्रदेश में गेहूं की इन 5 किस्मों से मिलेगी बंपर पैदावार, 70 क्विंटल/हेक्टेयर तक क्षमता",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/these-5-wheat-varieties-in-madhya-pradesh-will-deliver-a-bumper-yield-with-a-potential-of-up-to-70-quintals-per-hectare/",
-      "important": false
-    },
-    {
-      "id": "d3939df7",
-      "title": "15-24 HP ट्रैक्टर से चलेगी धान थ्रेशर मशीन, एक घंटे में 800 किलो तक अनाज निकालने की क्षमता",
-      "summary": "15-24 HP ट्रैक्टर से चलेगी धान थ्रेशर मशीन, एक घंटे में 800 किलो तक अनाज निकालने की क्षमता",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/the-paddy-thresher-machine-can-be-operated-by-a-15-24-hp-tractor-and-has-the-capacity-to-process-up-to-800-kg-of-grain-per-hour/",
-      "important": false
-    },
-    {
-      "id": "5e1b864c",
-      "title": "संकटग्रस्त ज़ेब्रा लोच मछली क्या खाती है? पश्चिमी घाट में हुए शोध से सामने आए इसके प्राकृतिक भोजन के रहस्य",
-      "summary": "संकटग्रस्त ज़ेब्रा लोच मछली क्या खाती है? पश्चिमी घाट में हुए शोध से सामने आए इसके प्राकृतिक भोजन के रहस्य",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/what-does-the-endangered-zebra-loach-eat-research-in-the-western-ghats-reveals-the-secrets-of-its-natural-diet/",
-      "important": false
-    },
-    {
-      "id": "c9cadd5f",
-      "title": "बूढ़े होते किसान, खाली होते गांव! खेती का भविष्य किसके हाथ में?",
-      "summary": "बूढ़े होते किसान, खाली होते गांव! खेती का भविष्य किसके हाथ में?",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/editorial/aging-farmers-emptying-villages-in-whose-hands-does-the-future-of-farming-lie/",
-      "important": false
-    },
-    {
-      "id": "649e5aee",
-      "title": "खेती के तौर-तरीकों में बदलाव समय की मांग, किसान को अन्नदाता के साथ व्यापारी भी बनना होगा, तभी आएगी समृद्धि  – डॉ. अशोक  ",
-      "summary": "खेती के तौर-तरीकों में बदलाव समय की मांग, किसान को अन्नदाता के साथ व्यापारी भी बनना होगा, तभी आएगी समृद्धि  – डॉ. अशोक  लहरी,उपाध्यक्ष, नीति आयोग",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/changing-agricultural-practices-is-the-need-of-the-hour-farmers-must-evolve-from-being-mere-food-providers-into-entrepreneurs-only-then-will-prosperity-follow-dr-ashok-lahiri-vic/",
-      "important": false
-    },
-    {
-      "id": "43600109",
-      "title": "खेती से आगे बढ़कर कृषि उद्यमिता की राह पर मध्यप्रदेश के किसान, बढ़ रही आय और रोजगार के अवसर",
-      "summary": "खेती से आगे बढ़कर कृषि उद्यमिता की राह पर मध्यप्रदेश के किसान, बढ़ रही आय और रोजगार के अवसर",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-madhya-pradesh-are-moving-beyond-traditional-farming-toward-agricultural-entrepreneurship-leading-to-increased-incomes-and-employment-opportunities/",
-      "important": false
-    },
-    {
-      "id": "072728f4",
-      "title": "देश में 1,000 से अधिक सामुदायिक बीज बैंक, 652 की डिजिटल एटलस में हुई मैपिंग",
-      "summary": "देश में 1,000 से अधिक सामुदायिक बीज बैंक, 652 की डिजिटल एटलस में हुई मैपिंग",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/more-than-1000-community-seed-banks-exist-in-the-country-652-have-been-mapped-in-a-digital-atlas/",
-      "important": false
-    },
-    {
-      "id": "3b00140a",
-      "title": "हरियाणा के SC किसानों को ट्रैक्टर खरीदने पर मिलेगा 3 लाख रुपये तक अनुदान",
-      "summary": "हरियाणा के SC किसानों को ट्रैक्टर खरीदने पर मिलेगा 3 लाख रुपये तक अनुदान",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-20",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sc-farmers-in-haryana-will-receive-a-subsidy-of-up-to-rs-3-lakh-for-the-purchase-of-a-tractor/",
       "important": false
     }
   ]
