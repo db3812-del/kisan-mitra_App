@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-25T07:54:30Z",
+  "updated": "2026-11-25T21:27:11Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "c1821d72",
+      "title": "आज का मक्का मंडी रेट (25 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (25 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-november-25-2026/",
+      "important": false
+    },
+    {
+      "id": "1f7061e3",
+      "title": "आज का सोयाबीन मंडी रेट (25 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (25 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-mandi-rate-november-25-2026/",
+      "important": false
+    },
+    {
+      "id": "104c1bea",
+      "title": "आज का गेहूं मंडी रेट (25 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (25 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-25-2026/",
+      "important": false
+    },
+    {
+      "id": "59ae010e",
+      "title": "श्योपुर : प्रेशराइज्ड सिंचाई परियोजनाओं हेतु चिन्हित ग्रामों में लगेंगे शिविर",
+      "summary": "श्योपुर : प्रेशराइज्ड सिंचाई परियोजनाओं हेतु चिन्हित ग्रामों में लगेंगे शिविर",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sheopur-camps-to-be-held-in-villages-identified-for-pressurized-irrigation-projects/",
+      "important": false
+    },
+    {
+      "id": "2ebf9367",
+      "title": "श्योपुर : नकदी फसलों से जुड़कर किसान कर रहे कपास की खेती",
+      "summary": "श्योपुर : नकदी फसलों से जुड़कर किसान कर रहे कपास की खेती",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sheopur-farmers-are-cultivating-cotton-by-shifting-to-cash-crops/",
+      "important": false
+    },
+    {
+      "id": "2d46a57e",
+      "title": "श्योपुर : पराली प्रबंधन की दिशा में बढ़ रहे किसान",
+      "summary": "श्योपुर : पराली प्रबंधन की दिशा में बढ़ रहे किसान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/sheopur-farmers-moving-towards-stubble-management/",
+      "important": false
+    },
+    {
+      "id": "c02acc2c",
+      "title": "धानुका द्वारा बेरछा में किसान गोष्ठी आयोजित",
+      "summary": "धानुका द्वारा बेरछा में किसान गोष्ठी आयोजित",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-meeting-organized-by-dhanuka-in-berchha/",
+      "important": false
+    },
+    {
+      "id": "e70b1186",
+      "title": "छिंदवाड़ा : चारगांव कर्बल में कृषक संगोष्ठी आयोजित",
+      "summary": "छिंदवाड़ा : चारगांव कर्बल में कृषक संगोष्ठी आयोजित",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-25",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/chhindwara-farmers-seminar-organized-in-chargawan-karbal/",
+      "important": false
+    },
     {
       "id": "e45d6942",
       "title": "सिवनी-छिंदवाड़ा में बढ़ेगी सिंचाई सुविधा, 3 लाख हेक्टेयर अतिरिक्त क्षेत्र को मिलेगा पानी",
@@ -462,94 +550,6 @@
       "date": "2026-11-21",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/early-season-potato-crop-hit-by-blight-agriculture-department-suggests-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "a67a3576",
-      "title": "सरसों में माहू कीट और गेहूं में पीली गेरूई का खतरा, कृषि विभाग ने जारी की सलाह",
-      "summary": "सरसों में माहू कीट और गेहूं में पीली गेरूई का खतरा, कृषि विभाग ने जारी की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/risk-of-aphid-infestation-in-mustard-and-yellow-rust-in-wheat-agriculture-department-issues-advisory/",
-      "important": false
-    },
-    {
-      "id": "94ca50b2",
-      "title": "आज का गेहूं मंडी रेट (21 नवंबर 2026)",
-      "summary": "आज का गेहूं मंडी रेट (21 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-21-2026/",
-      "important": false
-    },
-    {
-      "id": "1f0a52c7",
-      "title": "आज का मक्का मंडी रेट (21 नवंबर 2026)",
-      "summary": "आज का मक्का मंडी रेट (21 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-november-21-2026/",
-      "important": false
-    },
-    {
-      "id": "5c7929ba",
-      "title": "आज का धान मंडी रेट (21 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (21 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-21-2026/",
-      "important": false
-    },
-    {
-      "id": "99ffff5c",
-      "title": "आज का सोयाबीन मंडी रेट (21 नवंबर 2026)",
-      "summary": "आज का सोयाबीन मंडी रेट (21 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-21-2026/",
-      "important": false
-    },
-    {
-      "id": "643cfcf5",
-      "title": "किसानों की निजी भूमि बिना सूचना और सुनवाई के सरकारी भूमि में दर्ज़",
-      "summary": "किसानों की निजी भूमि बिना सूचना और सुनवाई के सरकारी भूमि में दर्ज़",
-      "level": "central",
-      "category": "price",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-private-land-recorded-as-government-land-without-notice-or-a-hearing/",
-      "important": false
-    },
-    {
-      "id": "79dbc6c8",
-      "title": "बेमेतरा: पहली बार मार्कफेड के जरिए समर्थन मूल्य पर होगी कोदो, कुटकी और रागी की खरीदी",
-      "summary": "बेमेतरा: पहली बार मार्कफेड के जरिए समर्थन मूल्य पर होगी कोदो, कुटकी और रागी की खरीदी",
-      "level": "central",
-      "category": "price",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/bemetara-for-the-first-time-kodo-kutki-and-ragi-will-be-procured-at-the-minimum-support-price-msp-through-markfed/",
-      "important": true
-    },
-    {
-      "id": "83ecfb3e",
-      "title": "रायपुर: बेमौसम बारिश से धान की फसल को नुकसान पर 72 घंटे में दें सूचना, मिलेगा बीमा का लाभ",
-      "summary": "रायपुर: बेमौसम बारिश से धान की फसल को नुकसान पर 72 घंटे में दें सूचना, मिलेगा बीमा का लाभ",
-      "level": "central",
-      "category": "price",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-report-damage-to-paddy-crops-caused-by-unseasonal-rain-within-72-hours-to-avail-insurance-benefits/",
       "important": false
     }
   ]
