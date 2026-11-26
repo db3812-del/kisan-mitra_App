@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-25T21:27:11Z",
+  "updated": "2026-11-26T07:45:43Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "0623d2d4",
+      "title": "उद्यानिकी फसलों से मालामाल हो रहे हरदा जिले के किसान",
+      "summary": "उद्यानिकी फसलों से मालामाल हो रहे हरदा जिले के किसान",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-in-harda-district-are-prospering-through-horticultural-crops/",
+      "important": false
+    },
+    {
+      "id": "030d5483",
+      "title": "नर्मदापुरम: बीज निगम प्रक्षेत्र बाबई में पहली बार सुपर सीडर से हुई गेहूं की बोनी",
+      "summary": "नर्मदापुरम: बीज निगम प्रक्षेत्र बाबई में पहली बार सुपर सीडर से हुई गेहूं की बोनी",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/narmadapuram-wheat-sown-using-a-super-seeder-for-the-first-time-at-the-seed-corporation-farm-in-babai/",
+      "important": false
+    },
+    {
+      "id": "d9fcc489",
+      "title": "हरदा: 25 से 27 नवंबर तक जिले में आयोजित होंगी किसान चौपाल",
+      "summary": "हरदा: 25 से 27 नवंबर तक जिले में आयोजित होंगी किसान चौपाल",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/harda-kisan-chaupals-farmers-gatherings-to-be-held-in-the-district-from-november-25-to-27/",
+      "important": false
+    },
+    {
+      "id": "7ddfacf1",
+      "title": "गौतमपुरा में किसान मिलन एवं सम्मान समारोह आयोजित",
+      "summary": "गौतमपुरा में किसान मिलन एवं सम्मान समारोह आयोजित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/farmers-meet-and-felicitation-ceremony-held-in-gautampura/",
+      "important": false
+    },
+    {
+      "id": "3a14e3db",
+      "title": "चौथे अंतरराष्ट्रीय खरपतवार सम्मेलन में जलवायु-सहिष्णु कृषि के लिए नवाचारों पर जोर",
+      "summary": "चौथे अंतरराष्ट्रीय खरपतवार सम्मेलन में जलवायु-सहिष्णु कृषि के लिए नवाचारों पर जोर",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/emphasis-on-innovations-for-climate-resilient-agriculture-at-the-4th-international-weed-conference/",
+      "important": false
+    },
+    {
+      "id": "c5f54848",
+      "title": "राजगढ़: बावली में नए विद्युत उपकेंद्र का लोकार्पण, 11 गांवों के 800 घरों और 700 कृषि पंपों को मिलेगी बेहतर बिजली सुविधा",
+      "summary": "राजगढ़: बावली में नए विद्युत उपकेंद्र का लोकार्पण, 11 गांवों के 800 घरों और 700 कृषि पंपों को मिलेगी बेहतर बिजली सुविधा",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/rajgarh-new-electricity-substation-inaugurated-in-bawali-800-households-and-700-agricultural-pumps-across-11-villages-to-benefit-from-improved-power-supply-2/",
+      "important": false
+    },
+    {
+      "id": "df20aca6",
+      "title": "छत्तीसगढ़ में धान खरीदी तेज, अब तक 5.64 लाख क्विंटल धान का हुआ उपार्जन",
+      "summary": "छत्तीसगढ़ में धान खरीदी तेज, अब तक 5.64 लाख क्विंटल धान का हुआ उपार्जन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/paddy-procurement-picks-up-pace-in-chhattisgarh-5-64-lakh-quintals-of-paddy-procured-so-far/",
+      "important": false
+    },
+    {
+      "id": "9c8b7875",
+      "title": "खाद्यान्न उत्पादन का नया रिकॉर्ड देश में 3785लाख टन से अधिक पहुंचा उत्पादन",
+      "summary": "खाद्यान्न उत्पादन का नया रिकॉर्ड देश में 3785लाख टन से अधिक पहुंचा उत्पादन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/new-record-in-food-grain-production-national-output-crosses-378-5-lakh-tonnes/",
+      "important": false
+    },
     {
       "id": "c1821d72",
       "title": "आज का मक्का मंडी रेट (25 नवंबर 2026)",
@@ -462,94 +550,6 @@
       "date": "2026-11-23",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/farmers-in-himachal-have-turned-barren-land-into-gold-using-crop-stubble-they-are-growing-potatoes-without-the-need-for-irrigation-or-tilling-and-stand-to-double-their-profits/",
-      "important": false
-    },
-    {
-      "id": "ac96404b",
-      "title": "मध्य प्रदेश की खेती में डिजिटल क्रांति: एग्रीस्टैक के प्रभावी उपयोग के लिए बनी विशेष समिति",
-      "summary": "मध्य प्रदेश की खेती में डिजिटल क्रांति: एग्रीस्टैक के प्रभावी उपयोग के लिए बनी विशेष समिति",
-      "level": "state",
-      "category": "price",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/digital-revolution-in-madhya-pradesh-agriculture-special-committee-formed-for-effective-use-of-agristack/",
-      "important": false
-    },
-    {
-      "id": "51157658",
-      "title": "नर्मदापुरम के किसान ने 27 हेक्टेयर में की सुपर सीडर से गेहूं की बोनी, एक साथ पूरा हो रहा जुताई और बीज-खाद डालने का काम",
-      "summary": "नर्मदापुरम के किसान ने 27 हेक्टेयर में की सुपर सीडर से गेहूं की बोनी, एक साथ पूरा हो रहा जुताई और बीज-खाद डालने का काम",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/a-farmer-in-narmadapuram-has-sown-wheat-across-27-hectares-using-a-super-seeder-a-machine-that-performs-the-tasks-of-tilling-sowing-seeds-and-applying-fertilizer-all-in-one-go/",
-      "important": false
-    },
-    {
-      "id": "d64d42b0",
-      "title": "सूखे की मार झेलने में सक्षम चने की 5 खास किस्में, 106 से 110 दिन में पककर हो जाती हैं तैयार; जानिए खासियत",
-      "summary": "सूखे की मार झेलने में सक्षम चने की 5 खास किस्में, 106 से 110 दिन में पककर हो जाती हैं तैयार; जानिए खासियत",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/crop-cultivation/5-special-chickpea-varieties-capable-of-withstanding-drought-they-mature-in-106-to-110-days-learn-about-their-features/",
-      "important": false
-    },
-    {
-      "id": "0d621fad",
-      "title": "शहडोल: अरहर की फसल का निरीक्षण करने पहुंचे दलहन विकास निदेशालय के संयुक्त निदेशक, किसानों को दी उन्नत खेती की जानकारी",
-      "summary": "शहडोल: अरहर की फसल का निरीक्षण करने पहुंचे दलहन विकास निदेशालय के संयुक्त निदेशक, किसानों को दी उन्नत खेती की जानकारी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/shahdol-joint-director-of-the-directorate-of-pulses-development-visits-to-inspect-pigeon-pea-arhar-crops-provides-farmers-with-information-on-advanced-cultivation-practices/",
-      "important": false
-    },
-    {
-      "id": "bd7af26e",
-      "title": "रायपुर: अकवान चक्रवात से फसल क्षति पर प्रशासन गंभीर, प्रभावित किसानों को मिलेगा उचित मुआवजा",
-      "summary": "रायपुर: अकवान चक्रवात से फसल क्षति पर प्रशासन गंभीर, प्रभावित किसानों को मिलेगा उचित मुआवजा",
-      "level": "central",
-      "category": "price",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raipur-administration-concerned-over-crop-damage-caused-by-cyclone-akwan-affected-farmers-to-receive-fair-compensation/",
-      "important": false
-    },
-    {
-      "id": "a50ae282",
-      "title": "टमाटर का उत्पादन आधा रहने की आशंका",
-      "summary": "टमाटर का उत्पादन आधा रहने की आशंका",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/tomato-production-expected-to-be-halved/",
-      "important": false
-    },
-    {
-      "id": "02ab5ae5",
-      "title": "त्रिपुरा में नई आलू किस्म से किसान की पैदावार में 27 प्रतिशत तक बढ़ोतरी",
-      "summary": "त्रिपुरा में नई आलू किस्म से किसान की पैदावार में 27 प्रतिशत तक बढ़ोतरी",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/new-potato-variety-leads-to-up-to-27-percent-increase-in-farmers-yields-in-tripura/",
-      "important": false
-    },
-    {
-      "id": "29fbec7a",
-      "title": "आलू की अगेती फसल पर झुलसा रोग का हमला, कृषि विभाग ने बताया बचाव का तरीका",
-      "summary": "आलू की अगेती फसल पर झुलसा रोग का हमला, कृषि विभाग ने बताया बचाव का तरीका",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-21",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/early-season-potato-crop-hit-by-blight-agriculture-department-suggests-preventive-measures/",
       "important": false
     }
   ]
