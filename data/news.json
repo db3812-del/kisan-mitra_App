@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-26T07:45:43Z",
-  "new_count": 8,
+  "updated": "2026-11-26T21:14:34Z",
+  "new_count": 6,
   "articles": [
+    {
+      "id": "d135c9a2",
+      "title": "कृषि विकास और किसान कल्याण के मुद्दों पर केंद्र-राज्य के बीच मंथन",
+      "summary": "कृषि विकास और किसान कल्याण के मुद्दों पर केंद्र-राज्य के बीच मंथन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/deliberations-between-the-centre-and-states-on-issues-of-agricultural-development-and-farmers-welfare/",
+      "important": false
+    },
+    {
+      "id": "9f5744fd",
+      "title": "दुधारू पशु प्रदाय योजना की होगी प्रभावी मॉनिटरिंग, पशुपालकों को मिले प्रशिक्षण और दूध बेचने की बेहतर सुविधा",
+      "summary": "दुधारू पशु प्रदाय योजना की होगी प्रभावी मॉनिटरिंग, पशुपालकों को मिले प्रशिक्षण और दूध बेचने की बेहतर सुविधा",
+      "level": "state",
+      "category": "price",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-milch-animal-provision-scheme-will-be-monitored-effectively-livestock-farmers-should-receive-training-and-better-facilities-for-selling-milk/",
+      "important": false
+    },
+    {
+      "id": "707a4064",
+      "title": "आज का गेहूं मंडी रेट (26 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (26 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-26-2026/",
+      "important": false
+    },
+    {
+      "id": "5c4c3b99",
+      "title": "आज का मक्का मंडी रेट (26 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (26 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-26-november-2026/",
+      "important": false
+    },
+    {
+      "id": "ff05da2e",
+      "title": "आज का सोयाबीन मंडी रेट (26 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (26 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-26-2026/",
+      "important": false
+    },
+    {
+      "id": "0e0cfd3f",
+      "title": "मंदसौर में 350 सरसों मॉडल फार्म स्थापित, किसानों को प्रशिक्षण के साथ वितरित किए कृषि इनपुट",
+      "summary": "मंदसौर में 350 सरसों मॉडल फार्म स्थापित, किसानों को प्रशिक्षण के साथ वितरित किए कृषि इनपुट",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-26",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/350-mustard-model-farms-established-in-mandsaur-agricultural-inputs-distributed-to-farmers-along-with-training/",
+      "important": false
+    },
     {
       "id": "0623d2d4",
       "title": "उद्यानिकी फसलों से मालामाल हो रहे हरदा जिले के किसान",
@@ -484,72 +550,6 @@
       "date": "2026-11-23",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/national-news/satyawan-from-delhi-earns-an-annual-income-of-rs-18-20-lakh-from-organic-farming-dairy-and-an-onion-nursery/",
-      "important": false
-    },
-    {
-      "id": "f68dbd6d",
-      "title": "चने की फसल पर मंडराया फली छेदक कीट का खतरा, कृषि विभाग ने बताए बचाव के उपाय",
-      "summary": "चने की फसल पर मंडराया फली छेदक कीट का खतरा, कृषि विभाग ने बताए बचाव के उपाय",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/threat-of-pod-borer-pest-looms-over-chickpea-crop-agriculture-department-suggests-preventive-measures/",
-      "important": false
-    },
-    {
-      "id": "ddf65b40",
-      "title": "टमाटर, मिर्च और पपीते में फैल रहा पत्ती मरोड़ रोग, किसानों को दी गई छिड़काव की सलाह",
-      "summary": "टमाटर, मिर्च और पपीते में फैल रहा पत्ती मरोड़ रोग, किसानों को दी गई छिड़काव की सलाह",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/leaf-curl-disease-is-spreading-in-tomatoes-chillies-and-papayas-farmers-have-been-advised-to-carry-out-spraying/",
-      "important": false
-    },
-    {
-      "id": "3d9b47a3",
-      "title": "आत्मा गवर्निंग बोर्ड बैठक में नवाचार बढ़ाने पर जोर",
-      "summary": "आत्मा गवर्निंग बोर्ड बैठक में नवाचार बढ़ाने पर जोर",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/emphasis-on-fostering-innovation-at-atma-governing-board-meeting/",
-      "important": false
-    },
-    {
-      "id": "fdb91103",
-      "title": "खाता सुरक्षा में बैंको का कमजोर तंत्र",
-      "summary": "खाता सुरक्षा में बैंको का कमजोर तंत्र",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/banks-weak-systems-for-account-security/",
-      "important": false
-    },
-    {
-      "id": "25494397",
-      "title": "हरदा: 105 एकड़ में मिर्च की खेती से किसान को सालाना 2.5 करोड़ तक का फायदा, विदेशों तक पहुंच रही उपज",
-      "summary": "हरदा: 105 एकड़ में मिर्च की खेती से किसान को सालाना 2.5 करोड़ तक का फायदा, विदेशों तक पहुंच रही उपज",
-      "level": "state",
-      "category": "market",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/harda-farmer-earns-up-to-%e2%82%b92-5-crore-annually-from-chilli-cultivation-across-105-acres-produce-reaching-international-markets/",
-      "important": false
-    },
-    {
-      "id": "57ff53dc",
-      "title": "पराली से बंजर जमीन को हिमाचल के किसानों ने बनाया ‘सोना’, बिना सिंचाई और जुताई के उगा रहे आलू; मिलेगा डबल मुनाफा",
-      "summary": "पराली से बंजर जमीन को हिमाचल के किसानों ने बनाया ‘सोना’, बिना सिंचाई और जुताई के उगा रहे आलू; मिलेगा डबल मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/farmers-in-himachal-have-turned-barren-land-into-gold-using-crop-stubble-they-are-growing-potatoes-without-the-need-for-irrigation-or-tilling-and-stand-to-double-their-profits/",
       "important": false
     }
   ]
