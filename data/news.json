@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-27T07:44:39Z",
-  "new_count": 0,
+  "updated": "2026-11-27T20:56:49Z",
+  "new_count": 8,
   "articles": [
+    {
+      "id": "efc28039",
+      "title": "भारत के कृषि उत्पादन में नया कीर्तिमान, 2025-26 में रिकॉर्ड 3785.38 लाख टन पहुंचा खाद्यान्न उत्पादन",
+      "summary": "भारत के कृषि उत्पादन में नया कीर्तिमान, 2025-26 में रिकॉर्ड 3785.38 लाख टन पहुंचा खाद्यान्न उत्पादन",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/new-milestone-in-indias-agricultural-production-foodgrain-output-reaches-a-record-3785-38-lakh-tonnes-in-2025-26/",
+      "important": false
+    },
+    {
+      "id": "60a3e934",
+      "title": "छत्तीसगढ़ के सुगंधित चावल की वैश्विक ब्रांडिंग की पहल, बार्सिलोना में कृषि मंत्री रामविचार नेताम ने की अहम चर्चा",
+      "summary": "छत्तीसगढ़ के सुगंधित चावल की वैश्विक ब्रांडिंग की पहल, बार्सिलोना में कृषि मंत्री रामविचार नेताम ने की अहम चर्चा",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/global-branding-initiative-of-chhattisgarhs-aromatic-rice-agriculture-minister-ramvichar-netam-held-important-discussion-in-barcelona/",
+      "important": false
+    },
+    {
+      "id": "b5f8d37c",
+      "title": "कृषि और ग्रामीण विकास की योजनाओं को मिलेगी गति, दिल्ली में सीएम मोहन यादव ने शिवराज सिंह चौहान से की चर्चा",
+      "summary": "कृषि और ग्रामीण विकास की योजनाओं को मिलेगी गति, दिल्ली में सीएम मोहन यादव ने शिवराज सिंह चौहान से की चर्चा",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/agriculture-and-rural-development-schemes-to-gain-momentum-cm-mohan-yadav-holds-discussions-with-shivraj-singh-chouhan-in-delhi/",
+      "important": false
+    },
+    {
+      "id": "6a654c51",
+      "title": "रायपुर : ग्रीष्मकालीन धान की जगह दलहन-तिलहन की खेती अपनाएं किसान, पानी की होगी बचत",
+      "summary": "रायपुर : ग्रीष्मकालीन धान की जगह दलहन-तिलहन की खेती अपनाएं किसान, पानी की होगी बचत",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/raipur-farmers-should-opt-for-pulses-and-oilseeds-instead-of-summer-paddy-this-will-save-water/",
+      "important": false
+    },
+    {
+      "id": "cd2d8b4b",
+      "title": "आज का गेहूं मंडी रेट (27 नवंबर 2026)",
+      "summary": "आज का गेहूं मंडी रेट (27 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-wheat-mandi-rate-november-27-2026/",
+      "important": false
+    },
+    {
+      "id": "89f66599",
+      "title": "आज का धान मंडी रेट (27 नवंबर 2026) –",
+      "summary": "आज का धान मंडी रेट (27 नवंबर 2026) –",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-27-2026/",
+      "important": false
+    },
+    {
+      "id": "3445e9b2",
+      "title": "आज का मक्का मंडी रेट (27 नवंबर 2026)",
+      "summary": "आज का मक्का मंडी रेट (27 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-november-27-2026/",
+      "important": false
+    },
+    {
+      "id": "bdea4155",
+      "title": "आज का सोयाबीन मंडी रेट (27 नवंबर 2026)",
+      "summary": "आज का सोयाबीन मंडी रेट (27 नवंबर 2026)",
+      "level": "central",
+      "category": "market",
+      "date": "2026-11-27",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/mandi-rate/todays-soybean-market-rate-november-27-2026/",
+      "important": false
+    },
     {
       "id": "d135c9a2",
       "title": "कृषि विकास और किसान कल्याण के मुद्दों पर केंद्र-राज्य के बीच मंथन",
@@ -462,94 +550,6 @@
       "date": "2026-11-24",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/news/guna-drip-mulching-and-innovation-give-new-momentum-to-vegetable-production-and-farming/",
-      "important": false
-    },
-    {
-      "id": "5acb5d5d",
-      "title": "रायसेन कलेक्टर ने मत्स्य पालन गतिविधियों का लिया जायजा",
-      "summary": "रायसेन कलेक्टर ने मत्स्य पालन गतिविधियों का लिया जायजा",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/raisen-collector-took-stock-of-fisheries-activities/",
-      "important": false
-    },
-    {
-      "id": "f0253e28",
-      "title": "सीहोर : केंद्रीय कृषि मंत्री ने की विकास कार्यों एवं विभिन्न योजनाओं की समीक्षा",
-      "summary": "सीहोर : केंद्रीय कृषि मंत्री ने की विकास कार्यों एवं विभिन्न योजनाओं की समीक्षा",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-union-agriculture-minister-reviews-development-works-and-various-schemes/",
-      "important": false
-    },
-    {
-      "id": "f89fdca0",
-      "title": "सीहोर : दबाव युक्त सिंचाई पर एक दिवसीय कार्यशाला आयोजित",
-      "summary": "सीहोर : दबाव युक्त सिंचाई पर एक दिवसीय कार्यशाला आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/sehore-one-day-workshop-on-pressurized-irrigation-organized/",
-      "important": false
-    },
-    {
-      "id": "f9dd7080",
-      "title": "विदिशा : पशुपालन बना आर्थिक आत्मनिर्भरता का आधार",
-      "summary": "विदिशा : पशुपालन बना आर्थिक आत्मनिर्भरता का आधार",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/vidisha-animal-husbandry-becomes-a-foundation-for-economic-self-reliance/",
-      "important": false
-    },
-    {
-      "id": "88695cf0",
-      "title": "देश की पहली स्वदेशी बर्ड फ्लू वैक्सीन भोपाल में राष्ट्र को समर्पित",
-      "summary": "देश की पहली स्वदेशी बर्ड फ्लू वैक्सीन भोपाल में राष्ट्र को समर्पित",
-      "level": "state",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/countrys-first-indigenous-bird-flu-vaccine-dedicated-to-the-nation-in-bhopal/",
-      "important": false
-    },
-    {
-      "id": "053ced94",
-      "title": "किसान क्रेडिट कार्ड और फसल बीमा के लिए गांव-गांव लगेंगे बैंक शिविर, 31 दिसंबर तक मौका",
-      "summary": "किसान क्रेडिट कार्ड और फसल बीमा के लिए गांव-गांव लगेंगे बैंक शिविर, 31 दिसंबर तक मौका",
-      "level": "central",
-      "category": "insurance",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/bank-camps-to-be-held-in-every-village-for-kisan-credit-cards-and-crop-insurance-opportunity-available-until-december-31/",
-      "important": false
-    },
-    {
-      "id": "d44b8dc7",
-      "title": "तरबूज और राजा मिर्च से असम के किसान नितुल सैकिया ने बदली किस्मत, प्रति बीघा 40 हजार मुनाफा",
-      "summary": "तरबूज और राजा मिर्च से असम के किसान नितुल सैकिया ने बदली किस्मत, प्रति बीघा 40 हजार मुनाफा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/assam-farmer-nitul-saikia-transforms-his-fortunes-with-watermelons-and-king-chillies-bhut-jolokia-earning-a-profit-of-%e2%82%b940000-per-bigha/",
-      "important": false
-    },
-    {
-      "id": "071acd47",
-      "title": "दिल्ली के सत्यवान जैविक खेती, डेयरी और प्याज की नर्सरी से कमा रहे सालाना 18-20 लाख रुपये",
-      "summary": "दिल्ली के सत्यवान जैविक खेती, डेयरी और प्याज की नर्सरी से कमा रहे सालाना 18-20 लाख रुपये",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-23",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/national-news/satyawan-from-delhi-earns-an-annual-income-of-rs-18-20-lakh-from-organic-farming-dairy-and-an-onion-nursery/",
       "important": false
     }
   ]
