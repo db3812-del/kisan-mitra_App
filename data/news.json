@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-27T20:56:49Z",
+  "updated": "2026-11-28T07:13:06Z",
   "new_count": 8,
   "articles": [
+    {
+      "id": "042e48e9",
+      "title": "जयपुर से दिल्ली तक पहुंच रहे गुना के जरबेरा फूल, एक एकड़ से 20 लाख तक शुद्ध आय की संभावना",
+      "summary": "जयपुर से दिल्ली तक पहुंच रहे गुना के जरबेरा फूल, एक एकड़ से 20 लाख तक शुद्ध आय की संभावना",
+      "level": "central",
+      "category": "price",
+      "date": "2026-11-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/gerbera-flowers-from-guna-are-reaching-jaipur-and-delhi-potential-for-a-net-income-of-up-to-%e2%82%b920-lakh-per-acre/",
+      "important": false
+    },
+    {
+      "id": "2b3b986b",
+      "title": "फूलों की खेती से महक रही किसानों की जिंदगी, शहडोल के 400 किसान 100 हेक्टेयर में उगा रहे फूल; तनवीर सालाना कमा रहे 4 लाख",
+      "summary": "फूलों की खेती से महक रही किसानों की जिंदगी, शहडोल के 400 किसान 100 हेक्टेयर में उगा रहे फूल; तनवीर सालाना कमा रहे 4 लाख",
+      "level": "state",
+      "category": "general",
+      "date": "2026-11-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/flower-farming-brings-fragrance-to-farmers-lives-400-farmers-in-shahdol-are-cultivating-flowers-across-100-hectares-with-tanveer-earning-an-annual-income-of-4-lakh-rupees/",
+      "important": false
+    },
+    {
+      "id": "e6d97e00",
+      "title": "करनाल में राष्ट्रीय डेयरी पशु मेला शुरू, पहली बार बकरियां और बकरे बने आकर्षण का केंद्र",
+      "summary": "करनाल में राष्ट्रीय डेयरी पशु मेला शुरू, पहली बार बकरियां और बकरे बने आकर्षण का केंद्र",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/national-dairy-livestock-fair-begins-in-karnal-goats-both-female-and-male-become-the-center-of-attraction-for-the-first-time/",
+      "important": false
+    },
+    {
+      "id": "b977ccc8",
+      "title": "बड़वानी में 952.58 लाख रुपये की 4 सिंचाई परियोजनाओं का भूमिपूजन, 1,012 हेक्टेयर जमीन को मिलेगा पानी",
+      "summary": "बड़वानी में 952.58 लाख रुपये की 4 सिंचाई परियोजनाओं का भूमिपूजन, 1,012 हेक्टेयर जमीन को मिलेगा पानी",
+      "level": "central",
+      "category": "scheme",
+      "date": "2026-11-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/foundation-stone-laid-for-4-irrigation-projects-worth-rs-952-58-lakh-in-barwani-1012-hectares-of-land-to-receive-water/",
+      "important": false
+    },
+    {
+      "id": "8f34f4cf",
+      "title": "उद्यानिकी आयुक्त ने सीहोर जिले में योजनाओं और कृषि नवाचारों का लिया जायजा",
+      "summary": "उद्यानिकी आयुक्त ने सीहोर जिले में योजनाओं और कृषि नवाचारों का लिया जायजा",
+      "level": "state",
+      "category": "scheme",
+      "date": "2026-11-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/the-commissioner-of-horticulture-reviewed-schemes-and-agricultural-innovations-in-sehore-district/",
+      "important": false
+    },
+    {
+      "id": "0e33b514",
+      "title": "रिकॉर्ड फसल उत्पादन: किसान की मुश्किलें जस की तस",
+      "summary": "रिकॉर्ड फसल उत्पादन: किसान की मुश्किलें जस की तस",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/national-news/record-crop-production-farmers-problems-remain-the-same/",
+      "important": false
+    },
+    {
+      "id": "a42a069a",
+      "title": "चने की कटाई में मजदूरों की कमी नहीं बनेगी बाधा, मशीन से कटाई के अनुकूल किस्म ‘आभा’ विकसित",
+      "summary": "चने की कटाई में मजदूरों की कमी नहीं बनेगी बाधा, मशीन से कटाई के अनुकूल किस्म ‘आभा’ विकसित",
+      "level": "central",
+      "category": "general",
+      "date": "2026-11-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/shortage-of-laborers-will-not-hinder-chickpea-harvesting-abha-a-variety-suitable-for-mechanical-harvesting-has-been-developed/",
+      "important": false
+    },
+    {
+      "id": "46bcf2c7",
+      "title": "मध्यप्रदेश में धान की MSP पर खरीदी 1 दिसंबर से होगी शुरू, 20 जनवरी तक चलेगा उपार्जन",
+      "summary": "मध्यप्रदेश में धान की MSP पर खरीदी 1 दिसंबर से होगी शुरू, 20 जनवरी तक चलेगा उपार्जन",
+      "level": "state",
+      "category": "price",
+      "date": "2026-11-28",
+      "source": "Krishak Jagat",
+      "link": "https://www.krishakjagat.org/news/in-madhya-pradesh-the-procurement-of-paddy-at-msp-will-begin-on-december-1-and-the-procurement-process-will-continue-until-january-20/",
+      "important": true
+    },
     {
       "id": "efc28039",
       "title": "भारत के कृषि उत्पादन में नया कीर्तिमान, 2025-26 में रिकॉर्ड 3785.38 लाख टन पहुंचा खाद्यान्न उत्पादन",
@@ -462,94 +550,6 @@
       "date": "2026-11-24",
       "source": "Krishak Jagat",
       "link": "https://www.krishakjagat.org/mandi-rate/todays-maize-market-rate-november-24-2026/",
-      "important": false
-    },
-    {
-      "id": "87fb4a7f",
-      "title": "SFIA इंडिया और CCPIT CHEM चीन के बीच रणनीतिक साझेदारी, कृषि उद्योग में सहयोग को मिलेगा बढ़ावा",
-      "summary": "SFIA इंडिया और CCPIT CHEM चीन के बीच रणनीतिक साझेदारी, कृषि उद्योग में सहयोग को मिलेगा बढ़ावा",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/strategic-partnership-between-sfia-india-and-ccpit-chem-china-to-boost-cooperation-in-the-agricultural-industry/",
-      "important": false
-    },
-    {
-      "id": "d54289ac",
-      "title": "आज का धान मंडी रेट (24 नवंबर 2026)",
-      "summary": "आज का धान मंडी रेट (24 नवंबर 2026)",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/mandi-rate/todays-paddy-mandi-rates-november-24-2026/",
-      "important": false
-    },
-    {
-      "id": "b854b883",
-      "title": "डॉ. अशोक गुप्ता ईगल सीड्स में नेशनल सेल्स एंड मार्केटिंग मैनेजर नियुक्त",
-      "summary": "डॉ. अशोक गुप्ता ईगल सीड्स में नेशनल सेल्स एंड मार्केटिंग मैनेजर नियुक्त",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/industry-news/dr-ashok-gupta-appointed-as-national-sales-and-marketing-manager-at-eagle-seeds/",
-      "important": false
-    },
-    {
-      "id": "bf0ea1d0",
-      "title": "डॉ. अनिल दीक्षित स्वर्ण पदक से सम्मानित",
-      "summary": "डॉ. अनिल दीक्षित स्वर्ण पदक से सम्मानित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/dr-anil-dixit-awarded-a-gold-medal/",
-      "important": false
-    },
-    {
-      "id": "78ef388f",
-      "title": "बड़वानी : किसानों की रात्रि चौपाल आयोजित",
-      "summary": "बड़वानी : किसानों की रात्रि चौपाल आयोजित",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/barwani-night-time-meeting-chaupal-for-farmers-organized/",
-      "important": false
-    },
-    {
-      "id": "3d770c14",
-      "title": "अशोकनगर के कलेक्टर ने किया नवीन कृषि उपज मंडी का निरीक्षण",
-      "summary": "अशोकनगर के कलेक्टर ने किया नवीन कृषि उपज मंडी का निरीक्षण",
-      "level": "central",
-      "category": "market",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/ashoknagar-collector-inspected-the-new-agricultural-produce-market-krishi-upaj-mandi/",
-      "important": false
-    },
-    {
-      "id": "677144ec",
-      "title": "झाबुआ : मत्स्य कृषकों के लिए ऑनलाइन जागरूकता कार्यक्रम आयोजित",
-      "summary": "झाबुआ : मत्स्य कृषकों के लिए ऑनलाइन जागरूकता कार्यक्रम आयोजित",
-      "level": "central",
-      "category": "scheme",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/jhabua-online-awareness-program-organized-for-fish-farmers/",
-      "important": false
-    },
-    {
-      "id": "539e81a8",
-      "title": "गुना : ड्रिप-मल्चिंग से सब्जी उत्पादन और नवाचार से खेती को मिली नई रफ्तार",
-      "summary": "गुना : ड्रिप-मल्चिंग से सब्जी उत्पादन और नवाचार से खेती को मिली नई रफ्तार",
-      "level": "central",
-      "category": "general",
-      "date": "2026-11-24",
-      "source": "Krishak Jagat",
-      "link": "https://www.krishakjagat.org/news/guna-drip-mulching-and-innovation-give-new-momentum-to-vegetable-production-and-farming/",
       "important": false
     }
   ]
